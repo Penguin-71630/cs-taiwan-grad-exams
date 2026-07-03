@@ -1,5 +1,16 @@
 # 計組考研閱讀清單（以白算盤原文書為主）
 
+> **⚠️ 注意**：各校「計系」考卷多為 **OS + CO 合考**，本清單只涵蓋「計算機組織」部分。各校 CO 佔比與難度如下：
+>
+> | 學校 | CO 佔比（估） | CO 難度 |
+> |------|-------------|--------|
+> | 台大 | ~50% | 高（GPU/HPC/Roofline/big.LITTLE 等前沿主題） |
+> | 交大 | ~40% | 中高（ISA encoding、Hamming code、pipeline 計算） |
+> | 中正 | ~40% | 中（FF timing、pipeline basics、cache、IEEE 754） |
+> | 師大 | ~30% | 基礎（CPI 計算、forwarding、AMAT、Amdahl） |
+> | 中央 | ~25% | 中（dynamic scheduling、cache coherence） |
+> | 成大 | ~20% | 中（DMA/I/O、cache） |
+
 > **主軸**：Patterson & Hennessy
 > - **RV** = *Computer Organization and Design*, **RISC-V Edition, 2nd (2020)** — 主讀本，內容同第 6 版線
 > - **M4** = *Computer Organization and Design*, **MIPS Edition, 4th (2009)** — 補 ISA 差異與 I/O 深度
@@ -79,10 +90,13 @@
 | 主題 | RV 2nd | M4 | 大碩 |
 |---|---|---|---|
 | Logic design conventions | §4.2 | §4.2 | 附錄 A（RV）/ 附錄 C（M4） |
+| ⭐ Flip-flop timing（$T_{setup}$ / $T_{hold}$ / $T_{C2Q}$）、sequential circuit max freq | §4.2 / Appendix A | §4.2 / 附錄 C | — |
 | ⭐ Building a datapath | §4.3 | §4.3 | Ch4 重點2 |
 | ⭐ Simple (single-cycle) implementation + control | §4.4 | §4.4 | Ch4 重點2–3 |
 
 **讀法**：datapath 畫圖 + control signal truth table 是主力題型。🔶 datapath 內的 **immediate generation** 因 RV immediate 打散而與 MIPS 長相不同，但控制邏輯的**觀念**共用。單週期效能瓶頸（Tc 被最慢指令綁死）在 §4.4 收尾。
+
+**⚠️ Flip-flop timing**：中正、交大常考 FF timing constraint 與 critical path delay 計算（最大操作頻率 = $1/(T_{C2Q}+T_{cp}+T_{setup})$、hold time violation 修正）。原文書 §4.2 (RV) 或 Appendix A/C 有涵蓋，但需額外做過習題。交大也考過 ALU 組合邏輯 propagation delay 計算。
 
 ---
 
@@ -106,6 +120,7 @@
 | ⭐ Pipelined datapath + control | §4.6 | §4.6 | Ch5 重點2–3 |
 | ⭐ Data hazards: forwarding / stalling / load-use | §4.7 | §4.7 | Ch5 重點4–7 |
 | ⭐🔶 Control hazards | §4.8 | §4.8 | Ch5 重點8 |
+| ⭐ Branch prediction（BHT 1-bit / 2-bit / correlating） | §4.8 內 | §4.8 內 | Ch5 重點8 |
 | Exceptions in pipeline | §4.9 | §4.9 | Ch5 重點10 |
 | ILP: superscalar, dynamic scheduling, OoO | §4.10 | §4.10 | Ch5 重點9 |
 | Real Stuff pipeline | §4.11（🆕 ARM Cortex-A53 + i7） | §4.11（Opteron X4） | — |
@@ -118,6 +133,11 @@
 
 **讀法**：主讀 RV §4.5–4.9。forwarding unit / hazard detection unit 邏輯 ✅ 除 delay slot 外共用。🆕 ARM Cortex-A53 是 RV 版新增的 in-order pipeline 範例，有教學價值可讀。
 
+**補充考點**：
+- **Branch prediction 細節**：中正 111 直接考 1-bit vs 2-bit BHT 比較（loop 中的 misprediction 次數差異），需理解狀態機轉移。
+- **深管線對 hazard penalty 的影響**：中正 111 考過拆 ID 為 2 stages 後，load-use penalty 從 1 cycle 增為 2 cycles。
+- **動態排程（Tomasulo / reservation station）**：僅台大、交大偶爾出，其餘校不考。
+
 ---
 
 ## G. 記憶體階層：快取 Cache ⭐
@@ -127,17 +147,18 @@
 | 主題 | RV 2nd | M4 | 大碩 |
 |---|---|---|---|
 | ⭐ Locality（temporal / spatial） | §5.1 | §5.1 | Ch6 重點1 |
-| 🆕 Memory technologies（SRAM/DRAM/Flash 集中講） | §5.2 | 散在 I/O 章 | — |
+| ✅ Memory technologies（SRAM/DRAM/Flash 集中講） | §5.2 | 散在 I/O 章 | — |
 | ⭐ Basics of caches（direct-mapped） | §5.3 | §5.2 | Ch6 重點2–4 |
 | ⭐ Cache performance（AMAT = hit time + miss rate × miss penalty） | §5.4 | §5.3 | Ch6 重點5 |
 | ⭐ Set-associative / replacement (LRU) / write policy | §5.3–5.4 | §5.2–5.3 | Ch6 重點6 |
 | Multilevel cache | §5.4 內 | §5.3 內 | Ch6 重點7 |
 | ⭐ 3C miss model（compulsory/capacity/conflict） | §5.8 | §5.5 | Ch6 重點13 |
 | FSM cache controller | §5.9 | §5.7 | Ch6 重點14 |
+| Cache bandwidth: non-blocking (lockup-free), multi-banking, prefetch | §5.4 內 | §5.3 內 | — |
 | Cache coherence（snooping, MESI） | §5.10 | §5.8 | Ch8 重點5 |
 | 🆕 Going Faster: cache blocking / loop tiling | §5.15 | — | — |
 
-**讀法**：write-through vs write-back、write-allocate、AMAT 計算、3C 分類都是高頻題。🆕 **cache blocking (loop tiling)** 是 RV 版才有的知識點，M4 找不到——若題庫有，只讀 RV §5.15。
+**讀法**：write-through vs write-back、write-allocate、AMAT 計算、3C 分類都是高頻題。🆕 **cache blocking (loop tiling)** 是 RV 版才有的知識點，M4 找不到——若題庫有，只讀 RV §5.15。SRAM vs DRAM 特性比較（6T vs 1T1C：速度/密度/功耗/成本）中正曾直接出題。non-blocking cache 與 multi-banked cache 的頻寬優化也在中正 110 考過。
 
 ---
 
@@ -200,7 +221,9 @@
 
 ---
 
-## L. GPU 🆕⭐（你標記近年必考——重點看這區）
+## L. GPU 🆕⭐（近年必考——重點看這區）
+
+> **⚠️ 主要出現於台大。** 台大 114 年 GPU/NVIDIA GH200/MLPerf 題目佔該年 50%+。交大/中正/師大幾乎不出 GPU 題。若目標校非台大，本節可降為選讀。白算盤 GPU 附錄以 GeForce 8800 為例，較舊；台大近年出題水準對標**黑算盤**（Hennessy & Patterson《Computer Architecture: A Quantitative Approach》6th）Ch4 §4.4 + Ch7，以及 NVIDIA H100/GH200 Whitepaper。
 
 | 主題 | RV 2nd | M4 |
 |---|---|---|
@@ -223,7 +246,7 @@
 |---|---|---|---|
 | Network topologies（mesh, torus, hypercube） | §6.8 | §7.8 | Ch8 重點9 |
 | Cluster networking | §6.9 | — | — |
-| ⭐ Roofline model | §6.10–6.11 | §7.10–7.11 | — |
+| ⭐ Roofline model（主要考台大） | §6.10–6.11 | §7.10–7.11 | — |
 | 🆕 Going Faster: multiple processors + matrix multiply | §6.12 | — | — |
 
 **讀法**：✅ 兩版都有 Roofline（M4 在 §7.10）。topology 的 diameter / bisection bandwidth 計算是常見題。Roofline（operational intensity vs performance bound）你 HPC 報告用過，觀念熟。
@@ -245,6 +268,18 @@
 | 主題 | M4 | 說明 |
 |---|---|---|
 | 📦 Assemblers, Linkers, SPIM（附錄 B） | 附錄 B | assembler/linker/loader 機制、memory usage、SPIM。RV 版整個拿掉。若考 **linker/loader 細節**才需翻 |
+
+---
+
+## 考古題出題頻率 Top 5
+
+1. **Pipeline hazards & forwarding**（全校必考）
+2. **Cache（AMAT / 3C / set-associative）**（全校必考）
+3. **CPU performance equation & Amdahl's Law**（全校必考）
+4. **IEEE 754 浮點數**（全校必考）
+5. **ISA encoding（MIPS 為主）**（交大、中正常考）
+
+> 以上五類佔全部 CO 題超過 70%。
 
 ---
 
