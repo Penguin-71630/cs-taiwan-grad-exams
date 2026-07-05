@@ -13,7 +13,8 @@
 
 **預計時間：** 1 hr  
 **做什麼：** 設定開發環境（GitHub、Gradescope、Hive SSH）、學習 Linux 指令與 Git 基本操作。  
-**學到什麼：** 熟悉課程工具鏈與 Git 版本控制的基礎流程（clone、commit、push）。
+**學到什麼：** 熟悉課程工具鏈與 Git 版本控制的基礎流程（clone、commit、push）。  
+**評分方式：** 無（純 setup，原始課程的 Gradescope quiz 不適用於 self-study）。Self-study 可跳過。
 
 ---
 
@@ -25,7 +26,8 @@
 - Exercise 2：用 GDB/CGDB 設定 breakpoint、單步執行、印出變數值，除錯一個簡單 C 程式。
 - Exercise 3：用 bitwise operators 實作一個 regex pattern matcher。
 
-**學到什麼：** C 語言控制流程、preprocessor macro、GDB 偵錯技巧（breakpoint、step、next、print、display）、stdin redirection。
+**學到什麼：** C 語言控制流程、preprocessor macro、GDB 偵錯技巧（breakpoint、step、next、print、display）、stdin redirection。  
+**評分方式：** 無正式 autograder。手動比對程式輸出是否符合 spec 預期結果即可。
 
 ---
 
@@ -38,7 +40,8 @@
 - Exercise 2：實作 16-bit Linear Feedback Shift Register（XOR tap positions 0, 2, 3, 5），驗證能產生全部 65535 個非零正整數。
 - Exercise 3：實作 variable-length array（`vector_new`、`vector_get`、`vector_set`、`vector_delete`），用 Valgrind 檢查 memory leak。
 
-**學到什麼：** Makefile 使用、bitwise 操作技巧、LFSR 偽隨機數產生原理、C 動態記憶體管理（malloc/free）、Valgrind memcheck。
+**學到什麼：** Makefile 使用、bitwise 操作技巧、LFSR 偽隨機數產生原理、C 動態記憶體管理（malloc/free）、Valgrind memcheck。  
+**評分方式：** ✅ 本地可驗證。`make bit_ops && ./bit_ops`（內建 test）、`make lfsr && ./lfsr`（應印出 65535 numbers）、`make vector-memcheck`（Valgrind 檢查 0 errors）。
 
 ---
 
@@ -52,7 +55,8 @@
 - Exercise 3：自行實作 `factorial` 函式（遞迴或迴圈）。
 - Exercise 4：使用 Venus 的 Calling Convention Checker（`-cc` flag）驗證函式呼叫規範。
 
-**學到什麼：** RISC-V 指令集入門（`.data`/`.text` 指令）、Venus 模擬器操作、C 到 RISC-V 的翻譯思維、函式呼叫慣例（caller/callee saved registers）。
+**學到什麼：** RISC-V 指令集入門（`.data`/`.text` 指令）、Venus 模擬器操作、C 到 RISC-V 的翻譯思維、函式呼叫慣例（caller/callee saved registers）。  
+**評分方式：** ✅ 本地可驗證。`java -jar tools/venus.jar lab03/factorial.s` 在本地執行，比對輸出（3! = 6, 7! = 5040, 8! = 40320）。
 
 ---
 
@@ -63,7 +67,8 @@
 - Exercise 1：除錯 `megalistmanips.s`——一個在 linked list of int arrays 上做 `map` 的遞迴函式。找出 5 個 bug（stack save/restore 錯誤、load vs. move 混淆、struct offset 錯誤等），修正後通過 CC checker。
 - Exercise 2：實作 `discrete_fn.s`——不使用任何 branch/jump 指令實作離散查表函式（利用 base + offset 動態 load）。
 
-**學到什麼：** RISC-V calling convention 的實際除錯經驗、struct 在記憶體中的 layout、pointer chasing in assembly、branchless programming（用 load word from computed address 取代 if-else）。
+**學到什麼：** RISC-V calling convention 的實際除錯經驗、struct 在記憶體中的 layout、pointer chasing in assembly、branchless programming（用 load word from computed address 取代 if-else）。  
+**評分方式：** ✅ 本地可驗證。`java -jar venus.jar megalistmanips.s -cc`（CC checker 報 0 warnings + 輸出比對預期結果）。
 
 ---
 
@@ -75,7 +80,8 @@
 - Part 2：用 register + adder 建造一個 8-bit counter（每 clock cycle +1），熟悉 stateful circuit。
 - Part 3：將 FSM（有限狀態機）轉換成 Logisim 數位邏輯電路——用 register 存 state，combinational logic 算 next-state 和 output。
 
-**學到什麼：** Logisim Evolution 操作、從 truth table 設計 combinational logic、register 的 CLK-to-Q/setup/hold time 觀念、FSM → digital circuit 的轉換方法。
+**學到什麼：** Logisim Evolution 操作、從 truth table 設計 combinational logic、register 的 CLK-to-Q/setup/hold time 觀念、FSM → digital circuit 的轉換方法。  
+**評分方式：** ✅ 本地可驗證。每個 exercise 都有 `testing/circ_files/ex*_test.circ` test harness，在 Logisim 中開啟即可自動驗證電路正確性。
 
 ---
 
@@ -86,7 +92,8 @@
 - Exercise 1：分析一個 non-pipelined 電路（multiplier + adder + register）的 critical path，計算最大 clock rate。
 - Exercise 2：將該電路切成兩級 pipeline（multiplication stage → addition stage），加入 pipeline register，重新計算最大 clock rate；解釋為何此電路不需要 pipeline bubble。
 
-**學到什麼：** Critical path 分析（propagation delay、CLK-to-Q、setup time）、pipeline 的基本概念與實作、為何 pipeline 可以提高 throughput、何時需要/不需要 bubble。
+**學到什麼：** Critical path 分析（propagation delay、CLK-to-Q、setup time）、pipeline 的基本概念與實作、為何 pipeline 可以提高 throughput、何時需要/不需要 bubble。  
+**評分方式：** ❓ 紙筆計算為主。用 Logisim 模擬驗證 pipeline 電路輸出序列是否正確，但沒有 autograder script。
 
 ---
 
@@ -99,7 +106,8 @@
 - 分析 write-through/write-back、write-allocate/no-write-allocate 策略。
 - 手動推導為何特定 access pattern 會造成特定 hit/miss pattern，並提出優化方案。
 
-**學到什麼：** Cache 的 tag/index/offset 分解、direct-mapped vs. set-associative 的行為差異、LRU 替換策略、write policy（write-through vs. write-back）、如何從 access pattern 預測 hit rate、spatial/temporal locality 概念。
+**學到什麼：** Cache 的 tag/index/offset 分解、direct-mapped vs. set-associative 的行為差異、LRU 替換策略、write policy（write-through vs. write-back）、如何從 access pattern 預測 hit rate、spatial/temporal locality 概念。  
+**評分方式：** ❓ Venus Cache Simulator 觀察 + 手動推導。原始課程用 Gradescope 收 `exercise*.txt` 答案，self-study 可自行比對 hit rate 數字是否合理。
 
 ---
 
@@ -113,7 +121,8 @@
 - 調整系統參數（TLB size、Physical Memory size、Page size）觀察對 fault rate 的影響。
 - 使用 VMSIM 觀察多進程環境下的 TLB miss 比例升高原因。
 
-**學到什麼：** Virtual address → Physical address 翻譯流程、TLB 的作用與 hit/miss 判定、Page Table 查詢與 Page Fault 處理、VPN/PPN bit 數的意義、多進程 context switch 對 TLB 的衝擊。
+**學到什麼：** Virtual address → Physical address 翻譯流程、TLB 的作用與 hit/miss 判定、Page Table 查詢與 Page Fault 處理、VPN/PPN bit 數的意義、多進程 context switch 對 TLB 的衝擊。  
+**評分方式：** ❓ CAMERA 模擬器觀察 + 手動推導。原始課程用 Gradescope 收 `answers.txt`，self-study 可自行核對 TLB hit/miss 與 Page Fault 數字。
 
 ---
 
@@ -125,7 +134,8 @@
 - Exercise 2：將 naive `sum()` 函式用 SSE intrinsics（`_mm_loadu_si128`、`_mm_add_epi32`、`_mm_cmpgt_epi32`、`_mm_and_si128`）向量化成 `sum_simd()`，達到約 4-7x 加速。
 - Exercise 3：在 SIMD 版本上再做 loop unrolling（展開 4 次），進一步減少 loop overhead。
 
-**學到什麼：** SIMD/SSE 程式設計實務、128-bit vector 操作（load、store、add、compare、mask）、conditional sum 的向量化技巧、loop unrolling 原理與加速效果、memory alignment 注意事項。
+**學到什麼：** SIMD/SSE 程式設計實務、128-bit vector 操作（load、store、add、compare、mask）、conditional sum 的向量化技巧、loop unrolling 原理與加速效果、memory alignment 注意事項。  
+**評分方式：** ✅ 本地可驗證。`make simd && ./test_simd`（比對 naive vs SIMD 計算結果是否一致 + 計時比較加速比）。需 Linux x86-64 環境。
 
 ---
 
@@ -138,7 +148,8 @@
 - Exercise 3：實作平行 dot product——先用 `#pragma omp critical` 的 naive 版本（觀察 contention 問題），再用手動 local sum + 最後 reduce，最後用 `#pragma omp reduction` 關鍵字。
 - Part 2：用 `fork()` 實作 multi-process HTTP web server，理解 process vs. thread 的差異。
 
-**學到什麼：** OpenMP 基本語法（`parallel`、`for`、`critical`、`reduction`）、false sharing 問題與 chunking 解決方案、data race 與 critical section、multi-processing（fork）vs. multi-threading 的差異與取捨。
+**學到什麼：** OpenMP 基本語法（`parallel`、`for`、`critical`、`reduction`）、false sharing 問題與 chunking 解決方案、data race 與 critical section、multi-processing（fork）vs. multi-threading 的差異與取捨。  
+**評分方式：** ✅ 本地可驗證。`make v_add && ./v_add`、`make dotp && ./dotp`（框架自動變換 thread 數量並計時，確認加速效果）。需 Linux 環境 + OpenMP 支援。
 
 ---
 
@@ -151,7 +162,8 @@
 - Exercise 2：修改程式計算「每個 word 出現在幾個 document 中」（per-word document count），輸出按字母排序。
 - Exercise 3：建立 Full Text Index（對每個 word，列出它在每個 document 中的所有出現位置）。
 
-**學到什麼：** MapReduce 計算模型（map → shuffle → reduce）、Apache Spark Python API（`map`、`flatMap`、`reduceByKey`、`sortByKey`）、request-level parallelism 概念、分散式計算的基本思維。
+**學到什麼：** MapReduce 計算模型（map → shuffle → reduce）、Apache Spark Python API（`map`、`flatMap`、`reduceByKey`、`sortByKey`）、request-level parallelism 概念、分散式計算的基本思維。  
+**評分方式：** ✅ 本地可驗證。`spark-submit wordCount.py seqFiles/billOfRights.txt.seq` 等指令本地執行，比對輸出檔內容。需本地安裝 Spark + Python 2.7 環境。
 
 ---
 
@@ -165,7 +177,8 @@
 - Part A：實作 PPM 影像檔 I/O（讀取/寫入 P3 格式）、在 `Image` struct 上操作像素。
 - Part B：實作 Game of Life 規則——每個 color channel (R, G, B) 獨立演化，alive/dead 取決於 8 鄰居中同 channel alive 的數量（standard rules: 2-3 survive, 3 birth）。支援 toroidal wrap-around 邊界。
 
-**學到什麼：** C 語言 file I/O（`fopen`/`fscanf`/`fprintf`）、struct 與 2D array 操作、pointer 與動態記憶體配置、模組化程式設計（header + implementation 分離）、影像處理基礎。
+**學到什麼：** C 語言 file I/O（`fopen`/`fscanf`/`fprintf`）、struct 與 2D array 操作、pointer 與動態記憶體配置、模組化程式設計（header + implementation 分離）、影像處理基礎。  
+**評分方式：** ✅ 本地可驗證。Starter repo 內含 test harness + `make check`，本地編譯後即可跑 test cases 驗證正確性。
 
 ---
 
@@ -177,7 +190,8 @@
 - Part A：實作基本矩陣運算——`dot product`（含 stride）、`matmul`（矩陣乘法）、`argmax`、`ReLU` activation function。
 - Part B：實作二進制矩陣檔案的讀取/寫入（`read_matrix`、`write_matrix`），然後將所有函式串接起來完成 MNIST 分類器的 forward pass（兩層全連接 + ReLU + argmax）。
 
-**學到什麼：** 大規模 RISC-V 組語開發經驗、calling convention 的嚴格遵守（prologue/epilogue、s-registers save/restore）、用 assembly 操作 file I/O（ecall）、矩陣在記憶體中的 row-major layout、neural network inference 的底層實作。
+**學到什麼：** 大規模 RISC-V 組語開發經驗、calling convention 的嚴格遵守（prologue/epilogue、s-registers save/restore）、用 assembly 操作 file I/O（ecall）、矩陣在記憶體中的 row-major layout、neural network inference 的底層實作。  
+**評分方式：** ✅ 本地可驗證。Venus 本地執行 + 內建 unit tests（`java -jar venus.jar` 跑各函式 test），Part B 跑完會輸出 MNIST 分類結果可比對。
 
 ---
 
@@ -189,7 +203,8 @@
 - Part A（Tasks 1-3）：建造 ALU（支援 add/sub/and/or/xor/sll/srl/sra/slt/mul）、Register File（32 registers, x0 hardwired to 0）、Immediate Generator，並完成能執行 `addi` 的單週期 datapath。
 - Part B（Tasks 4-5）：擴展成完整 pipelined CPU——支援所有 RV32I 指令（R-type、I-type、S-type、B-type、U-type、J-type）、實作 hazard detection + forwarding（data hazards）、branch prediction / flush（control hazards）。
 
-**學到什麼：** CPU datapath 設計的完整流程（instruction fetch → decode → execute → memory → writeback）、control signal 的產生邏輯、pipeline register 的作用、data hazard 的 forwarding 解法、control hazard 的 flush/stall 解法、如何用 Logisim 實作並測試一個真正能跑指令的 CPU。
+**學到什麼：** CPU datapath 設計的完整流程（instruction fetch → decode → execute → memory → writeback）、control signal 的產生邏輯、pipeline register 的作用、data hazard 的 forwarding 解法、control hazard 的 flush/stall 解法、如何用 Logisim 實作並測試一個真正能跑指令的 CPU。  
+**評分方式：** ✅ 本地可驗證。提供 `testing/` 資料夾內的 test harness `.circ` + Python 腳本（`python3 test_runner.py`），自動跑一系列 RISC-V 指令並比對預期暫存器/記憶體狀態。
 
 ---
 
@@ -203,4 +218,5 @@
 - Task 3：實作 Python-C interface——overload operators（`+`、`-`、`*`、`**`、negation、abs）、implement `__subscr__`（indexing/slicing）。
 - Task 4：效能優化——用 SIMD（SSE/AVX）、OpenMP 多線程、cache blocking（loop tiling）、matrix transpose optimization 將矩陣乘法加速到接近 numpy 效能。
 
-**學到什麼：** C 與 Python 的互操作（CPython C API、`PyObject`、reference counting）、矩陣乘法的效能優化全技巧組合（SIMD + OpenMP + cache blocking + loop unrolling）、memory access pattern 對 cache performance 的影響、如何量測與分析程式效能瓶頸。
+**學到什麼：** C 與 Python 的互操作（CPython C API、`PyObject`、reference counting）、矩陣乘法的效能優化全技巧組合（SIMD + OpenMP + cache blocking + loop unrolling）、memory access pattern 對 cache performance 的影響、如何量測與分析程式效能瓶頸。  
+**評分方式：** ⚠️ 部分可本地驗證。內含 `python3 -m pytest` 測試正確性，但效能評分需要特定硬體（Hive 機器）上跑 benchmark 才能得到正式分數。本地可驗證功能正確性但無法確認是否達到 speedup 門檻。
