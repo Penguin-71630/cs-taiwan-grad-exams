@@ -9,6 +9,7 @@
 ### Discussion 1 — Number Representation
 
 **主題：** 進制轉換與有號數表示法  
+**題數：** 7 題（Pre-Check 4 題 + 練習 3 題，含多個子題）  
 **練習內容：**
 - 二進制 / 十進制 / 十六進制互轉（含 IEC prefix：Ki, Mi, Gi...）
 - Unsigned、Two's Complement、Biased notation 的表示與比較
@@ -23,6 +24,7 @@
 ### Discussion 2 — C Basics (Pointers, Memory Management)
 
 **主題：** C 語言指標、記憶體管理、linked list  
+**題數：** 13 題（Pre-Check 4 題 + 練習 9 題）  
 **練習內容：**
 - 指標解引用鏈（`*pp`、`**pp`）的值追蹤
 - 閱讀晦澀 C 函式並用白話描述行為（遞迴 array sum、bitwise NOT 取負、XOR swap）
@@ -39,6 +41,7 @@
 ### Discussion 3 — Floating Point (IEEE 754)
 
 **主題：** IEEE 754 單精度浮點數表示  
+**題數：** 13 題（Pre-Check 3 題 + 練習 10 題）  
 **練習內容：**
 - Sign / Exponent（bias = -127）/ Mantissa 三欄位拆解
 - Normalized vs. Denormalized vs. Infinity vs. NaN 的判斷
@@ -54,6 +57,7 @@
 ### Discussion 4 — RISC-V Intro & Control Flow
 
 **主題：** RISC-V 基本指令與控制流程  
+**題數：** 19 題（Pre-Check 6 題 + 練習 13 題）  
 **練習內容：**
 - `lw`/`sw`/`slli`/`add`/`xori`/`addi` 指令行為追蹤（配合 array 記憶體佈局）
 - C → RISC-V 翻譯：算術運算、pointer array 操作、if-else、for loop
@@ -69,6 +73,7 @@
 ### Discussion 5 — CALL (Compile → Assemble → Link → Load)
 
 **主題：** 程式從 C 到執行的完整流程  
+**題數：** 15 題（Pre-Check 4 題 + 練習 11 題）  
 **練習內容：**
 - Stored Program concept 的意義
 - Assembler 兩趟掃描（two-pass）的原因
@@ -86,6 +91,7 @@
 ### Discussion 6 — Boolean Logic, SDS (State), FSM
 
 **主題：** 布林代數化簡、時序電路、有限狀態機  
+**題數：** 13 題（Pre-Check 3 題 + 練習 10 題）  
 **練習內容：**
 - 九大布林代數定律應用：De Morgan's、Absorption、Distributive 等
 - 化簡布林表達式（如 `(A+B)(A+B̄)C`）
@@ -103,6 +109,7 @@
 ### Discussion 7 — RISC-V Single Cycle Datapath
 
 **主題：** 單週期 CPU datapath 與 control signal  
+**題數：** 6 題（Pre-Check 3 題 + 練習 3 題，含多個子題）  
 **練習內容：**
 - 辨認 datapath 五大階段（IF / ID / EX / MEM / WB）的元件名稱
 - 填寫 control signal 表格：`PCSel`、`ImmSel`、`BrUn`、`ASel`、`BSel`、`ALUSel`、`MemRW`、`RegWEn`、`WBSel`（對應 add、ori、lw、sw、beq、jal、bltu）
@@ -117,6 +124,7 @@
 ### Discussion 8 — RISC-V Pipelining and Hazards
 
 **主題：** Pipeline 時序分析與三種 hazard  
+**題數：** 16 題（Pre-Check 4 題 + 練習 12 題）  
 **練習內容：**
 - Pipeline register 的用途、為何需要多次保存 instruction
 - 效能分析：單週期 vs. 五級 pipeline 的 clock time 計算（含元件 delay 表）
@@ -135,6 +143,7 @@
 ### Discussion 9 — Caches
 
 **主題：** Cache 結構、miss 分類、AMAT 計算  
+**題數：** 18 題（Pre-Check 3 題 + 練習 15 題）  
 **練習內容：**
 - Tag / Index / Offset (T/I/O) bit 數計算
 - Direct-mapped cache 的 hit/miss/replace 手動推導（逐次 access 追蹤 cache 狀態）
@@ -152,6 +161,7 @@
 ### Discussion 10 — OS & Virtual Memory
 
 **主題：** 作業系統基礎、虛擬記憶體、TLB  
+**題數：** 11 題（Pre-Check 5 題 + 練習 6 題）  
 **練習內容：**
 - OS 職責：載入程式、資源多工、supervisor mode、system call
 - `fork()` 行為：parent/child process 的返回值差異、變數複製
@@ -169,6 +179,7 @@
 ### Discussion 11 — I/O (Polling & Interrupts)
 
 **主題：** I/O 控制方式  
+**題數：** 4 題（Pre-Check 2 題 + 練習 2 題）  
 **練習內容：**
 - Polling vs. Interrupts 的定義、優缺點比較表
 - Memory-Mapped I/O：用 `lw`/`sw` 讀寫特定 I/O address（Receiver/Transmitter Control & Data registers）
@@ -181,6 +192,7 @@
 ### Discussion 12 — Data-Level Parallelism (SIMD)
 
 **主題：** Flynn's Taxonomy、SIMD intrinsics 程式設計  
+**題數：** 9 題（Pre-Check 3 題 + 練習 6 題）  
 **練習內容：**
 - Flynn's Taxonomy 四類：SISD、SIMD、MISD、MIMD 的定義與範例
 - Intel SSE intrinsics 操作：`_mm_set1_epi32`、`_mm_loadu_si128`、`_mm_mullo_epi32`、`_mm_add_epi32`、`_mm_storeu_si128`、`_mm_and_si128`、`_mm_cmpeq_epi32`
@@ -194,6 +206,7 @@
 ### Discussion 13 — Cache Coherency, Atomics & Thread-Level Parallelism (OpenMP)
 
 **主題：** 多核一致性、原子操作、OpenMP 平行程式設計  
+**題數：** 10 題（Pre-Check 3 題 + 練習 7 題）  
 **練習內容：**
 - Cache incoherence 問題與 `volatile` 的作用
 - RISC-V 原子指令：`lr.w`/`sc.w`（Load-Reserved / Store-Conditional）、`amoswap`
@@ -211,6 +224,7 @@
 ### Discussion 14 — MapReduce, Spark, WSC, RAID, ECC
 
 **主題：** 分散式計算、資料中心、磁碟冗餘、錯誤校正碼  
+**題數：** 18 題（Pre-Check 4 題 + 練習 14 題）  
 **練習內容：**
 - **Hamming ECC**：parity bit 位置（2 的冪次）、覆蓋範圍推導、SEC（Single Error Correction）編碼與解碼、SECDED（加一個 overall parity bit 偵測 double error）
 - **RAID**：RAID 0–5 各級的優缺點比較表（striping / mirroring / dedicated parity / distributed parity）
