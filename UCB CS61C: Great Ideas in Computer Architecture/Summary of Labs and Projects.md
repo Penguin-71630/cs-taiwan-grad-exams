@@ -11,6 +11,7 @@
 
 ### Lab 0 — Setup & Git
 
+**預計時間：** 1 hr  
 **做什麼：** 設定開發環境（GitHub、Gradescope、Hive SSH）、學習 Linux 指令與 Git 基本操作。  
 **學到什麼：** 熟悉課程工具鏈與 Git 版本控制的基礎流程（clone、commit、push）。
 
@@ -18,6 +19,7 @@
 
 ### Lab 1 — C Programming & GDB Debugging
 
+**預計時間：** 2–3 hr  
 **做什麼：**
 - Exercise 1：操控 `#define` 巨集控制 C 程式的 control flow（if/else、switch、for、ternary）產生指定輸出。
 - Exercise 2：用 GDB/CGDB 設定 breakpoint、單步執行、印出變數值，除錯一個簡單 C 程式。
@@ -29,6 +31,7 @@
 
 ### Lab 2 — Bit Operations, LFSR & Memory Management
 
+**預計時間：** 3–4 hr  
 **做什麼：**
 - Exercise 0：閱讀 Makefile 結構、回答 Make 相關問題。
 - Exercise 1：實作 `get_bit`、`set_bit`、`flip_bit`（只能用 bitwise ops，禁止 branch/loop）。
@@ -41,6 +44,7 @@
 
 ### Lab 3 — RISC-V Assembly & Venus Simulator
 
+**預計時間：** 4–5 hr  
 **做什麼：**
 - Exercise 0：在 Venus 模擬器中掛載本地檔案系統。
 - Exercise 1：逐步執行 RISC-V 程式（Fibonacci），觀察暫存器與記憶體狀態。
@@ -54,6 +58,7 @@
 
 ### Lab 4 — RISC-V Linked List & Calling Convention
 
+**預計時間：** 2–3 hr  
 **做什麼：**
 - Exercise 1：除錯 `megalistmanips.s`——一個在 linked list of int arrays 上做 `map` 的遞迴函式。找出 5 個 bug（stack save/restore 錯誤、load vs. move 混淆、struct offset 錯誤等），修正後通過 CC checker。
 - Exercise 2：實作 `discrete_fn.s`——不使用任何 branch/jump 指令實作離散查表函式（利用 base + offset 動態 load）。
@@ -64,6 +69,7 @@
 
 ### Lab 5 — Digital Logic with Logisim (Combinational + FSM)
 
+**預計時間：** 3–4 hr  
 **做什麼：**
 - Part 1：用 AND、OR、NOT 組合出 NAND、NOR、XOR、2-to-1 MUX、4-to-1 MUX sub-circuits。
 - Part 2：用 register + adder 建造一個 8-bit counter（每 clock cycle +1），熟悉 stateful circuit。
@@ -75,6 +81,7 @@
 
 ### Lab 6 — Pipelining & Timing Analysis
 
+**預計時間：** 1.5–2 hr  
 **做什麼：**
 - Exercise 1：分析一個 non-pipelined 電路（multiplier + adder + register）的 critical path，計算最大 clock rate。
 - Exercise 2：將該電路切成兩級 pipeline（multiplication stage → addition stage），加入 pipeline register，重新計算最大 clock rate；解釋為何此電路不需要 pipeline bubble。
@@ -85,6 +92,7 @@
 
 ### Lab 7 — Caches
 
+**預計時間：** 2–3 hr  
 **做什麼：**
 - 使用 Venus 的 Cache Simulator 模擬不同 cache 配置（direct-mapped、N-way set associative）下的 hit/miss 行為。
 - 設定 Array Size、Step Size、Rep Count、Option 等參數，觀察 hit rate 變化。
@@ -97,6 +105,7 @@
 
 ### Lab 8 — Virtual Memory (TLB & Page Table)
 
+**預計時間：** 2–3 hr  
 **做什麼：**
 - 使用 CAMERA 模擬器視覺化 virtual memory 系統（TLB + Page Table + Physical Memory）。
 - 觀察 address reference string 下的 TLB hit/miss 與 Page Fault 行為。
@@ -110,6 +119,7 @@
 
 ### Lab 9 — SIMD (Data-Level Parallelism)
 
+**預計時間：** 3–4 hr  
 **做什麼：**
 - Exercise 1：查閱 Intel Intrinsics Guide，找到 SSE 128-bit 指令（float division、int8 max、int16 arithmetic shift right）。
 - Exercise 2：將 naive `sum()` 函式用 SSE intrinsics（`_mm_loadu_si128`、`_mm_add_epi32`、`_mm_cmpgt_epi32`、`_mm_and_si128`）向量化成 `sum_simd()`，達到約 4-7x 加速。
@@ -121,6 +131,7 @@
 
 ### Lab 10 — Thread-Level Parallelism (OpenMP) & Multi-Processing
 
+**預計時間：** 3–4 hr  
 **做什麼：**
 - Exercise 1：OpenMP Hello World（`#pragma omp parallel`），觀察 thread ID 亂序輸出。
 - Exercise 2：實作向量加法的兩種平行化方式——slicing（thread i 處理 index % N == i 的元素）和 chunking（每個 thread 處理連續一段），比較效能差異（false sharing）。
@@ -133,6 +144,7 @@
 
 ### Lab 11 — Spark / MapReduce
 
+**預計時間：** 2–3 hr  
 **做什麼：**
 - Exercise 0：用 Hadoop Importer 將文本檔轉為 Spark `.seq` 格式。
 - Exercise 1：執行提供的 `wordCount.py`（MapReduce word count）。
@@ -147,6 +159,7 @@
 
 ### Project 1 — Conway's Game of Life, in RGB!
 
+**預計時間：** 10–15 hr  
 **做什麼：**
 - 用 C 實作 Conway's Game of Life 的 RGB 彩色版本。
 - Part A：實作 PPM 影像檔 I/O（讀取/寫入 P3 格式）、在 `Image` struct 上操作像素。
@@ -158,6 +171,7 @@
 
 ### Project 2 — CS61Classify (RISC-V Neural Network)
 
+**預計時間：** 20–30 hr  
 **做什麼：**
 - 用純 RISC-V 組語實作一個手寫數字辨識的 Artificial Neural Network。
 - Part A：實作基本矩陣運算——`dot product`（含 stride）、`matmul`（矩陣乘法）、`argmax`、`ReLU` activation function。
@@ -169,6 +183,7 @@
 
 ### Project 3 — CS61CPU (Pipelined RISC-V CPU in Logisim)
 
+**預計時間：** 25–40 hr  
 **做什麼：**
 - 在 Logisim Evolution 中從零搭建一個 RISC-V CPU。
 - Part A（Tasks 1-3）：建造 ALU（支援 add/sub/and/or/xor/sll/srl/sra/slt/mul）、Register File（32 registers, x0 hardwired to 0）、Immediate Generator，並完成能執行 `addi` 的單週期 datapath。
@@ -180,6 +195,7 @@
 
 ### Project 4 — Numc (High-Performance Matrix Library)
 
+**預計時間：** 20–30 hr  
 **做什麼：**
 - 用 C 實作一個矩陣運算庫（mini-NumPy），並透過 Python-C interface 讓 Python 可以 `import numc`。
 - Task 1：實作矩陣基本操作的 naive 版本（allocate/deallocate、get/set、add、sub、mul、pow、neg、abs、fill）。
