@@ -9,20 +9,20 @@
 | 類別 | 大類 | 主題 | 題數 | 頁數 | 檢查 |
 |---|---|---|---:|---:|---|
 | 數學 | Diagonalization | Diagonalization - Cayley-Hamilton | 3 | 1 | OK |
-| 計系 | Arithmetic | Arithmetic - Booth's Algorithm | 3 | - | PDF 不存在 |
-| 計系 | Arithmetic | Arithmetic - Carry-Lookahead Adder | 3 | - | PDF 不存在 |
+| 計系 | Arithmetic | Arithmetic - Booth's Algorithm | 3 | 2 | OK |
+| 計系 | Arithmetic | Arithmetic - Carry-Lookahead Adder | 3 | 2 | OK |
 | 計系 | Arithmetic | Arithmetic - FP Does Not Have Associativity | 1 | 3 | OK |
 | 計系 | Arithmetic | Arithmetic - IEEE 754 | 10 | 7 | OK |
 | 計系 | Arithmetic | Arithmetic - Overflow Detection | 3 | - | PDF 不存在 |
-| 計系 | Arithmetic | Arithmetic - Ripple-Carry Adder | 3 | - | PDF 不存在 |
+| 計系 | Arithmetic | Arithmetic - Ripple-Carry Adder | 3 | 2 | OK |
 | 計系 | Arithmetic | Arithmetic - SIMD | 1 | 1 | OK |
-| 計系 | Arithmetic | Arithmetic - Shift-Add Multiplication | 3 | - | PDF 不存在 |
+| 計系 | Arithmetic | Arithmetic - Shift-Add Multiplication | 3 | 2 | OK |
 | 計系 | Cache | Cache - AMAT | 7 | 4 | OK |
-| 計系 | Cache | Cache - Cache Coherence: Snooping (MESI), Directory-Based (MOESI) | 4 | - | PDF 不存在 |
+| 計系 | Cache | Cache - Cache Coherence: Snooping (MESI), Directory-Based (MOESI) | 4 | 2 | OK |
 | 計系 | Cache | Cache - Cache Optimizations (3): Critical Word First, Prefetch | 5 | 3 | OK |
 | 計系 | Cache | Cache - Cache Optimizations (4): Compiler Optimization, Victim Cache | 2 | 1 | OK |
-| 計系 | Cache | Cache - Cache Replacement Policy | 9 | - | PDF 不存在 |
-| 計系 | Cache | Cache - Compulsory Miss, Capacity Miss, Conflict Miss, Coherence Miss | 11 | - | PDF 不存在 |
+| 計系 | Cache | Cache - Cache Replacement Policy | 9 | 7 | OK |
+| 計系 | Cache | Cache - Compulsory Miss, Capacity Miss, Conflict Miss, Coherence Miss | 11 | 5 | OK |
 | 計系 | Cache | Cache - Direct-Mapped Cache | 11 | - | PDF 不存在 |
 | 計系 | Cache | Cache - L1 Cache, L2 Cache, L3 Cache, Inclusion vs. Exclusion Policy | 7 | 4 | OK |
 | 計系 | Cache | Cache - SRAM, DRAM, NAND ／ NOR Flash | 3 | - | PDF 不存在 |
@@ -61,7 +61,7 @@
 | 計系 | GPU | GPU - SIMT, Warp, Warp Scheduler, Warp Divergence | 1 | - | PDF 不存在 |
 | 計系 | IC | IC - IC Fabrication, Wafer, Die Yield, Cost | 2 | 1 | OK |
 | 計系 | Interconnection | Interconnection - Cluster Networking: InfiniBand, Ethernet, Fat-Tree, Switch Hierarchy | 1 | 3 | OK |
-| 計系 | Interconnection | Interconnection - DGEMM | 1 | - | PDF 不存在 |
+| 計系 | Interconnection | Interconnection - DGEMM | 1 | 1 | OK |
 | 計系 | Interconnection | Interconnection - Roofline Model: Compute-Bound vs. Memory-Bound | 2 | - | PDF 不存在 |
 | 計系 | Introduction | Introduction - Computing Environments | 1 | 1 | OK |
 | 計系 | Introduction | Introduction - Interrupts, Storage, I／O Structures | 7 | 3 | OK |
@@ -76,7 +76,7 @@
 | 計系 | I／O | I／O - Port, Bus, Controller, Polling vs. Interrupt, DMA | 11 | 5 | OK |
 | 計系 | MIPS ／ RISC-V | MIPS ／ RISC-V - (RV) R／I／S／B／U／J Types, (MIPS) R／I／J Types | 3 | 4 | OK |
 | 計系 | MIPS ／ RISC-V | MIPS ／ RISC-V - 2's Complement, Sign Extension | 7 | 5 | OK |
-| 計系 | MIPS ／ RISC-V | MIPS ／ RISC-V - Compile and Start a Program | 3 | - | PDF 不存在 |
+| 計系 | MIPS ／ RISC-V | MIPS ／ RISC-V - Compile and Start a Program | 3 | 2 | OK |
 | 計系 | MIPS ／ RISC-V | MIPS ／ RISC-V - Instruction Set Principles: ISA Classes, RISC vs. CISC, Word Size | 8 | - | PDF 不存在 |
 | 計系 | MIPS ／ RISC-V | MIPS ／ RISC-V - Procedure Call | 2 | - | PDF 不存在 |
 | 計系 | MIPS ／ RISC-V | MIPS ／ RISC-V - TAS, TTAS, Spinlock, CAS, ABA Problem, Consensus Number | 2 | 1 | OK |
@@ -104,18 +104,18 @@
 | 計系 | OS Structures | OS Structures - Mechanism v.s. Policy | 1 | 1 | OK |
 | 計系 | OS Structures | OS Structures - Monolithic, Layered, Microkernel, Modules, Hybrid | 2 | 1 | OK |
 | 計系 | OS Structures | OS Structures - System Calls | 9 | 8 | OK |
-| 計系 | Performance | Performance - Amdahl's Law | 11 | - | PDF 不存在 |
-| 計系 | Performance | Performance - Benchmark ／ SPEC | 2 | - | PDF 不存在 |
-| 計系 | Performance | Performance - CPU Time (IC x CPI x Tc) | 29 | - | PDF 不存在 |
+| 計系 | Performance | Performance - Amdahl's Law | 11 | 8 | OK |
+| 計系 | Performance | Performance - Benchmark ／ SPEC | 2 | 2 | OK |
+| 計系 | Performance | Performance - CPU Time (IC x CPI x Tc) | 29 | 21 | OK |
 | 計系 | Performance | Performance - Energy Efficiency: Energy vs. Power, Battery Life, Performance per Watt | 5 | - | PDF 不存在 |
 | 計系 | Performance | Performance - Introduction, 8 Great Ideas | 6 | 5 | OK |
-| 計系 | Performance | Performance - MIPS-as-metric fallacy | 5 | - | PDF 不存在 |
+| 計系 | Performance | Performance - MIPS-as-metric fallacy | 5 | 3 | OK |
 | 計系 | Performance | Performance - Power Wall (P = CV^2 f) | 9 | 8 | OK |
-| 計系 | Performance | Performance - Uniprocessor => Multiprocessor | 8 | - | PDF 不存在 |
+| 計系 | Performance | Performance - Uniprocessor => Multiprocessor | 8 | 6 | OK |
 | 計系 | Pipeline CPU | Pipeline CPU - (MIPS) Branch Delay Slot | 3 | 3 | OK |
 | 計系 | Pipeline CPU | Pipeline CPU - 5-stage: IF／ID／EX／MEM／WB, Pipeline Register | 23 | 18 | OK |
 | 計系 | Pipeline CPU | Pipeline CPU - Branch Prediction, 1-bit ／ 2-bit Branch History Table, Accuracy | 13 | 9 | OK |
-| 計系 | Pipeline CPU | Pipeline CPU - Control Hazards | 19 | - | PDF 不存在 |
+| 計系 | Pipeline CPU | Pipeline CPU - Control Hazards | 19 | 16 | OK |
 | 計系 | Pipeline CPU | Pipeline CPU - DGEMM: Loop Unrolling, Register Renaming | 2 | - | PDF 不存在 |
 | 計系 | Pipeline CPU | Pipeline CPU - Data Hazards, Forwarding, Stalling, Load-Use Data Hazard | 26 | - | PDF 不存在 |
 | 計系 | Pipeline CPU | Pipeline CPU - Exceptions | 4 | - | PDF 不存在 |
@@ -149,7 +149,7 @@
 | 計系 | Security | Security - Vulnerability Assessment, Intrusion Detection, Firewall, Antivirus | 5 | 2 | OK |
 | 計系 | Security | Security - Worms, Port Scanning, DoS, DDoS | 2 | 1 | OK |
 | 計系 | Single-Cycle CPU | Single-Cycle CPU - ALU Propogation | 1 | 1 | OK |
-| 計系 | Single-Cycle CPU | Single-Cycle CPU - D-FF Timing, Critical Path, Max Freq, Hold Violation, Buffer Insertion | 1 | - | PDF 不存在 |
+| 計系 | Single-Cycle CPU | Single-Cycle CPU - D-FF Timing, Critical Path, Max Freq, Hold Violation, Buffer Insertion | 1 | 1 | OK |
 | 計系 | Single-Cycle CPU | Single-Cycle CPU - Datapath | 7 | - | PDF 不存在 |
 | 計系 | Single-Cycle CPU | Single-Cycle CPU - Main Control, ALU Control | 8 | - | PDF 不存在 |
 | 計系 | Storage and I／O | Storage and I／O - HDD, SSD | 7 | - | PDF 不存在 |
@@ -179,18 +179,18 @@
 | 計系 | Thread and Concurrency | Thread and Concurrency - User-level／Kernel-level Thread, M-1, 1-1, M-M | 5 | 4 | OK |
 | 計系 | Virtual Memory | Virtual Memory - Allocating Kernel Memory (Buddy System, Slab Allocation) | 2 | 1 | OK |
 | 計系 | Virtual Memory | Virtual Memory - Allocation of Frames | 2 | 1 | OK |
-| 計系 | Virtual Memory | Virtual Memory - Common Framework For Memory Hierarchy | 5 | - | PDF 不存在 |
+| 計系 | Virtual Memory | Virtual Memory - Common Framework For Memory Hierarchy | 5 | 3 | OK |
 | 計系 | Virtual Memory | Virtual Memory - Copy-on-Write when fork()／exec() | 3 | 4 | OK |
 | 計系 | Virtual Memory | Virtual Memory - Demand Paging, Page Fault, Effective Access Time | 7 | 7 | OK |
 | 計系 | Virtual Memory | Virtual Memory - Ideas of Virtual Memory | 4 | 4 | OK |
 | 計系 | Virtual Memory | Virtual Memory - Page Replacement (FCFS, Optimal, LRU, LRU-Approx, LFU, MFU) | 14 | 6 | OK |
-| 計系 | Virtual Memory | Virtual Memory - Page Table, Page Fault, Dirty Bit, Reference Bit | 10 | - | PDF 不存在 |
+| 計系 | Virtual Memory | Virtual Memory - Page Table, Page Fault, Dirty Bit, Reference Bit | 10 | 8 | OK |
 | 計系 | Virtual Memory | Virtual Memory - Prepaging, Page Size Trade-off, TLB Reach | 6 | 4 | OK |
 | 計系 | Virtual Memory | Virtual Memory - Protection Mechanism | 1 | - | PDF 不存在 |
-| 計系 | Virtual Memory | Virtual Memory - TLB, Effective Access Time | 12 | - | PDF 不存在 |
+| 計系 | Virtual Memory | Virtual Memory - TLB, Effective Access Time | 12 | 8 | OK |
 | 計系 | Virtual Memory | Virtual Memory - Thrashing (Solutions: Locality, Working-set, PFF) | 16 | 9 | OK |
 | 計系 | Virtual Memory | Virtual Memory - VIPT | 3 | - | PDF 不存在 |
-| 計系 | Virtual Memory | Virtual Memory - VM | 4 | - | PDF 不存在 |
+| 計系 | Virtual Memory | Virtual Memory - VM | 4 | 2 | OK |
 | 計系 | Virtualization | Virtualization - Benefits and Features | 2 | 1 | OK |
 | 計系 | Virtualization | Virtualization - Coordination between Guest OS and Host OS | 1 | 1 | OK |
 | 計系 | Virtualization | Virtualization - Examples | 1 | 1 | OK |
@@ -221,14 +221,7 @@
 
 ## 失敗項目
 
-- 計系/Arithmetic/Arithmetic - Booth's Algorithm: PDF 不存在
-- 計系/Arithmetic/Arithmetic - Carry-Lookahead Adder: PDF 不存在
 - 計系/Arithmetic/Arithmetic - Overflow Detection: PDF 不存在
-- 計系/Arithmetic/Arithmetic - Ripple-Carry Adder: PDF 不存在
-- 計系/Arithmetic/Arithmetic - Shift-Add Multiplication: PDF 不存在
-- 計系/Cache/Cache - Cache Coherence: Snooping (MESI), Directory-Based (MOESI): PDF 不存在
-- 計系/Cache/Cache - Cache Replacement Policy: PDF 不存在
-- 計系/Cache/Cache - Compulsory Miss, Capacity Miss, Conflict Miss, Coherence Miss: PDF 不存在
 - 計系/Cache/Cache - Direct-Mapped Cache: PDF 不存在
 - 計系/Cache/Cache - SRAM, DRAM, NAND ／ NOR Flash: PDF 不存在
 - 計系/Cache/Cache - Set-Associative, Fully-Associative: PDF 不存在
@@ -240,9 +233,7 @@
 - 計系/GPU/GPU - Mapping Applications to GPUs: PDF 不存在
 - 計系/GPU/GPU - SIMD, Vector Processors (GPU's Predecessor): PDF 不存在
 - 計系/GPU/GPU - SIMT, Warp, Warp Scheduler, Warp Divergence: PDF 不存在
-- 計系/Interconnection/Interconnection - DGEMM: PDF 不存在
 - 計系/Interconnection/Interconnection - Roofline Model: Compute-Bound vs. Memory-Bound: PDF 不存在
-- 計系/MIPS ／ RISC-V/MIPS ／ RISC-V - Compile and Start a Program: PDF 不存在
 - 計系/MIPS ／ RISC-V/MIPS ／ RISC-V - Instruction Set Principles: ISA Classes, RISC vs. CISC, Word Size: PDF 不存在
 - 計系/MIPS ／ RISC-V/MIPS ／ RISC-V - Procedure Call: PDF 不存在
 - 計系/MIPS ／ RISC-V/MIPS ／ RISC-V - Wide Immediates, Addressing (PC-relative vs. Pseudodirect): PDF 不存在
@@ -251,29 +242,18 @@
 - 計系/Multiprocessors and Parallelism/Multiprocessors and Parallelism - Hardware Multithreading: Fine-Grained, Coarse-Grained, SMT: PDF 不存在
 - 計系/Multiprocessors and Parallelism/Multiprocessors and Parallelism - Message Passing, MPP, Clusters, WSC: PDF 不存在
 - 計系/Multiprocessors and Parallelism/Multiprocessors and Parallelism - UMA vs. NUMA, Shared Memory: PDF 不存在
-- 計系/Performance/Performance - Amdahl's Law: PDF 不存在
-- 計系/Performance/Performance - Benchmark ／ SPEC: PDF 不存在
-- 計系/Performance/Performance - CPU Time (IC x CPI x Tc): PDF 不存在
 - 計系/Performance/Performance - Energy Efficiency: Energy vs. Power, Battery Life, Performance per Watt: PDF 不存在
-- 計系/Performance/Performance - MIPS-as-metric fallacy: PDF 不存在
-- 計系/Performance/Performance - Uniprocessor => Multiprocessor: PDF 不存在
-- 計系/Pipeline CPU/Pipeline CPU - Control Hazards: PDF 不存在
 - 計系/Pipeline CPU/Pipeline CPU - DGEMM: Loop Unrolling, Register Renaming: PDF 不存在
 - 計系/Pipeline CPU/Pipeline CPU - Data Hazards, Forwarding, Stalling, Load-Use Data Hazard: PDF 不存在
 - 計系/Pipeline CPU/Pipeline CPU - Exceptions: PDF 不存在
 - 計系/Pipeline CPU/Pipeline CPU - ILP, Dynamic Scheduling (Tomasulo, ROB, Speculation), OoO Issue: PDF 不存在
 - 計系/Pipeline CPU/Pipeline CPU - Pipelined Datapath, Control: PDF 不存在
 - 計系/Pipeline CPU/Pipeline CPU - VLIW (Very-Long Instruction Word): PDF 不存在
-- 計系/Single-Cycle CPU/Single-Cycle CPU - D-FF Timing, Critical Path, Max Freq, Hold Violation, Buffer Insertion: PDF 不存在
 - 計系/Single-Cycle CPU/Single-Cycle CPU - Datapath: PDF 不存在
 - 計系/Single-Cycle CPU/Single-Cycle CPU - Main Control, ALU Control: PDF 不存在
 - 計系/Storage and I／O/Storage and I／O - HDD, SSD: PDF 不存在
 - 計系/Storage and I／O/Storage and I／O - I／O Communication: Polling, Interrupt, DMA: PDF 不存在
 - 計系/Storage and I／O/Storage and I／O - I／O System Performance and Design: PDF 不存在
 - 計系/Storage and I／O/Storage and I／O - Synchronous Bus, Asynchronous Bus, Arbitration, Bandwidth: PDF 不存在
-- 計系/Virtual Memory/Virtual Memory - Common Framework For Memory Hierarchy: PDF 不存在
-- 計系/Virtual Memory/Virtual Memory - Page Table, Page Fault, Dirty Bit, Reference Bit: PDF 不存在
 - 計系/Virtual Memory/Virtual Memory - Protection Mechanism: PDF 不存在
-- 計系/Virtual Memory/Virtual Memory - TLB, Effective Access Time: PDF 不存在
 - 計系/Virtual Memory/Virtual Memory - VIPT: PDF 不存在
-- 計系/Virtual Memory/Virtual Memory - VM: PDF 不存在
