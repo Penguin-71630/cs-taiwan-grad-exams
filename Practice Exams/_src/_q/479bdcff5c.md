@@ -1,0 +1,3 @@
+11\. (a) (4%) A full adder has two 1-bit numbers $x_i$, $y_i$, a carry-in bit $c_i$, a sum bit $z_i$ and a carry-out bit $c_{i+1}$. Write the equations of the sum bit $z_i$ in terms of $x_i$, $y_i$, and $c_i$.
+
+(b) (4%) A 4-bit carry-look-ahead adder has two 4-bit binary numbers $x_3x_2x_1x_0$ and $y_3y_2y_1y_0$, a carry-in bit $c_0$, the sum bits $z_3z_2z_1z_0$ and a carry-out bit $c_4$. It can be formed from 4 stages, each of which is a full adder by replacing its output carry line $c_i$ by two carry generate signals $g_i$ and $p_i$, where $0 \le i \le 3$. Write the equation for the carry-out bit $c_4$ of the 4-bit carry-look-ahead adder in terms of $c_0$, $g_i$ and $p_i$, where $0 \le i \le 3$.
