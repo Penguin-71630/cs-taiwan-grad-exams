@@ -1,15 +1,15 @@
-"""Split a transcription bundle into per-question Markdown files.
+"""Split a transcription bundle into per-question Markdown files in _src/_q/.
 
 Bundle format: sections start with a line `=== <question_id>`; everything until the next
-`===` line is that question's Markdown. Usage: python split_bundle.py BUNDLE SRC_DIR
-Every id in SRC_DIR/manifest.json must appear exactly once, and no extra ids are allowed.
+`===` line is that question's Markdown. Usage: python split_bundle.py BUNDLE [--force]
+Existing transcriptions are not overwritten unless --force is given.
 """
-import json, re, sys
+import re, sys
 from pathlib import Path
 
-bundle, src = Path(sys.argv[1]), Path(sys.argv[2])
-man = json.loads((src / "manifest.json").read_text())
-want = {q["id"] for q in man["questions"]}
+QDIR = Path(__file__).resolve().parent.parent / "_src" / "_q"
+bundle = Path(sys.argv[1])
+force = "--force" in sys.argv
 parts, cur, buf = {}, None, []
 for ln in bundle.read_text().split("\n"):
     m = re.match(r"^=== ([a-z0-9_]+)\s*$", ln)
@@ -23,9 +23,12 @@ for ln in bundle.read_text().split("\n"):
         buf.append(ln)
 if cur:
     parts[cur] = "\n".join(buf).strip() + "\n"
-extra, missing = set(parts) - want, want - set(parts)
-if extra or missing:
-    raise SystemExit(f"extra={sorted(extra)} missing={sorted(missing)}")
+QDIR.mkdir(parents=True, exist_ok=True)
+skipped = []
 for qid, text in parts.items():
-    (src / f"{qid}.md").write_text(text)
-print(f"wrote {len(parts)} transcriptions to {src}")
+    f = QDIR / f"{qid}.md"
+    if f.exists() and not force:
+        skipped.append(qid)
+        continue
+    f.write_text(text)
+print(f"wrote {len(parts) - len(skipped)} transcriptions" + (f", skipped existing: {skipped}" if skipped else ""))

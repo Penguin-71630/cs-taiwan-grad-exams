@@ -1,0 +1,25 @@
+{
+ "unit_key": "18-1 Virtualization vs. Emulation, VM, Hypervisor",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Virtualization",
+ "topic": "Virtualization vs. Emulation, VM, Hypervisor",
+ "questions": [
+  {
+   "id": "m_0bdd63bdf19b94f2",
+   "year": 102,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_0bdd63bdf19b94f2.webp"
+  },
+  {
+   "id": "011e62cf0f",
+   "year": 101,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "II-Q1",
+   "url": "https://img.ptsfu.org/011e62cf0f.webp"
+  }
+ ]
+}

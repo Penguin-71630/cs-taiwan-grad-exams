@@ -1,0 +1,33 @@
+{
+ "unit_key": "10-3 Copy-on-Write when fork()/exec()",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Virtual Memory",
+ "topic": "Copy-on-Write when fork()／exec()",
+ "questions": [
+  {
+   "id": "m_019f85f4dd10f575",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q16",
+   "url": "https://img.ptsfu.org/m_019f85f4dd10f575.webp"
+  },
+  {
+   "id": "m_0b5bfcc5a2b0ea08",
+   "year": 102,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/m_0b5bfcc5a2b0ea08.webp"
+  },
+  {
+   "id": "m_89b51edd00d63d3e",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_89b51edd00d63d3e.webp"
+  }
+ ]
+}

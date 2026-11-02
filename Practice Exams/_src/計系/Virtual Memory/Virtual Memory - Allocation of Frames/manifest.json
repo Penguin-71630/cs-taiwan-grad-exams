@@ -1,0 +1,25 @@
+{
+ "unit_key": "10-5 Allocation of Frames",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Virtual Memory",
+ "topic": "Allocation of Frames",
+ "questions": [
+  {
+   "id": "m_2938e1e8eb96c539",
+   "year": 104,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_2938e1e8eb96c539.webp"
+  },
+  {
+   "id": "m_5871057100f3a39b",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_5871057100f3a39b.webp"
+  }
+ ]
+}

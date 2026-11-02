@@ -1,0 +1,154 @@
+1-1 What OS Do	Introduction
+1-2 Interrupts, Storage, I/O Structures	Introduction
+1-3 Multiprocessor, UMA, NUMA	Introduction
+1-4 User Mode / Kernel Mode	Introduction
+1-5 Process / Memory / FS / Storage Management	Introduction
+1-6 Security and Protection	Introduction
+1-7 Virtualization	Introduction
+1-9 Kernel Data Structures	Introduction
+1-10 Computing Environments	Introduction
+2-2 User-OS Interface	OS Structures
+2-3 System Calls	OS Structures
+2-4 System Services	OS Structures
+2-5 Linkers and Loaders	OS Structures
+2-6 ABI (Application Binary Interface)	OS Structures
+2-7 Mechanism v.s. Policy	OS Structures
+2-8 Monolithic, Layered, Microkernel, Modules, Hybrid	OS Structures
+2-9 Booting	OS Structures
+2-10 OS Debugging	OS Structures
+3-1 Process Mem Layout, States, PCB, Threads	Process
+3-2 Process Scheduling (Intro to Ch5)	Process
+3-3 Process Tree, fork(), wait(), Zombie, Orphan	Process
+3-4 IPC	Process
+3-5 IPC (Shared-Memory Systems, Similar to OpenMP)	Process
+3-6 IPC (Message-Passing Systems, Similar to MPI)	Process
+3-7 IPC Examples	Process
+3-8 Client-Server, Sockets, RPC	Process
+4-1 Thread	Thread and Concurrency
+4-2 Parallelism vs. Concurrency	Thread and Concurrency
+4-3 User-level/Kernel-level Thread, M-1, 1-1, M-M	Thread and Concurrency
+4-4 POSIX Pthreads, Windows Threads, Java Threads	Thread and Concurrency
+4-5 Implicit Threading (Thread Pools, Fork-Join, OpenMP)	Thread and Concurrency
+4-6 Threading Issues	Thread and Concurrency
+4-7 OS Examples	Thread and Concurrency
+5-1 CPU burst, I/O burst, Dispatcher, Dispatch Latency	Scheduling
+5-2 Utilization, Throughput, Turnaround, Waiting, Response	Scheduling
+5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ	Scheduling
+5-4 Thread Scheduling (PCS, SCS)	Scheduling
+5-5 SMP, Processor Affinity, Load balancing	Scheduling
+5-6 Soft/Hard Real-Time CPU Scheduling	Scheduling
+5-7 OS Examples	Scheduling
+5-8 Algorithm Evaluation	Scheduling
+6-1 Race Condition	Synchronization
+6-2 Critical Section (Mut-EX, Progress, Bounded Waiting)	Synchronization
+6-3 Peterson's Solution	Synchronization
+6-4 Atomic Operations (Hardware)	Synchronization
+6-5 Mutex Locks (Spinlock vs. sleep/block)	Synchronization
+6-6 Semaphores	Synchronization
+6-7 Monitors	Synchronization
+6-8 Deadlock, Priority Inversion	Synchronization
+7-1 Producer-Consumer, Readers-Writers, Dining Philosophers	Synchronization
+7-2 Synchronizations in Kernel	Synchronization
+7-3 POSIX Synchronization	Synchronization
+7-4 Java Synchronization	Synchronization
+7-5 Transactional Memory, OpenMP, Functional Programming	Synchronization
+8-2 Deadlock	Synchronization
+8-3 Coffman Conditions, RAG (Resource-Allocation Graph)	Synchronization
+8-4 Handling Deadlocks	Synchronization
+8-5 Deadlocks Prevention	Synchronization
+8-6 Safe State, RAG Algorithm, Banker's Algorithm	Synchronization
+8-7 Deadlock Detection	Synchronization
+8-8 Recovery from Deadlock	Synchronization
+9-1 Address Binding, Logical/Physical Address	Memory
+9-2 Partition, Dynamic Storage-Allocation, Fragmentation	Memory
+9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page	Memory
+9-4 Page Tables: Hierarchical, Hashed, Inverted	Memory
+9-5 Swapping with Paging	Memory
+9-6 Segmentation, Segment Table	Memory
+10-1 Ideas of Virtual Memory	Virtual Memory
+10-2 Demand Paging, Page Fault, Effective Access Time	Virtual Memory
+10-3 Copy-on-Write when fork()/exec()	Virtual Memory
+10-4 Page Replacement (FCFS, Optimal, LRU, LRU-Approx, LFU, MFU)	Virtual Memory
+10-5 Allocation of Frames	Virtual Memory
+10-6 Thrashing (Solutions: Locality, Working-set, PFF)	Virtual Memory
+10-8 Allocating Kernel Memory (Buddy System, Slab Allocation)	Virtual Memory
+10-9 Prepaging, Page Size Trade-off, TLB Reach	Virtual Memory
+10-10 OS-Examples	Virtual Memory
+11-1 HDD, SSD, DRAM	Mass-Storage
+11-2 HDD Scheduling: FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK	Mass-Storage
+11-3 SSD Policies: I/O Queue, Fairness, Wear Leveling	Mass-Storage
+11-4 Parity Bit, Hamming Code, ECC	Mass-Storage
+11-5 SSD Preprocess: Low-level Formatting, Boot Block, Bad Block	Mass-Storage
+11-6 Swap Partition vs. Swap File (Extended from 9-5 and 10-2)	Mass-Storage
+11-7 SATA, NVMe, SCSI, NAS, Storage-area Network	Mass-Storage
+11-8 RAID 0, RAID 1, RAID 4, RAID 5, RAID 6, RAID 10	Mass-Storage
+12-1 I/O Overview	I/O
+12-2 Port, Bus, Controller, Polling vs. Interrupt, DMA	I/O
+12-3 Block/Character Devices, (Non)Blocking, Async I/O, Vectored I/O	I/O
+12-4 I/O Scheduling, Buffering, Caching, Spooling, Device Reservation	I/O
+12-5 Handling I/O Requests	I/O
+12-7 Performance	I/O
+12-8 Linux Device Model: devfs, sysfs, Device Tree	I/O
+12-9 Bitmap Terminals, Video RAM	I/O
+13-1 File	File System
+13-2 File Access Methods	File System
+13-3 Directory	File System
+13-4 File Protection	File System
+13-5 Memory-Mapped Files	File System
+14-1 File System Structure	File System
+14-2 File System Operations	File System
+14-3 Directory Implementation	File System
+14-4 Allocation Methods: Contiguous, Linked, Indexed	File System
+14-5 Free Space: Bitmap, Linked List, Grouping, Counting, Space Maps	File System
+14-6 File System Efficiency and Performance	File System
+14-7 Recovery: Consistency Checking, Log-based	File System
+15-2 File System Mounting (Mount Point, Mount Table)	File System
+15-3 Partitions and Mounting	File System
+15-4 File Sharing	File System
+15-5 VFS	File System
+15-6 Remote File Systems, Distributed File Systems	File System
+15-7 Consistency Semantics when Sharing Files	File System
+15-8 NFS	File System
+16-1 Introduction to Security	Security
+16-2 Trojan, Backdoor, Logic/Time Bomb, Stack/Buffer Overflow, Virus	Security
+16-3 Worms, Port Scanning, DoS, DDoS	Security
+16-4 Encryption, Message Digest, Digital Signature, CA	Security
+16-5 Authentication: Password, 2FA, MFA, Biometrics	Security
+16-6 Vulnerability Assessment, Intrusion Detection, Firewall, Antivirus	Security
+16-8 AI Security and Emerging Threats: Prompt Injection, Model Attacks, APT	Security
+16-9 Trusted Execution Environment: Intel SGX, Enclave, Remote Attestation	Security
+16-10 Privacy: Privacy-Enhancing Technologies, Anonymization, Differential Privacy	Security
+17-2 Principle of Least Privilege	Protection
+17-3 Protection Rings (Ring 3 ~ 0, Ring -1)	Protection
+17-4 Domain of Protection	Protection
+17-5 Access Matrix	Protection
+17-6 Access Matrix Implementation: ACL, Capability List, Lock-key	Protection
+17-7 Revocation of Access Rights	Protection
+17-8 Role-based Access Control	Protection
+17-9 Mandatory Access Control	Protection
+17-10 Capability-Based Systems	Protection
+17-11 Sandbox	Protection
+17-12 Language-Based Protection	Protection
+18-1 Virtualization vs. Emulation, VM, Hypervisor	Virtualization
+18-3 Benefits and Features	Virtualization
+18-4 Trap-and-emulate (Ring -1), Binary Translation, Hardware Assist	Virtualization
+18-5 Native/Hosted Hypervisor, Paravirtualization vs. Containerization	Virtualization
+18-6 Coordination between Guest OS and Host OS	Virtualization
+18-7 Examples	Virtualization
+19-1 Advantages of Distributed Systems	Distributed System
+19-2 LAN, WAN	Distributed System
+19-3 Communication Structure	Distributed System
+19-4 Network OS, Distributed OS	Distributed System
+19-5 Issues: Robustness, Location/Migration Transparency, Scalability	Distributed System
+19-6 DFS (Distributed File System)	Distributed System
+19-7 DFS Naming and Transparency	Distributed System
+19-8 Remote File Access	Distributed System
+19-9 Trade-off	Distributed System
+19-10 Event Ordering: Happened-Before, Logical Clocks, Clock Synchronization	Distributed System
+19-11 Election Algorithms: Bully, Ring	Distributed System
+19-12 Distributed Atomicity and Concurrency Control: Two-Phase Commit, Majority Protocol	Distributed System
+作業系統§2-1 ACID, Transaction Atomicity, Log-Based Recovery	資料庫：Transactions and Concurrency Control
+作業系統§2-2 Serializability, Recoverable Schedules, Two-Phase Locking	資料庫：Transactions and Concurrency Control
+作業系統§2-3 Timestamp-Ordering Protocol	資料庫：Transactions and Concurrency Control
+作業系統§1-2 Indexing, File Organization, Query Performance	資料庫：Relational Databases, Storage and Indexing
+作業系統§1-3 LSM-Tree, Key-Value Storage Engines	資料庫：Relational Databases, Storage and Indexing

@@ -24,7 +24,7 @@ def pages(pdf):
 
 def main():
     rows, unclear, failures, corrected = [], [], [], []
-    for man_path in sorted((ROOT / "_src").glob("*/*/*/manifest.json")):
+    for man_path in sorted(p for p in (ROOT / "_src").glob("*/*/*/manifest.json") if not p.parts[-4].startswith("_")):
         src = man_path.parent
         man = json.loads(man_path.read_text())
         rel = src.relative_to(ROOT / "_src")
@@ -44,12 +44,13 @@ def main():
                 status = f"缺少題目 ID：{', '.join(missing_ids)}"
         if status != "OK":
             failures.append(f"{rel}: {status}")
-        skew = json.loads((src / "deskew.json").read_text()) if (src / "deskew.json").exists() else {}
+        qdir = ROOT / "_src" / "_q"
+        skew = json.loads((qdir / "deskew.json").read_text()) if (qdir / "deskew.json").exists() else {}
         for q in man["questions"]:
-            md = src / f"{q['id']}.md"
+            md = qdir / f"{q['id']}.md"
             if md.exists() and "[?]" in md.read_text():
                 unclear.append((rel, q))
-            if skew.get(q["id"], {}).get("corrected"):
+            if skew.get(q["id"], {}).get("corrected") and md.exists() and "<!-- fig" in md.read_text():
                 corrected.append((rel, q, skew[q["id"]]["angle"]))
         rows.append((man["group"], man["chapter"], src.name, n, npages, status))
 
@@ -66,7 +67,7 @@ def main():
             lines.append(f"- {rel}：{q['year']} {q['school']}《{q['paper']}》{q['qnum']}（`{q['id']}`）")
     else:
         lines.append("無。")
-    lines += ["", "## 已校正歪斜的原圖", "",
+    lines += ["", "## 已校正歪斜的原圖（只有需要裁切圖表的題目會用到原圖）", "",
               "門檻 0.75°（只校正明顯歪斜的圖）；原檔保留於快取 `orig/`，校正後另存 `fixed/`。", ""]
     if corrected:
         for rel, q, a in corrected:

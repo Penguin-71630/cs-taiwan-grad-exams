@@ -16,7 +16,7 @@
 
 - 計系/Process/Process - Process Tree, fork(), wait(), Zombie, Orphan：102 交大《計算機系統》Q2（`m_6247b104beb1b9a7`）
 
-## 已校正歪斜的原圖
+## 已校正歪斜的原圖（只有需要裁切圖表的題目會用到原圖）
 
 門檻 0.75°（只校正明顯歪斜的圖）；原檔保留於快取 `orig/`，校正後另存 `fixed/`。
 

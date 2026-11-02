@@ -1,0 +1,25 @@
+{
+ "unit_key": "17-6 Access Matrix Implementation: ACL, Capability List, Lock-key",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Protection",
+ "topic": "Access Matrix Implementation: ACL, Capability List, Lock-key",
+ "questions": [
+  {
+   "id": "m_71c8385e0dce547e",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_71c8385e0dce547e.webp"
+  },
+  {
+   "id": "m_b246d447a4ab7483",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q37-Q40",
+   "url": "https://img.ptsfu.org/m_b246d447a4ab7483.webp"
+  }
+ ]
+}

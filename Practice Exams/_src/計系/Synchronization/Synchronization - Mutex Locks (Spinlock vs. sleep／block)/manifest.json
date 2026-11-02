@@ -1,0 +1,57 @@
+{
+ "unit_key": "6-5 Mutex Locks (Spinlock vs. sleep/block)",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Synchronization",
+ "topic": "Mutex Locks (Spinlock vs. sleep／block)",
+ "questions": [
+  {
+   "id": "m_e72c268f683ab1d2",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_e72c268f683ab1d2.webp"
+  },
+  {
+   "id": "m_84557777d2c1129b",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_84557777d2c1129b.webp"
+  },
+  {
+   "id": "m_2f64b549f823778d",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/m_2f64b549f823778d.webp"
+  },
+  {
+   "id": "m_eb0a8b1630cfa60f",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_eb0a8b1630cfa60f.webp"
+  },
+  {
+   "id": "m_0bc1ef92b42c1f18",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_0bc1ef92b42c1f18.webp"
+  },
+  {
+   "id": "m_a6312861c55c000e",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_a6312861c55c000e.webp"
+  }
+ ]
+}

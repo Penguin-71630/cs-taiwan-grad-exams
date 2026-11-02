@@ -1,0 +1,89 @@
+{
+ "unit_key": "8-6 Safe State, RAG Algorithm, Banker's Algorithm",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Synchronization",
+ "topic": "Safe State, RAG Algorithm, Banker's Algorithm",
+ "questions": [
+  {
+   "id": "6638321631",
+   "year": 100,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/6638321631.webp"
+  },
+  {
+   "id": "m_6f7fef327f047a75",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/m_6f7fef327f047a75.webp"
+  },
+  {
+   "id": "m_8e8dc678b221277d",
+   "year": 107,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_8e8dc678b221277d.webp"
+  },
+  {
+   "id": "m_24336d41b40457e2",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q29-Q32",
+   "url": "https://img.ptsfu.org/m_24336d41b40457e2.webp"
+  },
+  {
+   "id": "m_1111381abb582969",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/m_1111381abb582969.webp"
+  },
+  {
+   "id": "6180b5116e",
+   "year": 101,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/6180b5116e.webp"
+  },
+  {
+   "id": "m_0a16f07846aa2b2a",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_0a16f07846aa2b2a.webp"
+  },
+  {
+   "id": "m_3a3072800c1cf648",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q25-Q27",
+   "url": "https://img.ptsfu.org/m_3a3072800c1cf648.webp"
+  },
+  {
+   "id": "m_36d0c2bbbf27dbae",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_36d0c2bbbf27dbae.webp"
+  },
+  {
+   "id": "m_4deab3555caba894",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_4deab3555caba894.webp"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "unit_key": "10-9 Prepaging, Page Size Trade-off, TLB Reach",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Virtual Memory",
+ "topic": "Prepaging, Page Size Trade-off, TLB Reach",
+ "questions": [
+  {
+   "id": "m_11fa8cfdd5a948ab",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_11fa8cfdd5a948ab.webp"
+  },
+  {
+   "id": "3ffc488f25",
+   "year": 102,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/3ffc488f25.webp"
+  },
+  {
+   "id": "m_019f85f4dd10f575",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q16",
+   "url": "https://img.ptsfu.org/m_019f85f4dd10f575.webp"
+  },
+  {
+   "id": "m_5b5b12a06eb7cd39",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_5b5b12a06eb7cd39.webp"
+  },
+  {
+   "id": "55220d747b",
+   "year": 102,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/55220d747b.webp"
+  },
+  {
+   "id": "m_14f1517f250fc954",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q16",
+   "url": "https://img.ptsfu.org/m_14f1517f250fc954.webp"
+  }
+ ]
+}

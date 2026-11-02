@@ -1,0 +1,49 @@
+{
+ "unit_key": "12-4 I/O Scheduling, Buffering, Caching, Spooling, Device Reservation",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "I／O",
+ "topic": "I／O Scheduling, Buffering, Caching, Spooling, Device Reservation",
+ "questions": [
+  {
+   "id": "m_3e3e351d3728fcc9",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_3e3e351d3728fcc9.webp"
+  },
+  {
+   "id": "m_6baa0168ad607c37",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q16",
+   "url": "https://img.ptsfu.org/m_6baa0168ad607c37.webp"
+  },
+  {
+   "id": "5917302f96",
+   "year": 104,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/5917302f96.webp"
+  },
+  {
+   "id": "m_35d5371a97fa8772",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_35d5371a97fa8772.webp"
+  },
+  {
+   "id": "m_5b161524e230df15",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q18",
+   "url": "https://img.ptsfu.org/m_5b161524e230df15.webp"
+  }
+ ]
+}

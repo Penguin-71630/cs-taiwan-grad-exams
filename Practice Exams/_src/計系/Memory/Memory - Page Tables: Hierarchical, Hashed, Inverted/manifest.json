@@ -1,0 +1,89 @@
+{
+ "unit_key": "9-4 Page Tables: Hierarchical, Hashed, Inverted",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Memory",
+ "topic": "Page Tables: Hierarchical, Hashed, Inverted",
+ "questions": [
+  {
+   "id": "m_4a96ad33ed1d6775",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_4a96ad33ed1d6775.webp"
+  },
+  {
+   "id": "m_3b9a01fe90fad18f",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_3b9a01fe90fad18f.webp"
+  },
+  {
+   "id": "b48221f1e8",
+   "year": 107,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/b48221f1e8.webp"
+  },
+  {
+   "id": "m_103b2e66f3fa79d8",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q21-Q24",
+   "url": "https://img.ptsfu.org/m_103b2e66f3fa79d8.webp"
+  },
+  {
+   "id": "m_21481817498b4eaa",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q16",
+   "url": "https://img.ptsfu.org/m_21481817498b4eaa.webp"
+  },
+  {
+   "id": "m_970f22d9cbff27db",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/m_970f22d9cbff27db.webp"
+  },
+  {
+   "id": "8e468c30d7",
+   "year": 105,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/8e468c30d7.webp"
+  },
+  {
+   "id": "c8a0b207cf",
+   "year": 101,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/c8a0b207cf.webp"
+  },
+  {
+   "id": "a84e2575ad",
+   "year": 103,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/a84e2575ad.webp"
+  },
+  {
+   "id": "m_961b7228b0faf301",
+   "year": 107,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_961b7228b0faf301.webp"
+  }
+ ]
+}

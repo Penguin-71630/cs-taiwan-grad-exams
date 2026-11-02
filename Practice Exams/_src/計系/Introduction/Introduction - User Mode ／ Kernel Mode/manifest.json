@@ -1,0 +1,41 @@
+{
+ "unit_key": "1-4 User Mode / Kernel Mode",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Introduction",
+ "topic": "User Mode ／ Kernel Mode",
+ "questions": [
+  {
+   "id": "m_435ff648b55718e3",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_435ff648b55718e3.webp"
+  },
+  {
+   "id": "m_f749658b5b161cd4",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_f749658b5b161cd4.webp"
+  },
+  {
+   "id": "m_1b38c82331619f58",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_1b38c82331619f58.webp"
+  },
+  {
+   "id": "m_961b7228b0faf301",
+   "year": 107,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_961b7228b0faf301.webp"
+  }
+ ]
+}

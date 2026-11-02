@@ -1,0 +1,25 @@
+{
+ "unit_key": "16-3 Worms, Port Scanning, DoS, DDoS",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Security",
+ "topic": "Worms, Port Scanning, DoS, DDoS",
+ "questions": [
+  {
+   "id": "m_6d59a71c1f852a4a",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q17",
+   "url": "https://img.ptsfu.org/m_6d59a71c1f852a4a.webp"
+  },
+  {
+   "id": "m_acccfe9f6e4cc535",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q17",
+   "url": "https://img.ptsfu.org/m_acccfe9f6e4cc535.webp"
+  }
+ ]
+}

@@ -1,12 +1,14 @@
 """Build one topic PDF from a source folder.
 
-Source folder layout (Practice Exams/_src/<group>/<chapter>/<chapter> - <topic>/):
-  manifest.json   unit metadata + questions (id, year, school, paper, qnum, url)
-  <id>.md         hand transcription (Markdown + LaTeX math), one per question.
+Source layout:
+  _src/<group>/<chapter>/<chapter> - <topic>/manifest.json
+                  unit metadata + questions (id, year, school, paper, qnum, url)
+  _src/_q/<id>.md hand transcription (Markdown + LaTeX math), one per question, shared by
+                  every unit the question is tagged with.
                   A line `<!-- fig x0 y0 x1 y1 -->` (fractions of the deskewed original image)
                   embeds that crop of the original -- used only for figures/diagrams,
                   which are never redrawn.
-  deskew.json     written by this script: detected skew angle per image
+  _src/_q/deskew.json  detected skew angle per image (only images that figures are cropped from)
 
 Images are downloaded to a cache dir (default ~/.cache/tiku, override with TIKU_CACHE);
 originals in <cache>/orig are never modified, corrected copies go to <cache>/fixed.
@@ -122,7 +124,8 @@ def tstr(s):
 def build(src, out_pdf):
     src = Path(src)
     man = json.loads((src / "manifest.json").read_text())
-    skew_path = src / "deskew.json"
+    qdir = src.parents[2] / "_q"
+    skew_path = qdir / "deskew.json"
     skew = json.loads(skew_path.read_text()) if skew_path.exists() else {}
     qs = sorted(man["questions"], key=qkey)
     group = man["group"]
@@ -130,7 +133,7 @@ def build(src, out_pdf):
 
     body = []
     for i, q in enumerate(qs, 1):
-        md = src / f"{q['id']}.md"
+        md = qdir / f"{q['id']}.md"
         if not md.exists():
             raise SystemExit(f"missing transcription: {md}")
         md_text = md.read_text()
