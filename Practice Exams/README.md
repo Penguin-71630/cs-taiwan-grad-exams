@@ -16,8 +16,10 @@ Practice Exams/
 
 - **出處**：年度、學校、卷名、題號（加上題庫的題目 ID，方便回查）
 - **轉錄文字**：逐張看原圖手打的 Markdown + LaTeX，不使用題庫的摘要文字。看不清楚的地方標紅色 **[?]**，不猜
-- **原圖**：從題庫的 `image_url` 下載的原圖，只校正明顯歪斜（≥ 0.75°）的圖；圖表就看原圖，不重畫
-- **作答區**：每題後面留約 4 行空白
+- **圖表**：不附整張原圖；題目有圖表時，從原圖裁切出圖表那一塊嵌入，不重畫（轉錄稿裡寫成 `<!-- fig x0 y0 x1 y1 -->`）。只校正明顯歪斜（≥ 0.75°）的圖
+- **空白**：每題後面留約 4 行空白，給作答和計算用
+
+程式碼不加底色，方便列印。
 
 字型：中文一律 Noto Serif TC，程式碼用 DejaVu Sans Mono，數學式用 New Computer Modern Math。
 「Computer Modern」用的是 New Computer Modern，也就是 LaTeX 預設字型 Computer Modern 的 OpenType 版本。
@@ -46,11 +48,12 @@ python _tools/check.py
 
 | 類別 | 單元 | 題數 | 頁數 | 結果 |
 |---|---|---:|---:|---|
-| 計系 | 作業系統 3-3 Process Tree, fork(), wait(), Zombie, Orphan | 10 | 16 | OK |
-| 資演 | 資料結構 1-7 Master Method | 13 | 11 | OK |
-| 數學 | 線性代數 5-6 Cayley-Hamilton | 3 | 2 | OK |
+| 計系 | 作業系統 3-3 Process Tree, fork(), wait(), Zombie, Orphan | 10 | 8 | OK |
+| 資演 | 資料結構 1-7 Master Method | 13 | 6 | OK |
+| 數學 | 線性代數 5-6 Cayley-Hamilton | 3 | 1 | OK |
 
 - `build_practice_set` 可以正常使用，`img.ptsfu.org` 的原圖也下載得到（要先在雲端環境的 Allowed domains 加上這個網域）。
 - 原圖裡會重複出現的頁首「【不可使用計算機】」沒有轉錄；作答規則（單選、複選、倒扣）有保留。
 - 102 交大《計算機系統》Q2 的 `runner` 函式，兩個大括號在原圖中印成實心黑色方塊，所以標成 [?]。
-- 三張圖因為明顯歪斜而校正過，角度見 `report.md`。
+- 第一版每題都附整張原圖；確認轉錄品質後改成只放轉錄文字，有圖表的題目才嵌入裁切的圖。
+- 手機上看的預覽圖在 `_preview/README.md`。

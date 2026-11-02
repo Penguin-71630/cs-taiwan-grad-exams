@@ -2,7 +2,10 @@
 
 Source folder layout (Practice Exams/_src/<group>/<chapter>/<chapter> - <topic>/):
   manifest.json   unit metadata + questions (id, year, school, paper, qnum, url)
-  <id>.md         hand transcription (Markdown + LaTeX math), one per question
+  <id>.md         hand transcription (Markdown + LaTeX math), one per question.
+                  A line `<!-- fig x0 y0 x1 y1 -->` (fractions of the deskewed original image)
+                  embeds that crop of the original -- used only for figures/diagrams,
+                  which are never redrawn.
   deskew.json     written by this script: detected skew angle per image
 
 Images are downloaded to a cache dir (default ~/.cache/tiku, override with TIKU_CACHE);
@@ -68,10 +71,34 @@ def prepare_image(q, skew):
     return out, w, h, info
 
 
-def md_to_typst(md_path):
+FIG_RE = re.compile(r"^<!--\s*fig\s+([\d.]+)\s+([\d.]+)\s+([\d.]+)\s+([\d.]+)\s*-->\s*$", re.M)
+
+
+def crop_figures(q, md_text, img_path):
+    """Replace fig directives with placeholders; return (md, {placeholder: typst call})."""
+    calls = {}
+
+    def sub(m):
+        k = len(calls)
+        x0, y0, x1, y1 = map(float, m.groups())
+        im = Image.open(img_path)
+        box = (round(x0 * im.width), round(y0 * im.height), round(x1 * im.width), round(y1 * im.height))
+        out = CACHE / "crop" / f"{q['id']}-{k}.jpg"
+        out.parent.mkdir(parents=True, exist_ok=True)
+        c = im.crop(box)
+        c.save(out, quality=90, optimize=True)
+        token = f"FIGCROP{k}XX"
+        # keep the figure at the scale it has on the original page (page width -> 17 cm)
+        calls[token] = f"#fig-crop({tstr(str(out))}, {c.width}, {c.height}, {x1 - x0:.3f})"
+        return token
+
+    return FIG_RE.sub(sub, md_text), calls
+
+
+def md_to_typst(md_text):
     r = subprocess.run(
-        ["pandoc", "--wrap=none", "-f", "markdown-fancy_lists-implicit_figures", "-t", "typst", str(md_path)],
-        capture_output=True, text=True, check=True)
+        ["pandoc", "--wrap=none", "-f", "markdown-fancy_lists-implicit_figures", "-t", "typst"],
+        input=md_text, capture_output=True, text=True, check=True)
     # plain monochrome code for printing: drop the language tag so typst does not colour it
     out = re.sub(r"^```\w+$", "```", r.stdout, flags=re.M)
     # pandoc does not escape typst list markers at line start ("2. ...", "+ ...", "- ...")
@@ -106,15 +133,20 @@ def build(src, out_pdf):
         md = src / f"{q['id']}.md"
         if not md.exists():
             raise SystemExit(f"missing transcription: {md}")
-        img, w, h, info = prepare_image(q, skew)
-        content = md_to_typst(md)
+        md_text = md.read_text()
+        calls = {}
+        if FIG_RE.search(md_text):
+            img, _, _, _ = prepare_image(q, skew)
+            md_text, calls = crop_figures(q, md_text, img)
+        content = md_to_typst(md_text)
+        for token, call in calls.items():
+            if token not in content:
+                raise SystemExit(f"figure placeholder lost for {q['id']}")
+            content = content.replace(token, call)
         src_line = f"{q['year']} 年　{q['school']}《{q['paper']}》　{q['qnum']}"
-        note = f"原圖（已校正歪斜 {abs(info['angle']):.1f}°）" if info["corrected"] else "原圖"
         body.append(f"""
 #question({i}, {tstr(src_line)}, {tstr(q['id'])})[
 {content}
-][
-#figure-orig({tstr(str(img))}, {w}, {h}, {tstr(note)})
 ]
 """)
     skew_path.write_text(json.dumps(skew, ensure_ascii=False, indent=1) + "\n")
@@ -133,23 +165,19 @@ def build(src, out_pdf):
 #show math.mat: it => math.display(it)
 #show math.cases: it => math.display(it)
 #show raw: set text(font: ("DejaVu Sans Mono", "Noto Serif TC"), size: 9.5pt)
-#show raw.where(block: true): it => block(width: 100%, fill: luma(246), inset: 7pt, radius: 2pt, it)
+#show raw.where(block: true): it => block(width: 100%, inset: (left: 1.2em, y: 4pt), it)
 #show "[?]": it => text(fill: rgb("#c0392b"), weight: "bold", it)
 #let blockquote(body) = block(inset: (left: 8pt), stroke: (left: 1.5pt + luma(170)), text(size: 9.5pt, fill: luma(70), body))
 #let horizontalrule = line(length: 100%, stroke: 0.5pt + luma(170))
 
-#let figure-orig(path, w, h, note) = {{
-  let maxw = 17cm
-  let maxh = 21cm
-  let width = calc.min(maxw / 1cm, maxh / 1cm * w / h) * 1cm
-  v(0.4em)
-  block(width: 100%, breakable: false, {{
-    text(size: 8.5pt, fill: luma(110), note)
-    align(center, box(stroke: 0.4pt + luma(190), image(path, width: width)))
-  }})
+// a figure cropped from the original scan (figures are embedded, never redrawn)
+#let fig-crop(path, w, h, frac) = {{
+  let maxh = 18cm
+  let width = calc.min(17 * frac, maxh / 1cm * w / h) * 1cm
+  block(width: 100%, align(center, image(path, width: width)))
 }}
 
-#let question(n, src, qid, body, fig) = {{
+#let question(n, src, qid, body) = {{
   // header + transcription stay together so a header never dangles at a page bottom
   block(width: 100%, breakable: false, {{
     line(length: 100%, stroke: 0.8pt)
@@ -161,9 +189,7 @@ def build(src, out_pdf):
     v(0.3em)
     body
   }})
-  fig
-  v(0.6em)
-  text(size: 9pt, fill: luma(110))[作答區]
+  // blank space for working / answers (about 4 lines)
   v(4 * 1.8em)
 }}
 
@@ -171,7 +197,7 @@ def build(src, out_pdf):
   #text(size: 18pt, weight: "bold", {tstr(title)}) \\
   #v(0.2em)
   #text(size: 10pt, fill: luma(80))[{group}｜{man['subject']}｜{schools}｜民國 100–107 年｜共 {len(qs)} 題] \\
-  #text(size: 8.5pt, fill: luma(120))[單元：{man['unit_key']}　・　題目來源：考古題題庫（tiku.ptsfu.org），以原圖為準；轉錄中標 [?] 處為原圖無法辨識]
+  #text(size: 8.5pt, fill: luma(120), {tstr(man['unit_key'])})
 ]
 #v(0.8em)
 {''.join(body)}

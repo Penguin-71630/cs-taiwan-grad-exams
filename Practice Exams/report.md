@@ -8,9 +8,9 @@
 
 | 類別 | 大類 | 主題 | 題數 | 頁數 | 檢查 |
 |---|---|---|---:|---:|---|
-| 數學 | Diagonalization | Diagonalization - Cayley-Hamilton | 3 | 2 | OK |
-| 計系 | Process | Process - Process Tree, fork(), wait(), Zombie, Orphan | 10 | 16 | OK |
-| 資演 | Time Complexity | Time Complexity - Master Method | 13 | 11 | OK |
+| 數學 | Diagonalization | Diagonalization - Cayley-Hamilton | 3 | 1 | OK |
+| 計系 | Process | Process - Process Tree, fork(), wait(), Zombie, Orphan | 10 | 8 | OK |
+| 資演 | Time Complexity | Time Complexity - Master Method | 13 | 6 | OK |
 
 ## 含 [?] 的題目
 
