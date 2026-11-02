@@ -1,0 +1,65 @@
+{
+ "unit_key": "Datapath",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Single-Cycle CPU",
+ "topic": "Datapath",
+ "questions": [
+  {
+   "id": "m_d9c6cd55c74266fa",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_d9c6cd55c74266fa.webp"
+  },
+  {
+   "id": "m_8b2e1564f28b7e2b",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_8b2e1564f28b7e2b.webp"
+  },
+  {
+   "id": "m_74d78f6bf3c90f57",
+   "year": 101,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_74d78f6bf3c90f57.webp"
+  },
+  {
+   "id": "78903fd134",
+   "year": 103,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q16",
+   "url": "https://img.ptsfu.org/78903fd134.webp"
+  },
+  {
+   "id": "m_82e00f8779d59178",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q23",
+   "url": "https://img.ptsfu.org/m_82e00f8779d59178.webp"
+  },
+  {
+   "id": "m_5fe7ceb2146da109",
+   "year": 100,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "II-Q4",
+   "url": "https://img.ptsfu.org/m_5fe7ceb2146da109.webp"
+  },
+  {
+   "id": "m_e2740d1ba1524e34",
+   "year": 101,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_e2740d1ba1524e34.webp"
+  }
+ ]
+}

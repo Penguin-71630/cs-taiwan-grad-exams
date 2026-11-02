@@ -1,0 +1,33 @@
+{
+ "unit_key": "Shift-Add Multiplication",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Arithmetic",
+ "topic": "Shift-Add Multiplication",
+ "questions": [
+  {
+   "id": "m_5a6b54660e48f655",
+   "year": 103,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_5a6b54660e48f655.webp"
+  },
+  {
+   "id": "m_ac8869cd585ab33d",
+   "year": 101,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_ac8869cd585ab33d.webp"
+  },
+  {
+   "id": "m_625e544126a0677b",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q16",
+   "url": "https://img.ptsfu.org/m_625e544126a0677b.webp"
+  }
+ ]
+}

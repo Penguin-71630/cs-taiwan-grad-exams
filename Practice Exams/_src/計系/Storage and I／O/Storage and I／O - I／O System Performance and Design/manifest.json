@@ -1,0 +1,49 @@
+{
+ "unit_key": "I/O System Performance and Design",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Storage and I／O",
+ "topic": "I／O System Performance and Design",
+ "questions": [
+  {
+   "id": "m_f798cc324d9e500f",
+   "year": 102,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_f798cc324d9e500f.webp"
+  },
+  {
+   "id": "fb66063b53",
+   "year": 100,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/fb66063b53.webp"
+  },
+  {
+   "id": "m_663d13be2b710316",
+   "year": 101,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "II-Q4",
+   "url": "https://img.ptsfu.org/m_663d13be2b710316.webp"
+  },
+  {
+   "id": "m_1d0c7004007a2987",
+   "year": 107,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_1d0c7004007a2987.webp"
+  },
+  {
+   "id": "m_072182812cd6685b",
+   "year": 100,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_072182812cd6685b.webp"
+  }
+ ]
+}

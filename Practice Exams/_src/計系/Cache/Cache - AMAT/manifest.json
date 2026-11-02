@@ -1,0 +1,65 @@
+{
+ "unit_key": "AMAT",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Cache",
+ "topic": "AMAT",
+ "questions": [
+  {
+   "id": "m_b901e394db79c2e9",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q24-Q25",
+   "url": "https://img.ptsfu.org/m_b901e394db79c2e9.webp"
+  },
+  {
+   "id": "m_075f4f8be606d00f",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_075f4f8be606d00f.webp"
+  },
+  {
+   "id": "m_54a48fde953563f8",
+   "year": 101,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "II-Q2",
+   "url": "https://img.ptsfu.org/m_54a48fde953563f8.webp"
+  },
+  {
+   "id": "m_d5f3c6ae448ee229",
+   "year": 104,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_d5f3c6ae448ee229.webp"
+  },
+  {
+   "id": "a650a220e6",
+   "year": 107,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/a650a220e6.webp"
+  },
+  {
+   "id": "fe99030a42",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/fe99030a42.webp"
+  },
+  {
+   "id": "m_4004db8bb8af7984",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q21-Q23",
+   "url": "https://img.ptsfu.org/m_4004db8bb8af7984.webp"
+  }
+ ]
+}

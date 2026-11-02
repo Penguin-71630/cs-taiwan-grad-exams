@@ -1,0 +1,217 @@
+{
+ "unit_key": "Data Hazards, Forwarding, Stalling, Load-Use Data Hazard",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Pipeline CPU",
+ "topic": "Data Hazards, Forwarding, Stalling, Load-Use Data Hazard",
+ "questions": [
+  {
+   "id": "m_8b86d05fad24761b",
+   "year": 106,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_8b86d05fad24761b.webp"
+  },
+  {
+   "id": "m_c2df8b8a70db8d22",
+   "year": 101,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_c2df8b8a70db8d22.webp"
+  },
+  {
+   "id": "m_62fedaf6141d7039",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q29-Q33",
+   "url": "https://img.ptsfu.org/m_62fedaf6141d7039.webp"
+  },
+  {
+   "id": "m_a11f2ed5fb52a88a",
+   "year": 102,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_a11f2ed5fb52a88a.webp"
+  },
+  {
+   "id": "m_3cc2919b23fa9182",
+   "year": 103,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_3cc2919b23fa9182.webp"
+  },
+  {
+   "id": "m_aa100b8eb21d0707",
+   "year": 100,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_aa100b8eb21d0707.webp"
+  },
+  {
+   "id": "m_9b0e80759bd4d160",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q24-Q27",
+   "url": "https://img.ptsfu.org/m_9b0e80759bd4d160.webp"
+  },
+  {
+   "id": "m_fce786d5c3bca17b",
+   "year": 101,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_fce786d5c3bca17b.webp"
+  },
+  {
+   "id": "m_04f032be930f2eb6",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q24",
+   "url": "https://img.ptsfu.org/m_04f032be930f2eb6.webp"
+  },
+  {
+   "id": "m_be8c3a5544915750",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q19",
+   "url": "https://img.ptsfu.org/m_be8c3a5544915750.webp"
+  },
+  {
+   "id": "m_a72e13f1947a1ae7",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q25",
+   "url": "https://img.ptsfu.org/m_a72e13f1947a1ae7.webp"
+  },
+  {
+   "id": "df21cef171",
+   "year": 100,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/df21cef171.webp"
+  },
+  {
+   "id": "db09eb507b",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/db09eb507b.webp"
+  },
+  {
+   "id": "a18bae6ff4",
+   "year": 103,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/a18bae6ff4.webp"
+  },
+  {
+   "id": "df92c12005",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/df92c12005.webp"
+  },
+  {
+   "id": "m_b015d39be7908b09",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_b015d39be7908b09.webp"
+  },
+  {
+   "id": "m_6695f652c0297450",
+   "year": 101,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "II-Q2",
+   "url": "https://img.ptsfu.org/m_6695f652c0297450.webp"
+  },
+  {
+   "id": "m_07bc235978f520a5",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q17",
+   "url": "https://img.ptsfu.org/m_07bc235978f520a5.webp"
+  },
+  {
+   "id": "m_05bab364f5590a44",
+   "year": 107,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_05bab364f5590a44.webp"
+  },
+  {
+   "id": "m_594a8a9ff62e0199",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_594a8a9ff62e0199.webp"
+  },
+  {
+   "id": "m_90c45d7dd89e1935",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q21-Q23",
+   "url": "https://img.ptsfu.org/m_90c45d7dd89e1935.webp"
+  },
+  {
+   "id": "m_7cf3cb43e805e465",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q18",
+   "url": "https://img.ptsfu.org/m_7cf3cb43e805e465.webp"
+  },
+  {
+   "id": "m_2df7504eeac85c75",
+   "year": 100,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "II-Q5",
+   "url": "https://img.ptsfu.org/m_2df7504eeac85c75.webp"
+  },
+  {
+   "id": "m_3390a2074da707e4",
+   "year": 107,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_3390a2074da707e4.webp"
+  },
+  {
+   "id": "b85d04bf0c",
+   "year": 105,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/b85d04bf0c.webp"
+  },
+  {
+   "id": "m_8bc8b01edaefbb9b",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q17",
+   "url": "https://img.ptsfu.org/m_8bc8b01edaefbb9b.webp"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "unit_key": "Write-Through vs. Write-Back, Write-Allocate vs. No-Write-Allocate",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Cache",
+ "topic": "Write-Through vs. Write-Back, Write-Allocate vs. No-Write-Allocate",
+ "questions": [
+  {
+   "id": "0da099cab4",
+   "year": 103,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/0da099cab4.webp"
+  },
+  {
+   "id": "m_50bcab1db328339e",
+   "year": 103,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_50bcab1db328339e.webp"
+  },
+  {
+   "id": "m_3b72fb3b52efdc0c",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_3b72fb3b52efdc0c.webp"
+  },
+  {
+   "id": "m_f1c8fef0e02f432f",
+   "year": 100,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_f1c8fef0e02f432f.webp"
+  },
+  {
+   "id": "d10e62e4ec",
+   "year": 103,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/d10e62e4ec.webp"
+  },
+  {
+   "id": "66a462008c",
+   "year": 100,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/66a462008c.webp"
+  },
+  {
+   "id": "a650a220e6",
+   "year": 107,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/a650a220e6.webp"
+  },
+  {
+   "id": "5a1342ebb7",
+   "year": 101,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/5a1342ebb7.webp"
+  }
+ ]
+}

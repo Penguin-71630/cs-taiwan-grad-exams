@@ -1,0 +1,97 @@
+{
+ "unit_key": "Amdahl's Law",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Performance",
+ "topic": "Amdahl's Law",
+ "questions": [
+  {
+   "id": "m_aa59b3d9c6cf3fbb",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_aa59b3d9c6cf3fbb.webp"
+  },
+  {
+   "id": "m_54c656c893b7031a",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q18",
+   "url": "https://img.ptsfu.org/m_54c656c893b7031a.webp"
+  },
+  {
+   "id": "15c1ef2d31",
+   "year": 106,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/15c1ef2d31.webp"
+  },
+  {
+   "id": "m_b486466de747f65f",
+   "year": 100,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "II-Q1",
+   "url": "https://img.ptsfu.org/m_b486466de747f65f.webp"
+  },
+  {
+   "id": "m_e9657f41bc6dad9a",
+   "year": 101,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_e9657f41bc6dad9a.webp"
+  },
+  {
+   "id": "1843cb536f",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/1843cb536f.webp"
+  },
+  {
+   "id": "m_4ad6808ea1d03e97",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_4ad6808ea1d03e97.webp"
+  },
+  {
+   "id": "m_cdf53962bcc6ba68",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_cdf53962bcc6ba68.webp"
+  },
+  {
+   "id": "fb66063b53",
+   "year": 100,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/fb66063b53.webp"
+  },
+  {
+   "id": "m_fa8f239766ac812e",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q16",
+   "url": "https://img.ptsfu.org/m_fa8f239766ac812e.webp"
+  },
+  {
+   "id": "f12cfb95ad",
+   "year": 102,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/f12cfb95ad.webp"
+  }
+ ]
+}

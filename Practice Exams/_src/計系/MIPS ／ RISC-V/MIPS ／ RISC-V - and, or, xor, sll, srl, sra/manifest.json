@@ -1,0 +1,33 @@
+{
+ "unit_key": "and, or, xor, sll, srl, sra",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "MIPS ／ RISC-V",
+ "topic": "and, or, xor, sll, srl, sra",
+ "questions": [
+  {
+   "id": "m_949e7f6f95d47ee5",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_949e7f6f95d47ee5.webp"
+  },
+  {
+   "id": "m_f7ee91af69138f26",
+   "year": 100,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_f7ee91af69138f26.webp"
+  },
+  {
+   "id": "858fa7097b",
+   "year": 106,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/858fa7097b.webp"
+  }
+ ]
+}

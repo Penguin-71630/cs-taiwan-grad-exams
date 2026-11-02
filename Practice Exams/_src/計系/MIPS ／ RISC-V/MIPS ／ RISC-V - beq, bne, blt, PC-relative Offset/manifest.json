@@ -1,0 +1,73 @@
+{
+ "unit_key": "beq, bne, blt, PC-relative Offset",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "MIPS ／ RISC-V",
+ "topic": "beq, bne, blt, PC-relative Offset",
+ "questions": [
+  {
+   "id": "45ed01c14d",
+   "year": 101,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/45ed01c14d.webp"
+  },
+  {
+   "id": "m_83c881b3a45f21c1",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_83c881b3a45f21c1.webp"
+  },
+  {
+   "id": "m_3ab4ce9d30b6db5f",
+   "year": 104,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/m_3ab4ce9d30b6db5f.webp"
+  },
+  {
+   "id": "0ebf1c68d0",
+   "year": 106,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/0ebf1c68d0.webp"
+  },
+  {
+   "id": "m_92e60a4f41f2fd7c",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_92e60a4f41f2fd7c.webp"
+  },
+  {
+   "id": "m_ece7dbdc3f3cba43",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_ece7dbdc3f3cba43.webp"
+  },
+  {
+   "id": "m_2ab5e171fc107d2d",
+   "year": 101,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "II-Q1",
+   "url": "https://img.ptsfu.org/m_2ab5e171fc107d2d.webp"
+  },
+  {
+   "id": "m_137918f0df732c49",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_137918f0df732c49.webp"
+  }
+ ]
+}

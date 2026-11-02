@@ -1,0 +1,231 @@
+m_8b86d05fad24761b|106|清大|計算機系統|Q13|Hardware Multithreading: Fine-Grained, Coarse-Grained, SMT;Control Hazards;Data Hazards, Forwarding, Stalling, Load-Use Data Hazard;5-stage: IF/ID/EX/MEM/WB, Pipeline Register
+m_aa59b3d9c6cf3fbb|102|交大|計算機系統|Q9|CPU Time (IC x CPI x Tc);MIPS-as-metric fallacy;Amdahl's Law
+m_9a47c75af1deb3e0|106|交大|計算機系統|Q4|Branch Prediction, 1-bit / 2-bit Branch History Table, Accuracy
+m_d9c6cd55c74266fa|107|交大|計算機系統|Q6|Datapath
+m_dedb3aa2f705f886|106|交大|計算機系統|Q2|5-stage: IF/ID/EX/MEM/WB, Pipeline Register;Exceptions
+cf1a1924bc|101|清大|計算機系統|Q7|RAID 0/1/5/6
+m_c51e494c6fdf8434|104|交大|計算機系統|Q10|TLB, Effective Access Time;Page Table, Page Fault, Dirty Bit, Reference Bit
+m_c2df8b8a70db8d22|101|交大|計算機組織|Q9|Pipelined Datapath, Control;Data Hazards, Forwarding, Stalling, Load-Use Data Hazard
+m_7c5087e7e945137e|104|台大|計算機系統|Q2|2's Complement, Sign Extension;IEEE 754;(RV) R/I/S/B/U/J Types, (MIPS) R/I/J Types;add, sub, lw, sw, 32 General Purpose Registers;FP Does Not Have Associativity
+m_435ff648b55718e3|105|交大|計算機系統|Q4|I/O Communication: Polling, Interrupt, DMA
+m_62fedaf6141d7039|104|交大|計算機系統|Q29-Q33|Control Hazards;Pipelined Datapath, Control;Data Hazards, Forwarding, Stalling, Load-Use Data Hazard
+m_ee22df88ef4c380d|103|台大|計算機結構與作業系統|Q2|Intro to GPU;GPU System Architectures;UMA vs. NUMA, Shared Memory;Compile and Start a Program
+m_f798cc324d9e500f|102|台大|計算機系統|Q10|I/O System Performance and Design;Synchronous Bus, Asynchronous Bus, Arbitration, Bandwidth;CPU Time (IC x CPI x Tc)
+m_40a150886fd0756d|101|台大|計算機系統|II-Q4|Power Wall (P = CV^2 f);Uniprocessor => Multiprocessor
+m_6feeea1eef5998e4|105|交大|計算機系統|Q15|RAID 0/1/5/6;Dependability, Reliability, Availability (MTTF, MTBF, MTTR)
+m_7d3a367056066a45|105|交大|計算機系統|Q16|5-stage: IF/ID/EX/MEM/WB, Pipeline Register;CPU Time (IC x CPI x Tc);MIPS-as-metric fallacy;Pipelined Datapath, Control
+m_2e7bab16a7f05156|101|交大|計算機組織|Q2|Power Wall (P = CV^2 f);Uniprocessor => Multiprocessor
+m_152a17b392740845|100|交大|計算機組織|Q7|Procedure Call
+1497ccc6f2|107|台大|計算機系統|Q5|DNN Accelerators, Google TPU
+0da099cab4|103|清大|計算機系統|Q12|Write-Through vs. Write-Back, Write-Allocate vs. No-Write-Allocate
+m_a11f2ed5fb52a88a|102|台大|計算機系統|Q13|5-stage: IF/ID/EX/MEM/WB, Pipeline Register;Pipelined Datapath, Control;Data Hazards, Forwarding, Stalling, Load-Use Data Hazard;Control Hazards;CPU Time (IC x CPI x Tc)
+m_355e1ed1cb194cd8|101|交大|計算機組織|Q8|Main Control, ALU Control
+m_e8ebb316f8e90e2d|106|台大|計算機系統|Q6|Benchmark / SPEC;CPU Time (IC x CPI x Tc)
+1120ca16b2|106|清大|計算機系統|Q7|I/O Communication: Polling, Interrupt, DMA
+45ed01c14d|101|清大|計算機系統|Q10|beq, bne, blt, PC-relative Offset;Wide Immediates, Addressing (PC-relative vs. Pseudodirect)
+m_a38e36c1743b239c|106|台大|計算機系統|Q5|(RV) R/I/S/B/U/J Types, (MIPS) R/I/J Types;add, sub, lw, sw, 32 General Purpose Registers
+m_17972f05e458dc58|104|交大|計算機系統|Q19|CPU Time (IC x CPI x Tc);MIPS-as-metric fallacy
+m_99f38070d04cad3a|103|交大|計算機系統|Q7|Power Wall (P = CV^2 f);Uniprocessor => Multiprocessor;IC Fabrication, Wafer, Die Yield, Cost
+m_fdb32e7bd5d8475a|105|交大|計算機系統|Q23-Q24|Direct-Mapped Cache;Set-Associative, Fully-Associative
+m_d6dc6159722a0000|102|台大|計算機系統|Q8|Message Passing, MPP, Clusters, WSC
+dd8438735b|101|清大|計算機系統|Q8|計算機組織§1-1 Number Systems, Base Conversion, Bits Required;計算機組織§1-2 Signed Numbers: Sign-Magnitude, Complements, Binary Arithmetic
+918506b0b2|106|清大|計算機系統|Q9|Introduction, 8 Great Ideas
+m_00842ba6fafcb3eb|102|台大|計算機系統|Q1|Message Passing, MPP, Clusters, WSC
+m_e9a95cd43062ebf2|100|交大|計算機組織|II-Q3|Overflow Detection
+m_50bcab1db328339e|103|交大|計算機系統|Q8|Temporal / Spatial Locality;Direct-Mapped Cache;Write-Through vs. Write-Back, Write-Allocate vs. No-Write-Allocate
+479bdcff5c|103|清大|計算機系統|Q11|Ripple-Carry Adder;Carry-Lookahead Adder
+m_203388e183005a29|104|交大|計算機系統|Q15|add, sub, lw, sw, 32 General Purpose Registers;計算機組織§2-4 struct, union, enum, Memory Layout, Endianness
+m_d2cdf1f8edf3667a|102|台大|計算機系統|Q11|CPU Time (IC x CPI x Tc);Message Passing, MPP, Clusters, WSC;Energy Efficiency: Energy vs. Power, Battery Life, Performance per Watt
+c965edd458|106|台大|計算機系統|Q7|Cache Optimizations (3): Critical Word First, Prefetch;Common Framework For Memory Hierarchy;Set-Associative, Fully-Associative;Cache Replacement Policy
+m_54c656c893b7031a|104|交大|計算機系統|Q18|Amdahl's Law
+m_83c881b3a45f21c1|106|台大|計算機系統|Q8|beq, bne, blt, PC-relative Offset;Control Hazards;Branch Prediction, 1-bit / 2-bit Branch History Table, Accuracy
+m_3cc2919b23fa9182|103|交大|計算機系統|Q6|Data Hazards, Forwarding, Stalling, Load-Use Data Hazard;Pipelined Datapath, Control
+m_aa100b8eb21d0707|100|台大|計算機系統|Q7|Data Hazards, Forwarding, Stalling, Load-Use Data Hazard;5-stage: IF/ID/EX/MEM/WB, Pipeline Register;Exceptions;Control Hazards
+m_3ab4ce9d30b6db5f|104|清大|計算機系統|Q14|Control Hazards;Pipelined Datapath, Control;Branch Prediction, 1-bit / 2-bit Branch History Table, Accuracy;beq, bne, blt, PC-relative Offset
+m_9b0e80759bd4d160|107|交大|計算機系統|Q24-Q27|Data Hazards, Forwarding, Stalling, Load-Use Data Hazard;Pipelined Datapath, Control
+m_01f88d5323ea6db9|107|台大|計算機系統|Q4|Intro to GPU;Mapping Applications to GPUs
+m_89509aa99866971d|101|交大|計算機組織|II-Q6|Main Control, ALU Control
+m_b901e394db79c2e9|106|交大|計算機系統|Q24-Q25|L1 Cache, L2 Cache, L3 Cache, Inclusion vs. Exclusion Policy;AMAT
+m_3b9a01fe90fad18f|104|交大|計算機系統|Q4|TLB, Effective Access Time
+m_e54206b6b05d9a67|100|交大|計算機組織|Q2|IEEE 754
+m_0f7ad9677e170e43|102|台大|計算機系統|Q3|Energy Efficiency: Energy vs. Power, Battery Life, Performance per Watt;Message Passing, MPP, Clusters, WSC
+a7d5e2b1bb|107|清大|計算機系統|Q7|Wide Immediates, Addressing (PC-relative vs. Pseudodirect);add, sub, lw, sw, 32 General Purpose Registers;Instruction Set Principles: ISA Classes, RISC vs. CISC, Word Size
+m_8b2e1564f28b7e2b|106|交大|計算機系統|Q5|Datapath;5-stage: IF/ID/EX/MEM/WB, Pipeline Register
+15c1ef2d31|106|清大|計算機系統|Q15|Amdahl's Law;Uniprocessor => Multiprocessor
+m_bf3a694c723e78a2|102|台大|計算機系統|Q9|CPU Time (IC x CPI x Tc)
+m_fce786d5c3bca17b|101|交大|計算機組織|Q10|Pipelined Datapath, Control;Data Hazards, Forwarding, Stalling, Load-Use Data Hazard
+m_74d78f6bf3c90f57|101|交大|計算機組織|Q6|Datapath
+m_8d056f899b0f5258|103|台大|計算機結構與作業系統|Q3|GPU System Architectures;Intro to GPU
+m_04f032be930f2eb6|102|交大|計算機系統|Q24|Data Hazards, Forwarding, Stalling, Load-Use Data Hazard;Pipelined Datapath, Control
+ea386ac755|107|台大|計算機系統|Q1|Protection Mechanism;ILP, Dynamic Scheduling (Tomasulo, ROB, Speculation), OoO Issue;Exceptions;Temporal / Spatial Locality
+5917302f96|104|清大|計算機系統|Q8|I/O Communication: Polling, Interrupt, DMA
+m_63ea0e6ff61edfac|104|台大|計算機系統|Q6|I/O Communication: Polling, Interrupt, DMA
+m_6411386213816bf6|103|交大|計算機系統|Q12|CPU Time (IC x CPI x Tc);Control Hazards
+m_be8c3a5544915750|105|交大|計算機系統|Q19|5-stage: IF/ID/EX/MEM/WB, Pipeline Register;Data Hazards, Forwarding, Stalling, Load-Use Data Hazard;Pipelined Datapath, Control
+0ebf1c68d0|106|清大|計算機系統|Q10|beq, bne, blt, PC-relative Offset;Wide Immediates, Addressing (PC-relative vs. Pseudodirect)
+m_84557777d2c1129b|106|台大|計算機系統|Q12|TAS, TTAS, Spinlock, CAS, ABA Problem, Consensus Number
+m_0d8968aab42d1b5a|101|交大|計算機組織|II-Q7|Direct-Mapped Cache;Set-Associative, Fully-Associative;Cache Replacement Policy
+m_48f78e397fa45595|105|交大|計算機系統|Q8|RAID 0/1/5/6
+m_7c8aedefd37f30df|101|交大|計算機組織|Q3|IEEE 754
+m_c0902eb97eb52fdb|104|清大|計算機系統|Q7|RAID 0/1/5/6
+m_f8df346132ac2842|105|交大|計算機系統|Q21-Q22|Control Hazards;(MIPS) Branch Delay Slot;Branch Prediction, 1-bit / 2-bit Branch History Table, Accuracy
+4f360782d1|105|台大|計算機結構與作業系統|Q2|Cache Coherence: Snooping (MESI), Directory-Based (MOESI);Compulsory Miss, Capacity Miss, Conflict Miss, Coherence Miss;Compile and Start a Program
+m_428296470643c427|105|交大|計算機系統|Q13|VM;Page Table, Page Fault, Dirty Bit, Reference Bit;TLB, Effective Access Time;Common Framework For Memory Hierarchy
+31ec680c51|105|清大|計算機系統|Q6|Set-Associative, Fully-Associative;Cache Replacement Policy
+201a71b418|105|清大|計算機系統|Q2|ILP, Dynamic Scheduling (Tomasulo, ROB, Speculation), OoO Issue
+m_06c15c982a474c64|105|交大|計算機系統|Q20|Control Hazards;5-stage: IF/ID/EX/MEM/WB, Pipeline Register
+01c7b67473|104|清大|計算機系統|Q10|Overflow Detection;2's Complement, Sign Extension
+m_a72e13f1947a1ae7|102|交大|計算機系統|Q25|Control Hazards;Data Hazards, Forwarding, Stalling, Load-Use Data Hazard
+b48221f1e8|107|清大|計算機系統|Q4|Page Table, Page Fault, Dirty Bit, Reference Bit;TLB, Effective Access Time
+m_7d293288b6a409a9|103|交大|計算機系統|Q23-Q25|Direct-Mapped Cache
+m_2a4f7c88843a50d5|107|交大|計算機系統|Q3|CPU Time (IC x CPI x Tc);Uniprocessor => Multiprocessor
+78903fd134|103|清大|計算機系統|Q16|Main Control, ALU Control;Datapath
+df21cef171|100|清大|計算機系統|Q10|Data Hazards, Forwarding, Stalling, Load-Use Data Hazard;5-stage: IF/ID/EX/MEM/WB, Pipeline Register
+m_629cc61e4f449fd2|107|交大|計算機系統|Q5|Common Framework For Memory Hierarchy;VM;Set-Associative, Fully-Associative
+m_508c527cbabaf3e8|102|台大|計算機系統|Q6|Energy Efficiency: Energy vs. Power, Battery Life, Performance per Watt
+m_92e60a4f41f2fd7c|106|交大|計算機系統|Q3|beq, bne, blt, PC-relative Offset;Wide Immediates, Addressing (PC-relative vs. Pseudodirect);(RV) R/I/S/B/U/J Types, (MIPS) R/I/J Types
+m_e8842a4529b6b6f1|102|台大|計算機系統|Q2|Instruction Set Principles: ISA Classes, RISC vs. CISC, Word Size
+m_b486466de747f65f|100|交大|計算機組織|II-Q1|CPU Time (IC x CPI x Tc);Amdahl's Law
+6c5a684dfb|102|清大|計算機系統|Q7|5-stage: IF/ID/EX/MEM/WB, Pipeline Register
+db09eb507b|103|台大|計算機結構與作業系統|Q8|Data Hazards, Forwarding, Stalling, Load-Use Data Hazard
+2fbad23328|104|清大|計算機系統|Q12|Page Table, Page Fault, Dirty Bit, Reference Bit
+a18bae6ff4|103|清大|計算機系統|Q14|Data Hazards, Forwarding, Stalling, Load-Use Data Hazard;Control Hazards
+m_67859e80ac09ab3c|102|交大|計算機系統|Q22|Page Table, Page Fault, Dirty Bit, Reference Bit;TLB, Effective Access Time;Set-Associative, Fully-Associative
+80c9b85bcb|102|清大|計算機系統|Q12|IEEE 754
+m_82e00f8779d59178|102|交大|計算機系統|Q23|Datapath;Main Control, ALU Control
+m_80c7727f2cfc9bb1|103|台大|計算機結構與作業系統|Q5|Benchmark / SPEC;ILP, Dynamic Scheduling (Tomasulo, ROB, Speculation), OoO Issue;Exceptions;Uniprocessor => Multiprocessor;VLIW (Very-Long Instruction Word);Instruction Set Principles: ISA Classes, RISC vs. CISC, Word Size
+m_c6554ad81da93539|102|交大|計算機系統|Q12|Branch Prediction, 1-bit / 2-bit Branch History Table, Accuracy
+e199432f21|103|清大|計算機系統|Q15|UMA vs. NUMA, Shared Memory;Message Passing, MPP, Clusters, WSC;Hardware Multithreading: Fine-Grained, Coarse-Grained, SMT;GPU System Architectures
+f9ea13bec3|100|清大|計算機系統|Q8|計算機組織§2-2 Decoder, Multiplexer, Priority Encoder, Shifter
+m_e4a29f4decf72fc5|102|台大|計算機系統|Q14|TLB, Effective Access Time;Page Table, Page Fault, Dirty Bit, Reference Bit;Compulsory Miss, Capacity Miss, Conflict Miss, Coherence Miss;Set-Associative, Fully-Associative;VIPT;Instruction Set Principles: ISA Classes, RISC vs. CISC, Word Size
+df92c12005|103|台大|計算機結構與作業系統|Q4|Temporal / Spatial Locality;Data Hazards, Forwarding, Stalling, Load-Use Data Hazard
+m_d67c64cce33521fe|105|台大|計算機結構與作業系統|Q3|Cache Coherence: Snooping (MESI), Directory-Based (MOESI);Compulsory Miss, Capacity Miss, Conflict Miss, Coherence Miss
+m_59ecc34135ef1078|104|交大|計算機系統|Q34-Q38|TLB, Effective Access Time;Page Table, Page Fault, Dirty Bit, Reference Bit;Set-Associative, Fully-Associative;Cache Replacement Policy
+m_2f64b549f823778d|106|交大|計算機系統|Q14|TAS, TTAS, Spinlock, CAS, ABA Problem, Consensus Number
+m_b131786973e8b881|106|交大|計算機系統|Q9|VM;Page Table, Page Fault, Dirty Bit, Reference Bit;TLB, Effective Access Time
+m_ece7dbdc3f3cba43|107|交大|計算機系統|Q7|beq, bne, blt, PC-relative Offset;Wide Immediates, Addressing (PC-relative vs. Pseudodirect)
+m_9327a982c24b9c31|100|交大|計算機組織|Q5|add, sub, lw, sw, 32 General Purpose Registers;Instruction Set Principles: ISA Classes, RISC vs. CISC, Word Size
+m_075f4f8be606d00f|106|交大|計算機系統|Q8|AMAT
+m_94782a3fff0a5a70|107|台大|計算機系統|Q9|VIPT;Set-Associative, Fully-Associative
+m_5a6b54660e48f655|103|交大|計算機系統|Q5|Shift-Add Multiplication;Booth's Algorithm
+m_54a48fde953563f8|101|台大|計算機系統|II-Q2|AMAT;CPU Time (IC x CPI x Tc)
+m_e9657f41bc6dad9a|101|交大|計算機組織|Q1|Amdahl's Law
+m_00ba249a92884934|101|交大|計算機組織|II-Q5|CPU Time (IC x CPI x Tc)
+e5645b7461|106|清大|計算機系統|Q8|2's Complement, Sign Extension
+eefe10162b|105|清大|計算機系統|Q5|Compulsory Miss, Capacity Miss, Conflict Miss, Coherence Miss;Temporal / Spatial Locality;Set-Associative, Fully-Associative
+m_3b72fb3b52efdc0c|104|交大|計算機系統|Q9|Write-Through vs. Write-Back, Write-Allocate vs. No-Write-Allocate;Common Framework For Memory Hierarchy;L1 Cache, L2 Cache, L3 Cache, Inclusion vs. Exclusion Policy;Set-Associative, Fully-Associative;Compulsory Miss, Capacity Miss, Conflict Miss, Coherence Miss
+m_906a429b1043df62|105|交大|計算機系統|Q11|CPU Time (IC x CPI x Tc);5-stage: IF/ID/EX/MEM/WB, Pipeline Register;Power Wall (P = CV^2 f);Introduction, 8 Great Ideas
+m_c7267b62dc7f846f|102|台大|計算機系統|Q5|CPU Time (IC x CPI x Tc)
+m_1f40f62c4809cf38|104|台大|計算機系統|Q1|add, sub, lw, sw, 32 General Purpose Registers;Procedure Call;SIMD;Instruction Set Principles: ISA Classes, RISC vs. CISC, Word Size
+m_c2638d8feb130849|104|交大|計算機系統|Q20|Direct-Mapped Cache;Compulsory Miss, Capacity Miss, Conflict Miss, Coherence Miss;Temporal / Spatial Locality
+m_f20f4aba26f94796|105|台大|計算機結構與作業系統|Q4|Intro to GPU;Mapping Applications to GPUs;Roofline Model: Compute-Bound vs. Memory-Bound
+m_b015d39be7908b09|103|台大|計算機結構與作業系統|Q9|VLIW (Very-Long Instruction Word);Data Hazards, Forwarding, Stalling, Load-Use Data Hazard
+m_4293c2b9889d80ae|107|交大|計算機系統|Q4|Temporal / Spatial Locality;Common Framework For Memory Hierarchy
+m_4b26da770b7acb05|106|交大|計算機系統|Q7|Set-Associative, Fully-Associative;Cache Replacement Policy
+m_0f912982aa68e7c4|100|交大|計算機組織|Q4|IEEE 754
+9af8c6d44f|107|清大|計算機系統|Q11|HDD, SSD
+1843cb536f|103|台大|計算機結構與作業系統|Q7|Amdahl's Law
+m_bf1a11c69b44dabc|101|清大|計算機系統|Q9|Pipelined Datapath, Control;Main Control, ALU Control
+m_a989d0039ac81532|101|交大|計算機組織|II-Q3|RAID 0/1/5/6
+53cbf1d988|107|台大|計算機系統|Q3|ILP, Dynamic Scheduling (Tomasulo, ROB, Speculation), OoO Issue;VLIW (Very-Long Instruction Word)
+m_2dbd19c9bad91235|101|交大|計算機組織|Q5|Compulsory Miss, Capacity Miss, Conflict Miss, Coherence Miss;L1 Cache, L2 Cache, L3 Cache, Inclusion vs. Exclusion Policy;Temporal / Spatial Locality
+m_d5f3c6ae448ee229|104|台大|計算機系統|Q4|AMAT;Cache Optimizations (3): Critical Word First, Prefetch;CPU Time (IC x CPI x Tc)
+m_59ce23889e375c8d|107|交大|計算機系統|Q9|Control Hazards;Branch Prediction, 1-bit / 2-bit Branch History Table, Accuracy;CPU Time (IC x CPI x Tc)
+c1ff04bbec|100|清大|計算機系統|Q9|D-FF Timing, Critical Path, Max Freq, Hold Violation, Buffer Insertion;CPU Time (IC x CPI x Tc)
+55d2bf6cba|102|台大|計算機系統|Q12|Cache Optimizations (4): Compiler Optimization, Victim Cache;Set-Associative, Fully-Associative;Cache Optimizations (3): Critical Word First, Prefetch;Direct-Mapped Cache;Compulsory Miss, Capacity Miss, Conflict Miss, Coherence Miss
+m_4ad6808ea1d03e97|105|台大|計算機結構與作業系統|Q1|Introduction, 8 Great Ideas;Intro to GPU;Mapping Applications to GPUs;DNN Accelerators, Google TPU;Message Passing, MPP, Clusters, WSC;Amdahl's Law;Energy Efficiency: Energy vs. Power, Battery Life, Performance per Watt
+m_59979eaf31ab0ee4|107|交大|計算機系統|Q2|Introduction, 8 Great Ideas
+81b94ace6b|103|清大|計算機系統|Q10|2's Complement, Sign Extension
+m_35f47cd4f3a5af72|103|交大|計算機系統|Q26-Q28|CPU Time (IC x CPI x Tc)
+13d501df4f|102|清大|計算機系統|Q10|Wide Immediates, Addressing (PC-relative vs. Pseudodirect);CPU Time (IC x CPI x Tc);Instruction Set Principles: ISA Classes, RISC vs. CISC, Word Size
+m_f1c8fef0e02f432f|100|台大|計算機系統|Q6|TLB, Effective Access Time;Page Table, Page Fault, Dirty Bit, Reference Bit;Cache Coherence: Snooping (MESI), Directory-Based (MOESI);Direct-Mapped Cache;Write-Through vs. Write-Back, Write-Allocate vs. No-Write-Allocate
+e291080e1c|106|清大|計算機系統|Q14|L1 Cache, L2 Cache, L3 Cache, Inclusion vs. Exclusion Policy;SRAM, DRAM, NAND / NOR Flash
+de67dab11b|102|清大|計算機系統|Q8|I/O Communication: Polling, Interrupt, DMA
+210a7a7ece|104|清大|計算機系統|Q11|L1 Cache, L2 Cache, L3 Cache, Inclusion vs. Exclusion Policy;CPU Time (IC x CPI x Tc)
+m_f71f5d6329223cb5|106|交大|計算機系統|Q10|RAID 0/1/5/6
+m_6695f652c0297450|101|交大|計算機組織|II-Q2|Control Hazards;Data Hazards, Forwarding, Stalling, Load-Use Data Hazard
+d10e62e4ec|103|清大|計算機系統|Q13|Write-Through vs. Write-Back, Write-Allocate vs. No-Write-Allocate;I/O Communication: Polling, Interrupt, DMA
+m_07bc235978f520a5|104|交大|計算機系統|Q17|5-stage: IF/ID/EX/MEM/WB, Pipeline Register;Data Hazards, Forwarding, Stalling, Load-Use Data Hazard;Control Hazards;Branch Prediction, 1-bit / 2-bit Branch History Table, Accuracy;(MIPS) Branch Delay Slot
+m_05bab364f5590a44|107|清大|計算機系統|Q8|Data Hazards, Forwarding, Stalling, Load-Use Data Hazard;Control Hazards;Branch Prediction, 1-bit / 2-bit Branch History Table, Accuracy;5-stage: IF/ID/EX/MEM/WB, Pipeline Register;Power Wall (P = CV^2 f)
+m_268ad3df7ee6bb1b|106|台大|計算機系統|Q3|Roofline Model: Compute-Bound vs. Memory-Bound;Cache Optimizations (3): Critical Word First, Prefetch;DGEMM: Loop Unrolling, Register Renaming;SIMD, Vector Processors (GPU's Predecessor)
+m_3464c2ceefafe40c|100|台大|計算機系統|Q1|Hardware Multithreading: Fine-Grained, Coarse-Grained, SMT
+m_5336c2c3bbfd2598|102|交大|計算機系統|Q21|Temporal / Spatial Locality;Direct-Mapped Cache;Compulsory Miss, Capacity Miss, Conflict Miss, Coherence Miss;Cache Optimizations (4): Compiler Optimization, Victim Cache
+m_34ade77146cc82f4|102|交大|計算機系統|Q20|IEEE 754
+1141d9183f|105|清大|計算機系統|Q4|Ripple-Carry Adder;Carry-Lookahead Adder
+m_60e33b7a65deddcc|102|交大|計算機系統|Q8|Introduction, 8 Great Ideas;Power Wall (P = CV^2 f);IC Fabrication, Wafer, Die Yield, Cost
+m_cdf53962bcc6ba68|106|交大|計算機系統|Q6|5-stage: IF/ID/EX/MEM/WB, Pipeline Register;CPU Time (IC x CPI x Tc);Power Wall (P = CV^2 f);Amdahl's Law
+m_5fe7ceb2146da109|100|交大|計算機組織|II-Q4|Datapath;Main Control, ALU Control
+m_86a54a442746a33b|107|交大|計算機系統|Q8|IEEE 754
+66a462008c|100|清大|計算機系統|Q12|Write-Through vs. Write-Back, Write-Allocate vs. No-Write-Allocate
+m_594a8a9ff62e0199|104|交大|計算機系統|Q8|5-stage: IF/ID/EX/MEM/WB, Pipeline Register;Data Hazards, Forwarding, Stalling, Load-Use Data Hazard;Control Hazards
+m_48eae64731c2226f|100|交大|計算機組織|Q8|ILP, Dynamic Scheduling (Tomasulo, ROB, Speculation), OoO Issue;VLIW (Very-Long Instruction Word);Branch Prediction, 1-bit / 2-bit Branch History Table, Accuracy
+m_90c45d7dd89e1935|106|交大|計算機系統|Q21-Q23|Data Hazards, Forwarding, Stalling, Load-Use Data Hazard;5-stage: IF/ID/EX/MEM/WB, Pipeline Register
+m_e79dc8ba183001f2|100|交大|計算機組織|Q1|Power Wall (P = CV^2 f);Uniprocessor => Multiprocessor;MIPS-as-metric fallacy;CPU Time (IC x CPI x Tc)
+m_6382523b529ccc21|105|交大|計算機系統|Q12|Set-Associative, Fully-Associative
+m_5dc422bf68432ab4|105|交大|計算機系統|Q14|Compulsory Miss, Capacity Miss, Conflict Miss, Coherence Miss;Set-Associative, Fully-Associative
+m_3baec4f9da0c5049|104|台大|計算機系統|Q3|Control Hazards;Branch Prediction, 1-bit / 2-bit Branch History Table, Accuracy
+c8a0b207cf|101|清大|計算機系統|Q3|TLB, Effective Access Time
+m_0a1e04bc48e289c2|101|台大|計算機系統|II-Q3|Message Passing, MPP, Clusters, WSC;Cluster Networking: InfiniBand, Ethernet, Fat-Tree, Switch Hierarchy;Power Wall (P = CV^2 f)
+m_2f72e4880705e001|100|交大|計算機組織|Q9|Branch Prediction, 1-bit / 2-bit Branch History Table, Accuracy
+3ed493e827|101|清大|計算機系統|Q12|Dependability, Reliability, Availability (MTTF, MTBF, MTTR);RAID 0/1/5/6
+m_828578c33d1ef8eb|107|交大|計算機系統|Q1|Compile and Start a Program
+m_7cf3cb43e805e465|105|交大|計算機系統|Q18|Data Hazards, Forwarding, Stalling, Load-Use Data Hazard;5-stage: IF/ID/EX/MEM/WB, Pipeline Register
+m_894ed0ea2e4fb774|102|台大|計算機系統|Q7|Energy Efficiency: Energy vs. Power, Battery Life, Performance per Watt
+m_e3317268590b9cc6|107|交大|計算機系統|Q10|VLIW (Very-Long Instruction Word);DGEMM: Loop Unrolling, Register Renaming
+61c6779d83|104|清大|計算機系統|Q9|IEEE 754
+m_2df7504eeac85c75|100|交大|計算機組織|II-Q5|Data Hazards, Forwarding, Stalling, Load-Use Data Hazard;5-stage: IF/ID/EX/MEM/WB, Pipeline Register
+ac22663bfc|103|清大|計算機系統|Q9|CPU Time (IC x CPI x Tc)
+m_ac8869cd585ab33d|101|交大|計算機組織|Q4|Shift-Add Multiplication;Booth's Algorithm
+3a18d18414|104|清大|計算機系統|Q13|Synchronous Bus, Asynchronous Bus, Arbitration, Bandwidth;SRAM, DRAM, NAND / NOR Flash
+m_1dd5db95edd2c8f6|106|清大|計算機系統|Q12|VLIW (Very-Long Instruction Word);ILP, Dynamic Scheduling (Tomasulo, ROB, Speculation), OoO Issue
+ed52ed3c30|102|清大|計算機系統|Q2|RAID 0/1/5/6
+79f5aac4dc|106|台大|計算機系統|Q2|Cache Optimizations (3): Critical Word First, Prefetch;Temporal / Spatial Locality
+m_3390a2074da707e4|107|台大|計算機系統|Q8|Data Hazards, Forwarding, Stalling, Load-Use Data Hazard
+41cb90b837|102|清大|計算機系統|Q11|計算機組織§2-1 Logic Gates, Truth Tables, NAND/NOR Implementation;計算機組織§2-3 ROM Implementation, Memory Address Decoding, Chip Select
+fb66063b53|100|清大|計算機系統|Q1|Amdahl's Law;I/O System Performance and Design
+a7c37ef1cb|103|清大|計算機系統|Q8|I/O Communication: Polling, Interrupt, DMA
+m_625e544126a0677b|104|交大|計算機系統|Q16|ALU Propogation;Booth's Algorithm;Shift-Add Multiplication;IEEE 754
+m_2ab5e171fc107d2d|101|交大|計算機組織|II-Q1|beq, bne, blt, PC-relative Offset;Wide Immediates, Addressing (PC-relative vs. Pseudodirect)
+m_7db5676b5e380a7f|103|交大|計算機系統|Q3|TLB, Effective Access Time
+m_84607639c0e31ec6|100|交大|計算機組織|II-Q2|Direct-Mapped Cache;Set-Associative, Fully-Associative;Cache Replacement Policy;VIPT
+b85d04bf0c|105|清大|計算機系統|Q1|Data Hazards, Forwarding, Stalling, Load-Use Data Hazard;5-stage: IF/ID/EX/MEM/WB, Pipeline Register
+m_cec03837d66daa73|102|交大|計算機系統|Q19|Carry-Lookahead Adder
+m_cd774270964414f4|104|台大|計算機系統|Q5|Cache Coherence: Snooping (MESI), Directory-Based (MOESI);UMA vs. NUMA, Shared Memory;DGEMM
+m_fa8f239766ac812e|106|交大|計算機系統|Q16|Amdahl's Law
+m_f49249ee25121df7|104|交大|計算機系統|Q13|HDD, SSD
+m_5d8addfacb65a0a4|104|交大|計算機系統|Q7|2's Complement, Sign Extension;Wide Immediates, Addressing (PC-relative vs. Pseudodirect);Overflow Detection;Ripple-Carry Adder
+361df6cf90|107|台大|計算機系統|Q6|5-stage: IF/ID/EX/MEM/WB, Pipeline Register;ILP, Dynamic Scheduling (Tomasulo, ROB, Speculation), OoO Issue;Uniprocessor => Multiprocessor
+cd21a936c0|106|台大|計算機系統|Q4|SIMT, Warp, Warp Scheduler, Warp Divergence;Hardware Multithreading: Fine-Grained, Coarse-Grained, SMT;Flynn Taxonomy (SISD, SIMD, MIMD, SPMD);SIMD, Vector Processors (GPU's Predecessor);VLIW (Very-Long Instruction Word)
+a650a220e6|107|清大|計算機系統|Q10|Write-Through vs. Write-Back, Write-Allocate vs. No-Write-Allocate;AMAT;CPU Time (IC x CPI x Tc)
+fe99030a42|106|台大|計算機系統|Q1|5-stage: IF/ID/EX/MEM/WB, Pipeline Register;CPU Time (IC x CPI x Tc);AMAT
+m_949e7f6f95d47ee5|102|交大|計算機系統|Q10|and, or, xor, sll, srl, sra;2's Complement, Sign Extension
+deca368cdb|105|清大|計算機系統|Q12|HDD, SSD
+c54e804051|107|台大|計算機系統|Q7|Branch Prediction, 1-bit / 2-bit Branch History Table, Accuracy;Control Hazards
+m_8bc8b01edaefbb9b|105|交大|計算機系統|Q17|5-stage: IF/ID/EX/MEM/WB, Pipeline Register;Data Hazards, Forwarding, Stalling, Load-Use Data Hazard;Main Control, ALU Control;Pipelined Datapath, Control
+m_f7ee91af69138f26|100|交大|計算機組織|Q6|and, or, xor, sll, srl, sra;add, sub, lw, sw, 32 General Purpose Registers
+m_58ac321c9a0375ea|100|交大|計算機組織|Q10|RAID 0/1/5/6
+e0bee07087|100|清大|計算機系統|Q11|Set-Associative, Fully-Associative;Cache Replacement Policy
+m_163e16fe3a598fda|100|台大|計算機系統|Q9|CPU Time (IC x CPI x Tc);Instruction Set Principles: ISA Classes, RISC vs. CISC, Word Size
+m_c705e4ba3406e49d|107|交大|計算機系統|Q20|RAID 0/1/5/6
+m_ba22c283fbd6eaf2|103|台大|計算機結構與作業系統|Q1|Introduction, 8 Great Ideas
+m_663d13be2b710316|101|交大|計算機組織|II-Q4|I/O System Performance and Design;HDD, SSD
+m_e2740d1ba1524e34|101|交大|計算機組織|Q7|Main Control, ALU Control;Datapath
+m_890f203ba64e62da|100|交大|計算機組織|Q3|Compulsory Miss, Capacity Miss, Conflict Miss, Coherence Miss;Temporal / Spatial Locality
+m_a8486a2cd6fc7fe3|105|清大|計算機系統|Q3|CPU Time (IC x CPI x Tc);MIPS-as-metric fallacy;5-stage: IF/ID/EX/MEM/WB, Pipeline Register
+a2198b823f|103|台大|計算機結構與作業系統|Q6|L1 Cache, L2 Cache, L3 Cache, Inclusion vs. Exclusion Policy;SRAM, DRAM, NAND / NOR Flash;HDD, SSD
+858fa7097b|106|清大|計算機系統|Q11|add, sub, lw, sw, 32 General Purpose Registers;and, or, xor, sll, srl, sra
+961d11d272|102|清大|計算機系統|Q9|Direct-Mapped Cache;Set-Associative, Fully-Associative;Cache Replacement Policy
+m_ac727c7feb7798d9|100|交大|計算機組織|Q11|I/O Communication: Polling, Interrupt, DMA
+f12cfb95ad|102|清大|計算機系統|Q13|CPU Time (IC x CPI x Tc);Amdahl's Law
+1fa8254fd8|107|清大|計算機系統|Q5|I/O Communication: Polling, Interrupt, DMA
+m_137918f0df732c49|102|交大|計算機系統|Q11|Wide Immediates, Addressing (PC-relative vs. Pseudodirect);beq, bne, blt, PC-relative Offset
+m_961b7228b0faf301|107|台大|計算機系統|Q10|TLB, Effective Access Time;Page Table, Page Fault, Dirty Bit, Reference Bit
+m_4004db8bb8af7984|107|交大|計算機系統|Q21-Q23|VM;Set-Associative, Fully-Associative;AMAT;L1 Cache, L2 Cache, L3 Cache, Inclusion vs. Exclusion Policy
+m_1d0c7004007a2987|107|台大|計算機系統|Q2|HDD, SSD;I/O System Performance and Design;GPU System Architectures;Message Passing, MPP, Clusters, WSC
+011e62cf0f|101|台大|計算機系統|II-Q1|ILP, Dynamic Scheduling (Tomasulo, ROB, Speculation), OoO Issue;UMA vs. NUMA, Shared Memory;Intro to GPU;Message Passing, MPP, Clusters, WSC
+m_dd2946df3a02b9aa|106|交大|計算機系統|Q1|2's Complement, Sign Extension;IEEE 754
+m_072182812cd6685b|100|台大|計算機系統|Q8|I/O System Performance and Design;HDD, SSD
+da230524eb|107|清大|計算機系統|Q9|Direct-Mapped Cache;Set-Associative, Fully-Associative;Cache Replacement Policy
+m_c378528fd7bb1c55|103|交大|計算機系統|Q11|Control Hazards;(MIPS) Branch Delay Slot;Branch Prediction, 1-bit / 2-bit Branch History Table, Accuracy
+5a1342ebb7|101|清大|計算機系統|Q11|Set-Associative, Fully-Associative;Write-Through vs. Write-Back, Write-Allocate vs. No-Write-Allocate
+m_6bdccfcaa91af08b|103|交大|計算機系統|Q13|Dependability, Reliability, Availability (MTTF, MTBF, MTTR);RAID 0/1/5/6

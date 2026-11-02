@@ -1,0 +1,25 @@
+{
+ "unit_key": "DGEMM: Loop Unrolling, Register Renaming",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Pipeline CPU",
+ "topic": "DGEMM: Loop Unrolling, Register Renaming",
+ "questions": [
+  {
+   "id": "m_268ad3df7ee6bb1b",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_268ad3df7ee6bb1b.webp"
+  },
+  {
+   "id": "m_e3317268590b9cc6",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_e3317268590b9cc6.webp"
+  }
+ ]
+}

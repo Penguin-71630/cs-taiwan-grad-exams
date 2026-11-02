@@ -1,0 +1,49 @@
+{
+ "unit_key": "MIPS-as-metric fallacy",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Performance",
+ "topic": "MIPS-as-metric fallacy",
+ "questions": [
+  {
+   "id": "m_aa59b3d9c6cf3fbb",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_aa59b3d9c6cf3fbb.webp"
+  },
+  {
+   "id": "m_7d3a367056066a45",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q16",
+   "url": "https://img.ptsfu.org/m_7d3a367056066a45.webp"
+  },
+  {
+   "id": "m_17972f05e458dc58",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q19",
+   "url": "https://img.ptsfu.org/m_17972f05e458dc58.webp"
+  },
+  {
+   "id": "m_e79dc8ba183001f2",
+   "year": 100,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_e79dc8ba183001f2.webp"
+  },
+  {
+   "id": "m_a8486a2cd6fc7fe3",
+   "year": 105,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_a8486a2cd6fc7fe3.webp"
+  }
+ ]
+}

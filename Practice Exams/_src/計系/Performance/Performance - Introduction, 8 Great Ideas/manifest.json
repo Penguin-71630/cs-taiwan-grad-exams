@@ -1,0 +1,57 @@
+{
+ "unit_key": "Introduction, 8 Great Ideas",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Performance",
+ "topic": "Introduction, 8 Great Ideas",
+ "questions": [
+  {
+   "id": "918506b0b2",
+   "year": 106,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/918506b0b2.webp"
+  },
+  {
+   "id": "m_906a429b1043df62",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_906a429b1043df62.webp"
+  },
+  {
+   "id": "m_4ad6808ea1d03e97",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_4ad6808ea1d03e97.webp"
+  },
+  {
+   "id": "m_59979eaf31ab0ee4",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_59979eaf31ab0ee4.webp"
+  },
+  {
+   "id": "m_60e33b7a65deddcc",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_60e33b7a65deddcc.webp"
+  },
+  {
+   "id": "m_ba22c283fbd6eaf2",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_ba22c283fbd6eaf2.webp"
+  }
+ ]
+}

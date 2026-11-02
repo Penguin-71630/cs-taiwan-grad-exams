@@ -1,0 +1,41 @@
+{
+ "unit_key": "GPU System Architectures",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "GPU",
+ "topic": "GPU System Architectures",
+ "questions": [
+  {
+   "id": "m_ee22df88ef4c380d",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_ee22df88ef4c380d.webp"
+  },
+  {
+   "id": "m_8d056f899b0f5258",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_8d056f899b0f5258.webp"
+  },
+  {
+   "id": "e199432f21",
+   "year": 103,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/e199432f21.webp"
+  },
+  {
+   "id": "m_1d0c7004007a2987",
+   "year": 107,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_1d0c7004007a2987.webp"
+  }
+ ]
+}

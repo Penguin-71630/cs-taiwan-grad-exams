@@ -1,0 +1,33 @@
+{
+ "unit_key": "VIPT",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Virtual Memory",
+ "topic": "VIPT",
+ "questions": [
+  {
+   "id": "m_e4a29f4decf72fc5",
+   "year": 102,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/m_e4a29f4decf72fc5.webp"
+  },
+  {
+   "id": "m_94782a3fff0a5a70",
+   "year": 107,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_94782a3fff0a5a70.webp"
+  },
+  {
+   "id": "m_84607639c0e31ec6",
+   "year": 100,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "II-Q2",
+   "url": "https://img.ptsfu.org/m_84607639c0e31ec6.webp"
+  }
+ ]
+}

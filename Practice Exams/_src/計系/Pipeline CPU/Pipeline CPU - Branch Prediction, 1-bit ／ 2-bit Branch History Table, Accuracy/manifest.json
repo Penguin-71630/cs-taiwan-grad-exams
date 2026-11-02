@@ -1,0 +1,113 @@
+{
+ "unit_key": "Branch Prediction, 1-bit / 2-bit Branch History Table, Accuracy",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Pipeline CPU",
+ "topic": "Branch Prediction, 1-bit ／ 2-bit Branch History Table, Accuracy",
+ "questions": [
+  {
+   "id": "m_9a47c75af1deb3e0",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_9a47c75af1deb3e0.webp"
+  },
+  {
+   "id": "m_83c881b3a45f21c1",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_83c881b3a45f21c1.webp"
+  },
+  {
+   "id": "m_3ab4ce9d30b6db5f",
+   "year": 104,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/m_3ab4ce9d30b6db5f.webp"
+  },
+  {
+   "id": "m_f8df346132ac2842",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q21-Q22",
+   "url": "https://img.ptsfu.org/m_f8df346132ac2842.webp"
+  },
+  {
+   "id": "m_c6554ad81da93539",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_c6554ad81da93539.webp"
+  },
+  {
+   "id": "m_59ce23889e375c8d",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_59ce23889e375c8d.webp"
+  },
+  {
+   "id": "m_07bc235978f520a5",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q17",
+   "url": "https://img.ptsfu.org/m_07bc235978f520a5.webp"
+  },
+  {
+   "id": "m_05bab364f5590a44",
+   "year": 107,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_05bab364f5590a44.webp"
+  },
+  {
+   "id": "m_48eae64731c2226f",
+   "year": 100,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_48eae64731c2226f.webp"
+  },
+  {
+   "id": "m_3baec4f9da0c5049",
+   "year": 104,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_3baec4f9da0c5049.webp"
+  },
+  {
+   "id": "m_2f72e4880705e001",
+   "year": 100,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_2f72e4880705e001.webp"
+  },
+  {
+   "id": "c54e804051",
+   "year": 107,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/c54e804051.webp"
+  },
+  {
+   "id": "m_c378528fd7bb1c55",
+   "year": 103,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_c378528fd7bb1c55.webp"
+  }
+ ]
+}

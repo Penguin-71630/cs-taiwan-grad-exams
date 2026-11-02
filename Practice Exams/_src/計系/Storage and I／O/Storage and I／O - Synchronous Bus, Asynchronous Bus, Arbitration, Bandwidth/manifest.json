@@ -1,0 +1,25 @@
+{
+ "unit_key": "Synchronous Bus, Asynchronous Bus, Arbitration, Bandwidth",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Storage and I／O",
+ "topic": "Synchronous Bus, Asynchronous Bus, Arbitration, Bandwidth",
+ "questions": [
+  {
+   "id": "m_f798cc324d9e500f",
+   "year": 102,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_f798cc324d9e500f.webp"
+  },
+  {
+   "id": "3a18d18414",
+   "year": 104,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/3a18d18414.webp"
+  }
+ ]
+}

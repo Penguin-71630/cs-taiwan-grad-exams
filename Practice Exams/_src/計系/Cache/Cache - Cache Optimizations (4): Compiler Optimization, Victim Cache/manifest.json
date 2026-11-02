@@ -1,0 +1,25 @@
+{
+ "unit_key": "Cache Optimizations (4): Compiler Optimization, Victim Cache",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Cache",
+ "topic": "Cache Optimizations (4): Compiler Optimization, Victim Cache",
+ "questions": [
+  {
+   "id": "55d2bf6cba",
+   "year": 102,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/55d2bf6cba.webp"
+  },
+  {
+   "id": "m_5336c2c3bbfd2598",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q21",
+   "url": "https://img.ptsfu.org/m_5336c2c3bbfd2598.webp"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "unit_key": "add, sub, lw, sw, 32 General Purpose Registers",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "MIPS ／ RISC-V",
+ "topic": "add, sub, lw, sw, 32 General Purpose Registers",
+ "questions": [
+  {
+   "id": "m_7c5087e7e945137e",
+   "year": 104,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_7c5087e7e945137e.webp"
+  },
+  {
+   "id": "m_a38e36c1743b239c",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_a38e36c1743b239c.webp"
+  },
+  {
+   "id": "m_203388e183005a29",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/m_203388e183005a29.webp"
+  },
+  {
+   "id": "a7d5e2b1bb",
+   "year": 107,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/a7d5e2b1bb.webp"
+  },
+  {
+   "id": "m_9327a982c24b9c31",
+   "year": 100,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_9327a982c24b9c31.webp"
+  },
+  {
+   "id": "m_1f40f62c4809cf38",
+   "year": 104,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_1f40f62c4809cf38.webp"
+  },
+  {
+   "id": "m_f7ee91af69138f26",
+   "year": 100,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_f7ee91af69138f26.webp"
+  },
+  {
+   "id": "858fa7097b",
+   "year": 106,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/858fa7097b.webp"
+  }
+ ]
+}

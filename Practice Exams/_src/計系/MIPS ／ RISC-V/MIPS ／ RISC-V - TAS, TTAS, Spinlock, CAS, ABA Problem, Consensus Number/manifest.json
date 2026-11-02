@@ -1,0 +1,25 @@
+{
+ "unit_key": "TAS, TTAS, Spinlock, CAS, ABA Problem, Consensus Number",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "MIPS ／ RISC-V",
+ "topic": "TAS, TTAS, Spinlock, CAS, ABA Problem, Consensus Number",
+ "questions": [
+  {
+   "id": "m_84557777d2c1129b",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_84557777d2c1129b.webp"
+  },
+  {
+   "id": "m_2f64b549f823778d",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/m_2f64b549f823778d.webp"
+  }
+ ]
+}

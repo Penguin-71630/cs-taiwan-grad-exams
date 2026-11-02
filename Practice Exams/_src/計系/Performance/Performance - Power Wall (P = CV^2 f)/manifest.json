@@ -1,0 +1,81 @@
+{
+ "unit_key": "Power Wall (P = CV^2 f)",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Performance",
+ "topic": "Power Wall (P = CV^2 f)",
+ "questions": [
+  {
+   "id": "m_40a150886fd0756d",
+   "year": 101,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "II-Q4",
+   "url": "https://img.ptsfu.org/m_40a150886fd0756d.webp"
+  },
+  {
+   "id": "m_2e7bab16a7f05156",
+   "year": 101,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_2e7bab16a7f05156.webp"
+  },
+  {
+   "id": "m_99f38070d04cad3a",
+   "year": 103,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_99f38070d04cad3a.webp"
+  },
+  {
+   "id": "m_906a429b1043df62",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_906a429b1043df62.webp"
+  },
+  {
+   "id": "m_05bab364f5590a44",
+   "year": 107,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_05bab364f5590a44.webp"
+  },
+  {
+   "id": "m_60e33b7a65deddcc",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_60e33b7a65deddcc.webp"
+  },
+  {
+   "id": "m_cdf53962bcc6ba68",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_cdf53962bcc6ba68.webp"
+  },
+  {
+   "id": "m_e79dc8ba183001f2",
+   "year": 100,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_e79dc8ba183001f2.webp"
+  },
+  {
+   "id": "m_0a1e04bc48e289c2",
+   "year": 101,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "II-Q3",
+   "url": "https://img.ptsfu.org/m_0a1e04bc48e289c2.webp"
+  }
+ ]
+}

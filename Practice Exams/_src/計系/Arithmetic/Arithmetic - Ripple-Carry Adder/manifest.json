@@ -1,0 +1,33 @@
+{
+ "unit_key": "Ripple-Carry Adder",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Arithmetic",
+ "topic": "Ripple-Carry Adder",
+ "questions": [
+  {
+   "id": "479bdcff5c",
+   "year": 103,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/479bdcff5c.webp"
+  },
+  {
+   "id": "1141d9183f",
+   "year": 105,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/1141d9183f.webp"
+  },
+  {
+   "id": "m_5d8addfacb65a0a4",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_5d8addfacb65a0a4.webp"
+  }
+ ]
+}
