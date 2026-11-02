@@ -73,7 +73,7 @@ def prepare_image(q, skew):
     return out, w, h, info
 
 
-FIG_RE = re.compile(r"^<!--\s*fig\s+([\d.]+)\s+([\d.]+)\s+([\d.]+)\s+([\d.]+)\s*-->\s*$", re.M)
+FIG_RE = re.compile(r"^<!--\s*fig\s+([\d.]+)\s+([\d.]+)\s+([\d.]+)\s+([\d.]+)\s*-->[ \t]*$", re.M)
 
 
 def crop_figures(q, md_text, img_path):
@@ -181,8 +181,9 @@ def build(src, out_pdf):
 }}
 
 #let question(n, src, qid, body) = {{
-  // header + transcription stay together so a header never dangles at a page bottom
-  block(width: 100%, breakable: false, {{
+  // header + transcription stay on one page; a transcription taller than a page starts
+  // on a fresh page and is allowed to break
+  let head = {{
     line(length: 100%, stroke: 0.8pt)
     v(-0.3em)
     grid(columns: (auto, 1fr, auto), column-gutter: 0.8em,
@@ -190,8 +191,12 @@ def build(src, out_pdf):
       align(horizon, text(weight: "bold")[#src]),
       align(horizon, text(size: 7.5pt, fill: luma(140), qid)))
     v(0.3em)
-    body
-  }})
+  }}
+  context {{
+    let h = measure(block(width: 17cm, {{ head; body }})).height
+    if h > 24cm {{ pagebreak(weak: true) }}
+    block(width: 100%, breakable: h > 24cm, {{ head; body }})
+  }}
   // blank space for working / answers (about 4 lines)
   v(4 * 1.8em)
 }}

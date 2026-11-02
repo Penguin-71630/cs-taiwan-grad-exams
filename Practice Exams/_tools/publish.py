@@ -25,7 +25,7 @@ def git(*a, check=True):
 
 def main():
     built, failed = [], []
-    tools_mtime = max(p.stat().st_mtime for p in (ROOT / "_tools").glob("*.py"))
+    tools_mtime = (ROOT / "_tools" / "build.py").stat().st_mtime
     for man_path in sorted(p for p in (ROOT / "_src").glob("*/*/*/manifest.json") if not p.parts[-4].startswith("_")):
         src = man_path.parent
         man = json.loads(man_path.read_text())
