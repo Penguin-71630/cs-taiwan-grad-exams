@@ -1,0 +1,12 @@
+{"unit_key":"3-3 Process Tree, fork(), wait(), Zombie, Orphan","subject":"作業系統","group":"計系","chapter":"Process","topic":"Process Tree, fork(), wait(), Zombie, Orphan",
+"questions":[
+{"id":"m_19e6bf185fe17703","year":100,"school":"清大","paper":"計算機系統","qnum":"Q2","url":"https://img.ptsfu.org/m_19e6bf185fe17703.webp"},
+{"id":"m_8ebe67a91f327637","year":101,"school":"交大","paper":"作業系統","qnum":"Q33-Q35","url":"https://img.ptsfu.org/m_8ebe67a91f327637.webp"},
+{"id":"m_0b5bfcc5a2b0ea08","year":102,"school":"台大","paper":"計算機系統","qnum":"Q15","url":"https://img.ptsfu.org/m_0b5bfcc5a2b0ea08.webp"},
+{"id":"m_948575fe619a147f","year":102,"school":"交大","paper":"計算機系統","qnum":"Q1","url":"https://img.ptsfu.org/m_948575fe619a147f.webp"},
+{"id":"m_a57fa1101ff63453","year":100,"school":"交大","paper":"作業系統","qnum":"Q12","url":"https://img.ptsfu.org/m_a57fa1101ff63453.webp"},
+{"id":"6e4ba02d5f","year":101,"school":"清大","paper":"計算機系統","qnum":"Q1","url":"https://img.ptsfu.org/6e4ba02d5f.webp"},
+{"id":"m_336aa4c4c3bc402d","year":105,"school":"交大","paper":"計算機系統","qnum":"Q3","url":"https://img.ptsfu.org/m_336aa4c4c3bc402d.webp"},
+{"id":"m_89b51edd00d63d3e","year":103,"school":"台大","paper":"計算機結構與作業系統","qnum":"Q11","url":"https://img.ptsfu.org/m_89b51edd00d63d3e.webp"},
+{"id":"m_a7e27ea1a6cbd571","year":105,"school":"交大","paper":"計算機系統","qnum":"Q5","url":"https://img.ptsfu.org/m_a7e27ea1a6cbd571.webp"},
+{"id":"m_6247b104beb1b9a7","year":102,"school":"交大","paper":"計算機系統","qnum":"Q2","url":"https://img.ptsfu.org/m_6247b104beb1b9a7.webp"}]}

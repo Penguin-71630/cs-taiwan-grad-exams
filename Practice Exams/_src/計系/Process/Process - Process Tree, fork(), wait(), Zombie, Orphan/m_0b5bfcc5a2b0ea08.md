@@ -1,0 +1,19 @@
+II\. Operating System [50%]
+
+A **bicycle sharing system (BSS)** is a service in which bicycles are made available for shared use to individuals who do not own them. The central concept of these systems is to provide free or affordable access to bicycles for short-distance trips in an urban area as an alternative to motorized public transport or private vehicles, thereby reducing traffic congestion, noise, and air pollution. As of May 2011 there were around 136 BSSes in 165 cities around the world, made of an estimated fleet of 237,000 bicycles. U-Bike, Taipei BSS of 11 stations and 500 bikes since 2008, will have 162 stations with 5359 bikes by 2018. The number of parking slots in each station is fixed and might range from 10s to 90s. So far, there are over 10000 accesses each day in average. The Taipei U-Bikers can rent a bike from any station and return to any from an unmanned distributed system. They need to wait if there is no available bike or parking slot. We can get the availability in real time from Internet servers. There are some trucks shipping bikes from stations to stations for better utilization. The rental fee, now, is free for the first 30 minutes and 10 NTD for the following each 30 minutes.
+
+Please answer the following questions:
+
+15\. [15%] To support the service on all the stations, the server needs to collect all the data including user's transaction, bike availability, etc. and process users' requests. Alice is the system architect for U-Bike service. To support concurrent requests from all the bike stations, she proposes to use a multiple process model to design the server application. On the server, a background process is started to listen to the requests from all the stations. When a request arrives, a new process is created to process the request.
+
+a\. [3%] Please discuss if Alice should use either fork() or vfork() for the background daemon process to create new process so as to provide better concurrence in this application? Please compare the pros and cons of these two functions and select the better one.
+
+b\. [3%] Copy-on-write is the technique used to in fork() and vfork() to copy memory regions. Please (1) define technique Copy-on-write and (2) answer which memory segments in a process will be benefit from copy-on-write?
+
+c\. [2%] How can Alice know the maximum of concurrent processes being supported in the operating systems?
+
+d\. [2%] Suppose each request requires 100ms to process and there is no volunteer yielding during the execution. Moreover, there are 10,000 requests in the ready queue and there are no new requests. The operating system employs Round Robin Scheduling algorithm to schedule all the processes and the time quantum for each process is 50ms. Suppose that there is no other user processes and the CPU time used by kernel processes are negligible. What's the average response time of all the requests?
+
+e\. [2%] After a detail investigation, Alice found that the execution time of processing requests evenly distributed in interval [5ms, 200ms] and the exact execution times are not known when requests arrive. Which of the following scheduling algorithm should be selected to achieve maximum throughput? Candidate scheduling algorithms include Round-Robin Scheduling, First-Come-First-Serve, Shortest-Job First, Multi-level Feedback Queue algorithm.
+
+f\. [3%] Suppose that the system is required to support at least 1,000 transactions per second and each process can create 100 concurrent threads. The context switch overhead for each process is 1ms and that for each thread is 0.1ms. Note that the execution time ranges from 5ms to 200ms. How should Alice revise her design? You should take into account that the execution time of all requests are not equal, the scheduling algorithm used in the operating systems, and the overhead of managing processes and threads.
