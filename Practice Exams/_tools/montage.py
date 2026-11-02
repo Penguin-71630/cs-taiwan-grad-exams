@@ -24,6 +24,7 @@ except OSError:
 pieces = []  # (label, image)
 for qid in sys.argv[2:]:
     im = Image.open(fetch({"id": qid, "url": f"https://img.ptsfu.org/{qid}.webp"})).convert("RGB")
+    print(f"{qid}: original {im.width}x{im.height}, shown at scale {min(1, W / im.width):.3f}")
     if im.width > W:
         im = im.resize((W, round(im.height * W / im.width)), Image.LANCZOS)
     if im.height <= H - LABEL:
