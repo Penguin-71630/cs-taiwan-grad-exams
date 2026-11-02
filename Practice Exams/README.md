@@ -7,8 +7,11 @@ Practice Exams/
 ├── 計系/{大類}/{大類} - {主題}.pdf     計算機組織、作業系統（Times New Roman）
 ├── 資演/{大類}/{大類} - {主題}.pdf     資料結構、演算法（Computer Modern）
 ├── 數學/{大類}/{大類} - {主題}.pdf     離散數學、線性代數（Computer Modern）
+├── 英文/…                              只有台大考，科目在題庫叫「其他」（Times New Roman）
 ├── report.md                           題數、[?] 題目、校正過的圖、失敗項目
-├── _src/…/{大類} - {主題}/              manifest.json、每題的轉錄稿 <題目ID>.md、deskew.json
+├── _src/_index/                        題目與單元索引（見下方「交接」）
+├── _src/_q/<題目ID>.md                 每題一份轉錄稿；同一題出現在多個主題時共用
+├── _src/{類別}/{大類}/{大類} - {主題}/manifest.json   每個主題的題目清單（由 plan.py 產生）
 └── _tools/                             產生題本的程式
 ```
 
@@ -24,23 +27,56 @@ Practice Exams/
 字型：中文一律 Noto Serif TC，程式碼用 DejaVu Sans Mono，數學式用 New Computer Modern Math。
 「Computer Modern」用的是 New Computer Modern，也就是 LaTeX 預設字型 Computer Modern 的 OpenType 版本。
 
-## 重建方式
+## 交接：目前進度與接手步驟（2026-11-02）
 
-需要 `pandoc`、`pdftotext`／`pdfinfo`（poppler）、Python 套件 `typst==0.13.2`、`pillow`、`numpy`，
-以及放在 `/root/fonts`（或環境變數 `TIKU_FONTS`）的 Times New Roman、Noto Serif TC 字型檔。
+| 類別 | 科目 | 狀態 |
+|---|---|---|
+| 計系 | 作業系統、計算機組織 | 索引完成；986 個「主題×題目」中已轉錄 746 個（還差 240），完成的主題都已出 PDF |
+| 資演 | 資料結構、演算法 | 只做了試跑的 Master Method；索引還沒建 |
+| 數學 | 離散數學、線性代數 | 只做了試跑的 Cayley-Hamilton；索引還沒建 |
+| 英文 | 其他（只有台大） | 還沒開始 |
+
+`python3 _tools/plan.py status` 會列出每個主題還缺幾題。
+
+### 環境需求
+
+`pandoc`（3.1）、`pdftotext`／`pdfinfo`（poppler）、Python 套件 `typst==0.13.2`、`pillow`、`numpy`；
+字型放在 `/root/fonts`（或環境變數 `TIKU_FONTS`）：Times New Roman（corefonts 的 times32.exe 用 cabextract 解出）、
+Noto Serif TC。New Computer Modern 是 typst 內建的。
+網路要能連 `img.ptsfu.org`（原圖，下載時要設 User-Agent）、`tiku.ptsfu.org`，push PDF 要能連 `lfs.github.com`（PDF 用 Git LFS）。
+原圖快取在 `~/.cache/tiku/`（orig 原圖、fixed 校正後、crop 裁圖、typ 排版中間檔）。
+
+### 1. 建索引（一個科目做一次）
+
+1. `get_subject_overview(subject)` 取得所有單元，寫成 `_src/_index/units-<科目>.tsv`，每行 `unit_key<TAB>大類`。
+   大類就是 PDF 的資料夾名稱；計系的對照可以參考既有的兩個 units 檔。
+2. `build_practice_set(subject, schools=[台大,交大,清大], years 100–107, count=50, include_manifest=true)`，
+   每次把已拿到的 id 放進 `exclude_ids` 重抓，直到回傳數不足 50 為止。
+   寫成 `_src/_index/q-<科目>.tsv`，每行 `id|年|校|卷名|題號|單元;單元;…`（單元用 unit_key 去掉「科目§」的部分）。
+3. `python3 _tools/plan.py write` 產生各主題的 manifest.json（科目→類別的對照在 plan.py 的 `GROUP`）。
+
+### 2. 轉錄（一批約 12 題）
 
 ```bash
-# 1. 由 build_practice_set(include_manifest=true) 的結果建立 manifest（每行 id|年|校|卷名|題號）
-python _tools/mkmanifest.py 計系 "Process" "3-3 Process Tree, fork(), wait(), Zombie, Orphan" 作業系統 < rows.txt
-# 2. 下載原圖，轉成 PNG 方便看圖轉錄
-python _tools/fetch.py "_src/計系/Process/Process - …" view/
-# 3. 轉錄稿（=== <id> 分段）拆成各題的 .md
-python _tools/split_bundle.py bundle.md "_src/計系/Process/Process - …"
-# 4. 排版（Typst）
-python _tools/build.py "_src/計系/Process/Process - …" "計系/Process/Process - ….pdf"
-# 5. 檢查所有 PDF 的題數與題目 ID 是否和 manifest 一致，並輸出 report.md
-python _tools/check.py
+python3 _tools/plan.py todo 計系 12                 # 下一批還沒轉錄的題目 ID
+python3 _tools/montage.py /tmp/m ID1 ID2 …          # 下載原圖、拼成 sheet-01.png… 方便看；會印出原圖尺寸與縮放比例
+# 看圖逐題手打 Markdown + LaTeX，寫成一個 bundle：每題以「=== <題目ID>」開頭
+python3 _tools/split_bundle.py bundle.md            # 拆成 _src/_q/<ID>.md（已存在的不覆蓋，加 --force 才覆蓋）
+python3 _tools/publish.py                           # 轉錄齊全且過期的主題全部重排、檢查題號與 ID、每主題一個 commit、最後 push
+python3 _tools/check.py                             # 更新 report.md
 ```
+
+轉錄規則：
+
+- 不使用題庫的 text 摘要；看原圖。看不清楚的地方寫 `[?]`，不猜。
+- 卷首「【不可使用計算機】」等頁首不轉；作答規則（單選／複選／倒扣、「請詳細列出完整過程」）保留在題目開頭。
+- 選項每行結尾用 `\` 換行；程式碼用 ``` 區塊；表格用 Markdown 表格。原卷明顯印錯的地方照抄，再用 `> 註：…` 說明。
+- 圖表用 `<!-- fig x0 y0 x1 y1 -->` 嵌入原圖裁切，座標是原圖（校正後）寬高的比例。
+  montage 的 sheet 會把寬於 1600 px 的圖縮小，而且太高的圖會切成多段（每段往下 1906 px），換算座標時要考慮這兩點。
+  裁完最好把裁切結果開來看一次。
+- 歪斜 ≥ 0.75° 的圖會自動校正（`deskew.py`），校正角度記在 `_src/_q/deskew.json`。
+
+改了 `_tools/build.py` 之後，publish.py 會把所有主題重排一次（約 30 秒）。
 
 ## 試跑結果（2026-11-02）
 
@@ -56,4 +92,3 @@ python _tools/check.py
 - 原圖裡會重複出現的頁首「【不可使用計算機】」沒有轉錄；作答規則（單選、複選、倒扣）有保留。
 - 102 交大《計算機系統》Q2 的 `runner` 函式，兩個大括號在原圖中印成實心黑色方塊，所以標成 [?]。
 - 第一版每題都附整張原圖；確認轉錄品質後改成只放轉錄文字，有圖表的題目才嵌入裁切的圖。
-- 手機上看的預覽圖在 `_preview/README.md`。
