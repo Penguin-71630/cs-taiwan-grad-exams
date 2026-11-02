@@ -1,0 +1,3 @@
+8\. (10%) Given an 8-bit zero-fill left-shifter as shown below that has 8 input bits $X=X_7X_6\ldots X_0$, 8 output bits $Y=Y_7Y_6\ldots Y_0$, and a 3-bit shift-amount-control $C=C_2C_1C_0$. For example, when X=10110011 and C=011, the input will be left-shifted by 3 bits and three vacant bits are filled with zeros to get Y=10011000. Add some circuit to the shifter so that it become a zero-fill left/right shifter capable of both left-shift and right-shift operations with X', Y' and C' as its input, output, and shift-amount, respectively. An additional bit called "Mode" selects the shift direction: "0" for left shift and "1" for right shift.
+
+<!-- fig 0.26 0.41 0.71 1.0 -->
