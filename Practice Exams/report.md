@@ -12,12 +12,12 @@
 | 計系 | Arithmetic | Arithmetic - Booth's Algorithm | 3 | - | PDF 不存在 |
 | 計系 | Arithmetic | Arithmetic - Carry-Lookahead Adder | 3 | - | PDF 不存在 |
 | 計系 | Arithmetic | Arithmetic - FP Does Not Have Associativity | 1 | 3 | OK |
-| 計系 | Arithmetic | Arithmetic - IEEE 754 | 10 | - | PDF 不存在 |
+| 計系 | Arithmetic | Arithmetic - IEEE 754 | 10 | 7 | OK |
 | 計系 | Arithmetic | Arithmetic - Overflow Detection | 3 | - | PDF 不存在 |
 | 計系 | Arithmetic | Arithmetic - Ripple-Carry Adder | 3 | - | PDF 不存在 |
 | 計系 | Arithmetic | Arithmetic - SIMD | 1 | 1 | OK |
 | 計系 | Arithmetic | Arithmetic - Shift-Add Multiplication | 3 | - | PDF 不存在 |
-| 計系 | Cache | Cache - AMAT | 7 | - | PDF 不存在 |
+| 計系 | Cache | Cache - AMAT | 7 | 4 | OK |
 | 計系 | Cache | Cache - Cache Coherence: Snooping (MESI), Directory-Based (MOESI) | 4 | - | PDF 不存在 |
 | 計系 | Cache | Cache - Cache Optimizations (3): Critical Word First, Prefetch | 5 | 3 | OK |
 | 計系 | Cache | Cache - Cache Optimizations (4): Compiler Optimization, Victim Cache | 2 | 1 | OK |
@@ -74,7 +74,7 @@
 | 計系 | I／O | I／O - Linux Device Model: devfs, sysfs, Device Tree | 1 | 1 | OK |
 | 計系 | I／O | I／O - Performance | 3 | 1 | OK |
 | 計系 | I／O | I／O - Port, Bus, Controller, Polling vs. Interrupt, DMA | 11 | 5 | OK |
-| 計系 | MIPS ／ RISC-V | MIPS ／ RISC-V - (RV) R／I／S／B／U／J Types, (MIPS) R／I／J Types | 3 | - | PDF 不存在 |
+| 計系 | MIPS ／ RISC-V | MIPS ／ RISC-V - (RV) R／I／S／B／U／J Types, (MIPS) R／I／J Types | 3 | 4 | OK |
 | 計系 | MIPS ／ RISC-V | MIPS ／ RISC-V - 2's Complement, Sign Extension | 7 | 5 | OK |
 | 計系 | MIPS ／ RISC-V | MIPS ／ RISC-V - Compile and Start a Program | 3 | - | PDF 不存在 |
 | 計系 | MIPS ／ RISC-V | MIPS ／ RISC-V - Instruction Set Principles: ISA Classes, RISC vs. CISC, Word Size | 8 | - | PDF 不存在 |
@@ -148,7 +148,7 @@
 | 計系 | Security | Security - Trojan, Backdoor, Logic／Time Bomb, Stack／Buffer Overflow, Virus | 6 | 3 | OK |
 | 計系 | Security | Security - Vulnerability Assessment, Intrusion Detection, Firewall, Antivirus | 5 | 2 | OK |
 | 計系 | Security | Security - Worms, Port Scanning, DoS, DDoS | 2 | 1 | OK |
-| 計系 | Single-Cycle CPU | Single-Cycle CPU - ALU Propogation | 1 | - | PDF 不存在 |
+| 計系 | Single-Cycle CPU | Single-Cycle CPU - ALU Propogation | 1 | 1 | OK |
 | 計系 | Single-Cycle CPU | Single-Cycle CPU - D-FF Timing, Critical Path, Max Freq, Hold Violation, Buffer Insertion | 1 | - | PDF 不存在 |
 | 計系 | Single-Cycle CPU | Single-Cycle CPU - Datapath | 7 | - | PDF 不存在 |
 | 計系 | Single-Cycle CPU | Single-Cycle CPU - Main Control, ALU Control | 8 | - | PDF 不存在 |
@@ -223,11 +223,9 @@
 
 - 計系/Arithmetic/Arithmetic - Booth's Algorithm: PDF 不存在
 - 計系/Arithmetic/Arithmetic - Carry-Lookahead Adder: PDF 不存在
-- 計系/Arithmetic/Arithmetic - IEEE 754: PDF 不存在
 - 計系/Arithmetic/Arithmetic - Overflow Detection: PDF 不存在
 - 計系/Arithmetic/Arithmetic - Ripple-Carry Adder: PDF 不存在
 - 計系/Arithmetic/Arithmetic - Shift-Add Multiplication: PDF 不存在
-- 計系/Cache/Cache - AMAT: PDF 不存在
 - 計系/Cache/Cache - Cache Coherence: Snooping (MESI), Directory-Based (MOESI): PDF 不存在
 - 計系/Cache/Cache - Cache Replacement Policy: PDF 不存在
 - 計系/Cache/Cache - Compulsory Miss, Capacity Miss, Conflict Miss, Coherence Miss: PDF 不存在
@@ -244,7 +242,6 @@
 - 計系/GPU/GPU - SIMT, Warp, Warp Scheduler, Warp Divergence: PDF 不存在
 - 計系/Interconnection/Interconnection - DGEMM: PDF 不存在
 - 計系/Interconnection/Interconnection - Roofline Model: Compute-Bound vs. Memory-Bound: PDF 不存在
-- 計系/MIPS ／ RISC-V/MIPS ／ RISC-V - (RV) R／I／S／B／U／J Types, (MIPS) R／I／J Types: PDF 不存在
 - 計系/MIPS ／ RISC-V/MIPS ／ RISC-V - Compile and Start a Program: PDF 不存在
 - 計系/MIPS ／ RISC-V/MIPS ／ RISC-V - Instruction Set Principles: ISA Classes, RISC vs. CISC, Word Size: PDF 不存在
 - 計系/MIPS ／ RISC-V/MIPS ／ RISC-V - Procedure Call: PDF 不存在
@@ -267,7 +264,6 @@
 - 計系/Pipeline CPU/Pipeline CPU - ILP, Dynamic Scheduling (Tomasulo, ROB, Speculation), OoO Issue: PDF 不存在
 - 計系/Pipeline CPU/Pipeline CPU - Pipelined Datapath, Control: PDF 不存在
 - 計系/Pipeline CPU/Pipeline CPU - VLIW (Very-Long Instruction Word): PDF 不存在
-- 計系/Single-Cycle CPU/Single-Cycle CPU - ALU Propogation: PDF 不存在
 - 計系/Single-Cycle CPU/Single-Cycle CPU - D-FF Timing, Critical Path, Max Freq, Hold Violation, Buffer Insertion: PDF 不存在
 - 計系/Single-Cycle CPU/Single-Cycle CPU - Datapath: PDF 不存在
 - 計系/Single-Cycle CPU/Single-Cycle CPU - Main Control, ALU Control: PDF 不存在
