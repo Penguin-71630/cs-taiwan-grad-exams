@@ -1,0 +1,31 @@
+注意：每大題的小題必需全對該大題才給分。每大題5分。請使用答案卡作答
+
+5\. An *NCTU linked list* with order *m* is a variation of the linked list satisfying the following constraints:
+
+- Each node is able to store at most *m* integers.
+- The integers within one node are in ascending order.
+- Each integer in an NCTU linked list is distinct.
+- If there is a path from node p to node *q*, the integers stored in node *p* are smaller than the integers stored in node *q*.
+
+We use the following example to show how we implement an NCTU linked list with order 3. Each node of NCTU linked list is implemented by *struct node*, where (1) *num* is used to indicate the number of integers within the node, (2) *data[0]*, *data[1]*, …, *data[num-1]* are used to store such *num* integers and (3) *next* is used to point to the next node.
+
+```
+struct node
+{
+  int data[3];
+  int num;
+  struct node * next;
+};
+```
+
+<!-- fig 0.12 0.455 0.88 0.665 -->
+
+We now use the above approach to implement an NCTU linked list with order *m* and *m>2*. The NCTU linked list is used to store *n* integers and each node is of *m/2* integers. Assume that *m* is even and *n* is dividable by *m*. Please answer the following questions.
+
+(13) Suppose an integer *x* is in the NCTU linked list, what is the time complexity to find the location of the integer *x*?
+
+(A) O(logm\*n/m)\
+(B) O(logm+n/m)\
+(C) O(m+n/m)\
+(D) O(logm\*n/m+m)\
+(E) None of the above.
