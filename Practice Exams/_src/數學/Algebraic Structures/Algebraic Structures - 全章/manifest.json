@@ -1,0 +1,108 @@
+{
+ "group": "數學",
+ "chapter": "Algebraic Structures",
+ "topic": "全章",
+ "subject": "離散數學",
+ "unit_key": "12-2 Group, Abelian Group",
+ "sections": [
+  {
+   "topic": "Group, Abelian Group",
+   "unit_key": "12-2 Group, Abelian Group",
+   "ids": [
+    "e5475b9d30"
+   ]
+  },
+  {
+   "topic": "Subgroup",
+   "unit_key": "12-2 Subgroup",
+   "ids": [
+    "85f31a4245"
+   ]
+  },
+  {
+   "topic": "Group Homomorphism ／ Isomorphism",
+   "unit_key": "12-3 Group Homomorphism / Isomorphism",
+   "ids": [
+    "e5475b9d30"
+   ]
+  },
+  {
+   "topic": "Lagrange Theorem",
+   "unit_key": "12-3 Lagrange Theorem",
+   "ids": [
+    "85f31a4245"
+   ]
+  },
+  {
+   "topic": "Symmetric Group",
+   "unit_key": "12-3 Symmetric Group",
+   "ids": [
+    "bc15ec61ff"
+   ]
+  },
+  {
+   "topic": "k-cycle",
+   "unit_key": "12-3 k-cycle",
+   "ids": [
+    "bc15ec61ff",
+    "m_6b86a8f1d47a1f30"
+   ]
+  },
+  {
+   "topic": "Ring",
+   "unit_key": "12-4 Ring",
+   "ids": [
+    "m_dae819b01b8dca34"
+   ]
+  },
+  {
+   "topic": "Subring, Ideal",
+   "unit_key": "12-4 Subring, Ideal",
+   "ids": [
+    "m_dae819b01b8dca34"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "e5475b9d30",
+   "year": 100,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/e5475b9d30.webp"
+  },
+  {
+   "id": "85f31a4245",
+   "year": 102,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/85f31a4245.webp"
+  },
+  {
+   "id": "bc15ec61ff",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/bc15ec61ff.webp"
+  },
+  {
+   "id": "m_6b86a8f1d47a1f30",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q11(d)",
+   "url": "https://img.ptsfu.org/m_6b86a8f1d47a1f30.webp"
+  },
+  {
+   "id": "m_dae819b01b8dca34",
+   "year": 101,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/m_dae819b01b8dca34.webp"
+  }
+ ]
+}
