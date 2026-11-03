@@ -1,0 +1,282 @@
+{
+ "group": "計系",
+ "chapter": "File System",
+ "topic": "其他主題",
+ "subject": "作業系統",
+ "unit_key": "13-1 File",
+ "sections": [
+  {
+   "topic": "File",
+   "unit_key": "13-1 File",
+   "ids": [
+    "m_b792a44d8620fed4"
+   ]
+  },
+  {
+   "topic": "File Access Methods",
+   "unit_key": "13-2 File Access Methods",
+   "ids": [
+    "m_3e3e351d3728fcc9"
+   ]
+  },
+  {
+   "topic": "Directory",
+   "unit_key": "13-3 Directory",
+   "ids": [
+    "m_b792a44d8620fed4",
+    "144e766d3e"
+   ]
+  },
+  {
+   "topic": "Memory-Mapped Files",
+   "unit_key": "13-5 Memory-Mapped Files",
+   "ids": [
+    "m_019f85f4dd10f575"
+   ]
+  },
+  {
+   "topic": "File System Operations",
+   "unit_key": "14-2 File System Operations",
+   "ids": [
+    "m_649e1f53b38d5e8e",
+    "m_7ffee8acbeef60d6",
+    "m_5a69167de7fc0769"
+   ]
+  },
+  {
+   "topic": "Directory Implementation",
+   "unit_key": "14-3 Directory Implementation",
+   "ids": [
+    "m_5a69167de7fc0769"
+   ]
+  },
+  {
+   "topic": "Free Space: Bitmap, Linked List, Grouping, Counting, Space Maps",
+   "unit_key": "14-5 Free Space: Bitmap, Linked List, Grouping, Counting, Space Maps",
+   "ids": [
+    "m_b792a44d8620fed4"
+   ]
+  },
+  {
+   "topic": "Recovery: Consistency Checking, Log-based",
+   "unit_key": "14-7 Recovery: Consistency Checking, Log-based",
+   "ids": [
+    "m_6baa0168ad607c37",
+    "m_b8849c54d4d2b9cd",
+    "m_3d220c7392502850"
+   ]
+  },
+  {
+   "topic": "File System Mounting (Mount Point, Mount Table)",
+   "unit_key": "15-2 File System Mounting (Mount Point, Mount Table)",
+   "ids": [
+    "m_8655ea412ada3530",
+    "f62d3de58c",
+    "m_9c6f81df37e58ff9"
+   ]
+  },
+  {
+   "topic": "Partitions and Mounting",
+   "unit_key": "15-3 Partitions and Mounting",
+   "ids": [
+    "m_a477b4d1caeacd74",
+    "m_1a15ba89a9216f24"
+   ]
+  },
+  {
+   "topic": "File Sharing",
+   "unit_key": "15-4 File Sharing",
+   "ids": [
+    "m_71c8385e0dce547e",
+    "m_32030a2c918a6748"
+   ]
+  },
+  {
+   "topic": "Remote File Systems, Distributed File Systems",
+   "unit_key": "15-6 Remote File Systems, Distributed File Systems",
+   "ids": [
+    "m_8f69a760c0292c6f"
+   ]
+  },
+  {
+   "topic": "Consistency Semantics when Sharing Files",
+   "unit_key": "15-7 Consistency Semantics when Sharing Files",
+   "ids": [
+    "m_32030a2c918a6748",
+    "m_8f69a760c0292c6f"
+   ]
+  },
+  {
+   "topic": "NFS",
+   "unit_key": "15-8 NFS",
+   "ids": [
+    "m_8655ea412ada3530",
+    "m_4afb45a985bc3906",
+    "m_32030a2c918a6748",
+    "m_0d637a4976f2cc59"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_b792a44d8620fed4",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_b792a44d8620fed4.webp"
+  },
+  {
+   "id": "m_3e3e351d3728fcc9",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_3e3e351d3728fcc9.webp"
+  },
+  {
+   "id": "144e766d3e",
+   "year": 101,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/144e766d3e.webp"
+  },
+  {
+   "id": "m_019f85f4dd10f575",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q16",
+   "url": "https://img.ptsfu.org/m_019f85f4dd10f575.webp"
+  },
+  {
+   "id": "m_649e1f53b38d5e8e",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q29-Q31",
+   "url": "https://img.ptsfu.org/m_649e1f53b38d5e8e.webp"
+  },
+  {
+   "id": "m_7ffee8acbeef60d6",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_7ffee8acbeef60d6.webp"
+  },
+  {
+   "id": "m_5a69167de7fc0769",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q18",
+   "url": "https://img.ptsfu.org/m_5a69167de7fc0769.webp"
+  },
+  {
+   "id": "m_6baa0168ad607c37",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q16",
+   "url": "https://img.ptsfu.org/m_6baa0168ad607c37.webp"
+  },
+  {
+   "id": "m_b8849c54d4d2b9cd",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q17",
+   "url": "https://img.ptsfu.org/m_b8849c54d4d2b9cd.webp"
+  },
+  {
+   "id": "m_3d220c7392502850",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_3d220c7392502850.webp"
+  },
+  {
+   "id": "m_8655ea412ada3530",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_8655ea412ada3530.webp"
+  },
+  {
+   "id": "f62d3de58c",
+   "year": 101,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/f62d3de58c.webp"
+  },
+  {
+   "id": "m_9c6f81df37e58ff9",
+   "year": 103,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_9c6f81df37e58ff9.webp"
+  },
+  {
+   "id": "m_a477b4d1caeacd74",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_a477b4d1caeacd74.webp"
+  },
+  {
+   "id": "m_1a15ba89a9216f24",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q17",
+   "url": "https://img.ptsfu.org/m_1a15ba89a9216f24.webp"
+  },
+  {
+   "id": "m_71c8385e0dce547e",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_71c8385e0dce547e.webp"
+  },
+  {
+   "id": "m_32030a2c918a6748",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_32030a2c918a6748.webp"
+  },
+  {
+   "id": "m_8f69a760c0292c6f",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_8f69a760c0292c6f.webp"
+  },
+  {
+   "id": "m_4afb45a985bc3906",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_4afb45a985bc3906.webp"
+  },
+  {
+   "id": "m_0d637a4976f2cc59",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_0d637a4976f2cc59.webp"
+  }
+ ]
+}
