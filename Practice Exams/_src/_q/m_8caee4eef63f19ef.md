@@ -1,0 +1,1 @@
+10\. **(5 points)** Given 3 points (t, b): (-1, -7), (1, 7), and (2, 21), what is the sum of squared error $\left\|e\right\|^2$ if we fit the closest line $b = C + Dt$ by the least square approximation?
