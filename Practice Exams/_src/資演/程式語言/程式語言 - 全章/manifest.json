@@ -1,0 +1,26 @@
+{
+ "group": "資演",
+ "chapter": "程式語言",
+ "topic": "全章",
+ "subject": "資料結構",
+ "unit_key": "資料結構§3-2 Parameter Passing: by Value, Reference, Pointer, Value-Result, Name",
+ "sections": [
+  {
+   "topic": "Parameter Passing: by Value, Reference, Pointer, Value-Result, Name",
+   "unit_key": "資料結構§3-2 Parameter Passing: by Value, Reference, Pointer, Value-Result, Name",
+   "ids": [
+    "0f09a411ee"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "0f09a411ee",
+   "year": 100,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/0f09a411ee.webp"
+  }
+ ]
+}
