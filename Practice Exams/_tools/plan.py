@@ -8,7 +8,7 @@ Usage:
   python plan.py status [GROUP]   per-topic count of questions still missing a transcription
   python plan.py todo GROUP N     ids of up to N untranscribed questions, in topic order
 """
-import json, re, sys
+import json, re, shutil, sys
 from collections import defaultdict
 from pathlib import Path
 
@@ -68,16 +68,80 @@ def src_dir(m):
     return ROOT / "_src" / m["group"] / m["chapter"] / f"{m['chapter']} - {m['topic']}"
 
 
+def merged_manifest(group, chapter, topic, topics):
+    sections = []
+    questions, seen = [], set()
+    subjects = []
+    for m in topics:
+        if m["subject"] not in subjects:
+            subjects.append(m["subject"])
+        ids = [q["id"] for q in m["questions"]]
+        sections.append({"topic": m["topic"], "unit_key": m["unit_key"], "ids": ids})
+        for q in m["questions"]:
+            if q["id"] not in seen:
+                seen.add(q["id"])
+                questions.append(q)
+    return {
+        "group": group,
+        "chapter": chapter,
+        "topic": topic,
+        "subject": "、".join(subjects),
+        "unit_key": sections[0]["unit_key"],
+        "sections": sections,
+        "questions": questions,
+    }
+
+
+def write_manifests(ordered):
+    chapters = {}
+    for m in ordered:
+        if m["group"] == "英文":
+            continue
+        chapters.setdefault((m["group"], m["chapter"]), []).append(m)
+
+    generated = []
+    for (group, chapter), topics in chapters.items():
+        distinct = {q["id"] for m in topics for q in m["questions"]}
+        if len(distinct) <= 15:
+            generated.append(merged_manifest(group, chapter, "全章", topics))
+            continue
+
+        small = [m for m in topics if len(m["questions"]) < 5]
+        small_topics = {id(m) for m in small}
+        combined = merged_manifest(group, chapter, "其他主題", small) if len(small) > 1 else None
+        inserted_combined = False
+        for m in topics:
+            if id(m) not in small_topics:
+                generated.append(m)
+            elif combined:
+                if not inserted_combined:
+                    generated.append(combined)
+                    inserted_combined = True
+            else:
+                generated.append(m)
+
+    generated_paths = set()
+    for m in generated:
+        d = src_dir(m)
+        d.mkdir(parents=True, exist_ok=True)
+        (d / "manifest.json").write_text(json.dumps(m, ensure_ascii=False, indent=1) + "\n")
+        generated_paths.add(d)
+
+    groups = {m["group"] for m in generated}
+    for group in groups:
+        for manifest in (ROOT / "_src" / group).glob("*/*/manifest.json"):
+            if manifest.parent not in generated_paths:
+                shutil.rmtree(manifest.parent)
+    return generated
+
+
 def main():
     cmd = sys.argv[1]
     topics = load()
     ordered = sorted(topics.values(), key=lambda m: (m["group"], m["subject"], unit_order(m["unit_key"]), m["unit_key"]))
     if cmd == "write":
-        for m in ordered:
-            d = src_dir(m)
-            d.mkdir(parents=True, exist_ok=True)
-            (d / "manifest.json").write_text(json.dumps(m, ensure_ascii=False, indent=1) + "\n")
-        print(f"wrote {len(ordered)} manifests")
+        generated = write_manifests(ordered)
+        print(f"wrote {len(generated)} manifests")
     elif cmd == "status":
         g = sys.argv[2] if len(sys.argv) > 2 else None
         tot = miss = 0

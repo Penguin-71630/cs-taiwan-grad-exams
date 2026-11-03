@@ -137,7 +137,8 @@ def build(src, out_pdf):
     title = f"{man['chapter']} - {man['topic']}"
 
     body = []
-    for i, q in enumerate(qs, 1):
+
+    def render_question(i, q):
         md = qdir / f"{q['id']}.md"
         if not md.exists():
             raise SystemExit(f"missing transcription: {md}")
@@ -152,16 +153,47 @@ def build(src, out_pdf):
                 raise SystemExit(f"figure placeholder lost for {q['id']}")
             content = content.replace(token, call)
         src_line = f"{q['year']} 年　{q['school']}《{q['paper']}》　{q['qnum']}"
-        body.append(f"""
+        return f"""
 #question({i}, {tstr(src_line)}, {tstr(q['id'])})[
 {content}
 ]
+"""
+
+    if "sections" in man:
+        by_id = {q["id"]: q for q in qs}
+        printed = {}
+        for section in man["sections"]:
+            refs = sorted({printed[qid] for qid in section["ids"] if qid in printed})
+            heading = f'#text(size: 13pt, weight: "bold", {tstr(section["topic"])})'
+            if refs:
+                ref_text = "另見：第 " + "、".join(map(str, refs)) + " 題"
+                heading += f'\n#v(0.15em)\n#text(size: 9pt, fill: luma(120), {tstr(ref_text)})'
+            body.append(f"""
+#block(sticky: true, width: 100%)[
+{heading}
+#v(0.35em)
+]
 """)
+            section_qs = []
+            section_seen = set()
+            for qid in section["ids"]:
+                if qid in printed or qid in section_seen or qid not in by_id:
+                    continue
+                section_seen.add(qid)
+                section_qs.append(by_id[qid])
+            for q in sorted(section_qs, key=qkey):
+                n = len(printed) + 1
+                body.append(render_question(n, q))
+                printed[q["id"]] = n
+    else:
+        for i, q in enumerate(qs, 1):
+            body.append(render_question(i, q))
     skew_path.write_text(json.dumps(skew, ensure_ascii=False, indent=1) + "\n")
 
     schools = "・".join(sorted({q["school"] for q in qs}, key=lambda s: SCHOOL_ORDER.get(s, 9)))
     years = sorted({q["year"] for q in qs})
     year_label = f"民國 {'、'.join(map(str, years))} 年" if group == "英文" else "民國 100–107 年"
+    subtitle = f"收錄 {len(man['sections'])} 個主題" if "sections" in man else man["unit_key"]
     doc = f"""
 #let FONT = {FONTS[group]}
 #set document(title: {tstr(title)})
@@ -188,9 +220,8 @@ def build(src, out_pdf):
 }}
 
 #let question(n, src, qid, body) = {{
-  // header + transcription stay on one page; a transcription taller than a page starts
-  // on a fresh page and is allowed to break
-  let head = {{
+  // Short questions stay together; long questions can flow, with their headers kept attached.
+  let head = block(sticky: true, width: 100%, {{
     line(length: 100%, stroke: 0.8pt)
     v(-0.3em)
     grid(columns: (auto, 1fr, auto), column-gutter: 0.8em,
@@ -198,11 +229,10 @@ def build(src, out_pdf):
       align(horizon, text(weight: "bold")[#src]),
       align(horizon, text(size: 7.5pt, fill: luma(140), qid)))
     v(0.3em)
-  }}
+  }})
   context {{
     let h = measure(block(width: 17cm, {{ head; body }})).height
-    if h > 24cm {{ pagebreak(weak: true) }}
-    block(width: 100%, breakable: h > 24cm, {{ head; body }})
+    block(width: 100%, breakable: h > 12cm, {{ head; body }})
   }}
   // blank space for working / answers (about 4 lines)
   v(4 * 1.8em)
@@ -212,7 +242,7 @@ def build(src, out_pdf):
   #text(size: 18pt, weight: "bold", {tstr(title)}) \\
   #v(0.2em)
   #text(size: 10pt, fill: luma(80))[{group}｜{man['subject']}｜{schools}｜{year_label}｜共 {len(qs)} 題] \\
-  #text(size: 8.5pt, fill: luma(120), {tstr(man['unit_key'])})
+  #text(size: 8.5pt, fill: luma(120), {tstr(subtitle)})
 ]
 #v(0.8em)
 {''.join(body)}
