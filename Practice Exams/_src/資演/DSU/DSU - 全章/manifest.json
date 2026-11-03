@@ -1,0 +1,85 @@
+{
+ "group": "資演",
+ "chapter": "DSU",
+ "topic": "全章",
+ "subject": "演算法",
+ "unit_key": "19-1 DSU Operations",
+ "sections": [
+  {
+   "topic": "DSU Operations",
+   "unit_key": "19-1 DSU Operations",
+   "ids": [
+    "9f21ac5b4d",
+    "m_eef5a807b35b5cdc",
+    "m_4e4ebb7bbb4cdc7d",
+    "m_fb38df4d026451eb"
+   ]
+  },
+  {
+   "topic": "DSU Optimizations: Union by Rank, Path Compression",
+   "unit_key": "19-3 DSU Optimizations: Union by Rank, Path Compression",
+   "ids": [
+    "9f21ac5b4d",
+    "m_4e4ebb7bbb4cdc7d",
+    "m_788c0c8c13ce8c54"
+   ]
+  },
+  {
+   "topic": "DSU Complexity Analysis: alpha(n)",
+   "unit_key": "19-4 DSU Complexity Analysis: alpha(n)",
+   "ids": [
+    "m_1367abc6ef8f1b1e"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "9f21ac5b4d",
+   "year": 102,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/9f21ac5b4d.webp"
+  },
+  {
+   "id": "m_eef5a807b35b5cdc",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q25",
+   "url": "https://img.ptsfu.org/m_eef5a807b35b5cdc.webp"
+  },
+  {
+   "id": "m_4e4ebb7bbb4cdc7d",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q26",
+   "url": "https://img.ptsfu.org/m_4e4ebb7bbb4cdc7d.webp"
+  },
+  {
+   "id": "m_fb38df4d026451eb",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q50",
+   "url": "https://img.ptsfu.org/m_fb38df4d026451eb.webp"
+  },
+  {
+   "id": "m_788c0c8c13ce8c54",
+   "year": 103,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_788c0c8c13ce8c54.webp"
+  },
+  {
+   "id": "m_1367abc6ef8f1b1e",
+   "year": 102,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_1367abc6ef8f1b1e.webp"
+  }
+ ]
+}

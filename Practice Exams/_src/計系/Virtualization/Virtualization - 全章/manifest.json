@@ -1,0 +1,113 @@
+{
+ "group": "計系",
+ "chapter": "Virtualization",
+ "topic": "全章",
+ "subject": "作業系統",
+ "unit_key": "18-1 Virtualization vs. Emulation, VM, Hypervisor",
+ "sections": [
+  {
+   "topic": "Virtualization vs. Emulation, VM, Hypervisor",
+   "unit_key": "18-1 Virtualization vs. Emulation, VM, Hypervisor",
+   "ids": [
+    "m_0bdd63bdf19b94f2",
+    "011e62cf0f"
+   ]
+  },
+  {
+   "topic": "Benefits and Features",
+   "unit_key": "18-3 Benefits and Features",
+   "ids": [
+    "m_8f9310d047a8c63c",
+    "m_aeafb4c531c1fd46"
+   ]
+  },
+  {
+   "topic": "Trap-and-emulate (Ring -1), Binary Translation, Hardware Assist",
+   "unit_key": "18-4 Trap-and-emulate (Ring -1), Binary Translation, Hardware Assist",
+   "ids": [
+    "m_9c220e6604903c23",
+    "m_0bdd63bdf19b94f2"
+   ]
+  },
+  {
+   "topic": "Native／Hosted Hypervisor, Paravirtualization vs. Containerization",
+   "unit_key": "18-5 Native/Hosted Hypervisor, Paravirtualization vs. Containerization",
+   "ids": [
+    "m_9c220e6604903c23",
+    "m_aeafb4c531c1fd46"
+   ]
+  },
+  {
+   "topic": "Coordination between Guest OS and Host OS",
+   "unit_key": "18-6 Coordination between Guest OS and Host OS",
+   "ids": [
+    "m_2938e1e8eb96c539"
+   ]
+  },
+  {
+   "topic": "Examples",
+   "unit_key": "18-7 Examples",
+   "ids": [
+    "4f360782d1"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_0bdd63bdf19b94f2",
+   "year": 102,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_0bdd63bdf19b94f2.webp"
+  },
+  {
+   "id": "011e62cf0f",
+   "year": 101,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "II-Q1",
+   "url": "https://img.ptsfu.org/011e62cf0f.webp"
+  },
+  {
+   "id": "m_8f9310d047a8c63c",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q18",
+   "url": "https://img.ptsfu.org/m_8f9310d047a8c63c.webp"
+  },
+  {
+   "id": "m_aeafb4c531c1fd46",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_aeafb4c531c1fd46.webp"
+  },
+  {
+   "id": "m_9c220e6604903c23",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_9c220e6604903c23.webp"
+  },
+  {
+   "id": "m_2938e1e8eb96c539",
+   "year": 104,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_2938e1e8eb96c539.webp"
+  },
+  {
+   "id": "4f360782d1",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/4f360782d1.webp"
+  }
+ ]
+}

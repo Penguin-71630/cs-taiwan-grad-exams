@@ -1,0 +1,89 @@
+{
+ "group": "計系",
+ "chapter": "Thread and Concurrency",
+ "topic": "其他主題",
+ "subject": "作業系統",
+ "unit_key": "4-2 Parallelism vs. Concurrency",
+ "sections": [
+  {
+   "topic": "Parallelism vs. Concurrency",
+   "unit_key": "4-2 Parallelism vs. Concurrency",
+   "ids": [
+    "m_5b6e97ba64f4fa2b"
+   ]
+  },
+  {
+   "topic": "POSIX Pthreads, Windows Threads, Java Threads",
+   "unit_key": "4-4 POSIX Pthreads, Windows Threads, Java Threads",
+   "ids": [
+    "m_3e269d668e0fdd3e",
+    "m_6247b104beb1b9a7"
+   ]
+  },
+  {
+   "topic": "Implicit Threading (Thread Pools, Fork-Join, OpenMP)",
+   "unit_key": "4-5 Implicit Threading (Thread Pools, Fork-Join, OpenMP)",
+   "ids": [
+    "m_18bdf55c8e8e72bc"
+   ]
+  },
+  {
+   "topic": "Threading Issues",
+   "unit_key": "4-6 Threading Issues",
+   "ids": [
+    "m_c6eda44f09b80060",
+    "m_1b38c82331619f58"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_5b6e97ba64f4fa2b",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_5b6e97ba64f4fa2b.webp"
+  },
+  {
+   "id": "m_3e269d668e0fdd3e",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q36-Q38",
+   "url": "https://img.ptsfu.org/m_3e269d668e0fdd3e.webp"
+  },
+  {
+   "id": "m_6247b104beb1b9a7",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_6247b104beb1b9a7.webp"
+  },
+  {
+   "id": "m_18bdf55c8e8e72bc",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_18bdf55c8e8e72bc.webp"
+  },
+  {
+   "id": "m_c6eda44f09b80060",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_c6eda44f09b80060.webp"
+  },
+  {
+   "id": "m_1b38c82331619f58",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_1b38c82331619f58.webp"
+  }
+ ]
+}

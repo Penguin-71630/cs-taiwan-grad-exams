@@ -1,0 +1,110 @@
+{
+ "group": "計系",
+ "chapter": "Cache",
+ "topic": "其他主題",
+ "subject": "計算機組織",
+ "unit_key": "Cache Optimizations (4): Compiler Optimization, Victim Cache",
+ "sections": [
+  {
+   "topic": "Cache Optimizations (4): Compiler Optimization, Victim Cache",
+   "unit_key": "Cache Optimizations (4): Compiler Optimization, Victim Cache",
+   "ids": [
+    "55d2bf6cba",
+    "m_5336c2c3bbfd2598"
+   ]
+  },
+  {
+   "topic": "Cache Coherence: Snooping (MESI), Directory-Based (MOESI)",
+   "unit_key": "Cache Coherence: Snooping (MESI), Directory-Based (MOESI)",
+   "ids": [
+    "4f360782d1",
+    "m_d67c64cce33521fe",
+    "m_f1c8fef0e02f432f",
+    "m_cd774270964414f4"
+   ]
+  },
+  {
+   "topic": "SRAM, DRAM, NAND ／ NOR Flash",
+   "unit_key": "SRAM, DRAM, NAND / NOR Flash",
+   "ids": [
+    "e291080e1c",
+    "3a18d18414",
+    "a2198b823f"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "55d2bf6cba",
+   "year": 102,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/55d2bf6cba.webp"
+  },
+  {
+   "id": "m_5336c2c3bbfd2598",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q21",
+   "url": "https://img.ptsfu.org/m_5336c2c3bbfd2598.webp"
+  },
+  {
+   "id": "4f360782d1",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/4f360782d1.webp"
+  },
+  {
+   "id": "m_d67c64cce33521fe",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_d67c64cce33521fe.webp"
+  },
+  {
+   "id": "m_f1c8fef0e02f432f",
+   "year": 100,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_f1c8fef0e02f432f.webp"
+  },
+  {
+   "id": "m_cd774270964414f4",
+   "year": 104,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_cd774270964414f4.webp"
+  },
+  {
+   "id": "e291080e1c",
+   "year": 106,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/e291080e1c.webp"
+  },
+  {
+   "id": "3a18d18414",
+   "year": 104,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/3a18d18414.webp"
+  },
+  {
+   "id": "a2198b823f",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/a2198b823f.webp"
+  }
+ ]
+}

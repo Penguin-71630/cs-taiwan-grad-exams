@@ -1,0 +1,338 @@
+{
+ "group": "數學",
+ "chapter": "Graph Theory",
+ "topic": "其他主題",
+ "subject": "離散數學",
+ "unit_key": "8-1 (Induced/Span) Subgraph, Complement Graph, Incidency Matrix",
+ "sections": [
+  {
+   "topic": "(Induced／Span) Subgraph, Complement Graph, Incidency Matrix",
+   "unit_key": "8-1 (Induced/Span) Subgraph, Complement Graph, Incidency Matrix",
+   "ids": [
+    "m_0fa42328207b96a1",
+    "16292567bc"
+   ]
+  },
+  {
+   "topic": "Degree Sequence",
+   "unit_key": "8-2 Degree Sequence",
+   "ids": [
+    "73cd1f00a5"
+   ]
+  },
+  {
+   "topic": "Handshaking Lemma",
+   "unit_key": "8-2 Handshaking Lemma",
+   "ids": [
+    "m_28be194eb6c8805a",
+    "0a2cc457e4",
+    "642d544e0a"
+   ]
+  },
+  {
+   "topic": "Complete Graph, Clique",
+   "unit_key": "8-3 Complete Graph, Clique",
+   "ids": [
+    "m_79fa42a714668790",
+    "m_0fa42328207b96a1"
+   ]
+  },
+  {
+   "topic": "Dominating Set, Dominating Number",
+   "unit_key": "8-3 Dominating Set, Dominating Number",
+   "ids": [
+    "3d2fae9491"
+   ]
+  },
+  {
+   "topic": "Independent Set, Vertex Cover, Edge Cover",
+   "unit_key": "8-3 Independent Set, Vertex Cover, Edge Cover",
+   "ids": [
+    "3d2fae9491"
+   ]
+  },
+  {
+   "topic": "Bipartite Graph, Complete Bipartite Graph",
+   "unit_key": "8-8 Bipartite Graph, Complete Bipartite Graph",
+   "ids": [
+    "8d3cbfabe2",
+    "cdd459e968",
+    "3f33300b60"
+   ]
+  },
+  {
+   "topic": "Euler Trail, Euler Circuit, Eulerian Graph",
+   "unit_key": "9-1 Euler Trail, Euler Circuit, Eulerian Graph",
+   "ids": [
+    "cdd459e968",
+    "m_28be194eb6c8805a",
+    "0a2cc457e4"
+   ]
+  },
+  {
+   "topic": "Hamilton Path, Hamilton Cycle",
+   "unit_key": "9-1 Hamilton Path, Hamilton Cycle",
+   "ids": [
+    "m_28be194eb6c8805a"
+   ]
+  },
+  {
+   "topic": "Hamilton Path／Cycle for Kn, Kn*, Kmn, Knn, n-cube",
+   "unit_key": "9-1 Hamilton Path/Cycle for Kn, Kn*, Kmn, Knn, n-cube",
+   "ids": [
+    "cdd459e968"
+   ]
+  },
+  {
+   "topic": "Line Graph",
+   "unit_key": "9-1 Line Graph",
+   "ids": [
+    "m_28be194eb6c8805a"
+   ]
+  },
+  {
+   "topic": "Definition of Planar Graph",
+   "unit_key": "9-3 Definition of Planar Graph",
+   "ids": [
+    "m_9df1231c0ebbc5cb"
+   ]
+  },
+  {
+   "topic": "Euler Formula",
+   "unit_key": "9-3 Euler Formula",
+   "ids": [
+    "8d3cbfabe2",
+    "m_bd819835e3bb7102",
+    "642d544e0a"
+   ]
+  },
+  {
+   "topic": "Homeomorphic (同胚)",
+   "unit_key": "9-3 Homeomorphic (同胚)",
+   "ids": [
+    "m_bd819835e3bb7102"
+   ]
+  },
+  {
+   "topic": "K5, K33, Petersen Graph are not planar",
+   "unit_key": "9-3 K5, K33, Petersen Graph are not planar",
+   "ids": [
+    "m_38aeafb1152d912a"
+   ]
+  },
+  {
+   "topic": "Kuratowski Theorem",
+   "unit_key": "9-3 Kuratowski Theorem",
+   "ids": [
+    "m_bd819835e3bb7102"
+   ]
+  },
+  {
+   "topic": "Max-flow Min-cut",
+   "unit_key": "9-4 Max-flow Min-cut",
+   "ids": [
+    "f7be414dc9"
+   ]
+  },
+  {
+   "topic": "Definition of Tree",
+   "unit_key": "10-1 Definition of Tree",
+   "ids": [
+    "d182e8a1ce",
+    "0a2cc457e4"
+   ]
+  },
+  {
+   "topic": "Definition of Spanning Tree",
+   "unit_key": "10-2 Definition of Spanning Tree",
+   "ids": [
+    "m_bd819835e3bb7102",
+    "16292567bc"
+   ]
+  },
+  {
+   "topic": "Kirchhoff Theorem",
+   "unit_key": "10-2 Kirchhoff Theorem",
+   "ids": [
+    "16292567bc"
+   ]
+  },
+  {
+   "topic": "Definition of Rooted Tree",
+   "unit_key": "10-3 Definition of Rooted Tree",
+   "ids": [
+    "dm03_5e7fbb17220b43d3",
+    "m_bd819835e3bb7102"
+   ]
+  },
+  {
+   "topic": "m 元樹, 完全 m 元樹 ／ 正則 m 元樹, 滿 m 元樹",
+   "unit_key": "10-3 m 元樹, 完全 m 元樹 / 正則 m 元樹, 滿 m 元樹",
+   "ids": [
+    "dm03_2180a2a9feb1d01d",
+    "m_bd819835e3bb7102"
+   ]
+  },
+  {
+   "topic": "Tree Traversal: Preorder, Inorder, Postorder",
+   "unit_key": "10-5 Tree Traversal: Preorder, Inorder, Postorder",
+   "ids": [
+    "1f0f2c21c1"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_0fa42328207b96a1",
+   "year": 102,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_0fa42328207b96a1.webp"
+  },
+  {
+   "id": "16292567bc",
+   "year": 100,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/16292567bc.webp"
+  },
+  {
+   "id": "73cd1f00a5",
+   "year": 102,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/73cd1f00a5.webp"
+  },
+  {
+   "id": "m_28be194eb6c8805a",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_28be194eb6c8805a.webp"
+  },
+  {
+   "id": "0a2cc457e4",
+   "year": 107,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/0a2cc457e4.webp"
+  },
+  {
+   "id": "642d544e0a",
+   "year": 101,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/642d544e0a.webp"
+  },
+  {
+   "id": "m_79fa42a714668790",
+   "year": 101,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_79fa42a714668790.webp"
+  },
+  {
+   "id": "3d2fae9491",
+   "year": 100,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/3d2fae9491.webp"
+  },
+  {
+   "id": "8d3cbfabe2",
+   "year": 100,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/8d3cbfabe2.webp"
+  },
+  {
+   "id": "cdd459e968",
+   "year": 101,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/cdd459e968.webp"
+  },
+  {
+   "id": "3f33300b60",
+   "year": 106,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/3f33300b60.webp"
+  },
+  {
+   "id": "m_9df1231c0ebbc5cb",
+   "year": 105,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_9df1231c0ebbc5cb.webp"
+  },
+  {
+   "id": "m_bd819835e3bb7102",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12(a)",
+   "url": "https://img.ptsfu.org/m_bd819835e3bb7102.webp"
+  },
+  {
+   "id": "m_38aeafb1152d912a",
+   "year": 104,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_38aeafb1152d912a.webp"
+  },
+  {
+   "id": "f7be414dc9",
+   "year": 104,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/f7be414dc9.webp"
+  },
+  {
+   "id": "d182e8a1ce",
+   "year": 103,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/d182e8a1ce.webp"
+  },
+  {
+   "id": "dm03_5e7fbb17220b43d3",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q17",
+   "url": "https://img.ptsfu.org/dm03_5e7fbb17220b43d3.webp"
+  },
+  {
+   "id": "dm03_2180a2a9feb1d01d",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/dm03_2180a2a9feb1d01d.webp"
+  },
+  {
+   "id": "1f0f2c21c1",
+   "year": 103,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/1f0f2c21c1.webp"
+  }
+ ]
+}

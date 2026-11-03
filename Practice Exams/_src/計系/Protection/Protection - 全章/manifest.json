@@ -1,0 +1,97 @@
+{
+ "group": "計系",
+ "chapter": "Protection",
+ "topic": "全章",
+ "subject": "作業系統",
+ "unit_key": "17-2 Principle of Least Privilege",
+ "sections": [
+  {
+   "topic": "Principle of Least Privilege",
+   "unit_key": "17-2 Principle of Least Privilege",
+   "ids": [
+    "m_f71f3f4512aa7697",
+    "m_fd96fae3e4c1e62f"
+   ]
+  },
+  {
+   "topic": "Domain of Protection",
+   "unit_key": "17-4 Domain of Protection",
+   "ids": [
+    "m_f71f3f4512aa7697"
+   ]
+  },
+  {
+   "topic": "Access Matrix",
+   "unit_key": "17-5 Access Matrix",
+   "ids": [
+    "m_f8f33a1cc7091a45",
+    "m_67db8e9dd09223bc"
+   ]
+  },
+  {
+   "topic": "Access Matrix Implementation: ACL, Capability List, Lock-key",
+   "unit_key": "17-6 Access Matrix Implementation: ACL, Capability List, Lock-key",
+   "ids": [
+    "m_71c8385e0dce547e",
+    "m_b246d447a4ab7483"
+   ]
+  },
+  {
+   "topic": "Sandbox",
+   "unit_key": "17-11 Sandbox",
+   "ids": [
+    "m_f71f3f4512aa7697"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_f71f3f4512aa7697",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_f71f3f4512aa7697.webp"
+  },
+  {
+   "id": "m_fd96fae3e4c1e62f",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q19",
+   "url": "https://img.ptsfu.org/m_fd96fae3e4c1e62f.webp"
+  },
+  {
+   "id": "m_f8f33a1cc7091a45",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q28-Q29",
+   "url": "https://img.ptsfu.org/m_f8f33a1cc7091a45.webp"
+  },
+  {
+   "id": "m_67db8e9dd09223bc",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q33-Q36",
+   "url": "https://img.ptsfu.org/m_67db8e9dd09223bc.webp"
+  },
+  {
+   "id": "m_71c8385e0dce547e",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_71c8385e0dce547e.webp"
+  },
+  {
+   "id": "m_b246d447a4ab7483",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q37-Q40",
+   "url": "https://img.ptsfu.org/m_b246d447a4ab7483.webp"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "group": "資演",
+ "chapter": "DP",
+ "topic": "其他主題",
+ "subject": "演算法",
+ "unit_key": "14-4 LCS",
+ "sections": [
+  {
+   "topic": "LCS",
+   "unit_key": "14-4 LCS",
+   "ids": [
+    "82d7ccda5d",
+    "m_af11eb37e2e74bf7",
+    "m_58e30f7a1e24b0d1",
+    "m_0aaa4935f70989f5"
+   ]
+  },
+  {
+   "topic": "Optimal BST, Knuth Optimization",
+   "unit_key": "14-5 Optimal BST, Knuth Optimization",
+   "ids": [
+    "m_a9fc7672ce075610",
+    "m_af11eb37e2e74bf7",
+    "m_0d0c85ef19fd702e"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "82d7ccda5d",
+   "year": 105,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/82d7ccda5d.webp"
+  },
+  {
+   "id": "m_af11eb37e2e74bf7",
+   "year": 103,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_af11eb37e2e74bf7.webp"
+  },
+  {
+   "id": "m_58e30f7a1e24b0d1",
+   "year": 101,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_58e30f7a1e24b0d1.webp"
+  },
+  {
+   "id": "m_0aaa4935f70989f5",
+   "year": 106,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_0aaa4935f70989f5.webp"
+  },
+  {
+   "id": "m_a9fc7672ce075610",
+   "year": 100,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_a9fc7672ce075610.webp"
+  },
+  {
+   "id": "m_0d0c85ef19fd702e",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q40",
+   "url": "https://img.ptsfu.org/m_0d0c85ef19fd702e.webp"
+  }
+ ]
+}

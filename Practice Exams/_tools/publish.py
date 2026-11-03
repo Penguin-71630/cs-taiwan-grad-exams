@@ -13,12 +13,16 @@ from check import pdf_text, question_headers  # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 REPO = ROOT.parent
 QDIR = ROOT / "_src" / "_q"
-BRANCH = "claude/cloud-credit-test-dhu8yn"
 TRAILER = "\n\nDevin-Session: https://app.devin.ai/sessions/ecc476446030451eabc2bd74bb015d56"
+GROUPS = ("計系", "資演", "數學", "英文")
 
 
 def git(*a, check=True):
     return subprocess.run(["git", "-C", str(REPO), *a], capture_output=True, text=True, check=check)
+
+
+def current_branch():
+    return git("rev-parse", "--abbrev-ref", "HEAD").stdout.strip()
 
 
 def last_commit(p):
@@ -35,9 +39,39 @@ def stale(pdf, inputs):
     return built is None or any((last_commit(i) or 0) > built for i in inputs)
 
 
+def prune_orphans():
+    orphan_pdfs = []
+    for group in GROUPS:
+        for pdf in (ROOT / group).rglob("*.pdf"):
+            rel = pdf.relative_to(ROOT)
+            manifest = ROOT / "_src" / rel.with_suffix("") / "manifest.json"
+            if not manifest.exists():
+                orphan_pdfs.append(pdf)
+
+    for pdf in orphan_pdfs:
+        git("rm", "--", str(pdf.relative_to(REPO)))
+
+    deleted_manifests = []
+    for group in GROUPS[:-1]:
+        src_group = str((ROOT / "_src" / group).relative_to(REPO))
+        deleted_manifests.extend(
+            path for path in git("ls-files", "--deleted", "-z", "--", src_group).stdout.split("\0")
+            if Path(path).name == "manifest.json"
+        )
+    for path in sorted(set(deleted_manifests)):
+        git("add", "-u", "--", path)
+
+    committed = git("diff", "--cached", "--quiet", check=False).returncode != 0
+    if committed:
+        git("commit", "-q", "-m", "Practice Exams: remove PDFs of merged topics" + TRAILER)
+        print(f"removed {len(orphan_pdfs)} orphan PDF(s) and {len(set(deleted_manifests))} stale manifest(s)")
+    return committed
+
+
 def main():
     built, failed = [], []
     force_all = "--all" in sys.argv
+    pruned = prune_orphans()
     for man_path in sorted(p for p in (ROOT / "_src").glob("*/*/*/manifest.json") if not p.parts[-4].startswith("_")):
         src = man_path.parent
         man = json.loads(man_path.read_text())
@@ -67,9 +101,9 @@ def main():
         print("  +", b)
     for f in failed:
         print("  FAILED", f)
-    if built and "--no-push" not in sys.argv:
+    if (built or pruned) and "--no-push" not in sys.argv:
         for i in range(4):
-            r = git("push", "-u", "origin", BRANCH, check=False)
+            r = git("push", "-u", "origin", current_branch(), check=False)
             if r.returncode == 0:
                 print("pushed")
                 break

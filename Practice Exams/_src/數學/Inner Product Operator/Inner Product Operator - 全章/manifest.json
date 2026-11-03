@@ -1,0 +1,236 @@
+{
+ "group": "數學",
+ "chapter": "Inner Product Operator",
+ "topic": "全章",
+ "subject": "線性代數",
+ "unit_key": "8-1 Normal Operator, Normal Matrix",
+ "sections": [
+  {
+   "topic": "Normal Operator, Normal Matrix",
+   "unit_key": "8-1 Normal Operator, Normal Matrix",
+   "ids": [
+    "m_0131db6bb269c7ec"
+   ]
+  },
+  {
+   "topic": "Properties of Hermitian Matrix, Symmetric Matrix",
+   "unit_key": "8-1 Properties of Hermitian Matrix, Symmetric Matrix",
+   "ids": [
+    "96a3cdc384",
+    "m_5d405ad3179dfff6",
+    "m_7adaf511b0d0ffa9",
+    "m_816db793ff11023a",
+    "m_0131db6bb269c7ec"
+   ]
+  },
+  {
+   "topic": "Properties of Skew Hermitian Matrix, Skew Symmetric Matrix",
+   "unit_key": "8-1 Properties of Skew Hermitian Matrix, Skew Symmetric Matrix",
+   "ids": [
+    "96a3cdc384"
+   ]
+  },
+  {
+   "topic": "Orthogonal Operator, Orthogonal Matrix",
+   "unit_key": "8-2 Orthogonal Operator, Orthogonal Matrix",
+   "ids": [
+    "0f9bfc6b94",
+    "m_816db793ff11023a",
+    "m_0131db6bb269c7ec"
+   ]
+  },
+  {
+   "topic": "Unitary Diagonalization, Orthogonal Diagonalization",
+   "unit_key": "8-2 Unitary Diagonalization, Orthogonal Diagonalization",
+   "ids": [
+    "m_7adaf511b0d0ffa9",
+    "m_816db793ff11023a"
+   ]
+  },
+  {
+   "topic": "Unitary Operator, Unitary Matrix",
+   "unit_key": "8-2 Unitary Operator, Unitary Matrix",
+   "ids": [
+    "m_73d7856e883a605f"
+   ]
+  },
+  {
+   "topic": "Is A^TA Positive Semi-defintite? Is A^TA Positive Definite?",
+   "unit_key": "8-3 Is A^TA Positive Semi-defintite? Is A^TA Positive Definite?",
+   "ids": [
+    "m_57d966568d3767c3",
+    "m_816db793ff11023a",
+    "dm03_9a905b34746d1ef8"
+   ]
+  },
+  {
+   "topic": "Positive Definite, Positive Semi-definite",
+   "unit_key": "8-3 Positive Definite, Positive Semi-definite",
+   "ids": [
+    "m_7adaf511b0d0ffa9"
+   ]
+  },
+  {
+   "topic": "Rayleigh Principle",
+   "unit_key": "8-4 Rayleigh Principle",
+   "ids": [
+    "m_ee813b50f55c2f62"
+   ]
+  },
+  {
+   "topic": "Rayleigh Quotient",
+   "unit_key": "8-4 Rayleigh Quotient",
+   "ids": [
+    "m_ee813b50f55c2f62"
+   ]
+  },
+  {
+   "topic": "Householder Transformation",
+   "unit_key": "8-5 Householder Transformation",
+   "ids": [
+    "m_73d7856e883a605f"
+   ]
+  },
+  {
+   "topic": "Singular Value Decomposition",
+   "unit_key": "8-6 Singular Value Decomposition",
+   "ids": [
+    "b2a5d990a2",
+    "dm03_ee70ee8b6a7ce7c1",
+    "dm03_9a905b34746d1ef8",
+    "m_0131db6bb269c7ec",
+    "m_024a43ed56212809"
+   ]
+  },
+  {
+   "topic": "Bilinear Form and its Matrix Representation",
+   "unit_key": "8-7 Bilinear Form and its Matrix Representation",
+   "ids": [
+    "d09bfcbc88",
+    "m_792edb41611b8a44"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_0131db6bb269c7ec",
+   "year": 106,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_0131db6bb269c7ec.webp"
+  },
+  {
+   "id": "96a3cdc384",
+   "year": 107,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/96a3cdc384.webp"
+  },
+  {
+   "id": "m_5d405ad3179dfff6",
+   "year": 101,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_5d405ad3179dfff6.webp"
+  },
+  {
+   "id": "m_7adaf511b0d0ffa9",
+   "year": 104,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_7adaf511b0d0ffa9.webp"
+  },
+  {
+   "id": "m_816db793ff11023a",
+   "year": 105,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_816db793ff11023a.webp"
+  },
+  {
+   "id": "0f9bfc6b94",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/0f9bfc6b94.webp"
+  },
+  {
+   "id": "m_73d7856e883a605f",
+   "year": 100,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_73d7856e883a605f.webp"
+  },
+  {
+   "id": "m_57d966568d3767c3",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_57d966568d3767c3.webp"
+  },
+  {
+   "id": "dm03_9a905b34746d1ef8",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/dm03_9a905b34746d1ef8.webp"
+  },
+  {
+   "id": "m_ee813b50f55c2f62",
+   "year": 101,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_ee813b50f55c2f62.webp"
+  },
+  {
+   "id": "b2a5d990a2",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/b2a5d990a2.webp"
+  },
+  {
+   "id": "dm03_ee70ee8b6a7ce7c1",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/dm03_ee70ee8b6a7ce7c1.webp"
+  },
+  {
+   "id": "m_024a43ed56212809",
+   "year": 106,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_024a43ed56212809.webp"
+  },
+  {
+   "id": "d09bfcbc88",
+   "year": 106,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/d09bfcbc88.webp"
+  },
+  {
+   "id": "m_792edb41611b8a44",
+   "year": 104,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_792edb41611b8a44.webp"
+  }
+ ]
+}

@@ -1,0 +1,165 @@
+{
+ "group": "計系",
+ "chapter": "Multiprocessors and Parallelism",
+ "topic": "全章",
+ "subject": "計算機組織",
+ "unit_key": "Flynn Taxonomy (SISD, SIMD, MIMD, SPMD)",
+ "sections": [
+  {
+   "topic": "Flynn Taxonomy (SISD, SIMD, MIMD, SPMD)",
+   "unit_key": "Flynn Taxonomy (SISD, SIMD, MIMD, SPMD)",
+   "ids": [
+    "cd21a936c0"
+   ]
+  },
+  {
+   "topic": "Hardware Multithreading: Fine-Grained, Coarse-Grained, SMT",
+   "unit_key": "Hardware Multithreading: Fine-Grained, Coarse-Grained, SMT",
+   "ids": [
+    "m_8b86d05fad24761b",
+    "e199432f21",
+    "m_3464c2ceefafe40c",
+    "cd21a936c0"
+   ]
+  },
+  {
+   "topic": "Message Passing, MPP, Clusters, WSC",
+   "unit_key": "Message Passing, MPP, Clusters, WSC",
+   "ids": [
+    "m_d6dc6159722a0000",
+    "m_00842ba6fafcb3eb",
+    "m_d2cdf1f8edf3667a",
+    "m_0f7ad9677e170e43",
+    "e199432f21",
+    "m_4ad6808ea1d03e97",
+    "m_0a1e04bc48e289c2",
+    "m_1d0c7004007a2987",
+    "011e62cf0f"
+   ]
+  },
+  {
+   "topic": "UMA vs. NUMA, Shared Memory",
+   "unit_key": "UMA vs. NUMA, Shared Memory",
+   "ids": [
+    "m_ee22df88ef4c380d",
+    "e199432f21",
+    "m_cd774270964414f4",
+    "011e62cf0f"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "cd21a936c0",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/cd21a936c0.webp"
+  },
+  {
+   "id": "m_8b86d05fad24761b",
+   "year": 106,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_8b86d05fad24761b.webp"
+  },
+  {
+   "id": "e199432f21",
+   "year": 103,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/e199432f21.webp"
+  },
+  {
+   "id": "m_3464c2ceefafe40c",
+   "year": 100,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_3464c2ceefafe40c.webp"
+  },
+  {
+   "id": "m_d6dc6159722a0000",
+   "year": 102,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_d6dc6159722a0000.webp"
+  },
+  {
+   "id": "m_00842ba6fafcb3eb",
+   "year": 102,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_00842ba6fafcb3eb.webp"
+  },
+  {
+   "id": "m_d2cdf1f8edf3667a",
+   "year": 102,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_d2cdf1f8edf3667a.webp"
+  },
+  {
+   "id": "m_0f7ad9677e170e43",
+   "year": 102,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_0f7ad9677e170e43.webp"
+  },
+  {
+   "id": "m_4ad6808ea1d03e97",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_4ad6808ea1d03e97.webp"
+  },
+  {
+   "id": "m_0a1e04bc48e289c2",
+   "year": 101,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "II-Q3",
+   "url": "https://img.ptsfu.org/m_0a1e04bc48e289c2.webp"
+  },
+  {
+   "id": "m_1d0c7004007a2987",
+   "year": 107,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_1d0c7004007a2987.webp"
+  },
+  {
+   "id": "011e62cf0f",
+   "year": 101,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "II-Q1",
+   "url": "https://img.ptsfu.org/011e62cf0f.webp"
+  },
+  {
+   "id": "m_ee22df88ef4c380d",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_ee22df88ef4c380d.webp"
+  },
+  {
+   "id": "m_cd774270964414f4",
+   "year": 104,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_cd774270964414f4.webp"
+  }
+ ]
+}

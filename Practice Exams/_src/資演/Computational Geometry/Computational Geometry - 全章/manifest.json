@@ -1,0 +1,56 @@
+{
+ "group": "資演",
+ "chapter": "Computational Geometry",
+ "topic": "全章",
+ "subject": "演算法",
+ "unit_key": "37-1 Line-Segment Intersection, Sweep Line, Point in Polygon",
+ "sections": [
+  {
+   "topic": "Line-Segment Intersection, Sweep Line, Point in Polygon",
+   "unit_key": "37-1 Line-Segment Intersection, Sweep Line, Point in Polygon",
+   "ids": [
+    "m_435545e6c877e94a"
+   ]
+  },
+  {
+   "topic": "Closest Pair of Points, Voronoi Diagram",
+   "unit_key": "37-2 Closest Pair of Points, Voronoi Diagram",
+   "ids": [
+    "m_112d95175bdaf7a8"
+   ]
+  },
+  {
+   "topic": "Convex Hull: Graham Scan, Jarvis March, Farthest Pair",
+   "unit_key": "37-3 Convex Hull: Graham Scan, Jarvis March, Farthest Pair",
+   "ids": [
+    "9aa36235b5"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_435545e6c877e94a",
+   "year": 103,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_435545e6c877e94a.webp"
+  },
+  {
+   "id": "m_112d95175bdaf7a8",
+   "year": 104,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_112d95175bdaf7a8.webp"
+  },
+  {
+   "id": "9aa36235b5",
+   "year": 105,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/9aa36235b5.webp"
+  }
+ ]
+}

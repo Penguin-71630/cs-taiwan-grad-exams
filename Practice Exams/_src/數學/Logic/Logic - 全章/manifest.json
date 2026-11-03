@@ -1,0 +1,140 @@
+{
+ "group": "數學",
+ "chapter": "Logic",
+ "topic": "全章",
+ "subject": "離散數學",
+ "unit_key": "1-1 Statement, Truth Table, Logical Puzzle",
+ "sections": [
+  {
+   "topic": "Statement, Truth Table, Logical Puzzle",
+   "unit_key": "1-1 Statement, Truth Table, Logical Puzzle",
+   "ids": [
+    "m_af2112f5b520325e",
+    "dm03_f26e3978d3ff4dd5",
+    "e9ed05ec15"
+   ]
+  },
+  {
+   "topic": "De Morgan's Law, Logically Equivalent, Logically Imply",
+   "unit_key": "1-2 De Morgan's Law, Logically Equivalent, Logically Imply",
+   "ids": [
+    "edbce81ea3",
+    "f2ddda53ae",
+    "dm03_167a8c658f92bb7b",
+    "m_2c895b9c3605d925",
+    "dm03_f26e3978d3ff4dd5",
+    "ceaefa546f"
+   ]
+  },
+  {
+   "topic": "Proposition Function, Predicate Logic",
+   "unit_key": "1-3 Proposition Function, Predicate Logic",
+   "ids": [
+    "dm03_167a8c658f92bb7b",
+    "m_516adbc2bc905687",
+    "m_2c895b9c3605d925",
+    "m_f462229fcf59fc4d",
+    "m_42849f2fda025bc4",
+    "4321369eb8"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_af2112f5b520325e",
+   "year": 105,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_af2112f5b520325e.webp"
+  },
+  {
+   "id": "dm03_f26e3978d3ff4dd5",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/dm03_f26e3978d3ff4dd5.webp"
+  },
+  {
+   "id": "e9ed05ec15",
+   "year": 101,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/e9ed05ec15.webp"
+  },
+  {
+   "id": "edbce81ea3",
+   "year": 104,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/edbce81ea3.webp"
+  },
+  {
+   "id": "f2ddda53ae",
+   "year": 106,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/f2ddda53ae.webp"
+  },
+  {
+   "id": "dm03_167a8c658f92bb7b",
+   "year": 106,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/dm03_167a8c658f92bb7b.webp"
+  },
+  {
+   "id": "m_2c895b9c3605d925",
+   "year": 101,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_2c895b9c3605d925.webp"
+  },
+  {
+   "id": "ceaefa546f",
+   "year": 103,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/ceaefa546f.webp"
+  },
+  {
+   "id": "m_516adbc2bc905687",
+   "year": 104,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_516adbc2bc905687.webp"
+  },
+  {
+   "id": "m_f462229fcf59fc4d",
+   "year": 107,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_f462229fcf59fc4d.webp"
+  },
+  {
+   "id": "m_42849f2fda025bc4",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q9(b)",
+   "url": "https://img.ptsfu.org/m_42849f2fda025bc4.webp"
+  },
+  {
+   "id": "4321369eb8",
+   "year": 102,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/4321369eb8.webp"
+  }
+ ]
+}

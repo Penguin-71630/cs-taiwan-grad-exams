@@ -1,0 +1,35 @@
+{
+ "group": "資演",
+ "chapter": "Backtracking, Branch-and-Bound and Design Techniques",
+ "topic": "全章",
+ "subject": "演算法",
+ "unit_key": "36-1 Backtracking: State-Space Tree, Turnpike Reconstruction",
+ "sections": [
+  {
+   "topic": "Backtracking: State-Space Tree, Turnpike Reconstruction",
+   "unit_key": "36-1 Backtracking: State-Space Tree, Turnpike Reconstruction",
+   "ids": [
+    "m_7712453fceeafb58",
+    "m_9e3a3583eb635e7f"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_7712453fceeafb58",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q45",
+   "url": "https://img.ptsfu.org/m_7712453fceeafb58.webp"
+  },
+  {
+   "id": "m_9e3a3583eb635e7f",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q46",
+   "url": "https://img.ptsfu.org/m_9e3a3583eb635e7f.webp"
+  }
+ ]
+}

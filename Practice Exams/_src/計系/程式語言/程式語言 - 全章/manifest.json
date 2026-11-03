@@ -1,0 +1,26 @@
+{
+ "group": "計系",
+ "chapter": "程式語言",
+ "topic": "全章",
+ "subject": "計算機組織",
+ "unit_key": "計算機組織§2-4 struct, union, enum, Memory Layout, Endianness",
+ "sections": [
+  {
+   "topic": "struct, union, enum, Memory Layout, Endianness",
+   "unit_key": "計算機組織§2-4 struct, union, enum, Memory Layout, Endianness",
+   "ids": [
+    "m_203388e183005a29"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_203388e183005a29",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/m_203388e183005a29.webp"
+  }
+ ]
+}

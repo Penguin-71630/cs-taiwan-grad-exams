@@ -1,0 +1,117 @@
+{
+ "group": "數學",
+ "chapter": "Function",
+ "topic": "全章",
+ "subject": "離散數學",
+ "unit_key": "3-1 Composite Function",
+ "sections": [
+  {
+   "topic": "Composite Function",
+   "unit_key": "3-1 Composite Function",
+   "ids": [
+    "dm03_d8d6f6f5e858d375",
+    "m_af2112f5b520325e",
+    "m_6b86a8f1d47a1f30"
+   ]
+  },
+  {
+   "topic": "Floor Function, Ceiling Function, Even／Odd Function",
+   "unit_key": "3-1 Floor Function, Ceiling Function, Even/Odd Function",
+   "ids": [
+    "m_cace540ca9ced4e4"
+   ]
+  },
+  {
+   "topic": "Number of 1-1, Onto, Bijection Functions",
+   "unit_key": "3-1 Number of 1-1, Onto, Bijection Functions",
+   "ids": [
+    "c8ad3b6fa7",
+    "m_5b0fabda1b616391"
+   ]
+  },
+  {
+   "topic": "Relation, Function, 1-1, Onto, Bijection",
+   "unit_key": "3-1 Relation, Function, 1-1, Onto, Bijection",
+   "ids": [
+    "c8ad3b6fa7",
+    "dm03_d8d6f6f5e858d375",
+    "m_af2112f5b520325e",
+    "m_cace540ca9ced4e4"
+   ]
+  },
+  {
+   "topic": "Cardinality, Countable Set, Uncountable Set",
+   "unit_key": "3-2 Cardinality, Countable Set, Uncountable Set",
+   "ids": [
+    "m_516adbc2bc905687",
+    "m_14980fc965eeb6ad"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "dm03_d8d6f6f5e858d375",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/dm03_d8d6f6f5e858d375.webp"
+  },
+  {
+   "id": "m_af2112f5b520325e",
+   "year": 105,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_af2112f5b520325e.webp"
+  },
+  {
+   "id": "m_6b86a8f1d47a1f30",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q11(d)",
+   "url": "https://img.ptsfu.org/m_6b86a8f1d47a1f30.webp"
+  },
+  {
+   "id": "m_cace540ca9ced4e4",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q11(a)",
+   "url": "https://img.ptsfu.org/m_cace540ca9ced4e4.webp"
+  },
+  {
+   "id": "c8ad3b6fa7",
+   "year": 103,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/c8ad3b6fa7.webp"
+  },
+  {
+   "id": "m_5b0fabda1b616391",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q11(c)",
+   "url": "https://img.ptsfu.org/m_5b0fabda1b616391.webp"
+  },
+  {
+   "id": "m_516adbc2bc905687",
+   "year": 104,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_516adbc2bc905687.webp"
+  },
+  {
+   "id": "m_14980fc965eeb6ad",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q9(c)",
+   "url": "https://img.ptsfu.org/m_14980fc965eeb6ad.webp"
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "group": "數學",
+ "chapter": "Jordan Form",
+ "topic": "全章",
+ "subject": "線性代數",
+ "unit_key": "6-1 Nilpotent, Index",
+ "sections": [
+  {
+   "topic": "Nilpotent, Index",
+   "unit_key": "6-1 Nilpotent, Index",
+   "ids": [
+    "ce65df6255"
+   ]
+  },
+  {
+   "topic": "Minimal Polynomial",
+   "unit_key": "6-4 Minimal Polynomial",
+   "ids": [
+    "m_5254e878787e2c96"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "ce65df6255",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/ce65df6255.webp"
+  },
+  {
+   "id": "m_5254e878787e2c96",
+   "year": 101,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_5254e878787e2c96.webp"
+  }
+ ]
+}

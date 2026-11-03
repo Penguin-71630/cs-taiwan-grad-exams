@@ -1,0 +1,167 @@
+{
+ "group": "資演",
+ "chapter": "Quicksort",
+ "topic": "全章",
+ "subject": "演算法",
+ "unit_key": "7-1 Quicksort",
+ "sections": [
+  {
+   "topic": "Quicksort",
+   "unit_key": "7-1 Quicksort",
+   "ids": [
+    "7d57994334",
+    "m_64905fb23c613cd6",
+    "m_34e90b1e81a93d14",
+    "m_4fb83693509f4bfd",
+    "m_256ad22df78addfb",
+    "m_96dd6f280753a457",
+    "m_ea67164fab5befb2"
+   ]
+  },
+  {
+   "topic": "Performance of Quicksort",
+   "unit_key": "7-2 Performance of Quicksort",
+   "ids": [
+    "ea409196a0",
+    "4ffbd5447a",
+    "m_64905fb23c613cd6",
+    "m_34e90b1e81a93d14",
+    "m_2761e516cc36dd1a",
+    "m_dbc97f4ee2b63066",
+    "m_9cf1bb5cbbebe824",
+    "m_96dd6f280753a457"
+   ]
+  },
+  {
+   "topic": "Randomized Pivoting",
+   "unit_key": "7-3 Randomized Pivoting",
+   "ids": [
+    "m_943fc6b64f819790",
+    "m_96dd6f280753a457"
+   ]
+  },
+  {
+   "topic": "Analysis of Quicksort",
+   "unit_key": "7-4 Analysis of Quicksort",
+   "ids": [
+    "m_9cf1bb5cbbebe824",
+    "m_943fc6b64f819790",
+    "m_672b2695693a8ef6"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "7d57994334",
+   "year": 103,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/7d57994334.webp"
+  },
+  {
+   "id": "m_64905fb23c613cd6",
+   "year": 102,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_64905fb23c613cd6.webp"
+  },
+  {
+   "id": "m_34e90b1e81a93d14",
+   "year": 104,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_34e90b1e81a93d14.webp"
+  },
+  {
+   "id": "m_4fb83693509f4bfd",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q37",
+   "url": "https://img.ptsfu.org/m_4fb83693509f4bfd.webp"
+  },
+  {
+   "id": "m_256ad22df78addfb",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q32",
+   "url": "https://img.ptsfu.org/m_256ad22df78addfb.webp"
+  },
+  {
+   "id": "m_96dd6f280753a457",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q22",
+   "url": "https://img.ptsfu.org/m_96dd6f280753a457.webp"
+  },
+  {
+   "id": "m_ea67164fab5befb2",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q23",
+   "url": "https://img.ptsfu.org/m_ea67164fab5befb2.webp"
+  },
+  {
+   "id": "ea409196a0",
+   "year": 100,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/ea409196a0.webp"
+  },
+  {
+   "id": "4ffbd5447a",
+   "year": 100,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/4ffbd5447a.webp"
+  },
+  {
+   "id": "m_2761e516cc36dd1a",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q23",
+   "url": "https://img.ptsfu.org/m_2761e516cc36dd1a.webp"
+  },
+  {
+   "id": "m_dbc97f4ee2b63066",
+   "year": 107,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_dbc97f4ee2b63066.webp"
+  },
+  {
+   "id": "m_9cf1bb5cbbebe824",
+   "year": 107,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_9cf1bb5cbbebe824.webp"
+  },
+  {
+   "id": "m_943fc6b64f819790",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q39",
+   "url": "https://img.ptsfu.org/m_943fc6b64f819790.webp"
+  },
+  {
+   "id": "m_672b2695693a8ef6",
+   "year": 106,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_672b2695693a8ef6.webp"
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "group": "數學",
+ "chapter": "Set Theory",
+ "topic": "其他主題",
+ "subject": "離散數學",
+ "unit_key": "2-1 Cartesian Product",
+ "sections": [
+  {
+   "topic": "Cartesian Product",
+   "unit_key": "2-1 Cartesian Product",
+   "ids": [
+    "m_1ae44a9a2735596f",
+    "ceaefa546f"
+   ]
+  },
+  {
+   "topic": "Set Operations: Union, Intersection, Complement, Diff, Sym Diff",
+   "unit_key": "2-1 Set Operations: Union, Intersection, Complement, Diff, Sym Diff",
+   "ids": [
+    "dm03_d8d6f6f5e858d375",
+    "m_1ae44a9a2735596f"
+   ]
+  },
+  {
+   "topic": "Derangement",
+   "unit_key": "2-2 Derangement",
+   "ids": [
+    "dm03_2d27c15fb7113dd0",
+    "m_ed17faae3773c929",
+    "53d7de94f2"
+   ]
+  },
+  {
+   "topic": "Euler's Phi Function",
+   "unit_key": "2-2 Euler's Phi Function",
+   "ids": [
+    "cd89f438e1"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_1ae44a9a2735596f",
+   "year": 107,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_1ae44a9a2735596f.webp"
+  },
+  {
+   "id": "ceaefa546f",
+   "year": 103,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/ceaefa546f.webp"
+  },
+  {
+   "id": "dm03_d8d6f6f5e858d375",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/dm03_d8d6f6f5e858d375.webp"
+  },
+  {
+   "id": "dm03_2d27c15fb7113dd0",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/dm03_2d27c15fb7113dd0.webp"
+  },
+  {
+   "id": "m_ed17faae3773c929",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12(c)",
+   "url": "https://img.ptsfu.org/m_ed17faae3773c929.webp"
+  },
+  {
+   "id": "53d7de94f2",
+   "year": 107,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/53d7de94f2.webp"
+  },
+  {
+   "id": "cd89f438e1",
+   "year": 104,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/cd89f438e1.webp"
+  }
+ ]
+}

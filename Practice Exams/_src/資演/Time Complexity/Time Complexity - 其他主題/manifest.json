@@ -1,0 +1,83 @@
+{
+ "group": "資演",
+ "chapter": "Time Complexity",
+ "topic": "其他主題",
+ "subject": "資料結構",
+ "unit_key": "1-2 Recursive Algorithms: Permutation Generation",
+ "sections": [
+  {
+   "topic": "Recursive Algorithms: Permutation Generation",
+   "unit_key": "1-2 Recursive Algorithms: Permutation Generation",
+   "ids": [
+    "0f09a411ee"
+   ]
+  },
+  {
+   "topic": "對數數學公式",
+   "unit_key": "1-8 對數數學公式",
+   "ids": [
+    "229d642bc9",
+    "m_76ce5421e334ed59"
+   ]
+  },
+  {
+   "topic": "Guess Method",
+   "unit_key": "1-9 Guess Method",
+   "ids": [
+    "b00fa54142",
+    "m_34af424a6b5f465b",
+    "ea409196a0"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "0f09a411ee",
+   "year": 100,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/0f09a411ee.webp"
+  },
+  {
+   "id": "229d642bc9",
+   "year": 102,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/229d642bc9.webp"
+  },
+  {
+   "id": "m_76ce5421e334ed59",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q27",
+   "url": "https://img.ptsfu.org/m_76ce5421e334ed59.webp"
+  },
+  {
+   "id": "b00fa54142",
+   "year": 103,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/b00fa54142.webp"
+  },
+  {
+   "id": "m_34af424a6b5f465b",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q35",
+   "url": "https://img.ptsfu.org/m_34af424a6b5f465b.webp"
+  },
+  {
+   "id": "ea409196a0",
+   "year": 100,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/ea409196a0.webp"
+  }
+ ]
+}

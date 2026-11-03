@@ -1,0 +1,56 @@
+{
+ "group": "資演",
+ "chapter": "Approixmation",
+ "topic": "全章",
+ "subject": "演算法",
+ "unit_key": "35-1 Approximation Ratio, PTAS, FPTAS",
+ "sections": [
+  {
+   "topic": "Approximation Ratio, PTAS, FPTAS",
+   "unit_key": "35-1 Approximation Ratio, PTAS, FPTAS",
+   "ids": [
+    "m_24e537cb3dd257c5"
+   ]
+  },
+  {
+   "topic": "滿足三角不等式的 TSP: 2-approximation, 1.5-approximation",
+   "unit_key": "35-2 滿足三角不等式的 TSP: 2-approximation, 1.5-approximation",
+   "ids": [
+    "cfee3cee39"
+   ]
+  },
+  {
+   "topic": "Set Cover: H(n)-approximation",
+   "unit_key": "35-3 Set Cover: H(n)-approximation",
+   "ids": [
+    "85ae2b78f4"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_24e537cb3dd257c5",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q55",
+   "url": "https://img.ptsfu.org/m_24e537cb3dd257c5.webp"
+  },
+  {
+   "id": "cfee3cee39",
+   "year": 106,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/cfee3cee39.webp"
+  },
+  {
+   "id": "85ae2b78f4",
+   "year": 101,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/85ae2b78f4.webp"
+  }
+ ]
+}

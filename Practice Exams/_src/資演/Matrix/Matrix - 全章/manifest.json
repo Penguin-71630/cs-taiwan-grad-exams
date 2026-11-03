@@ -1,0 +1,41 @@
+{
+ "group": "資演",
+ "chapter": "Matrix",
+ "topic": "全章",
+ "subject": "演算法",
+ "unit_key": "28-1 LU Decomposition, LUP Decomposition",
+ "sections": [
+  {
+   "topic": "LU Decomposition, LUP Decomposition",
+   "unit_key": "28-1 LU Decomposition, LUP Decomposition",
+   "ids": [
+    "fd5fa41eaa"
+   ]
+  },
+  {
+   "topic": "對稱正定矩陣, 最小平方法",
+   "unit_key": "28-3 對稱正定矩陣, 最小平方法",
+   "ids": [
+    "f6b69f2d1a"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "fd5fa41eaa",
+   "year": 105,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/fd5fa41eaa.webp"
+  },
+  {
+   "id": "f6b69f2d1a",
+   "year": 102,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/f6b69f2d1a.webp"
+  }
+ ]
+}

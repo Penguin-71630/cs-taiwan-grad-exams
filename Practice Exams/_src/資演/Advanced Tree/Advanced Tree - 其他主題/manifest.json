@@ -1,0 +1,192 @@
+{
+ "group": "資演",
+ "chapter": "Advanced Tree",
+ "topic": "其他主題",
+ "subject": "資料結構",
+ "unit_key": "9-1 Min-Max Heap",
+ "sections": [
+  {
+   "topic": "Min-Max Heap",
+   "unit_key": "9-1 Min-Max Heap",
+   "ids": [
+    "m_536cb2270e631b24"
+   ]
+  },
+  {
+   "topic": "Double-Ended Heap",
+   "unit_key": "9-2 Double-Ended Heap",
+   "ids": [
+    "m_536cb2270e631b24"
+   ]
+  },
+  {
+   "topic": "Optimal BST",
+   "unit_key": "9-5 Optimal BST",
+   "ids": [
+    "m_af11eb37e2e74bf7",
+    "m_0d0c85ef19fd702e",
+    "m_a9fc7672ce075610"
+   ]
+  },
+  {
+   "topic": "2-3 Tree",
+   "unit_key": "9-7 2-3 Tree",
+   "ids": [
+    "m_add4466c27a35d7a"
+   ]
+  },
+  {
+   "topic": "2-3-4 Tree",
+   "unit_key": "9-8~9-9 2-3-4 Tree",
+   "ids": [
+    "m_536cb2270e631b24"
+   ]
+  },
+  {
+   "topic": "Binomial Heap",
+   "unit_key": "9-12 Binomial Heap",
+   "ids": [
+    "m_e8bbdff9febdd685"
+   ]
+  },
+  {
+   "topic": "Binomial Queue",
+   "unit_key": "9-12 Binomial Queue",
+   "ids": [
+    "m_e8bbdff9febdd685"
+   ]
+  },
+  {
+   "topic": "Fibonacci Heap",
+   "unit_key": "9-12 Fibonacci Heap",
+   "ids": [
+    "m_4ee424d2c4f4adcb",
+    "m_496ef5eaed998e3b",
+    "m_f85067193a7031ab"
+   ]
+  },
+  {
+   "topic": "Leftist Tree",
+   "unit_key": "9-12 Leftist Tree",
+   "ids": [
+    "m_f4d83883b2e76a39",
+    "m_36c51cd84fc0d187",
+    "m_536cb2270e631b24",
+    "m_b2ad6d498a2460a9"
+   ]
+  },
+  {
+   "topic": "B+ Tree",
+   "unit_key": "B+ Tree",
+   "ids": [
+    "m_9a1edbd387829da2"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_536cb2270e631b24",
+   "year": 107,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_536cb2270e631b24.webp"
+  },
+  {
+   "id": "m_af11eb37e2e74bf7",
+   "year": 103,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_af11eb37e2e74bf7.webp"
+  },
+  {
+   "id": "m_0d0c85ef19fd702e",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q40",
+   "url": "https://img.ptsfu.org/m_0d0c85ef19fd702e.webp"
+  },
+  {
+   "id": "m_a9fc7672ce075610",
+   "year": 100,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_a9fc7672ce075610.webp"
+  },
+  {
+   "id": "m_add4466c27a35d7a",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_add4466c27a35d7a.webp"
+  },
+  {
+   "id": "m_e8bbdff9febdd685",
+   "year": 103,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_e8bbdff9febdd685.webp"
+  },
+  {
+   "id": "m_4ee424d2c4f4adcb",
+   "year": 104,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_4ee424d2c4f4adcb.webp"
+  },
+  {
+   "id": "m_496ef5eaed998e3b",
+   "year": 106,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_496ef5eaed998e3b.webp"
+  },
+  {
+   "id": "m_f85067193a7031ab",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q29",
+   "url": "https://img.ptsfu.org/m_f85067193a7031ab.webp"
+  },
+  {
+   "id": "m_f4d83883b2e76a39",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q20",
+   "url": "https://img.ptsfu.org/m_f4d83883b2e76a39.webp"
+  },
+  {
+   "id": "m_36c51cd84fc0d187",
+   "year": 103,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_36c51cd84fc0d187.webp"
+  },
+  {
+   "id": "m_b2ad6d498a2460a9",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q21",
+   "url": "https://img.ptsfu.org/m_b2ad6d498a2460a9.webp"
+  },
+  {
+   "id": "m_9a1edbd387829da2",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/m_9a1edbd387829da2.webp"
+  }
+ ]
+}

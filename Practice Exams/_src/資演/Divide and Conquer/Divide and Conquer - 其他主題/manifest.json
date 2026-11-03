@@ -1,0 +1,110 @@
+{
+ "group": "資演",
+ "chapter": "Divide and Conquer",
+ "topic": "其他主題",
+ "subject": "演算法",
+ "unit_key": "4-1 Maximum-Subarray Problem",
+ "sections": [
+  {
+   "topic": "Maximum-Subarray Problem",
+   "unit_key": "4-1 Maximum-Subarray Problem",
+   "ids": [
+    "m_3c578233c5674f8a"
+   ]
+  },
+  {
+   "topic": "Strassen",
+   "unit_key": "4-2 Strassen",
+   "ids": [
+    "9aa36235b5",
+    "m_af11eb37e2e74bf7"
+   ]
+  },
+  {
+   "topic": "Substitution Method",
+   "unit_key": "4-3 Substitution Method",
+   "ids": [
+    "ea409196a0",
+    "b00fa54142",
+    "64617ea1d4",
+    "m_34af424a6b5f465b"
+   ]
+  },
+  {
+   "topic": "Recursion-tree Method",
+   "unit_key": "4-4 Recursion-tree Method",
+   "ids": [
+    "229d642bc9",
+    "b00fa54142",
+    "64617ea1d4",
+    "m_34af424a6b5f465b"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_3c578233c5674f8a",
+   "year": 107,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_3c578233c5674f8a.webp"
+  },
+  {
+   "id": "9aa36235b5",
+   "year": 105,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/9aa36235b5.webp"
+  },
+  {
+   "id": "m_af11eb37e2e74bf7",
+   "year": 103,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_af11eb37e2e74bf7.webp"
+  },
+  {
+   "id": "ea409196a0",
+   "year": 100,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/ea409196a0.webp"
+  },
+  {
+   "id": "b00fa54142",
+   "year": 103,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/b00fa54142.webp"
+  },
+  {
+   "id": "64617ea1d4",
+   "year": 106,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/64617ea1d4.webp"
+  },
+  {
+   "id": "m_34af424a6b5f465b",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q35",
+   "url": "https://img.ptsfu.org/m_34af424a6b5f465b.webp"
+  },
+  {
+   "id": "229d642bc9",
+   "year": 102,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/229d642bc9.webp"
+  }
+ ]
+}

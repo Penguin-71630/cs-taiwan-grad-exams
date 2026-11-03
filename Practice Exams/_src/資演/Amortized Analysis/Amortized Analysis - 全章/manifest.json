@@ -1,0 +1,73 @@
+{
+ "group": "資演",
+ "chapter": "Amortized Analysis",
+ "topic": "全章",
+ "subject": "演算法",
+ "unit_key": "16-1 Aggregate Analysis",
+ "sections": [
+  {
+   "topic": "Aggregate Analysis",
+   "unit_key": "16-1 Aggregate Analysis",
+   "ids": [
+    "m_a537272bcae375c0",
+    "m_ec68b8478508a4e7"
+   ]
+  },
+  {
+   "topic": "Accounting Method",
+   "unit_key": "16-2 Accounting Method",
+   "ids": [
+    "m_f28e3825a7c63d0d",
+    "m_ec68b8478508a4e7"
+   ]
+  },
+  {
+   "topic": "Potential Method",
+   "unit_key": "16-3 Potential Method",
+   "ids": [
+    "36d15c4721"
+   ]
+  },
+  {
+   "topic": "Dynamic Tables",
+   "unit_key": "16-4 Dynamic Tables",
+   "ids": [
+    "m_ec68b8478508a4e7"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_a537272bcae375c0",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q30",
+   "url": "https://img.ptsfu.org/m_a537272bcae375c0.webp"
+  },
+  {
+   "id": "m_ec68b8478508a4e7",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q28",
+   "url": "https://img.ptsfu.org/m_ec68b8478508a4e7.webp"
+  },
+  {
+   "id": "m_f28e3825a7c63d0d",
+   "year": 107,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "QV",
+   "url": "https://img.ptsfu.org/m_f28e3825a7c63d0d.webp"
+  },
+  {
+   "id": "36d15c4721",
+   "year": 105,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/36d15c4721.webp"
+  }
+ ]
+}

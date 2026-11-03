@@ -1,0 +1,203 @@
+{
+ "group": "數學",
+ "chapter": "Relation",
+ "topic": "其他主題",
+ "subject": "離散數學",
+ "unit_key": "11-1 Reflexive Closure, Symmetric Closure, Transitive Closure",
+ "sections": [
+  {
+   "topic": "Reflexive Closure, Symmetric Closure, Transitive Closure",
+   "unit_key": "11-1 Reflexive Closure, Symmetric Closure, Transitive Closure",
+   "ids": [
+    "dm03_62421abb7356942f",
+    "dm03_8c00c122512b4c04",
+    "m_b510cb746ffefdf8"
+   ]
+  },
+  {
+   "topic": "Relation, Inverse Relation, Complement Relation",
+   "unit_key": "11-1 Relation, Inverse Relation, Complement Relation",
+   "ids": [
+    "480a01b752",
+    "m_9df1231c0ebbc5cb",
+    "m_1ffa5bff82633371"
+   ]
+  },
+  {
+   "topic": "Warshall's Algorithm for Finding Transitive Closure",
+   "unit_key": "11-1 Warshall's Algorithm for Finding Transitive Closure",
+   "ids": [
+    "dm03_8c00c122512b4c04"
+   ]
+  },
+  {
+   "topic": "Congruence Relation",
+   "unit_key": "11-2 Congruence Relation",
+   "ids": [
+    "m_b2a0e80c4bfe3af9"
+   ]
+  },
+  {
+   "topic": "Definition of Equivalence Relation",
+   "unit_key": "11-2 Definition of Equivalence Relation",
+   "ids": [
+    "dm03_62421abb7356942f",
+    "m_b2a0e80c4bfe3af9",
+    "m_d30e9a07a3d628f5",
+    "2dd77b4684"
+   ]
+  },
+  {
+   "topic": "Partition",
+   "unit_key": "11-2 Partition",
+   "ids": [
+    "dm03_62421abb7356942f",
+    "m_b2a0e80c4bfe3af9"
+   ]
+  },
+  {
+   "topic": "Chain, Antichain",
+   "unit_key": "11-3 Chain, Antichain",
+   "ids": [
+    "e06008a50b"
+   ]
+  },
+  {
+   "topic": "Partial Ordering Set (POS), Hasse Diagram, Comparable",
+   "unit_key": "11-3 Partial Ordering Set (POS), Hasse Diagram, Comparable",
+   "ids": [
+    "m_31414a1e6104616e",
+    "m_b2a0e80c4bfe3af9",
+    "e06008a50b",
+    "45acb5f535"
+   ]
+  },
+  {
+   "topic": "Totally Ordering Set (TOS)",
+   "unit_key": "11-3 Totally Ordering Set (TOS)",
+   "ids": [
+    "45acb5f535"
+   ]
+  },
+  {
+   "topic": "Boolean Lattice, 布林代數的同態／同構, Boolean Function",
+   "unit_key": "11-5 Boolean Lattice, 布林代數的同態/同構, Boolean Function",
+   "ids": [
+    "c38aadb69a"
+   ]
+  },
+  {
+   "topic": "Dilworth Theorem",
+   "unit_key": "Dilworth Theorem",
+   "ids": [
+    "e06008a50b"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "dm03_62421abb7356942f",
+   "year": 107,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/dm03_62421abb7356942f.webp"
+  },
+  {
+   "id": "dm03_8c00c122512b4c04",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q18",
+   "url": "https://img.ptsfu.org/dm03_8c00c122512b4c04.webp"
+  },
+  {
+   "id": "m_b510cb746ffefdf8",
+   "year": 106,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_b510cb746ffefdf8.webp"
+  },
+  {
+   "id": "480a01b752",
+   "year": 100,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/480a01b752.webp"
+  },
+  {
+   "id": "m_9df1231c0ebbc5cb",
+   "year": 105,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_9df1231c0ebbc5cb.webp"
+  },
+  {
+   "id": "m_1ffa5bff82633371",
+   "year": 106,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_1ffa5bff82633371.webp"
+  },
+  {
+   "id": "m_b2a0e80c4bfe3af9",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12(b)",
+   "url": "https://img.ptsfu.org/m_b2a0e80c4bfe3af9.webp"
+  },
+  {
+   "id": "m_d30e9a07a3d628f5",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/m_d30e9a07a3d628f5.webp"
+  },
+  {
+   "id": "2dd77b4684",
+   "year": 104,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/2dd77b4684.webp"
+  },
+  {
+   "id": "e06008a50b",
+   "year": 100,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/e06008a50b.webp"
+  },
+  {
+   "id": "m_31414a1e6104616e",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_31414a1e6104616e.webp"
+  },
+  {
+   "id": "45acb5f535",
+   "year": 107,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/45acb5f535.webp"
+  },
+  {
+   "id": "c38aadb69a",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/c38aadb69a.webp"
+  }
+ ]
+}

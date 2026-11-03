@@ -1,0 +1,26 @@
+{
+ "group": "資演",
+ "chapter": "Randomized Algorithms",
+ "topic": "全章",
+ "subject": "演算法",
+ "unit_key": "5-5 Las Vegas vs. Monte Carlo Algorithms",
+ "sections": [
+  {
+   "topic": "Las Vegas vs. Monte Carlo Algorithms",
+   "unit_key": "5-5 Las Vegas vs. Monte Carlo Algorithms",
+   "ids": [
+    "d683546f3a"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "d683546f3a",
+   "year": 104,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/d683546f3a.webp"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "group": "數學",
+ "chapter": "Pigeonhole",
+ "topic": "全章",
+ "subject": "離散數學",
+ "unit_key": "3-3 The Pigeonhole Principle",
+ "sections": [
+  {
+   "topic": "The Pigeonhole Principle",
+   "unit_key": "3-3 The Pigeonhole Principle",
+   "ids": [
+    "73cd1f00a5",
+    "m_38aeafb1152d912a",
+    "m_79fa42a714668790",
+    "dm03_c41f1f30f4cfb390",
+    "m_00e3c8b8f78af988"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "73cd1f00a5",
+   "year": 102,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/73cd1f00a5.webp"
+  },
+  {
+   "id": "m_38aeafb1152d912a",
+   "year": 104,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_38aeafb1152d912a.webp"
+  },
+  {
+   "id": "m_79fa42a714668790",
+   "year": 101,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_79fa42a714668790.webp"
+  },
+  {
+   "id": "dm03_c41f1f30f4cfb390",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/dm03_c41f1f30f4cfb390.webp"
+  },
+  {
+   "id": "m_00e3c8b8f78af988",
+   "year": 106,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_00e3c8b8f78af988.webp"
+  }
+ ]
+}

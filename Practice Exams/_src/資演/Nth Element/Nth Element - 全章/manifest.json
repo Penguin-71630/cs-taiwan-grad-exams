@@ -1,0 +1,41 @@
+{
+ "group": "資演",
+ "chapter": "Nth Element",
+ "topic": "全章",
+ "subject": "演算法",
+ "unit_key": "9-1 O(n) for Selecting Min/Max",
+ "sections": [
+  {
+   "topic": "O(n) for Selecting Min／Max",
+   "unit_key": "9-1 O(n) for Selecting Min/Max",
+   "ids": [
+    "m_6bd1f28dddc297a6"
+   ]
+  },
+  {
+   "topic": "Median of Medians",
+   "unit_key": "9-3 Median of Medians",
+   "ids": [
+    "m_b860b369203e7074"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_6bd1f28dddc297a6",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q41",
+   "url": "https://img.ptsfu.org/m_6bd1f28dddc297a6.webp"
+  },
+  {
+   "id": "m_b860b369203e7074",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q32",
+   "url": "https://img.ptsfu.org/m_b860b369203e7074.webp"
+  }
+ ]
+}
