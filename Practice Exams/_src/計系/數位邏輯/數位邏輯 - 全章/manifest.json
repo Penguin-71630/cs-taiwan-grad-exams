@@ -1,0 +1,70 @@
+{
+ "group": "計系",
+ "chapter": "數位邏輯",
+ "topic": "全章",
+ "subject": "計算機組織",
+ "unit_key": "計算機組織§1-1 Number Systems, Base Conversion, Bits Required",
+ "sections": [
+  {
+   "topic": "Number Systems, Base Conversion, Bits Required",
+   "unit_key": "計算機組織§1-1 Number Systems, Base Conversion, Bits Required",
+   "ids": [
+    "dd8438735b"
+   ]
+  },
+  {
+   "topic": "Signed Numbers: Sign-Magnitude, Complements, Binary Arithmetic",
+   "unit_key": "計算機組織§1-2 Signed Numbers: Sign-Magnitude, Complements, Binary Arithmetic",
+   "ids": [
+    "dd8438735b"
+   ]
+  },
+  {
+   "topic": "Logic Gates, Truth Tables, NAND／NOR Implementation",
+   "unit_key": "計算機組織§2-1 Logic Gates, Truth Tables, NAND/NOR Implementation",
+   "ids": [
+    "41cb90b837"
+   ]
+  },
+  {
+   "topic": "Decoder, Multiplexer, Priority Encoder, Shifter",
+   "unit_key": "計算機組織§2-2 Decoder, Multiplexer, Priority Encoder, Shifter",
+   "ids": [
+    "f9ea13bec3"
+   ]
+  },
+  {
+   "topic": "ROM Implementation, Memory Address Decoding, Chip Select",
+   "unit_key": "計算機組織§2-3 ROM Implementation, Memory Address Decoding, Chip Select",
+   "ids": [
+    "41cb90b837"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "dd8438735b",
+   "year": 101,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/dd8438735b.webp"
+  },
+  {
+   "id": "41cb90b837",
+   "year": 102,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/41cb90b837.webp"
+  },
+  {
+   "id": "f9ea13bec3",
+   "year": 100,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/f9ea13bec3.webp"
+  }
+ ]
+}
