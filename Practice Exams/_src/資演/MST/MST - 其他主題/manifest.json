@@ -1,0 +1,86 @@
+{
+ "group": "資演",
+ "chapter": "MST",
+ "topic": "其他主題",
+ "subject": "演算法",
+ "unit_key": "21-1 Cut Property",
+ "sections": [
+  {
+   "topic": "Cut Property",
+   "unit_key": "21-1 Cut Property",
+   "ids": [
+    "657e534fad",
+    "m_cfa949413c5cd500",
+    "m_e1f5c9012a4df674",
+    "m_181177bab97d1ea8"
+   ]
+  },
+  {
+   "topic": "Borůvka, Sollin",
+   "unit_key": "Borůvka, Sollin",
+   "ids": [
+    "m_9ae8296472b66e92",
+    "m_3ac432af33b2082e",
+    "m_410775674566eb95"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "657e534fad",
+   "year": 103,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/657e534fad.webp"
+  },
+  {
+   "id": "m_cfa949413c5cd500",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q28",
+   "url": "https://img.ptsfu.org/m_cfa949413c5cd500.webp"
+  },
+  {
+   "id": "m_e1f5c9012a4df674",
+   "year": 103,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_e1f5c9012a4df674.webp"
+  },
+  {
+   "id": "m_181177bab97d1ea8",
+   "year": 106,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/m_181177bab97d1ea8.webp"
+  },
+  {
+   "id": "m_9ae8296472b66e92",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q52",
+   "url": "https://img.ptsfu.org/m_9ae8296472b66e92.webp"
+  },
+  {
+   "id": "m_3ac432af33b2082e",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q50",
+   "url": "https://img.ptsfu.org/m_3ac432af33b2082e.webp"
+  },
+  {
+   "id": "m_410775674566eb95",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q51",
+   "url": "https://img.ptsfu.org/m_410775674566eb95.webp"
+  }
+ ]
+}
