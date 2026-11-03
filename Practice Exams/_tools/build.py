@@ -97,7 +97,12 @@ def crop_figures(q, md_text, img_path):
     return FIG_RE.sub(sub, md_text), calls
 
 
+TILDE = "\ue000"  # stands in for a literal "\~" while pandoc runs
+
+
 def md_to_typst(md_text):
+    # pandoc 3.1 writes a literal "~" unescaped, and typst reads "~" as a non-breaking space
+    md_text = md_text.replace("\\~", TILDE)
     r = subprocess.run(
         ["pandoc", "--wrap=none", "-f", "markdown-fancy_lists-implicit_figures", "-t", "typst"],
         input=md_text, capture_output=True, text=True, check=True)
@@ -113,7 +118,7 @@ def md_to_typst(md_text):
         elif not in_code:
             ln = re.sub(r"^(\d+)\. ", r"\1\\. ", ln)
             ln = re.sub(r"^([+-]) ", r"\\\1 ", ln)
-        lines.append(ln)
+        lines.append(ln.replace(TILDE, "~" if in_code or ln.startswith("```") else "\\~"))
     return "\n".join(lines)
 
 
