@@ -1,0 +1,41 @@
+{
+ "group": "數學",
+ "chapter": "Finite State Machine",
+ "topic": "全章",
+ "subject": "離散數學",
+ "unit_key": "13-2 Grammar",
+ "sections": [
+  {
+   "topic": "Grammar",
+   "unit_key": "13-2 Grammar",
+   "ids": [
+    "94e76ff530"
+   ]
+  },
+  {
+   "topic": "Turing Machine, Computability, Gödel's Incompleteness",
+   "unit_key": "13-5 Turing Machine, Computability, Gödel's Incompleteness",
+   "ids": [
+    "m_516adbc2bc905687"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "94e76ff530",
+   "year": 100,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/94e76ff530.webp"
+  },
+  {
+   "id": "m_516adbc2bc905687",
+   "year": 104,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_516adbc2bc905687.webp"
+  }
+ ]
+}
