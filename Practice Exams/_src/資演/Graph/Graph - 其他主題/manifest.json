@@ -1,0 +1,86 @@
+{
+ "group": "資演",
+ "chapter": "Graph",
+ "topic": "其他主題",
+ "subject": "資料結構",
+ "unit_key": "6-3 Check if Graph is Connected",
+ "sections": [
+  {
+   "topic": "Check if Graph is Connected",
+   "unit_key": "6-3 Check if Graph is Connected",
+   "ids": [
+    "657e534fad",
+    "m_eef5a807b35b5cdc",
+    "m_5a6ab202eaccfd0b"
+   ]
+  },
+  {
+   "topic": "Topological Sort",
+   "unit_key": "6-6 Topological Sort",
+   "ids": [
+    "4cfbb0e4ff",
+    "bf64e1ed7c",
+    "m_6b4ea339a09ec92c",
+    "m_4d6a7ed3e48a05fd"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "657e534fad",
+   "year": 103,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/657e534fad.webp"
+  },
+  {
+   "id": "m_eef5a807b35b5cdc",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q25",
+   "url": "https://img.ptsfu.org/m_eef5a807b35b5cdc.webp"
+  },
+  {
+   "id": "m_5a6ab202eaccfd0b",
+   "year": 102,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_5a6ab202eaccfd0b.webp"
+  },
+  {
+   "id": "4cfbb0e4ff",
+   "year": 105,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/4cfbb0e4ff.webp"
+  },
+  {
+   "id": "bf64e1ed7c",
+   "year": 103,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/bf64e1ed7c.webp"
+  },
+  {
+   "id": "m_6b4ea339a09ec92c",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q17",
+   "url": "https://img.ptsfu.org/m_6b4ea339a09ec92c.webp"
+  },
+  {
+   "id": "m_4d6a7ed3e48a05fd",
+   "year": 106,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_4d6a7ed3e48a05fd.webp"
+  }
+ ]
+}
