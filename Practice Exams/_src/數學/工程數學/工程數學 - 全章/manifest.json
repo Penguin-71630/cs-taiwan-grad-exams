@@ -1,0 +1,26 @@
+{
+ "group": "數學",
+ "chapter": "工程數學",
+ "topic": "全章",
+ "subject": "線性代數",
+ "unit_key": "線性代數§8-1 Real Numbers, Sequences and Series",
+ "sections": [
+  {
+   "topic": "Real Numbers, Sequences and Series",
+   "unit_key": "線性代數§8-1 Real Numbers, Sequences and Series",
+   "ids": [
+    "m_631f616d104c95ce"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_631f616d104c95ce",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q9(e)",
+   "url": "https://img.ptsfu.org/m_631f616d104c95ce.webp"
+  }
+ ]
+}
