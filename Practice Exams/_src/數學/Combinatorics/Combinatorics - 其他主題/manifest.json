@@ -1,0 +1,75 @@
+{
+ "group": "數學",
+ "chapter": "Combinatorics",
+ "topic": "其他主題",
+ "subject": "離散數學",
+ "unit_key": "5-2 Classical Probability: Equally Likely Outcomes",
+ "sections": [
+  {
+   "topic": "Classical Probability: Equally Likely Outcomes",
+   "unit_key": "5-2 Classical Probability: Equally Likely Outcomes",
+   "ids": [
+    "dm03_f4df8f7fe1853aac",
+    "dm03_5e7fbb17220b43d3"
+   ]
+  },
+  {
+   "topic": "Independent Events, Conditional Probability, Bayes' Theorem",
+   "unit_key": "5-2 Independent Events, Conditional Probability, Bayes' Theorem",
+   "ids": [
+    "dm03_f4df8f7fe1853aac"
+   ]
+  },
+  {
+   "topic": "Binomial Theorem",
+   "unit_key": "5-3 Binomial Theorem",
+   "ids": [
+    "35a6461655",
+    "m_672c81f3509a900b",
+    "dm03_2d27c15fb7113dd0"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "dm03_f4df8f7fe1853aac",
+   "year": 107,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/dm03_f4df8f7fe1853aac.webp"
+  },
+  {
+   "id": "dm03_5e7fbb17220b43d3",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q17",
+   "url": "https://img.ptsfu.org/dm03_5e7fbb17220b43d3.webp"
+  },
+  {
+   "id": "35a6461655",
+   "year": 104,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/35a6461655.webp"
+  },
+  {
+   "id": "m_672c81f3509a900b",
+   "year": 106,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_672c81f3509a900b.webp"
+  },
+  {
+   "id": "dm03_2d27c15fb7113dd0",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/dm03_2d27c15fb7113dd0.webp"
+  }
+ ]
+}
