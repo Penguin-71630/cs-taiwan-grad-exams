@@ -1,0 +1,241 @@
+{
+ "group": "計系",
+ "chapter": "Synchronization",
+ "topic": "其他主題",
+ "subject": "作業系統",
+ "unit_key": "6-3 Peterson's Solution",
+ "sections": [
+  {
+   "topic": "Peterson's Solution",
+   "unit_key": "6-3 Peterson's Solution",
+   "ids": [
+    "m_84557777d2c1129b"
+   ]
+  },
+  {
+   "topic": "Atomic Operations (Hardware)",
+   "unit_key": "6-4 Atomic Operations (Hardware)",
+   "ids": [
+    "m_84557777d2c1129b",
+    "m_2f64b549f823778d",
+    "m_a6312861c55c000e"
+   ]
+  },
+  {
+   "topic": "Monitors",
+   "unit_key": "6-7 Monitors",
+   "ids": [
+    "m_c71cae02b270a014",
+    "m_46f93ef00a718ce9"
+   ]
+  },
+  {
+   "topic": "Deadlock, Priority Inversion",
+   "unit_key": "6-8 Deadlock, Priority Inversion",
+   "ids": [
+    "m_eb0a8b1630cfa60f",
+    "m_0bc1ef92b42c1f18",
+    "92cc0bbc54",
+    "m_4f6c45814427df6f"
+   ]
+  },
+  {
+   "topic": "Producer-Consumer, Readers-Writers, Dining Philosophers",
+   "unit_key": "7-1 Producer-Consumer, Readers-Writers, Dining Philosophers",
+   "ids": [
+    "m_b4d084d15a1aa44a",
+    "m_eadfefefa5ccc679",
+    "m_bd12b2e043fa73df"
+   ]
+  },
+  {
+   "topic": "Synchronizations in Kernel",
+   "unit_key": "7-2 Synchronizations in Kernel",
+   "ids": [
+    "m_84557777d2c1129b"
+   ]
+  },
+  {
+   "topic": "Coffman Conditions, RAG (Resource-Allocation Graph)",
+   "unit_key": "8-3 Coffman Conditions, RAG (Resource-Allocation Graph)",
+   "ids": [
+    "ba1715c05b",
+    "m_0a16f07846aa2b2a",
+    "92cc0bbc54",
+    "m_36d0c2bbbf27dbae"
+   ]
+  },
+  {
+   "topic": "Handling Deadlocks",
+   "unit_key": "8-4 Handling Deadlocks",
+   "ids": [
+    "m_435ff648b55718e3",
+    "f0c8052a2f",
+    "m_1111381abb582969",
+    "m_36d0c2bbbf27dbae"
+   ]
+  },
+  {
+   "topic": "Deadlocks Prevention",
+   "unit_key": "8-5 Deadlocks Prevention",
+   "ids": [
+    "d5931fedef",
+    "92cc0bbc54"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_84557777d2c1129b",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_84557777d2c1129b.webp"
+  },
+  {
+   "id": "m_2f64b549f823778d",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/m_2f64b549f823778d.webp"
+  },
+  {
+   "id": "m_a6312861c55c000e",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_a6312861c55c000e.webp"
+  },
+  {
+   "id": "m_c71cae02b270a014",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/m_c71cae02b270a014.webp"
+  },
+  {
+   "id": "m_46f93ef00a718ce9",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_46f93ef00a718ce9.webp"
+  },
+  {
+   "id": "m_eb0a8b1630cfa60f",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_eb0a8b1630cfa60f.webp"
+  },
+  {
+   "id": "m_0bc1ef92b42c1f18",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_0bc1ef92b42c1f18.webp"
+  },
+  {
+   "id": "92cc0bbc54",
+   "year": 101,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/92cc0bbc54.webp"
+  },
+  {
+   "id": "m_4f6c45814427df6f",
+   "year": 103,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q14-Q16",
+   "url": "https://img.ptsfu.org/m_4f6c45814427df6f.webp"
+  },
+  {
+   "id": "m_b4d084d15a1aa44a",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q28-Q30",
+   "url": "https://img.ptsfu.org/m_b4d084d15a1aa44a.webp"
+  },
+  {
+   "id": "m_eadfefefa5ccc679",
+   "year": 103,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_eadfefefa5ccc679.webp"
+  },
+  {
+   "id": "m_bd12b2e043fa73df",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q26-Q28",
+   "url": "https://img.ptsfu.org/m_bd12b2e043fa73df.webp"
+  },
+  {
+   "id": "ba1715c05b",
+   "year": 102,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/ba1715c05b.webp"
+  },
+  {
+   "id": "m_0a16f07846aa2b2a",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_0a16f07846aa2b2a.webp"
+  },
+  {
+   "id": "m_36d0c2bbbf27dbae",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_36d0c2bbbf27dbae.webp"
+  },
+  {
+   "id": "m_435ff648b55718e3",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_435ff648b55718e3.webp"
+  },
+  {
+   "id": "f0c8052a2f",
+   "year": 106,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/f0c8052a2f.webp"
+  },
+  {
+   "id": "m_1111381abb582969",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/m_1111381abb582969.webp"
+  },
+  {
+   "id": "d5931fedef",
+   "year": 103,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/d5931fedef.webp"
+  }
+ ]
+}
