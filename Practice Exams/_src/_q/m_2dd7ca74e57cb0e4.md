@@ -1,5 +1,3 @@
-注意：每大題的小題必需全對該大題才給分。每大題5分。請使用答案卡作答
-
 20\. This question is about the max flow problem.
 
 (60) Let G=(V, E) be a bipartite graph, where $V= L \cup R$. Which statement is wrong about finding a maximum bipartite matching?\

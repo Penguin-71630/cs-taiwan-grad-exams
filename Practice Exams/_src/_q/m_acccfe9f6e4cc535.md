@@ -1,5 +1,3 @@
-二、複選題，共十題，每題全對得 4 分，答錯一個選項得 2 分，答錯兩個以上選項、或未答得 0 分。
-
 17\. Select the following statements that are correct:
 
 (a) Signature-based anti-virus software is able to detect mutated malware.\

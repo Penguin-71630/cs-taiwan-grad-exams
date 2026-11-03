@@ -1,7 +1,5 @@
 [PART II] Computer Architecture
 
-Note: [Part II]題目，請務必算出答案，勿只列式子，若無法整除，算至小數後第一位（採四捨五入）
-
 6\. (20 pts) You are given a bus-based multiprocessor system which implements a snooping-based cache coherency protocol. There are two processors P1, P2 in the system. Each processor has its own L1 cache. The memory system specification is given below:
 
 - L1 Cache: physical addressed, 64KB, direct-mapped, 32B block size, write-back cache

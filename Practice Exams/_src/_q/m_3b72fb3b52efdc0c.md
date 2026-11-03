@@ -1,5 +1,3 @@
-一、單一選擇題，共 10 題，每一題答對給 4 分，未答得 0 分，答錯倒扣 1.5 分。
-
 9\. Which of the following statement is *correct*?
 
 (a) For write-back cache, both cache and memory will be updated on data-write hit.\

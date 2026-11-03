@@ -1,5 +1,3 @@
-二、複選題，共十題，每題全對得 4 分，答錯一個選項得 2 分，答錯兩個以上選項、或未答得 0 分。
-
 20\. Refer to the following functions, and function2() is invoked by thread creations:
 
 ```c

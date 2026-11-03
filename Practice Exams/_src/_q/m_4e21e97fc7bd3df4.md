@@ -1,3 +1,1 @@
-In the following problem 11-15, fill in the blanks. Please try to keep all 10 answers on the same sheet of the answer book. Each problem is worth 5 points. No partial credit will be given for only one correct blank. However you do not have to provide any justification.
-
 13\. (5%) If some of the edge weights in a graph are negative, the shortest path can be obtained using Dijkstra's algorithm by first adding a large constant *C* to each edge weight, where *C* is large enough that every resulting edge weight will be nonnegative (True or False). \_\_\_\_\_\_\_\_ The Bellman-Ford algorithm is not suitable if the input graph has negative-weight edges (True or False). \_\_\_\_\_\_\_\_

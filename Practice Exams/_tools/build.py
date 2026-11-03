@@ -98,6 +98,15 @@ def crop_figures(q, md_text, img_path):
     return FIG_RE.sub(sub, md_text), calls
 
 
+def normalize_paragraph(text):
+    text = re.sub(r"<!--\s*fig\b.*?-->", "<fig>", text, flags=re.S)
+    text = text.replace("---", "—")
+    return "".join(
+        char for char in text
+        if char not in "*_\\>`" and not char.isspace()
+    )
+
+
 TILDE = "\ue000"  # stands in for a literal "\~" while pandoc runs
 
 
@@ -138,6 +147,7 @@ def build(src, out_pdf):
     title = f"{man['chapter']} - {man['topic']}"
 
     body = []
+    exam_history = {}
 
     def render_question(i, q):
         md = qdir / f"{q['id']}.md"
@@ -145,9 +155,6 @@ def build(src, out_pdf):
             raise SystemExit(f"missing transcription: {md}")
         md_text = md.read_text()
         calls = {}
-        if FIG_RE.search(md_text):
-            img, _, _, _ = prepare_image(q, skew)
-            md_text, calls = crop_figures(q, md_text, img)
         if group == "英文":
             lines = md_text.splitlines()
             compacted = []
@@ -179,6 +186,32 @@ def build(src, out_pdf):
                 compacted.append(lines[line_index])
                 line_index += 1
             md_text = "\n".join(compacted)
+
+        paragraphs = re.split(r"\n\s*\n", md_text.strip())
+        normalized = [normalize_paragraph(paragraph) for paragraph in paragraphs]
+        exam_key = (q["year"], q["school"], q["paper"])
+        previous = exam_history.setdefault(exam_key, [])
+        max_match, ref_number = 0, None
+        for earlier_paragraphs, earlier_number in previous:
+            match = 0
+            while (match < min(len(normalized), len(earlier_paragraphs))
+                   and normalized[match] == earlier_paragraphs[match]):
+                match += 1
+            if match > max_match:
+                max_match, ref_number = match, earlier_number
+        exam_history[exam_key].append((normalized, i))
+        if 1 <= max_match < len(paragraphs):
+            token = f"STEMREF{len(calls)}XX"
+            calls[token] = (
+                f"#text(size: 8pt, fill: luma(120))[題組題幹同第 {ref_number} 題]"
+            )
+            paragraphs = [token, *paragraphs[max_match:]]
+            md_text = "\n\n".join(paragraphs)
+
+        if FIG_RE.search(md_text):
+            img, _, _, _ = prepare_image(q, skew)
+            md_text, figure_calls = crop_figures(q, md_text, img)
+            calls.update(figure_calls)
         content = md_to_typst(md_text)
         for token, call in calls.items():
             if token not in content:

@@ -1,7 +1,5 @@
 I. Architecture [50 %]
 
-關於【計算機結構】的第一部分為是非題或選擇題，請利用答案紙上的**第一頁**，按照**題號順序**，標明題號，用**一行回答一題**。提供您的最終答案即可，請勿寫上計算過程。
-
 Now, let us try to design a system using the knowledge in the computer architecture course and what we just learned from the article.
 
 As illustrated in the article, availability and speed are well-known metrics for servers, but power consumption is becoming increasingly important. Let us consider a [big-data analysis system]{.underline} which runs the Apache Hadoop open-source software. The system is divided into two parts to handle different types of workload: (1) The data are distributed on the disks on the **Filesystem Serving nodes.** (2) The **MapReduce Computing nodes** acquire data from the Filesystem nodes and perform a MapReduce program in parallel.

@@ -1,5 +1,3 @@
-複選題：該題全部答對得 4 分，只錯一個答案可得 2 分，錯兩個或兩個以上答案不給分，整題未作答不給分
-
 5\. Which of the following statements are true?
 
 (a) A multithreaded process has a program counter, pointing to the next instruction to execute for all threads.\

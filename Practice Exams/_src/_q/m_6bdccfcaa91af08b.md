@@ -1,5 +1,3 @@
-二、複選題，共五題，每題全對得 6 分，答錯一個選項得 3 分，答錯兩個或以上選項、或未答得 0 分。
-
 13\. Which of the following statements are *not* correct?
 
 (a) If a disk manufacturer quotes MTTF as 90 years, it means the manufacturer claims that each disk produced by that manufacturer can operate normally for 90 years in average.\

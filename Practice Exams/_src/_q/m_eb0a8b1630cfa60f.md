@@ -1,5 +1,3 @@
-一、單一選擇題，共 10 題，每一題答對給 4 分，未答得 0 分，答錯倒扣 1.5 分。
-
 2\. Which of the following statements is *incorrect*?
 
 (a) A spinlock is a lock that will cause a requesting process to busy-wait to get it when it is in the locked state.\

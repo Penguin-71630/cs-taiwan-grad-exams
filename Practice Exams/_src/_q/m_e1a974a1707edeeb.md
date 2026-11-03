@@ -1,7 +1,5 @@
 PART II – OPERATING SYSTEMS
 
-NOTE that in the question, it is intended to provide redundant or miss certain assumption to disguise you. Please make your own assumption if necessary to answer the questions.
-
 Bob is designing his cloud-based storage services, called BobBox and similar to Dropbox, to store the files on his desktop computer, laptop computer, and smart phones to a single cloud storage. Later, he will also open this service for his friends. Hence, the storage services will support multiple users and multiple devices. The service consists of two applications: BoxBoxClient (BBC) on the client devices and BobBoxServer (BBS) on the server. Please answer the following questions.
 
 8\. (20 pts) Suppose a thread serves only a request. To avoid conflicted files, some file locking mechanism might be applied to block threads not holding the lock.

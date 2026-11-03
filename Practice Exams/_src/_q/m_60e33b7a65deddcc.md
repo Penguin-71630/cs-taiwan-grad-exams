@@ -1,5 +1,3 @@
-單一選擇題，共 12 題，每一題答對給 4 分，未答得 0 分，答錯倒扣 1.5 分。
-
 8\. Which one of the following statements is TRUE?
 
 (a) From the point of view of a network service provider, latency is a suitable metric to measure the performance of the network service server.\

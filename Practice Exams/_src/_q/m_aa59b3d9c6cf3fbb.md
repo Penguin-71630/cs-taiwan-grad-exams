@@ -1,5 +1,3 @@
-單一選擇題，共 12 題，每一題答對給 4 分，未答得 0 分，答錯倒扣 1.5 分。
-
 9\. Which one of the following statements is incorrect?
 
 (a) With the same ISA and circuit design, the CPU with higher clock rate does not necessarily run through a program in shorter runtime than the CPU with lower clock rate.\
