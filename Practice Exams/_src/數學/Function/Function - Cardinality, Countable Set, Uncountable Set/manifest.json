@@ -1,0 +1,25 @@
+{
+ "unit_key": "3-2 Cardinality, Countable Set, Uncountable Set",
+ "subject": "離散數學",
+ "group": "數學",
+ "chapter": "Function",
+ "topic": "Cardinality, Countable Set, Uncountable Set",
+ "questions": [
+  {
+   "id": "m_516adbc2bc905687",
+   "year": 104,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_516adbc2bc905687.webp"
+  },
+  {
+   "id": "m_14980fc965eeb6ad",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q9(c)",
+   "url": "https://img.ptsfu.org/m_14980fc965eeb6ad.webp"
+  }
+ ]
+}

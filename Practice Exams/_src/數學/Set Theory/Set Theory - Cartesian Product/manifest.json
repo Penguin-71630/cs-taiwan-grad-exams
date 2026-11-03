@@ -1,0 +1,25 @@
+{
+ "unit_key": "2-1 Cartesian Product",
+ "subject": "離散數學",
+ "group": "數學",
+ "chapter": "Set Theory",
+ "topic": "Cartesian Product",
+ "questions": [
+  {
+   "id": "m_1ae44a9a2735596f",
+   "year": 107,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_1ae44a9a2735596f.webp"
+  },
+  {
+   "id": "ceaefa546f",
+   "year": 103,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/ceaefa546f.webp"
+  }
+ ]
+}

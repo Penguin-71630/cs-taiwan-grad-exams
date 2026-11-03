@@ -1,0 +1,133 @@
+8d3cbfabe2|100|台大|數學|Q11|8-8 Bipartite Graph, Complete Bipartite Graph;9-3 Euler Formula
+d48b3d084e|100|台大|數學|Q12|7-1 Recurrence Relation (Homogeneous, Nonhomogeneous);7-1 Characteristic Polynomial (Note: 跟線代的特徵多項式等價)
+480a01b752|100|台大|數學|Q13|11-1 Properties of Relation: Reflexive, Sym, Asym, Anti-sym, Transitive;11-1 Relation, Inverse Relation, Complement Relation
+6f3348e357|100|台大|數學|Q14|4-1 Prove by Contrapositive
+e5475b9d30|100|台大|數學|Q15|12-3 Group Homomorphism / Isomorphism;12-2 Group, Abelian Group
+97cbf8e9cb|101|台大|數學|Q11|8-7 Graph Isomorphism
+4f71f00bec|101|台大|數學|Q12|7-1 Recurrence Relation (Homogeneous, Nonhomogeneous)
+be8517f0a4|101|台大|數學|Q13|5-2 Combination
+cdd459e968|101|台大|數學|Q14|8-8 Bipartite Graph, Complete Bipartite Graph;9-1 Euler Trail, Euler Circuit, Eulerian Graph;9-1 Hamilton Path/Cycle for Kn, Kn*, Kmn, Knn, n-cube
+73cd1f00a5|102|台大|數學|Q4|3-3 The Pigeonhole Principle;8-2 Degree Sequence
+85f31a4245|102|台大|數學|Q5|12-2 Subgroup;12-3 Lagrange Theorem
+cd23db239e|103|台大|數學|Q1|5-1 Permutation: The Rule of Product/Sum;5-2 Combination
+1e6641e12a|103|台大|數學|Q2|5-4 Combination with Repitition (H symbol)
+c8ad3b6fa7|103|台大|數學|Q3|3-1 Relation, Function, 1-1, Onto, Bijection;3-1 Number of 1-1, Onto, Bijection Functions;5-1 Permutation: The Rule of Product/Sum
+f92019a577|103|台大|數學|Q4|6-1 Generating Function
+5199870a21|103|台大|數學|Q5|7-1 Recurrence Relation (Homogeneous, Nonhomogeneous);7-1 Characteristic Polynomial (Note: 跟線代的特徵多項式等價)
+1f0f2c21c1|103|台大|數學|Q6|10-5 Tree Traversal: Preorder, Inorder, Postorder
+edbce81ea3|104|台大|數學|Q1|1-2 De Morgan's Law, Logically Equivalent, Logically Imply
+f7be414dc9|104|台大|數學|Q2|9-4 Max-flow Min-cut
+35a6461655|104|台大|數學|Q3|5-3 Binomial Theorem
+cd89f438e1|104|台大|數學|Q4|2-2 Euler's Phi Function
+23f62c1cf9|104|台大|數學|Q5|6-3 Integer Partitions
+da87782e0b|105|台大|數學|Q9|5-4 Combination with Repitition (H symbol)
+bc15ec61ff|105|台大|數學|Q10|12-3 k-cycle;12-3 Symmetric Group
+351863faeb|105|台大|數學|Q11|7-1 Recurrence Relation (Homogeneous, Nonhomogeneous)
+7bb93c6e58|105|台大|數學|Q13|6-1 Generating Function;6-3 Integer Partitions
+c38aadb69a|105|台大|數學|Q14|11-5 Boolean Lattice, 布林代數的同態/同構, Boolean Function
+7c98cb7a76|106|台大|數學|Q6|11-1 Properties of Relation: Reflexive, Sym, Asym, Anti-sym, Transitive;5-1 Permutation: The Rule of Product/Sum
+f2ddda53ae|106|台大|數學|Q7|1-2 De Morgan's Law, Logically Equivalent, Logically Imply
+3f33300b60|106|台大|數學|Q10|8-8 Bipartite Graph, Complete Bipartite Graph
+7fcbc5f557|107|台大|數學|Q1|5-4 Combination with Repitition (H symbol)
+33c1bdac6f|107|台大|數學|Q2|7-1 Recurrence Relation (Homogeneous, Nonhomogeneous);7-1 Characteristic Polynomial (Note: 跟線代的特徵多項式等價)
+738604bf70|107|台大|數學|Q3|6-1 Generating Function
+db12858616|107|台大|數學|Q4|11-1 Properties of Relation: Reflexive, Sym, Asym, Anti-sym, Transitive
+dm03_59a303cbd73b5b15|105|台大|數學|Q12|6-1 Generating Function;7-1 Solve Recurrence Using Generating Functions
+dm03_2180a2a9feb1d01d|105|台大|數學|Q15|10-3 m 元樹, 完全 m 元樹 / 正則 m 元樹, 滿 m 元樹
+dm03_167a8c658f92bb7b|106|交大|數學|Q1|1-3 Proposition Function, Predicate Logic;1-2 De Morgan's Law, Logically Equivalent, Logically Imply;4-3 Number of Primes ≈ n/ln n, Prime Gap
+dm03_6453a2968479bb17|106|交大|數學|Q2|7-2 Solve Recurrence: 轉換法(1) 分解征服法
+dm03_4c6ddfc5f320f84a|106|交大|數學|Q6|7-1 Recurrence Relation (Homogeneous, Nonhomogeneous);7-1 Characteristic Polynomial (Note: 跟線代的特徵多項式等價)
+dm03_f4df8f7fe1853aac|107|交大|數學|Q7|5-2 Combination;5-2 Independent Events, Conditional Probability, Bayes' Theorem;5-2 Classical Probability: Equally Likely Outcomes
+dm03_62421abb7356942f|107|交大|數學|Q8|11-2 Definition of Equivalence Relation;11-2 Partition;11-1 Reflexive Closure, Symmetric Closure, Transitive Closure
+dm03_d8d6f6f5e858d375|102|交大|數學|Q15|2-1 Set Operations: Union, Intersection, Complement, Diff, Sym Diff;2-1 Subset, Power Set, Number of Subsets;3-1 Relation, Function, 1-1, Onto, Bijection;3-1 Composite Function
+dm03_76c993dc30c81639|102|交大|數學|Q16|7-1 Recurrence Relation (Homogeneous, Nonhomogeneous);7-1 Characteristic Polynomial (Note: 跟線代的特徵多項式等價)
+dm03_5e7fbb17220b43d3|102|交大|數學|Q17|10-3 Definition of Rooted Tree;7-4 Catalan Number;2-2 Inclusion-Exclusion Principle;5-2 Classical Probability: Equally Likely Outcomes
+dm03_8c00c122512b4c04|102|交大|數學|Q18|11-1 Warshall's Algorithm for Finding Transitive Closure;11-1 Reflexive Closure, Symmetric Closure, Transitive Closure
+m_38aeafb1152d912a|104|交大|離散數學與線性代數|Q3|3-3 The Pigeonhole Principle;5-1 Permutation: The Rule of Product/Sum;9-3 K5, K33, Petersen Graph are not planar
+m_79fa42a714668790|101|交大|數學|Q12|3-3 The Pigeonhole Principle;8-3 Complete Graph, Clique;7-4 Catalan Number;11-1 Properties of Relation: Reflexive, Sym, Asym, Anti-sym, Transitive;2-2 Inclusion-Exclusion Principle
+dm03_c41f1f30f4cfb390|102|交大|數學|Q12|4-2 Divisibility, GCD, LCM;2-1 Subset, Power Set, Number of Subsets;5-2 Combination;3-3 The Pigeonhole Principle
+m_00e3c8b8f78af988|106|交大|數學|Q3|3-3 The Pigeonhole Principle;5-2 Combination
+m_90d83efa82eaa9f6|104|交大|離散數學與線性代數|Q2|4-1 Principle of Mathematical Induction
+m_84d1d424cfb5d792|103|交大|離散數學與線性代數|Q9(a)|4-1 Principle of Mathematical Induction
+m_369074b9a4b30da8|107|交大|數學|Q6|4-1 Principle of Mathematical Induction
+m_516adbc2bc905687|104|交大|離散數學與線性代數|Q1|1-3 Proposition Function, Predicate Logic;3-2 Cardinality, Countable Set, Uncountable Set;4-2 Euler Theorem, Fermat's Little Theorem;4-2 Congruence, 模逆元;4-2 CRT;13-5 Turing Machine, Computability, Gödel's Incompleteness
+m_6ca7d59f0c329aa1|103|交大|離散數學與線性代數|Q9(d)|4-3 Prime, Eratosthenes Seive;4-3 Prime Factorization, Perfect Powers
+m_c84749bbf16c1892|106|台大|數學|Q9|4-2 Divisibility, GCD, LCM
+m_2c895b9c3605d925|101|交大|數學|Q11|1-2 De Morgan's Law, Logically Equivalent, Logically Imply;1-3 Proposition Function, Predicate Logic;4-2 RSA Encryption;5-1 Permutation: The Rule of Product/Sum;7-3 Number of Strings with Even 0s, Consecutive 0s
+m_f462229fcf59fc4d|107|交大|數學|Q3|1-3 Proposition Function, Predicate Logic
+m_f7d162837f9339f4|107|交大|數學|Q4|4-2 Congruence, 模逆元;4-2 Divisibility, GCD, LCM
+m_6c33cea11f7e3c66|105|交大|數學|Q10|4-2 Congruence, 模逆元;4-2 Euler Theorem, Fermat's Little Theorem;4-2 CRT;7-1 Recurrence Relation (Homogeneous, Nonhomogeneous)
+dm03_d0c80a8a79581c02|102|交大|數學|Q11|4-2 Congruence, 模逆元;4-3 Prime, Eratosthenes Seive;4-2 CRT
+m_6c115ce56d4a0ac9|104|交大|離散數學與線性代數|Q4|7-3 Number of Strings with Even 0s, Consecutive 0s;7-1 Recurrence Relation (Homogeneous, Nonhomogeneous);5-4 Combination with Repitition (H symbol);11-1 Properties of Relation: Reflexive, Sym, Asym, Anti-sym, Transitive;8-7 Graph Isomorphism
+m_672c81f3509a900b|106|台大|數學|Q11|5-3 Binomial Theorem
+m_d58d38394e4ba156|107|交大|數學|Q2|5-1 Permutation: The Rule of Product/Sum;2-1 Subset, Power Set, Number of Subsets
+m_55c871efe5bae747|105|交大|數學|Q11|5-2 Combination
+dm03_2d27c15fb7113dd0|102|交大|數學|Q13|5-3 Binomial Theorem;5-1 Permutation: The Rule of Product/Sum;2-2 Derangement
+m_1da9463a354d26d0|107|台大|數學|Q5|2-1 Subset, Power Set, Number of Subsets;5-2 Combination
+m_87a3c15f7798526a|103|交大|離散數學與線性代數|Q5|2-3 特殊矩陣行列式：三對角矩陣、范德蒙矩陣、塊狀矩陣;2-3 Determinant: Cofactor, Laplace 降階;7-3 與矩陣有關的題目;7-1 Recurrence Relation (Homogeneous, Nonhomogeneous)
+m_b1f2e0cab00c09fb|103|交大|離散數學與線性代數|Q8|7-1 Recurrence Relation (Homogeneous, Nonhomogeneous);5-5 Solving Recurrences
+m_36f7712c097bfe3b|106|台大|數學|Q8|7-1 Recurrence Relation (Homogeneous, Nonhomogeneous);7-1 Characteristic Polynomial (Note: 跟線代的特徵多項式等價);7-4 Fibonacci Series
+m_b81a786d2dedee4e|107|交大|數學|Q5|7-1 Recurrence Relation (Homogeneous, Nonhomogeneous)
+m_3a986c20de958c23|105|交大|數學|Q13|7-1 Recurrence Relation (Homogeneous, Nonhomogeneous);7-1 Characteristic Polynomial (Note: 跟線代的特徵多項式等價)
+m_c82df737b0fb7ff7|102|台大|數學|Q10|7-1 Recurrence Relation (Homogeneous, Nonhomogeneous);5-5 Solving Recurrences
+m_d4bd96b2166b9b19|102|台大|數學|Q2|7-3 Number of Strings with Even 0s, Consecutive 0s;7-1 Recurrence Relation (Homogeneous, Nonhomogeneous)
+m_7de4e920aab5e5cd|104|台大|數學|Q6|7-1 Recurrence Relation (Homogeneous, Nonhomogeneous)
+m_28be194eb6c8805a|103|交大|離散數學與線性代數|Q7|9-1 Line Graph;9-1 Euler Trail, Euler Circuit, Eulerian Graph;9-1 Hamilton Path, Hamilton Cycle;8-7 Graph Isomorphism;8-2 Handshaking Lemma
+m_7b7c6568a7a2c404|107|交大|數學|Q9|8-7 Graph Isomorphism
+m_9df1231c0ebbc5cb|105|交大|數學|Q12|8-7 Graph Isomorphism;9-3 Definition of Planar Graph;11-1 Relation, Inverse Relation, Complement Relation
+m_0fa42328207b96a1|102|台大|數學|Q3|8-1 (Induced/Span) Subgraph, Complement Graph, Incidency Matrix;8-3 Complete Graph, Clique
+m_5b26a24c9407ac55|106|交大|數學|Q5|8-7 Graph Isomorphism
+m_31414a1e6104616e|103|交大|離散數學與線性代數|Q6|11-1 Properties of Relation: Reflexive, Sym, Asym, Anti-sym, Transitive;11-3 Partial Ordering Set (POS), Hasse Diagram, Comparable
+m_b510cb746ffefdf8|106|台大|數學|Q12|11-1 Reflexive Closure, Symmetric Closure, Transitive Closure
+m_048307496ee1be80|102|台大|數學|Q1|11-1 Properties of Relation: Reflexive, Sym, Asym, Anti-sym, Transitive
+m_1ffa5bff82633371|106|交大|數學|Q4|11-1 Relation, Inverse Relation, Complement Relation
+m_dae819b01b8dca34|101|台大|數學|Q15|12-4 Subring, Ideal;12-4 Ring
+m_1ae44a9a2735596f|107|交大|數學|Q1|2-1 Subset, Power Set, Number of Subsets;2-1 Cartesian Product;2-1 Set Operations: Union, Intersection, Complement, Diff, Sym Diff
+m_42849f2fda025bc4|103|交大|離散數學與線性代數|Q9(b)|1-3 Proposition Function, Predicate Logic
+m_14980fc965eeb6ad|103|交大|離散數學與線性代數|Q9(c)|3-2 Cardinality, Countable Set, Uncountable Set
+m_af2112f5b520325e|105|交大|數學|Q9|1-1 Statement, Truth Table, Logical Puzzle;3-1 Relation, Function, 1-1, Onto, Bijection;3-1 Composite Function
+dm03_f26e3978d3ff4dd5|102|交大|數學|Q14|1-1 Statement, Truth Table, Logical Puzzle;1-2 De Morgan's Law, Logically Equivalent, Logically Imply
+m_cace540ca9ced4e4|100|交大|數學|Q11(a)|3-1 Floor Function, Ceiling Function, Even/Odd Function;3-1 Relation, Function, 1-1, Onto, Bijection
+m_48400dea37fc3003|100|交大|數學|Q11(b)|7-3 Number of Strings with Even 0s, Consecutive 0s;7-1 Recurrence Relation (Homogeneous, Nonhomogeneous)
+m_5b0fabda1b616391|100|交大|數學|Q11(c)|3-1 Number of 1-1, Onto, Bijection Functions;5-1 Permutation: The Rule of Product/Sum
+m_6b86a8f1d47a1f30|100|交大|數學|Q11(d)|12-3 k-cycle;3-1 Composite Function
+m_f8b0696d62480bdf|100|交大|數學|Q11(e)|5-4 Combination with Repitition (H symbol)
+m_bd819835e3bb7102|100|交大|數學|Q12(a)|9-3 Homeomorphic (同胚);9-3 Kuratowski Theorem;9-3 Euler Formula;10-3 Definition of Rooted Tree;10-3 m 元樹, 完全 m 元樹 / 正則 m 元樹, 滿 m 元樹;10-2 Definition of Spanning Tree;7-1 Characteristic Polynomial (Note: 跟線代的特徵多項式等價)
+m_b2a0e80c4bfe3af9|100|交大|數學|Q12(b)|11-2 Definition of Equivalence Relation;11-2 Congruence Relation;11-2 Partition;11-3 Partial Ordering Set (POS), Hasse Diagram, Comparable
+m_ed17faae3773c929|100|交大|數學|Q12(c)|2-2 Derangement;2-2 Inclusion-Exclusion Principle
+39464e78d3|104|清大|基礎計算機科學|Q4|7-1 Recurrence Relation (Homogeneous, Nonhomogeneous);4-1 Principle of Mathematical Induction
+m_04a876f186647eee|101|交大|資料結構與演算法|Q49|5-2 Combination
+cc42f4ef57|106|清大|基礎計算機科學|Q10|6-1 Generating Function;7-1 Solve Recurrence Using Generating Functions;7-1 Recurrence Relation (Homogeneous, Nonhomogeneous)
+m_d30e9a07a3d628f5|100|交大|資料結構與演算法|Q14|11-2 Definition of Equivalence Relation
+94e76ff530|100|清大|基礎計算機科學|Q12|13-2 Grammar
+ddfc407a01|100|清大|基礎計算機科學|Q9|5-4 Combination with Repitition (H symbol);2-2 Inclusion-Exclusion Principle
+e06008a50b|100|清大|基礎計算機科學|Q10|11-3 Partial Ordering Set (POS), Hasse Diagram, Comparable;11-3 Chain, Antichain;Dilworth Theorem
+4de3b57f90|100|清大|基礎計算機科學|Q15|7-1 Recurrence Relation (Homogeneous, Nonhomogeneous)
+2dd77b4684|104|清大|基礎計算機科學|Q3|11-2 Definition of Equivalence Relation;11-1 Properties of Relation: Reflexive, Sym, Asym, Anti-sym, Transitive
+7063abd7ea|100|清大|基礎計算機科學|Q14|6-1 Generating Function;5-4 Combination with Repitition (H symbol)
+53d7de94f2|107|清大|基礎計算機科學|Q3|2-2 Derangement;5-2 Combination
+59f2b607b5|103|清大|基礎計算機科學|Q1|7-1 Recurrence Relation (Homogeneous, Nonhomogeneous)
+m_c859e9ad5dfc7e2b|100|交大|資料結構與演算法|Q49|7-3 Number of Strings with Even 0s, Consecutive 0s;7-4 Fibonacci Series
+2d607c729a|104|清大|基礎計算機科學|Q5|4-1 Principle of Mathematical Induction;4-2 Divisibility, GCD, LCM
+4e1b38331d|104|清大|基礎計算機科學|Q1|2-2 Inclusion-Exclusion Principle;5-1 Permutation: The Rule of Product/Sum
+37c8628203|104|清大|基礎計算機科學|Q2|5-2 Combination;5-1 Permutation: The Rule of Product/Sum
+d4fff9832d|101|清大|基礎計算機科學|Q11|2-2 Inclusion-Exclusion Principle
+m_872b3c33367ddaf1|101|交大|資料結構與演算法|Q50|5-2 Combination
+446839c901|105|清大|基礎計算機科學|Q4|5-1 Permutation: The Rule of Product/Sum;7-1 Solve Recurrence Using Generating Functions;6-1 Generating Function;11-1 Properties of Relation: Reflexive, Sym, Asym, Anti-sym, Transitive
+m_fe8ed09661e06e49|100|交大|資料結構與演算法|Q15|11-1 Properties of Relation: Reflexive, Sym, Asym, Anti-sym, Transitive
+4321369eb8|102|清大|基礎計算機科學|Q1|8-7 Graph Isomorphism;4-1 Principle of Mathematical Induction;2-2 Inclusion-Exclusion Principle;1-3 Proposition Function, Predicate Logic
+e9ed05ec15|101|清大|基礎計算機科學|Q4|1-1 Statement, Truth Table, Logical Puzzle
+24c11b3074|107|清大|基礎計算機科學|Q1|5-4 Combination with Repitition (H symbol);5-2 Combination
+45acb5f535|107|清大|基礎計算機科學|Q4|11-1 Properties of Relation: Reflexive, Sym, Asym, Anti-sym, Transitive;11-3 Partial Ordering Set (POS), Hasse Diagram, Comparable;11-3 Totally Ordering Set (TOS)
+b6427b3d81|100|清大|基礎計算機科學|Q8|2-2 Inclusion-Exclusion Principle
+m_bba5063311da968d|100|交大|資料結構與演算法|Q47|5-1 Permutation: The Rule of Product/Sum;7-3 Number of Strings with Even 0s, Consecutive 0s
+ceaefa546f|103|清大|基礎計算機科學|Q3|1-2 De Morgan's Law, Logically Equivalent, Logically Imply;2-1 Subset, Power Set, Number of Subsets;2-1 Cartesian Product;4-2 Divisibility, GCD, LCM
+dadaa3af54|101|清大|基礎計算機科學|Q5|7-3 Number of Strings with Even 0s, Consecutive 0s;7-1 Recurrence Relation (Homogeneous, Nonhomogeneous)
+10732488a4|103|清大|基礎計算機科學|Q4|7-1 Recurrence Relation (Homogeneous, Nonhomogeneous);4-2 Congruence, 模逆元;4-1 Principle of Mathematical Induction;7-4 Fibonacci Series
+3d2fae9491|100|清大|基礎計算機科學|Q11|8-3 Independent Set, Vertex Cover, Edge Cover;8-3 Dominating Set, Dominating Number
+d182e8a1ce|103|清大|基礎計算機科學|Q2|10-1 Definition of Tree
+0a2cc457e4|107|清大|基礎計算機科學|Q2|10-1 Definition of Tree;8-2 Handshaking Lemma;9-1 Euler Trail, Euler Circuit, Eulerian Graph
+3cee1a7888|106|清大|基礎計算機科學|Q9|2-2 Inclusion-Exclusion Principle;5-1 Permutation: The Rule of Product/Sum;5-2 Combination;7-3 Number of Strings with Even 0s, Consecutive 0s
+m_b1f8cdaac2a4800e|100|交大|資料結構與演算法|Q48|7-3 Number of Strings with Even 0s, Consecutive 0s
+16292567bc|100|清大|基礎計算機科學|Q13|10-2 Definition of Spanning Tree;10-2 Kirchhoff Theorem;8-1 (Induced/Span) Subgraph, Complement Graph, Incidency Matrix
+642d544e0a|101|清大|基礎計算機科學|Q12|8-2 Handshaking Lemma;9-3 Euler Formula

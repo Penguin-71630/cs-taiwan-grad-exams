@@ -1,0 +1,113 @@
+{
+ "unit_key": "5-1 Permutation: The Rule of Product/Sum",
+ "subject": "離散數學",
+ "group": "數學",
+ "chapter": "Combinatorics",
+ "topic": "Permutation: The Rule of Product／Sum",
+ "questions": [
+  {
+   "id": "cd23db239e",
+   "year": 103,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/cd23db239e.webp"
+  },
+  {
+   "id": "c8ad3b6fa7",
+   "year": 103,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/c8ad3b6fa7.webp"
+  },
+  {
+   "id": "7c98cb7a76",
+   "year": 106,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/7c98cb7a76.webp"
+  },
+  {
+   "id": "m_38aeafb1152d912a",
+   "year": 104,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_38aeafb1152d912a.webp"
+  },
+  {
+   "id": "m_2c895b9c3605d925",
+   "year": 101,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_2c895b9c3605d925.webp"
+  },
+  {
+   "id": "m_d58d38394e4ba156",
+   "year": 107,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_d58d38394e4ba156.webp"
+  },
+  {
+   "id": "dm03_2d27c15fb7113dd0",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/dm03_2d27c15fb7113dd0.webp"
+  },
+  {
+   "id": "m_5b0fabda1b616391",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q11(c)",
+   "url": "https://img.ptsfu.org/m_5b0fabda1b616391.webp"
+  },
+  {
+   "id": "4e1b38331d",
+   "year": 104,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/4e1b38331d.webp"
+  },
+  {
+   "id": "37c8628203",
+   "year": 104,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/37c8628203.webp"
+  },
+  {
+   "id": "446839c901",
+   "year": 105,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/446839c901.webp"
+  },
+  {
+   "id": "m_bba5063311da968d",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q47",
+   "url": "https://img.ptsfu.org/m_bba5063311da968d.webp"
+  },
+  {
+   "id": "3cee1a7888",
+   "year": 106,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/3cee1a7888.webp"
+  }
+ ]
+}

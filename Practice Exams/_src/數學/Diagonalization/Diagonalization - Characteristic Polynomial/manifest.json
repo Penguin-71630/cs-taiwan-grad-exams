@@ -1,0 +1,57 @@
+{
+ "unit_key": "5-2 Characteristic Polynomial",
+ "subject": "線性代數",
+ "group": "數學",
+ "chapter": "Diagonalization",
+ "topic": "Characteristic Polynomial",
+ "questions": [
+  {
+   "id": "bc7ef2f7a5",
+   "year": 102,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/bc7ef2f7a5.webp"
+  },
+  {
+   "id": "35f14917ab",
+   "year": 103,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/35f14917ab.webp"
+  },
+  {
+   "id": "m_5d405ad3179dfff6",
+   "year": 101,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_5d405ad3179dfff6.webp"
+  },
+  {
+   "id": "m_1139b2b3f9b0ad12",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_1139b2b3f9b0ad12.webp"
+  },
+  {
+   "id": "m_b1d564fd25732d4d",
+   "year": 107,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_b1d564fd25732d4d.webp"
+  },
+  {
+   "id": "m_e6431cc91dd378af",
+   "year": 101,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_e6431cc91dd378af.webp"
+  }
+ ]
+}

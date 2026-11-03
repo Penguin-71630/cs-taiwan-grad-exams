@@ -1,0 +1,33 @@
+{
+ "unit_key": "9-1 Euler Trail, Euler Circuit, Eulerian Graph",
+ "subject": "離散數學",
+ "group": "數學",
+ "chapter": "Graph Theory",
+ "topic": "Euler Trail, Euler Circuit, Eulerian Graph",
+ "questions": [
+  {
+   "id": "cdd459e968",
+   "year": 101,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/cdd459e968.webp"
+  },
+  {
+   "id": "m_28be194eb6c8805a",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_28be194eb6c8805a.webp"
+  },
+  {
+   "id": "0a2cc457e4",
+   "year": 107,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/0a2cc457e4.webp"
+  }
+ ]
+}

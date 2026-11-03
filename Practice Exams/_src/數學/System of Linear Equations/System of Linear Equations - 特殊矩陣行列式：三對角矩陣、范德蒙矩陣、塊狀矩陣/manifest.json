@@ -1,0 +1,49 @@
+{
+ "unit_key": "2-3 特殊矩陣行列式：三對角矩陣、范德蒙矩陣、塊狀矩陣",
+ "subject": "線性代數",
+ "group": "數學",
+ "chapter": "System of Linear Equations",
+ "topic": "特殊矩陣行列式：三對角矩陣、范德蒙矩陣、塊狀矩陣",
+ "questions": [
+  {
+   "id": "0f9bfc6b94",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/0f9bfc6b94.webp"
+  },
+  {
+   "id": "m_87a3c15f7798526a",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_87a3c15f7798526a.webp"
+  },
+  {
+   "id": "m_6c931bc8d4ff0080",
+   "year": 106,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_6c931bc8d4ff0080.webp"
+  },
+  {
+   "id": "m_00c77d25b900ee4a",
+   "year": 100,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_00c77d25b900ee4a.webp"
+  },
+  {
+   "id": "m_35f1eba030fb5fe2",
+   "year": 102,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_35f1eba030fb5fe2.webp"
+  }
+ ]
+}

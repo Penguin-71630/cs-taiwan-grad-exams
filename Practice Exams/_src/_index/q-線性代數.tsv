@@ -1,0 +1,118 @@
+59ba1c8255|100|交大|數學|Q1|2-1 System of Linear Equations, REF, RREF;2-1 Gauss Elimination, Gauss-Jordan Elimination
+20eeb59fc8|100|交大|數學|Q2|2-2 Singular vs. Nonsingular;2-1 System of Linear Equations, REF, RREF;1-1 Inverse of a Matrix and properties
+05b76f98ca|100|交大|數學|Q3|2-4 Adjoint Matrix;2-3 Determinant: Properties and Row/Column Operations
+0f9bfc6b94|100|交大|數學|Q4|2-3 Determinant: Properties and Row/Column Operations;2-3 特殊矩陣行列式：三對角矩陣、范德蒙矩陣、塊狀矩陣;8-2 Orthogonal Operator, Orthogonal Matrix
+6f3343c82f|100|交大|數學|Q5|4-4 Isomorphic;3-3 Basis, Dimension, Standard Basis, Dimension of Sum Space;3-1 8 Definitions of Vector Space;3-4 Row Rank, Column Rank, Properties of Rank
+1c94bb328c|100|交大|數學|Q7|4-1 Linear Transformation/Mapping and its Existence and Uniqueness;3-2 Linearly Independent/Dependent;4-2 Change of Basis;5-1 Similarity of Square Matrices;3-5 Coordinate Vector, Change of Coordinate Matrix
+18b957ab1b|100|交大|數學|Q8|7-3 Minimize ||Ax - b||, Minimize ||Ax - b|| Given A = QR;7-4 Orthogonal Complement Space & 4 Fundamental Subspaces
+7f273710dc|100|交大|數學|Q9|5-2 Eigenvalues, Eigenvectors: Solving, Properties;2-2 Rank;3-1 4 Fundamental Subspaces: C(A), ker(A), R(A), ker(A^T) (Left Kernel);7-3 Minimize ||Ax - b||, Minimize ||Ax - b|| Given A = QR
+b2a5d990a2|100|交大|數學|Q10|8-6 Singular Value Decomposition;7-5 Outer Product;5-2 Eigenvalues, Eigenvectors: Solving, Properties;5-3 Definition of Diagonalizable
+ec7c039e59|101|台大|數學|Q6|5-2 Eigenvalues, Eigenvectors: Solving, Properties;5-3 Diagonalization
+0c5a63a60b|101|台大|數學|Q7|2-1 System of Linear Equations, REF, RREF
+bc7ef2f7a5|102|台大|數學|Q6|5-2 Eigenvalues, Eigenvectors: Solving, Properties;5-2 Characteristic Polynomial
+5c377025a5|103|台大|數學|Q8|4-1 Linear Transformation/Mapping and its Existence and Uniqueness;3-3 Basis, Dimension, Standard Basis, Dimension of Sum Space;4-3 ker(T), Im(T) (aka. Range(T));3-4 Row Rank, Column Rank, Properties of Rank;3-1 Subspace Operations: Union, Intersection, Sum Space
+e1e2bfead9|103|台大|數學|Q9|1-1 方陣多項式;1-1 Inverse of a Matrix and properties;5-3 Diagonalization
+588ef97162|103|台大|數學|Q10|2-1 System of Linear Equations, REF, RREF;7-3 Minimize ||Ax - b||, Minimize ||Ax - b|| Given A = QR;7-4 Orthogonal Complement Space & 4 Fundamental Subspaces
+35f14917ab|103|台大|數學|Q11|5-2 Eigenvalues, Eigenvectors: Solving, Properties;5-2 Characteristic Polynomial
+e6b58683d8|104|台大|數學|Q7|7-1 Inner Product Space, Properties of Inner Product, Vector Length
+e9f3888cf3|104|台大|數學|Q8|2-2 Rank;3-4 Row Rank, Column Rank, Properties of Rank
+aff1037deb|104|台大|數學|Q10|7-2 Gram-Schmidt;7-1 Orthogonal, Orthogonal Set, Orthonormal Set
+ce65df6255|105|台大|數學|Q5|6-1 Nilpotent, Index;1-1 Inverse of a Matrix and properties
+0d0a77695e|105|台大|數學|Q8|2-3 Determinant: Properties and Row/Column Operations
+828d21a9c0|106|台大|數學|Q1|1-1 Inverse of a Matrix and properties
+b6b7a9ae69|106|台大|數學|Q2|4-1 Idempotent Operator, Idempotent Matrix, Oblique Projection;5-3 Diagonalization
+18527be7bf|106|台大|數學|Q3|4-1 Rotation, Reflection, Projection;7-3 Orthogonal Projection Matrix: A(A^TA)^(-1)A^T
+d09bfcbc88|106|台大|數學|Q4|7-1 Inner Product Space, Properties of Inner Product, Vector Length;3-5 Coordinate Vector, Change of Coordinate Matrix;7-1 Orthogonal, Orthogonal Set, Orthonormal Set;8-7 Bilinear Form and its Matrix Representation;7-2 Gram-Schmidt
+09f7a349b8|107|台大|數學|Q8|7-1 Inner Product Space, Properties of Inner Product, Vector Length;7-2 Gram-Schmidt;7-3 Orthogonal Projection Vector
+96a3cdc384|107|台大|數學|Q9|5-2 Eigenvalues, Eigenvectors: Solving, Properties;8-1 Properties of Skew Hermitian Matrix, Skew Symmetric Matrix;4-1 Idempotent Operator, Idempotent Matrix, Oblique Projection;8-1 Properties of Hermitian Matrix, Symmetric Matrix;5-3 Definition of Diagonalizable;1-1 Matrix Partition;1-1 Inverse of a Matrix and properties
+cf65964df5|107|台大|數學|Q10|3-2 Linearly Independent/Dependent;7-1 Inner Product Space, Properties of Inner Product, Vector Length;5-1 Similarity of Square Matrices;7-4 Orthogonal Complement Space
+dm03_ca6fde6b86b2bee4|105|台大|數學|Q7|5-2 Eigenvalues, Eigenvectors: Solving, Properties;1-1 方陣多項式
+dm03_519807ce99a61a9d|107|交大|數學|Q15|7-3 Orthogonal Projection Vector;7-2 Gram-Schmidt;5-2 Eigenvalues, Eigenvectors: Solving, Properties;3-5 Coordinate Vector, Change of Coordinate Matrix
+m_00e7a96f657fdab4|107|交大|數學|Q12|1-2 Row/Column Operations;2-3 Determinant: Properties and Row/Column Operations
+m_87a3c15f7798526a|103|交大|離散數學與線性代數|Q5|2-3 特殊矩陣行列式：三對角矩陣、范德蒙矩陣、塊狀矩陣;2-3 Determinant: Cofactor, Laplace 降階;7-3 與矩陣有關的題目;7-1 Recurrence Relation (Homogeneous, Nonhomogeneous)
+m_b1f2e0cab00c09fb|103|交大|離散數學與線性代數|Q8|7-1 Recurrence Relation (Homogeneous, Nonhomogeneous);5-5 Solving Recurrences
+m_5d405ad3179dfff6|101|交大|數學|Q9|8-1 Properties of Hermitian Matrix, Symmetric Matrix;5-3 Diagonalization;5-2 Characteristic Polynomial;5-1 Similarity of Square Matrices
+m_c82df737b0fb7ff7|102|台大|數學|Q10|7-1 Recurrence Relation (Homogeneous, Nonhomogeneous);5-5 Solving Recurrences
+m_7adaf511b0d0ffa9|104|交大|離散數學與線性代數|Q8|8-2 Unitary Diagonalization, Orthogonal Diagonalization;8-1 Properties of Hermitian Matrix, Symmetric Matrix;8-3 Positive Definite, Positive Semi-definite
+m_2bdd8e27cf2bd112|101|交大|數學|Q1|7-3 Properties of A^TA, AA^T;3-4 Row Rank, Column Rank, Properties of Rank;7-3 Minimize ||Ax - b||, Minimize ||Ax - b|| Given A = QR
+m_4180193084104933|105|交大|數學|Q8|1-1 Symmetric Matrix, Skew Symmetric Matrix;1-1 Inverse of a Matrix and properties
+dm03_ee70ee8b6a7ce7c1|102|交大|數學|Q7|7-5 Outer Product;5-2 Eigenvalues, Eigenvectors: Solving, Properties;5-3 Definition of Diagonalizable;3-1 4 Fundamental Subspaces: C(A), ker(A), R(A), ker(A^T) (Left Kernel);7-3 Minimize ||Ax - b||, Minimize ||Ax - b|| Given A = QR;8-6 Singular Value Decomposition
+m_8caee4eef63f19ef|106|交大|數學|Q10|7-3 Least Square Line, Least Square Approximate Function
+m_abd537e59546f7ca|106|交大|數學|Q7|1-1 Symmetric Matrix, Skew Symmetric Matrix;1-1 Transpose, Conjugate Transpose and their properties
+m_ea4be84c937f9b01|105|台大|數學|Q1|1-1 Matrix, Associative, Distributive, No Commutative;4-2 det, trace of Linear Operator
+m_57d966568d3767c3|105|台大|數學|Q3|1-1 Inverse of a Matrix and properties;8-3 Is A^TA Positive Semi-defintite? Is A^TA Positive Definite?;7-1 Orthogonal, Orthogonal Set, Orthonormal Set;5-2 Eigenvalues, Eigenvectors: Solving, Properties;4-3 ker(T), Im(T) (aka. Range(T))
+m_c0be2d2d8eac77bb|104|交大|離散數學與線性代數|Q6|1-1 Matrix Partition;7-5 Outer Product
+m_52f8c5ecd45151d1|103|交大|離散數學與線性代數|Q2|4-1 Rotation, Reflection, Projection;1-1 Matrix, Associative, Distributive, No Commutative
+dm03_ebf412d5e230986c|100|交大|數學|Q6|3-1 4 Fundamental Subspaces: C(A), ker(A), R(A), ker(A^T) (Left Kernel);3-2 Linearly Independent/Dependent;3-4 Row Rank, Column Rank, Properties of Rank
+m_846f20ccf1fda675|101|台大|數學|Q1|1-1 Matrix, Associative, Distributive, No Commutative
+m_f0adac25ca23ac35|101|交大|數學|Q6|3-1 4 Fundamental Subspaces: C(A), ker(A), R(A), ker(A^T) (Left Kernel);2-1 System of Linear Equations, REF, RREF
+m_752412f465acfd27|101|交大|數學|Q7|3-4 Row Rank, Column Rank, Properties of Rank;3-1 4 Fundamental Subspaces: C(A), ker(A), R(A), ker(A^T) (Left Kernel)
+m_37229310d441cefe|101|交大|數學|Q8|2-3 Determinant: Properties and Row/Column Operations;5-1 Similarity of Square Matrices;7-2 QR Decomposition
+m_8d43d01ae64bd3e5|107|交大|數學|Q10|2-1 System of Linear Equations, REF, RREF
+m_63bb80bd3ed4af92|107|交大|數學|Q11|2-2 Singular vs. Nonsingular;1-1 Inverse of a Matrix and properties
+m_e0eda60cebb57fab|107|交大|數學|Q13|2-3 Determinant: Properties and Row/Column Operations
+m_4df0568580f7f35f|100|台大|數學|Q1|1-1 Symmetric Matrix, Skew Symmetric Matrix
+m_d95217c33620062a|100|台大|數學|Q5|1-1 Matrix, Associative, Distributive, No Commutative
+m_1bbde1e9b9ec9a67|100|台大|數學|Q8|5-2 Eigenvalues, Eigenvectors: Solving, Properties;1-1 Matrix Partition
+m_fc7897eb01e6ea74|105|交大|數學|Q5|5-5 Transition Matrix, Steady-state Vector;5-5 Solving Recurrences
+m_816db793ff11023a|105|交大|數學|Q6|4-3 ker(T), Im(T) (aka. Range(T));3-4 Row Rank, Column Rank, Properties of Rank;7-1 Orthogonal Subspace;8-3 Is A^TA Positive Semi-defintite? Is A^TA Positive Definite?;8-2 Orthogonal Operator, Orthogonal Matrix;1-1 Symmetric Matrix, Skew Symmetric Matrix;5-3 Definition of Diagonalizable;8-1 Properties of Hermitian Matrix, Symmetric Matrix;8-2 Unitary Diagonalization, Orthogonal Diagonalization;5-1 Similarity of Square Matrices
+dm03_8cc8307ab7399853|102|交大|數學|Q1|2-1 System of Linear Equations, REF, RREF
+dm03_5f3becb681701aeb|102|交大|數學|Q2|2-2 Singular vs. Nonsingular;1-1 Inverse of a Matrix and properties
+dm03_37782d33234a9e8c|102|交大|數學|Q3|1-2 Row/Column Operations
+dm03_7fa0d3a18c738035|102|交大|數學|Q4|2-3 Determinant: Properties and Row/Column Operations
+m_1841e4b34949a0eb|107|台大|數學|Q6|1-1 方陣多項式;5-6 Cayley-Hamilton
+m_9ca1c448659eebc1|102|台大|數學|Q7|5-3 Diagonalization;1-1 Matrix Partition
+m_c016bf8927b9853a|102|台大|數學|Q8|4-3 ker(T), Im(T) (aka. Range(T));1-1 Symmetric Matrix, Skew Symmetric Matrix
+m_6c931bc8d4ff0080|106|交大|數學|Q12|2-3 特殊矩陣行列式：三對角矩陣、范德蒙矩陣、塊狀矩陣;1-1 Matrix Partition
+m_346e3f54fc29b639|105|台大|數學|Q2|2-3 Determinant: Properties and Row/Column Operations
+m_d1fba798b2ed721c|104|交大|離散數學與線性代數|Q5|3-1 4 Fundamental Subspaces: C(A), ker(A), R(A), ker(A^T) (Left Kernel);3-4 Row Rank, Column Rank, Properties of Rank;4-3 ker(T), Im(T) (aka. Range(T));2-1 System of Linear Equations, REF, RREF
+m_1139b2b3f9b0ad12|103|交大|離散數學與線性代數|Q3|5-1 Similarity of Square Matrices;5-2 Characteristic Polynomial;2-3 Determinant: Properties and Row/Column Operations
+m_f1c1a3ddb02c1ae6|101|台大|數學|Q2|2-3 Determinant: Cofactor, Laplace 降階
+m_ef98cf447dad7d0a|101|台大|數學|Q3|2-2 Rank
+m_0cec511d19da3f63|101|台大|數學|Q9|2-3 Determinant: Properties and Row/Column Operations
+m_daa45c987183cdd5|101|交大|數學|Q10|2-2 Singular vs. Nonsingular;2-4 Cramer's Rule;5-3 Definition of Diagonalizable
+m_2aa67a03ce324b30|101|交大|數學|Q2|2-1 System of Linear Equations, REF, RREF;3-3 Basis of 4 Fundamental Subspaces;7-3 Properties of A^TA, AA^T;7-3 Orthogonal Projection Vector
+m_512a99a3f1f298f9|101|交大|數學|Q3|3-4 Row Rank, Column Rank, Properties of Rank;3-1 4 Fundamental Subspaces: C(A), ker(A), R(A), ker(A^T) (Left Kernel)
+m_0ea2a57cb05a5319|107|交大|數學|Q14|3-2 Linearly Independent/Dependent;2-2 Singular vs. Nonsingular;3-4 Row Rank, Column Rank, Properties of Rank
+m_abf1a5f315a68119|100|台大|數學|Q2|2-1 System of Linear Equations, REF, RREF;2-1 Gauss Elimination, Gauss-Jordan Elimination
+m_f306f43b64f0023c|100|台大|數學|Q4|2-3 Determinant: Properties and Row/Column Operations
+m_1b3beb2274081d65|100|台大|數學|Q6|5-2 Eigenvalues, Eigenvectors: Solving, Properties;2-2 Singular vs. Nonsingular;2-2 Rank
+m_00c77d25b900ee4a|100|台大|數學|Q9|2-3 Determinant: Properties and Row/Column Operations;2-3 特殊矩陣行列式：三對角矩陣、范德蒙矩陣、塊狀矩陣
+dm03_36f64a7ba264151c|102|交大|數學|Q5|3-2 Linearly Independent/Dependent;2-2 Singular vs. Nonsingular;3-4 Row Rank, Column Rank, Properties of Rank
+dm03_9f02204dc0c8ad4f|102|交大|數學|Q9|7-3 Minimize ||Ax - b||, Minimize ||Ax - b|| Given A = QR;7-3 Orthogonal Projection Vector;7-4 Orthogonal Complement Space & 4 Fundamental Subspaces
+m_b1d564fd25732d4d|107|台大|數學|Q7|2-3 Determinant: Cofactor, Laplace 降階;5-2 Characteristic Polynomial
+m_35f1eba030fb5fe2|102|台大|數學|Q9|2-3 特殊矩陣行列式：三對角矩陣、范德蒙矩陣、塊狀矩陣;2-3 Determinant: Properties and Row/Column Operations
+m_f8f8281090c90bf3|106|交大|數學|Q8|3-4 Row Rank, Column Rank, Properties of Rank;2-2 Rank
+m_683d1510dc2fd89d|105|台大|數學|Q4|3-1 Subspace
+m_6db806c93f207b11|104|交大|離散數學與線性代數|Q7|4-2 Matrix Representation of Linear Projection;3-5 Coordinate Vector, Change of Coordinate Matrix;4-1 Linear Transformation/Mapping and its Existence and Uniqueness
+m_71e98f02a7980236|104|交大|離散數學與線性代數|Q9|7-2 Gram-Schmidt;7-1 Inner Product Space, Properties of Inner Product, Vector Length;7-3 Least Square Line, Least Square Approximate Function
+m_b368e0bb96b1cea9|103|交大|離散數學與線性代數|Q4|3-1 4 Fundamental Subspaces: C(A), ker(A), R(A), ker(A^T) (Left Kernel);3-3 Basis of 4 Fundamental Subspaces;7-2 Gram-Schmidt;7-3 Orthogonal Projection Matrix: A(A^TA)^(-1)A^T;7-3 Minimize ||Ax - b||, Minimize ||Ax - b|| Given A = QR
+m_a9d0ef911f63d806|101|交大|數學|Q4|3-1 8 Definitions of Vector Space;3-1 Subspace
+m_2f3b225d3ac3d3db|101|交大|數學|Q5|3-2 Linearly Independent/Dependent;3-3 Basis, Dimension, Standard Basis, Dimension of Sum Space;3-2 Linear Combination, Span, Span of Sum Space
+m_b6684596f6ff292d|105|交大|數學|Q1|3-1 Subspace
+m_c732c917d0f00b25|105|交大|數學|Q2|3-2 Linearly Independent/Dependent
+m_d4eeae4dddc0a3cf|105|交大|數學|Q3|3-5 Coordinate Vector, Change of Coordinate Matrix
+m_8af62953c892a241|105|交大|數學|Q4|3-3 Basis of 4 Fundamental Subspaces
+dm03_9a905b34746d1ef8|102|交大|數學|Q6|5-2 Eigenvalues, Eigenvectors: Solving, Properties;3-1 4 Fundamental Subspaces: C(A), ker(A), R(A), ker(A^T) (Left Kernel);7-3 Minimize ||Ax - b||, Minimize ||Ax - b|| Given A = QR;8-6 Singular Value Decomposition;8-3 Is A^TA Positive Semi-defintite? Is A^TA Positive Definite?
+dm03_6e0ea1bbb4b59ae0|102|交大|數學|Q8|3-1 4 Fundamental Subspaces: C(A), ker(A), R(A), ker(A^T) (Left Kernel);3-3 Basis of 4 Fundamental Subspaces;7-3 Properties of A^TA, AA^T;7-3 Minimize ||Ax - b||, Minimize ||Ax - b|| Given A = QR;7-3 Orthogonal Projection Vector
+m_e5529c26df7438d8|102|台大|數學|Q11|3-1 Subspace;3-1 Subspace Operations: Union, Intersection, Sum Space;7-4 Orthogonal Complement Space
+m_2bdb60cbb6f7c8a0|103|台大|數學|Q7|3-2 Linear Combination, Span, Span of Sum Space;3-1 Subspace
+m_6552c275d6343b69|101|台大|數學|Q4|4-1 Rotation, Reflection, Projection
+m_0131db6bb269c7ec|106|交大|數學|Q11|4-4 One-to-one, Onto;8-2 Orthogonal Operator, Orthogonal Matrix;5-5 Transition Matrix, Steady-state Vector;5-4 Projection Operator, Projection Matrix;5-3 Definition of Diagonalizable;8-1 Properties of Hermitian Matrix, Symmetric Matrix;5-2 Find Trace/Determinant Using Eigenvalues;5-1 Similarity of Square Matrices;8-1 Normal Operator, Normal Matrix;8-6 Singular Value Decomposition
+m_e6431cc91dd378af|101|台大|數學|Q5|5-2 Characteristic Polynomial;5-2 Eigenvalues, Eigenvectors: Solving, Properties
+m_5254e878787e2c96|101|台大|數學|Q8|5-6 Cayley-Hamilton;6-4 Minimal Polynomial
+m_242420ff0c570ba8|100|台大|數學|Q3|5-6 Cayley-Hamilton
+m_9acedbf9d60f8c2c|100|台大|數學|Q7|5-5 Properties of Diagonal Matrix;5-1 Similarity of Square Matrices
+m_37b50cb85e5f450d|105|交大|數學|Q7|5-3 Diagonalization;5-5 Matrix Exponential
+m_e1c962c382eaab32|102|台大|數學|Q12|5-2 Eigenvalues, Eigenvectors: Solving, Properties;5-3 Definition of Diagonalizable
+m_e70d7a581538fba0|106|交大|數學|Q13|5-5 Transition Matrix, Steady-state Vector
+m_dbadf79871c8e76b|104|台大|數學|Q9|5-2 Find Trace/Determinant Using Eigenvalues;5-2 Eigenvalues, Eigenvectors: Solving, Properties
+m_e7828a17ec0f7496|105|台大|數學|Q6|7-1 Inner Product Space, Properties of Inner Product, Vector Length
+m_6a787aa1f1f891b9|103|交大|離散數學與線性代數|Q1|7-3 Least Square Line, Least Square Approximate Function;7-1 Inner Product Space, Properties of Inner Product, Vector Length
+dm03_a471f464d0254b3f|102|交大|數學|Q10|7-3 Minimize ||Ax - b||, Minimize ||Ax - b|| Given A = QR;7-3 Orthogonal Projection Vector
+m_3db56a4736becf89|106|交大|數學|Q9|7-4 Orthogonal Decomposition Theorem;7-4 Orthogonal Complement Space & 4 Fundamental Subspaces
+m_024a43ed56212809|106|台大|數學|Q5|8-6 Singular Value Decomposition
+m_ee813b50f55c2f62|101|台大|數學|Q10|8-4 Rayleigh Quotient;8-4 Rayleigh Principle
+m_73d7856e883a605f|100|台大|數學|Q10|8-2 Unitary Operator, Unitary Matrix;8-5 Householder Transformation
+m_792edb41611b8a44|104|台大|數學|Q11|8-7 Bilinear Form and its Matrix Representation
+m_631f616d104c95ce|103|交大|離散數學與線性代數|Q9(e)|線性代數§8-1 Real Numbers, Sequences and Series

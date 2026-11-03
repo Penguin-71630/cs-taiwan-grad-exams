@@ -1,0 +1,49 @@
+{
+ "unit_key": "2-2 Rank",
+ "subject": "線性代數",
+ "group": "數學",
+ "chapter": "System of Linear Equations",
+ "topic": "Rank",
+ "questions": [
+  {
+   "id": "7f273710dc",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/7f273710dc.webp"
+  },
+  {
+   "id": "e9f3888cf3",
+   "year": 104,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/e9f3888cf3.webp"
+  },
+  {
+   "id": "m_ef98cf447dad7d0a",
+   "year": 101,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_ef98cf447dad7d0a.webp"
+  },
+  {
+   "id": "m_1b3beb2274081d65",
+   "year": 100,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_1b3beb2274081d65.webp"
+  },
+  {
+   "id": "m_f8f8281090c90bf3",
+   "year": 106,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_f8f8281090c90bf3.webp"
+  }
+ ]
+}

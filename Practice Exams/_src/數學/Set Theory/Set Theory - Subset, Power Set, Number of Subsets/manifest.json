@@ -1,0 +1,57 @@
+{
+ "unit_key": "2-1 Subset, Power Set, Number of Subsets",
+ "subject": "離散數學",
+ "group": "數學",
+ "chapter": "Set Theory",
+ "topic": "Subset, Power Set, Number of Subsets",
+ "questions": [
+  {
+   "id": "dm03_d8d6f6f5e858d375",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/dm03_d8d6f6f5e858d375.webp"
+  },
+  {
+   "id": "dm03_c41f1f30f4cfb390",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/dm03_c41f1f30f4cfb390.webp"
+  },
+  {
+   "id": "m_d58d38394e4ba156",
+   "year": 107,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_d58d38394e4ba156.webp"
+  },
+  {
+   "id": "m_1da9463a354d26d0",
+   "year": 107,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_1da9463a354d26d0.webp"
+  },
+  {
+   "id": "m_1ae44a9a2735596f",
+   "year": 107,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_1ae44a9a2735596f.webp"
+  },
+  {
+   "id": "ceaefa546f",
+   "year": 103,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/ceaefa546f.webp"
+  }
+ ]
+}

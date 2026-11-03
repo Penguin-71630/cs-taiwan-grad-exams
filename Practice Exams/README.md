@@ -27,13 +27,13 @@ Practice Exams/
 字型：中文一律 Noto Serif TC，程式碼用 DejaVu Sans Mono，數學式用 New Computer Modern Math。
 「Computer Modern」用的是 New Computer Modern，也就是 LaTeX 預設字型 Computer Modern 的 OpenType 版本。
 
-## 交接：目前進度與接手步驟（2026-11-02）
+## 交接：目前進度與接手步驟（2026-11-03）
 
 | 類別 | 科目 | 狀態 |
 |---|---|---|
 | 計系 | 作業系統、計算機組織 | 索引完成；986 個「主題×題目」中已轉錄 885 個（還差 101），完成的主題都已出 PDF |
-| 資演 | 資料結構、演算法 | 只做了試跑的 Master Method。`units-資料結構.tsv` 已完成（105 個單元）；題目索引只抓了前 3 頁共 150 題，存成 `q-資料結構.tsv.partial`（副檔名不是 .tsv，所以 plan.py 不會讀它）。演算法索引還沒建 |
-| 數學 | 離散數學、線性代數 | 只做了試跑的 Cayley-Hamilton；索引還沒建 |
+| 資演 | 資料結構、演算法 | 索引完成（資料結構 259 題、演算法 324 題，944 個主題×題目）；只轉錄了試跑的 Master Method |
+| 數學 | 離散數學、線性代數 | 索引完成（離散數學 133 題、線性代數 118 題，556 個主題×題目）；只轉錄了試跑的 Cayley-Hamilton |
 | 英文 | 其他（只有台大） | 還沒開始 |
 
 `python3 _tools/plan.py status` 會列出每個主題還缺幾題。
@@ -55,6 +55,13 @@ Noto Serif TC。New Computer Modern 是 typst 內建的。
    寫成 `_src/_index/q-<科目>.tsv`，每行 `id|年|校|卷名|題號|單元;單元;…`（單元用 unit_key 去掉「科目§」的部分）。
    - 接續 `q-資料結構.tsv.partial`：把檔案裡的 150 個 id 放進 `exclude_ids` 繼續抓（不加 include_manifest 也有 year、school、paper_subject、question_number、unit_keys；每頁 50 題約 25k tokens），抓到回傳少於 50 題為止，再改名成 `q-資料結構.tsv`。
    - unit_keys 會混入其他科目（如演算法）的單元，照存即可；plan.py 只認 units 檔裡有的單元。
+   - 比較省 token 的做法（2026-11-03 建資演、數學索引時用的）：網站的公開索引 `https://tiku.ptsfu.org/index.json.gz`
+     有每題的年、校、卷名、題號、單元，`python3 -I _tools/derive_index.py index.json.gz units-<科目>.tsv <科目>` 可以直接產生草稿。
+     草稿一定要用 MCP 核對：`build_practice_set(exclude_ids=草稿全部 id)` 必須回傳 0 題（回傳的題目要補進去），
+     再排除到只剩約 10 題，回傳的 unit_keys 要和草稿一致。資料結構 259 題逐題比對完全相同；
+     離散數學靠這個核對補了 36 題（清大、交大軟體卷裡只有離散單元的題目）。
+   - 別科的主科單元（例如數學卷題目上的資料結構單元）MCP 會直接丟掉；程式語言、工程數學、資料庫這類非主科單元則寫成「<科目>§單元」，
+     units 檔裡大類寫成那個科目名稱（程式語言、工程數學）。
 3. `python3 _tools/plan.py write` 產生各主題的 manifest.json（科目→類別的對照在 plan.py 的 `GROUP`）。
 
 ### 2. 轉錄（一批約 12 題）

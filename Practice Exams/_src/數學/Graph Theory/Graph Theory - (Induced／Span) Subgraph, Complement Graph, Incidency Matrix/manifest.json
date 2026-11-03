@@ -1,0 +1,25 @@
+{
+ "unit_key": "8-1 (Induced/Span) Subgraph, Complement Graph, Incidency Matrix",
+ "subject": "離散數學",
+ "group": "數學",
+ "chapter": "Graph Theory",
+ "topic": "(Induced／Span) Subgraph, Complement Graph, Incidency Matrix",
+ "questions": [
+  {
+   "id": "m_0fa42328207b96a1",
+   "year": 102,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_0fa42328207b96a1.webp"
+  },
+  {
+   "id": "16292567bc",
+   "year": 100,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/16292567bc.webp"
+  }
+ ]
+}

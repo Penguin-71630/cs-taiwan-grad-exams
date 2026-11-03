@@ -1,0 +1,33 @@
+{
+ "unit_key": "2-2 Derangement",
+ "subject": "離散數學",
+ "group": "數學",
+ "chapter": "Set Theory",
+ "topic": "Derangement",
+ "questions": [
+  {
+   "id": "dm03_2d27c15fb7113dd0",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/dm03_2d27c15fb7113dd0.webp"
+  },
+  {
+   "id": "m_ed17faae3773c929",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12(c)",
+   "url": "https://img.ptsfu.org/m_ed17faae3773c929.webp"
+  },
+  {
+   "id": "53d7de94f2",
+   "year": 107,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/53d7de94f2.webp"
+  }
+ ]
+}

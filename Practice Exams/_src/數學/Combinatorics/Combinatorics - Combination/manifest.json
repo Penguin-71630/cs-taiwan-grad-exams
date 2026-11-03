@@ -1,0 +1,113 @@
+{
+ "unit_key": "5-2 Combination",
+ "subject": "離散數學",
+ "group": "數學",
+ "chapter": "Combinatorics",
+ "topic": "Combination",
+ "questions": [
+  {
+   "id": "be8517f0a4",
+   "year": 101,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/be8517f0a4.webp"
+  },
+  {
+   "id": "cd23db239e",
+   "year": 103,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/cd23db239e.webp"
+  },
+  {
+   "id": "dm03_f4df8f7fe1853aac",
+   "year": 107,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/dm03_f4df8f7fe1853aac.webp"
+  },
+  {
+   "id": "dm03_c41f1f30f4cfb390",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/dm03_c41f1f30f4cfb390.webp"
+  },
+  {
+   "id": "m_00e3c8b8f78af988",
+   "year": 106,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_00e3c8b8f78af988.webp"
+  },
+  {
+   "id": "m_55c871efe5bae747",
+   "year": 105,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_55c871efe5bae747.webp"
+  },
+  {
+   "id": "m_1da9463a354d26d0",
+   "year": 107,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_1da9463a354d26d0.webp"
+  },
+  {
+   "id": "m_04a876f186647eee",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q49",
+   "url": "https://img.ptsfu.org/m_04a876f186647eee.webp"
+  },
+  {
+   "id": "53d7de94f2",
+   "year": 107,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/53d7de94f2.webp"
+  },
+  {
+   "id": "37c8628203",
+   "year": 104,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/37c8628203.webp"
+  },
+  {
+   "id": "m_872b3c33367ddaf1",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q50",
+   "url": "https://img.ptsfu.org/m_872b3c33367ddaf1.webp"
+  },
+  {
+   "id": "24c11b3074",
+   "year": 107,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/24c11b3074.webp"
+  },
+  {
+   "id": "3cee1a7888",
+   "year": 106,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/3cee1a7888.webp"
+  }
+ ]
+}

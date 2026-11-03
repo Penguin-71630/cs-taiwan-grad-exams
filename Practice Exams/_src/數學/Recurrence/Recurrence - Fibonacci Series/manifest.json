@@ -1,0 +1,33 @@
+{
+ "unit_key": "7-4 Fibonacci Series",
+ "subject": "離散數學",
+ "group": "數學",
+ "chapter": "Recurrence",
+ "topic": "Fibonacci Series",
+ "questions": [
+  {
+   "id": "m_36f7712c097bfe3b",
+   "year": 106,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_36f7712c097bfe3b.webp"
+  },
+  {
+   "id": "m_c859e9ad5dfc7e2b",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q49",
+   "url": "https://img.ptsfu.org/m_c859e9ad5dfc7e2b.webp"
+  },
+  {
+   "id": "10732488a4",
+   "year": 103,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/10732488a4.webp"
+  }
+ ]
+}

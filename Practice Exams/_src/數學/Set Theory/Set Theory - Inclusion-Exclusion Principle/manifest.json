@@ -1,0 +1,81 @@
+{
+ "unit_key": "2-2 Inclusion-Exclusion Principle",
+ "subject": "離散數學",
+ "group": "數學",
+ "chapter": "Set Theory",
+ "topic": "Inclusion-Exclusion Principle",
+ "questions": [
+  {
+   "id": "dm03_5e7fbb17220b43d3",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q17",
+   "url": "https://img.ptsfu.org/dm03_5e7fbb17220b43d3.webp"
+  },
+  {
+   "id": "m_79fa42a714668790",
+   "year": 101,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_79fa42a714668790.webp"
+  },
+  {
+   "id": "m_ed17faae3773c929",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12(c)",
+   "url": "https://img.ptsfu.org/m_ed17faae3773c929.webp"
+  },
+  {
+   "id": "ddfc407a01",
+   "year": 100,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/ddfc407a01.webp"
+  },
+  {
+   "id": "4e1b38331d",
+   "year": 104,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/4e1b38331d.webp"
+  },
+  {
+   "id": "d4fff9832d",
+   "year": 101,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/d4fff9832d.webp"
+  },
+  {
+   "id": "4321369eb8",
+   "year": 102,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/4321369eb8.webp"
+  },
+  {
+   "id": "b6427b3d81",
+   "year": 100,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/b6427b3d81.webp"
+  },
+  {
+   "id": "3cee1a7888",
+   "year": 106,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/3cee1a7888.webp"
+  }
+ ]
+}

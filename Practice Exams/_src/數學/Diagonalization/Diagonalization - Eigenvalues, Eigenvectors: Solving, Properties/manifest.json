@@ -1,0 +1,137 @@
+{
+ "unit_key": "5-2 Eigenvalues, Eigenvectors: Solving, Properties",
+ "subject": "線性代數",
+ "group": "數學",
+ "chapter": "Diagonalization",
+ "topic": "Eigenvalues, Eigenvectors: Solving, Properties",
+ "questions": [
+  {
+   "id": "7f273710dc",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/7f273710dc.webp"
+  },
+  {
+   "id": "b2a5d990a2",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/b2a5d990a2.webp"
+  },
+  {
+   "id": "ec7c039e59",
+   "year": 101,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/ec7c039e59.webp"
+  },
+  {
+   "id": "bc7ef2f7a5",
+   "year": 102,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/bc7ef2f7a5.webp"
+  },
+  {
+   "id": "35f14917ab",
+   "year": 103,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/35f14917ab.webp"
+  },
+  {
+   "id": "96a3cdc384",
+   "year": 107,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/96a3cdc384.webp"
+  },
+  {
+   "id": "dm03_ca6fde6b86b2bee4",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/dm03_ca6fde6b86b2bee4.webp"
+  },
+  {
+   "id": "dm03_519807ce99a61a9d",
+   "year": 107,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/dm03_519807ce99a61a9d.webp"
+  },
+  {
+   "id": "dm03_ee70ee8b6a7ce7c1",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/dm03_ee70ee8b6a7ce7c1.webp"
+  },
+  {
+   "id": "m_57d966568d3767c3",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_57d966568d3767c3.webp"
+  },
+  {
+   "id": "m_1bbde1e9b9ec9a67",
+   "year": 100,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_1bbde1e9b9ec9a67.webp"
+  },
+  {
+   "id": "m_1b3beb2274081d65",
+   "year": 100,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_1b3beb2274081d65.webp"
+  },
+  {
+   "id": "dm03_9a905b34746d1ef8",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/dm03_9a905b34746d1ef8.webp"
+  },
+  {
+   "id": "m_e6431cc91dd378af",
+   "year": 101,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_e6431cc91dd378af.webp"
+  },
+  {
+   "id": "m_e1c962c382eaab32",
+   "year": 102,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_e1c962c382eaab32.webp"
+  },
+  {
+   "id": "m_dbadf79871c8e76b",
+   "year": 104,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_dbadf79871c8e76b.webp"
+  }
+ ]
+}

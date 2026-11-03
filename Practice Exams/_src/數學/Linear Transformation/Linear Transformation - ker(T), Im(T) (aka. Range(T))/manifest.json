@@ -1,0 +1,49 @@
+{
+ "unit_key": "4-3 ker(T), Im(T) (aka. Range(T))",
+ "subject": "線性代數",
+ "group": "數學",
+ "chapter": "Linear Transformation",
+ "topic": "ker(T), Im(T) (aka. Range(T))",
+ "questions": [
+  {
+   "id": "5c377025a5",
+   "year": 103,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/5c377025a5.webp"
+  },
+  {
+   "id": "m_57d966568d3767c3",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_57d966568d3767c3.webp"
+  },
+  {
+   "id": "m_816db793ff11023a",
+   "year": 105,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_816db793ff11023a.webp"
+  },
+  {
+   "id": "m_c016bf8927b9853a",
+   "year": 102,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_c016bf8927b9853a.webp"
+  },
+  {
+   "id": "m_d1fba798b2ed721c",
+   "year": 104,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_d1fba798b2ed721c.webp"
+  }
+ ]
+}
