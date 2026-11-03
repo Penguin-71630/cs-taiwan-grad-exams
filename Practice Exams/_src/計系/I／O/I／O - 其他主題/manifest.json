@@ -1,0 +1,83 @@
+{
+ "group": "計系",
+ "chapter": "I／O",
+ "topic": "其他主題",
+ "subject": "作業系統",
+ "unit_key": "12-5 Handling I/O Requests",
+ "sections": [
+  {
+   "topic": "Handling I／O Requests",
+   "unit_key": "12-5 Handling I/O Requests",
+   "ids": [
+    "m_5b161524e230df15",
+    "m_b92fcb2e14632544"
+   ]
+  },
+  {
+   "topic": "Performance",
+   "unit_key": "12-7 Performance",
+   "ids": [
+    "1120ca16b2",
+    "5917302f96",
+    "a7c37ef1cb"
+   ]
+  },
+  {
+   "topic": "Linux Device Model: devfs, sysfs, Device Tree",
+   "unit_key": "12-8 Linux Device Model: devfs, sysfs, Device Tree",
+   "ids": [
+    "m_36c07f076cda1a9b"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_5b161524e230df15",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q18",
+   "url": "https://img.ptsfu.org/m_5b161524e230df15.webp"
+  },
+  {
+   "id": "m_b92fcb2e14632544",
+   "year": 107,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_b92fcb2e14632544.webp"
+  },
+  {
+   "id": "1120ca16b2",
+   "year": 106,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/1120ca16b2.webp"
+  },
+  {
+   "id": "5917302f96",
+   "year": 104,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/5917302f96.webp"
+  },
+  {
+   "id": "a7c37ef1cb",
+   "year": 103,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/a7c37ef1cb.webp"
+  },
+  {
+   "id": "m_36c07f076cda1a9b",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_36c07f076cda1a9b.webp"
+  }
+ ]
+}
