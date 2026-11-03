@@ -4,7 +4,7 @@
 (b) (3%) *heapInitialization*.\
 (c) (3%) *heapSort*.
 
-The C declarations for heap and functions *adjust*(), *heapInitialization*(), and *heapSort*():
+The C declarations for heap and functions *adjust* (), *heapInitialization* (), and *heapSort* ():
 
 ```
 #define SWAP (x, y, t) ((t) = (x), (x) = (y), (y) = (t))
