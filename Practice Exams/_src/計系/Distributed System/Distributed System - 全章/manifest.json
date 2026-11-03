@@ -1,0 +1,90 @@
+{
+ "group": "計系",
+ "chapter": "Distributed System",
+ "topic": "全章",
+ "subject": "作業系統",
+ "unit_key": "19-1 Advantages of Distributed Systems",
+ "sections": [
+  {
+   "topic": "Advantages of Distributed Systems",
+   "unit_key": "19-1 Advantages of Distributed Systems",
+   "ids": [
+    "f03bcb93dc",
+    "m_1dfb7694af59c17b"
+   ]
+  },
+  {
+   "topic": "Network OS, Distributed OS",
+   "unit_key": "19-4 Network OS, Distributed OS",
+   "ids": [
+    "m_60b26b6e7b2d4cf1"
+   ]
+  },
+  {
+   "topic": "Issues: Robustness, Location／Migration Transparency, Scalability",
+   "unit_key": "19-5 Issues: Robustness, Location/Migration Transparency, Scalability",
+   "ids": [
+    "m_81823c4a57ce6dde",
+    "f03bcb93dc",
+    "m_1dfb7694af59c17b"
+   ]
+  },
+  {
+   "topic": "Remote File Access",
+   "unit_key": "19-8 Remote File Access",
+   "ids": [
+    "m_35d5371a97fa8772"
+   ]
+  },
+  {
+   "topic": "Trade-off",
+   "unit_key": "19-9 Trade-off",
+   "ids": [
+    "m_81823c4a57ce6dde",
+    "m_35d5371a97fa8772"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "f03bcb93dc",
+   "year": 101,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/f03bcb93dc.webp"
+  },
+  {
+   "id": "m_1dfb7694af59c17b",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/m_1dfb7694af59c17b.webp"
+  },
+  {
+   "id": "m_60b26b6e7b2d4cf1",
+   "year": 100,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_60b26b6e7b2d4cf1.webp"
+  },
+  {
+   "id": "m_81823c4a57ce6dde",
+   "year": 102,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q18",
+   "url": "https://img.ptsfu.org/m_81823c4a57ce6dde.webp"
+  },
+  {
+   "id": "m_35d5371a97fa8772",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_35d5371a97fa8772.webp"
+  }
+ ]
+}
