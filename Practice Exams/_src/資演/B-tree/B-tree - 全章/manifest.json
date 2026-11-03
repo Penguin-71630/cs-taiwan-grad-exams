@@ -1,0 +1,85 @@
+{
+ "group": "資演",
+ "chapter": "B-tree",
+ "topic": "全章",
+ "subject": "演算法",
+ "unit_key": "18-1 B-tree Definition",
+ "sections": [
+  {
+   "topic": "B-tree Definition",
+   "unit_key": "18-1 B-tree Definition",
+   "ids": [
+    "m_697e01165aa61604",
+    "m_cc10b7a740e637af",
+    "m_9bb7b8c070891107",
+    "m_dc8c71bc4a704a54"
+   ]
+  },
+  {
+   "topic": "B-tree Operations",
+   "unit_key": "18-2 B-tree Operations",
+   "ids": [
+    "m_697e01165aa61604",
+    "m_add4466c27a35d7a",
+    "m_dc8c71bc4a704a54"
+   ]
+  },
+  {
+   "topic": "B-tree Deleting a Key",
+   "unit_key": "18-3 B-tree Deleting a Key",
+   "ids": [
+    "m_536cb2270e631b24"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_697e01165aa61604",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q21",
+   "url": "https://img.ptsfu.org/m_697e01165aa61604.webp"
+  },
+  {
+   "id": "m_cc10b7a740e637af",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q19",
+   "url": "https://img.ptsfu.org/m_cc10b7a740e637af.webp"
+  },
+  {
+   "id": "m_9bb7b8c070891107",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q20",
+   "url": "https://img.ptsfu.org/m_9bb7b8c070891107.webp"
+  },
+  {
+   "id": "m_dc8c71bc4a704a54",
+   "year": 106,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_dc8c71bc4a704a54.webp"
+  },
+  {
+   "id": "m_add4466c27a35d7a",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_add4466c27a35d7a.webp"
+  },
+  {
+   "id": "m_536cb2270e631b24",
+   "year": 107,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_536cb2270e631b24.webp"
+  }
+ ]
+}
