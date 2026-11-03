@@ -164,10 +164,10 @@ def build(src, out_pdf):
         printed = {}
         for section in man["sections"]:
             refs = sorted({printed[qid] for qid in section["ids"] if qid in printed})
-            heading = f'#text(size: 13pt, weight: "bold", {tstr(section["topic"])})'
+            heading = f'#text(size: 12pt, weight: "bold", {tstr(section["topic"])})'
             if refs:
                 ref_text = "另見：第 " + "、".join(map(str, refs)) + " 題"
-                heading += f'\n#v(0.15em)\n#text(size: 9pt, fill: luma(120), {tstr(ref_text)})'
+                heading += f'\n#v(0.15em)\n#text(size: 8pt, fill: luma(120), {tstr(ref_text)})'
             body.append(f"""
 #block(sticky: true, width: 100%)[
 {heading}
@@ -197,25 +197,25 @@ def build(src, out_pdf):
     doc = f"""
 #let FONT = {FONTS[group]}
 #set document(title: {tstr(title)})
-#set page(paper: "a4", margin: (x: 2cm, top: 2cm, bottom: 2cm),
-  footer: context [#set text(size: 8.5pt, fill: luma(110))
+#set page(paper: "a4", margin: (x: 1.5cm, top: 1.8cm, bottom: 1.8cm),
+  footer: context [#set text(size: 8pt, fill: luma(110))
     #{tstr(title)} #h(1fr) #counter(page).display("1 / 1", both: true)])
-#set text(font: FONT, size: 11pt, lang: "zh", region: "tw")
+#set text(font: FONT, size: 10pt, lang: "zh", region: "tw")
 #show math.equation: set text(font: ("New Computer Modern Math", "Noto Serif TC"))
 #set par(justify: true, leading: 0.75em, spacing: 0.9em)
 // matrices / cases inside running text keep full (display) size, like LaTeX
 #show math.mat: it => math.display(it)
 #show math.cases: it => math.display(it)
-#show raw: set text(font: ("DejaVu Sans Mono", "Noto Serif TC"), size: 9.5pt)
+#show raw: set text(font: ("DejaVu Sans Mono", "Noto Serif TC"), size: 8.5pt)
 #show raw.where(block: true): it => block(width: 100%, inset: (left: 1.2em, y: 4pt), it)
 #show "[?]": it => text(fill: rgb("#c0392b"), weight: "bold", it)
-#let blockquote(body) = block(inset: (left: 8pt), stroke: (left: 1.5pt + luma(170)), text(size: 9.5pt, fill: luma(70), body))
+#let blockquote(body) = block(inset: (left: 8pt), stroke: (left: 1.5pt + luma(170)), text(size: 8.5pt, fill: luma(70), body))
 #let horizontalrule = line(length: 100%, stroke: 0.5pt + luma(170))
 
 // a figure cropped from the original scan (figures are embedded, never redrawn)
 #let fig-crop(path, w, h, frac) = {{
   let maxh = 18cm
-  let width = calc.min(17 * frac, maxh / 1cm * w / h) * 1cm
+  let width = calc.min(18 * frac, maxh / 1cm * w / h) * 1cm
   block(width: 100%, align(center, image(path, width: width)))
 }}
 
@@ -225,24 +225,24 @@ def build(src, out_pdf):
     line(length: 100%, stroke: 0.8pt)
     v(-0.3em)
     grid(columns: (auto, 1fr, auto), column-gutter: 0.8em,
-      text(weight: "bold", size: 12pt)[第 #n 題],
+      text(weight: "bold", size: 11pt)[第 #n 題],
       align(horizon, text(weight: "bold")[#src]),
-      align(horizon, text(size: 7.5pt, fill: luma(140), qid)))
+      align(horizon, text(size: 7pt, fill: luma(140), qid)))
     v(0.3em)
   }})
   context {{
-    let h = measure(block(width: 17cm, {{ head; body }})).height
+    let h = measure(block(width: 18cm, {{ head; body }})).height
     block(width: 100%, breakable: h > 12cm, {{ head; body }})
   }}
-  // blank space for working / answers (about 4 lines)
-  v(4 * 1.8em)
+  // blank space for working / answers (about 2 lines)
+  v(2 * 1.8em)
 }}
 
 #align(center)[
-  #text(size: 18pt, weight: "bold", {tstr(title)}) \\
+  #text(size: 16pt, weight: "bold", {tstr(title)}) \\
   #v(0.2em)
-  #text(size: 10pt, fill: luma(80))[{group}｜{man['subject']}｜{schools}｜{year_label}｜共 {len(qs)} 題] \\
-  #text(size: 8.5pt, fill: luma(120), {tstr(subtitle)})
+  #text(size: 9pt, fill: luma(80))[{group}｜{man['subject']}｜{schools}｜{year_label}｜共 {len(qs)} 題] \\
+  #text(size: 8pt, fill: luma(120), {tstr(subtitle)})
 ]
 #v(0.8em)
 {''.join(body)}
