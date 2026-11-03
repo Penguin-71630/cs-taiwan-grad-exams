@@ -1,0 +1,108 @@
+{
+ "group": "計系",
+ "chapter": "Mass-Storage",
+ "topic": "其他主題",
+ "subject": "作業系統",
+ "unit_key": "11-1 HDD, SSD, DRAM",
+ "sections": [
+  {
+   "topic": "HDD, SSD, DRAM",
+   "unit_key": "11-1 HDD, SSD, DRAM",
+   "ids": [
+    "m_10eceaf951656a4f",
+    "9af8c6d44f",
+    "m_f49249ee25121df7",
+    "deca368cdb"
+   ]
+  },
+  {
+   "topic": "SSD Policies: I／O Queue, Fairness, Wear Leveling",
+   "unit_key": "11-3 SSD Policies: I/O Queue, Fairness, Wear Leveling",
+   "ids": [
+    "e291080e1c"
+   ]
+  },
+  {
+   "topic": "SSD Preprocess: Low-level Formatting, Boot Block, Bad Block",
+   "unit_key": "11-5 SSD Preprocess: Low-level Formatting, Boot Block, Bad Block",
+   "ids": [
+    "m_a477b4d1caeacd74",
+    "m_1a15ba89a9216f24"
+   ]
+  },
+  {
+   "topic": "SATA, NVMe, SCSI, NAS, Storage-area Network",
+   "unit_key": "11-7 SATA, NVMe, SCSI, NAS, Storage-area Network",
+   "ids": [
+    "m_a477b4d1caeacd74",
+    "m_0d637a4976f2cc59"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_10eceaf951656a4f",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_10eceaf951656a4f.webp"
+  },
+  {
+   "id": "9af8c6d44f",
+   "year": 107,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/9af8c6d44f.webp"
+  },
+  {
+   "id": "m_f49249ee25121df7",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_f49249ee25121df7.webp"
+  },
+  {
+   "id": "deca368cdb",
+   "year": 105,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/deca368cdb.webp"
+  },
+  {
+   "id": "e291080e1c",
+   "year": 106,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/e291080e1c.webp"
+  },
+  {
+   "id": "m_a477b4d1caeacd74",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_a477b4d1caeacd74.webp"
+  },
+  {
+   "id": "m_1a15ba89a9216f24",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q17",
+   "url": "https://img.ptsfu.org/m_1a15ba89a9216f24.webp"
+  },
+  {
+   "id": "m_0d637a4976f2cc59",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_0d637a4976f2cc59.webp"
+  }
+ ]
+}
