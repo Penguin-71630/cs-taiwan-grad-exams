@@ -74,6 +74,7 @@ def prepare_image(q, skew):
 
 
 FIG_RE = re.compile(r"^<!--\s*fig\s+([\d.]+)\s+([\d.]+)\s+([\d.]+)\s+([\d.]+)\s*-->[ \t]*$", re.M)
+ENGLISH_OPTION_RE = re.compile(r"^\(([A-D])\) (.*?)(\\)?[ \t]*$")
 
 
 def crop_figures(q, md_text, img_path):
@@ -147,10 +148,41 @@ def build(src, out_pdf):
         if FIG_RE.search(md_text):
             img, _, _, _ = prepare_image(q, skew)
             md_text, calls = crop_figures(q, md_text, img)
+        if group == "英文":
+            lines = md_text.splitlines()
+            compacted = []
+            line_index = 0
+            while line_index < len(lines):
+                matches = [ENGLISH_OPTION_RE.fullmatch(line) for line in lines[line_index:line_index + 4]]
+                if (len(matches) == 4 and all(matches)
+                        and [match.group(1) for match in matches] == list("ABCD")):
+                    option_texts = [match.group(2).rstrip() for match in matches]
+                    if all(len(text) <= 22 for text in option_texts):
+                        if compacted and compacted[-1].endswith("\\"):
+                            compacted[-1] = compacted[-1][:-1]
+                        token = f"OPTROW{len(calls)}XX"
+                        option_lines = [
+                            f"({match.group(1)}) {text}"
+                            for match, text in zip(matches, option_texts)
+                        ]
+                        cells = ", ".join(
+                            f"[{md_to_typst(option_line).strip()}]"
+                            for option_line in option_lines
+                        )
+                        calls[token] = (
+                            "#grid(columns: (1fr, 1fr, 1fr, 1fr), "
+                            f"column-gutter: 0.8em, {cells})"
+                        )
+                        compacted.extend(["", token, ""])
+                        line_index += 4
+                        continue
+                compacted.append(lines[line_index])
+                line_index += 1
+            md_text = "\n".join(compacted)
         content = md_to_typst(md_text)
         for token, call in calls.items():
             if token not in content:
-                raise SystemExit(f"figure placeholder lost for {q['id']}")
+                raise SystemExit(f"placeholder lost for {q['id']}")
             content = content.replace(token, call)
         src_line = f"{q['year']} 年　{q['school']}《{q['paper']}》　{q['qnum']}"
         return f"""
@@ -194,8 +226,10 @@ def build(src, out_pdf):
     years = sorted({q["year"] for q in qs})
     year_label = f"民國 {'、'.join(map(str, years))} 年" if group == "英文" else "民國 100–107 年"
     subtitle = f"收錄 {len(man['sections'])} 個主題" if "sections" in man else man["unit_key"]
+    gap = "0.4em" if group == "英文" else "2 * 1.8em"
     doc = f"""
 #let FONT = {FONTS[group]}
+#let GAP = {gap}
 #set document(title: {tstr(title)})
 #set page(paper: "a4", margin: (x: 1.5cm, top: 1.8cm, bottom: 1.8cm),
   footer: context [#set text(size: 8pt, fill: luma(110))
@@ -234,8 +268,8 @@ def build(src, out_pdf):
     let h = measure(block(width: 18cm, {{ head; body }})).height
     block(width: 100%, breakable: h > 12cm, {{ head; body }})
   }}
-  // blank space for working / answers (about 2 lines)
-  v(2 * 1.8em)
+  // answer space is controlled per group by GAP
+  v(GAP)
 }}
 
 #align(center)[

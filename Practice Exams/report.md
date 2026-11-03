@@ -62,7 +62,7 @@
 | 數學 | Vector Space | Vector Space - Subspace | 5 | 2 | OK |
 | 數學 | Vector Space | Vector Space - 其他主題 | 10 | 4 | OK |
 | 數學 | 工程數學 | 工程數學 - 全章 | 1 | 1 | OK |
-| 英文 | 英文（A） | 英文（A） - 111 台大 | 50 | 12 | OK |
+| 英文 | 英文（A） | 英文（A） - 111 台大 | 50 | 8 | OK |
 | 計系 | Arithmetic | Arithmetic - IEEE 754 | 10 | 4 | OK |
 | 計系 | Arithmetic | Arithmetic - 其他主題 | 11 | 5 | OK |
 | 計系 | Cache | Cache - AMAT | 7 | 4 | OK |
