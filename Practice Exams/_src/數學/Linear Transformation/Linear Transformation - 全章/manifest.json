@@ -1,0 +1,203 @@
+{
+ "group": "數學",
+ "chapter": "Linear Transformation",
+ "topic": "全章",
+ "subject": "線性代數",
+ "unit_key": "4-1 Idempotent Operator, Idempotent Matrix, Oblique Projection",
+ "sections": [
+  {
+   "topic": "Idempotent Operator, Idempotent Matrix, Oblique Projection",
+   "unit_key": "4-1 Idempotent Operator, Idempotent Matrix, Oblique Projection",
+   "ids": [
+    "b6b7a9ae69",
+    "96a3cdc384"
+   ]
+  },
+  {
+   "topic": "Linear Transformation／Mapping and its Existence and Uniqueness",
+   "unit_key": "4-1 Linear Transformation/Mapping and its Existence and Uniqueness",
+   "ids": [
+    "1c94bb328c",
+    "5c377025a5",
+    "m_6db806c93f207b11"
+   ]
+  },
+  {
+   "topic": "Rotation, Reflection, Projection",
+   "unit_key": "4-1 Rotation, Reflection, Projection",
+   "ids": [
+    "18527be7bf",
+    "m_52f8c5ecd45151d1",
+    "m_6552c275d6343b69"
+   ]
+  },
+  {
+   "topic": "Change of Basis",
+   "unit_key": "4-2 Change of Basis",
+   "ids": [
+    "1c94bb328c"
+   ]
+  },
+  {
+   "topic": "Matrix Representation of Linear Projection",
+   "unit_key": "4-2 Matrix Representation of Linear Projection",
+   "ids": [
+    "m_6db806c93f207b11"
+   ]
+  },
+  {
+   "topic": "det, trace of Linear Operator",
+   "unit_key": "4-2 det, trace of Linear Operator",
+   "ids": [
+    "m_ea4be84c937f9b01"
+   ]
+  },
+  {
+   "topic": "ker(T), Im(T) (aka. Range(T))",
+   "unit_key": "4-3 ker(T), Im(T) (aka. Range(T))",
+   "ids": [
+    "5c377025a5",
+    "m_57d966568d3767c3",
+    "m_816db793ff11023a",
+    "m_c016bf8927b9853a",
+    "m_d1fba798b2ed721c"
+   ]
+  },
+  {
+   "topic": "Isomorphic",
+   "unit_key": "4-4 Isomorphic",
+   "ids": [
+    "6f3343c82f"
+   ]
+  },
+  {
+   "topic": "One-to-one, Onto",
+   "unit_key": "4-4 One-to-one, Onto",
+   "ids": [
+    "m_0131db6bb269c7ec"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "b6b7a9ae69",
+   "year": 106,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/b6b7a9ae69.webp"
+  },
+  {
+   "id": "96a3cdc384",
+   "year": 107,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/96a3cdc384.webp"
+  },
+  {
+   "id": "1c94bb328c",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/1c94bb328c.webp"
+  },
+  {
+   "id": "5c377025a5",
+   "year": 103,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/5c377025a5.webp"
+  },
+  {
+   "id": "m_6db806c93f207b11",
+   "year": 104,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_6db806c93f207b11.webp"
+  },
+  {
+   "id": "18527be7bf",
+   "year": 106,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/18527be7bf.webp"
+  },
+  {
+   "id": "m_52f8c5ecd45151d1",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_52f8c5ecd45151d1.webp"
+  },
+  {
+   "id": "m_6552c275d6343b69",
+   "year": 101,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_6552c275d6343b69.webp"
+  },
+  {
+   "id": "m_ea4be84c937f9b01",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_ea4be84c937f9b01.webp"
+  },
+  {
+   "id": "m_57d966568d3767c3",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_57d966568d3767c3.webp"
+  },
+  {
+   "id": "m_816db793ff11023a",
+   "year": 105,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_816db793ff11023a.webp"
+  },
+  {
+   "id": "m_c016bf8927b9853a",
+   "year": 102,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_c016bf8927b9853a.webp"
+  },
+  {
+   "id": "m_d1fba798b2ed721c",
+   "year": 104,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_d1fba798b2ed721c.webp"
+  },
+  {
+   "id": "6f3343c82f",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/6f3343c82f.webp"
+  },
+  {
+   "id": "m_0131db6bb269c7ec",
+   "year": 106,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_0131db6bb269c7ec.webp"
+  }
+ ]
+}
