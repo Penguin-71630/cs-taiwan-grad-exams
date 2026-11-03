@@ -478,5 +478,29 @@
  "bf64e1ed7c": {
   "angle": 0.8,
   "corrected": true
+ },
+ "m_b01e5e56385c1154": {
+  "angle": 0.0,
+  "corrected": false
+ },
+ "e3c4040ebf": {
+  "angle": 0.8,
+  "corrected": true
+ },
+ "m_b407d872827de632": {
+  "angle": 0.6,
+  "corrected": false
+ },
+ "m_33d842d521d7d86e": {
+  "angle": -0.6,
+  "corrected": false
+ },
+ "m_4be955b08a0689f7": {
+  "angle": 0.8,
+  "corrected": true
+ },
+ "m_13a37e0956a39c5f": {
+  "angle": 0.3,
+  "corrected": false
  }
 }
