@@ -8,8 +8,7 @@ from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(__file__))
 from build import build  # noqa: E402
-from check import pdf_text  # noqa: E402
-import re  # noqa: E402
+from check import pdf_text, question_headers  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 REPO = ROOT.parent
@@ -51,7 +50,7 @@ def main():
         try:
             n = build(src, pdf)
             txt = pdf_text(pdf)
-            heads = {int(x) for x in re.findall(r"第 ?(\d+) ?題", txt)}
+            heads = question_headers(txt, man["questions"])
             flat = txt.replace("\n", "")
             if heads != set(range(1, n + 1)) or any(q["id"] not in flat for q in man["questions"]):
                 raise RuntimeError(f"check failed: headers {sorted(heads)} for {n} questions")

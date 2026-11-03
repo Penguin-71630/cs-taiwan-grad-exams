@@ -17,6 +17,16 @@ def pdf_text(pdf):
     return subprocess.run(["pdftotext", "-raw", str(pdf), "-"], capture_output=True, text=True, check=True).stdout
 
 
+def question_headers(text, questions):
+    qids = [q["id"] for q in questions]
+    heads = set()
+    for line in text.splitlines():
+        m = re.match(r"^[ \t]*第\s*(\d+)\s*題", line)
+        if m and any(line.rstrip().endswith(qid) for qid in qids):
+            heads.add(int(m.group(1)))
+    return heads
+
+
 def pages(pdf):
     out = subprocess.run(["pdfinfo", str(pdf)], capture_output=True, text=True, check=True).stdout
     return int(re.search(r"Pages:\s+(\d+)", out).group(1))
@@ -36,7 +46,7 @@ def main():
         else:
             txt = pdf_text(pdf)
             npages = pages(pdf)
-            heads = {int(x) for x in re.findall(r"第 ?(\d+) ?題", txt)}
+            heads = question_headers(txt, man["questions"])
             missing_ids = [q["id"] for q in man["questions"] if q["id"] not in txt.replace("\n", "")]
             if heads != set(range(1, n + 1)):
                 status = f"題號不符：PDF {len(heads)} 題 / manifest {n} 題"
