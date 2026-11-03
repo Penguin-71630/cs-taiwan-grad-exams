@@ -1,0 +1,93 @@
+{
+ "group": "資演",
+ "chapter": "Number Theory",
+ "topic": "全章",
+ "subject": "演算法",
+ "unit_key": "31-2 GCD, Bézout's Identity",
+ "sections": [
+  {
+   "topic": "GCD, Bézout's Identity",
+   "unit_key": "31-2 GCD, Bézout's Identity",
+   "ids": [
+    "76cd3240df",
+    "fd5fa41eaa",
+    "m_7a67681562761672",
+    "m_71c66b2cdab759e5",
+    "m_3f6a770792c768cb"
+   ]
+  },
+  {
+   "topic": "CRT",
+   "unit_key": "31-5 CRT",
+   "ids": [
+    "a0ef984322"
+   ]
+  },
+  {
+   "topic": "快速冪, Fermat's Little Theorem, Euler's Theorem, Primitive Root",
+   "unit_key": "31-6 快速冪, Fermat's Little Theorem, Euler's Theorem, Primitive Root",
+   "ids": [
+    "f6b69f2d1a",
+    "a0ef984322"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "76cd3240df",
+   "year": 102,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/76cd3240df.webp"
+  },
+  {
+   "id": "fd5fa41eaa",
+   "year": 105,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/fd5fa41eaa.webp"
+  },
+  {
+   "id": "m_7a67681562761672",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q42",
+   "url": "https://img.ptsfu.org/m_7a67681562761672.webp"
+  },
+  {
+   "id": "m_71c66b2cdab759e5",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q43",
+   "url": "https://img.ptsfu.org/m_71c66b2cdab759e5.webp"
+  },
+  {
+   "id": "m_3f6a770792c768cb",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q44",
+   "url": "https://img.ptsfu.org/m_3f6a770792c768cb.webp"
+  },
+  {
+   "id": "a0ef984322",
+   "year": 105,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/a0ef984322.webp"
+  },
+  {
+   "id": "f6b69f2d1a",
+   "year": 102,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/f6b69f2d1a.webp"
+  }
+ ]
+}
