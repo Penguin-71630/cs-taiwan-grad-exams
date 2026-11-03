@@ -1,0 +1,113 @@
+{
+ "unit_key": "4-5 Master Theorem",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "Divide and Conquer",
+ "topic": "Master Theorem",
+ "questions": [
+  {
+   "id": "7408e8cc07",
+   "year": 102,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/7408e8cc07.webp"
+  },
+  {
+   "id": "fd6d874ef7",
+   "year": 104,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/fd6d874ef7.webp"
+  },
+  {
+   "id": "243f850b91",
+   "year": 105,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/243f850b91.webp"
+  },
+  {
+   "id": "57fe4cd173",
+   "year": 105,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/57fe4cd173.webp"
+  },
+  {
+   "id": "64617ea1d4",
+   "year": 106,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/64617ea1d4.webp"
+  },
+  {
+   "id": "m_112d95175bdaf7a8",
+   "year": 104,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_112d95175bdaf7a8.webp"
+  },
+  {
+   "id": "m_aaa3992101947740",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q25",
+   "url": "https://img.ptsfu.org/m_aaa3992101947740.webp"
+  },
+  {
+   "id": "m_1f4813b627e2f78a",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q36",
+   "url": "https://img.ptsfu.org/m_1f4813b627e2f78a.webp"
+  },
+  {
+   "id": "m_8a521d0799c0405b",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q38",
+   "url": "https://img.ptsfu.org/m_8a521d0799c0405b.webp"
+  },
+  {
+   "id": "m_8abf8e80c1e80cea",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q34",
+   "url": "https://img.ptsfu.org/m_8abf8e80c1e80cea.webp"
+  },
+  {
+   "id": "m_67f1ea47471ea6a4",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q36",
+   "url": "https://img.ptsfu.org/m_67f1ea47471ea6a4.webp"
+  },
+  {
+   "id": "m_2a4721c1cf7cca66",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q38",
+   "url": "https://img.ptsfu.org/m_2a4721c1cf7cca66.webp"
+  },
+  {
+   "id": "m_335c2a4fe61c6def",
+   "year": 106,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_335c2a4fe61c6def.webp"
+  }
+ ]
+}

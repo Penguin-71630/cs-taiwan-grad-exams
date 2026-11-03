@@ -1,0 +1,65 @@
+{
+ "unit_key": "20-3 DFS, White-Path, Tree/Back/Forward/Crossing Edge, BCC",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "Graph Basics",
+ "topic": "DFS, White-Path, Tree／Back／Forward／Crossing Edge, BCC",
+ "questions": [
+  {
+   "id": "fbba38df5a",
+   "year": 101,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/fbba38df5a.webp"
+  },
+  {
+   "id": "cf13855684",
+   "year": 102,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/cf13855684.webp"
+  },
+  {
+   "id": "m_c65c5e5ae764d107",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q19",
+   "url": "https://img.ptsfu.org/m_c65c5e5ae764d107.webp"
+  },
+  {
+   "id": "m_eef5a807b35b5cdc",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q25",
+   "url": "https://img.ptsfu.org/m_eef5a807b35b5cdc.webp"
+  },
+  {
+   "id": "m_5a6ab202eaccfd0b",
+   "year": 102,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_5a6ab202eaccfd0b.webp"
+  },
+  {
+   "id": "m_2db9b37849290222",
+   "year": 103,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_2db9b37849290222.webp"
+  },
+  {
+   "id": "m_a825db7a50bd13d2",
+   "year": 104,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_a825db7a50bd13d2.webp"
+  }
+ ]
+}

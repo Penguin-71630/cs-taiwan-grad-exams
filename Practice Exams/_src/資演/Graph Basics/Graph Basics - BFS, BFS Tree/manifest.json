@@ -1,0 +1,41 @@
+{
+ "unit_key": "20-2 BFS, BFS Tree",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "Graph Basics",
+ "topic": "BFS, BFS Tree",
+ "questions": [
+  {
+   "id": "fbba38df5a",
+   "year": 101,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/fbba38df5a.webp"
+  },
+  {
+   "id": "m_eef5a807b35b5cdc",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q25",
+   "url": "https://img.ptsfu.org/m_eef5a807b35b5cdc.webp"
+  },
+  {
+   "id": "m_c4b29a59077b1849",
+   "year": 107,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "QVI",
+   "url": "https://img.ptsfu.org/m_c4b29a59077b1849.webp"
+  },
+  {
+   "id": "m_2db9b37849290222",
+   "year": 103,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_2db9b37849290222.webp"
+  }
+ ]
+}

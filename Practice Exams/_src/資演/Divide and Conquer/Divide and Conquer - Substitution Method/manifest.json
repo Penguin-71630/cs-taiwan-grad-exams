@@ -1,0 +1,41 @@
+{
+ "unit_key": "4-3 Substitution Method",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "Divide and Conquer",
+ "topic": "Substitution Method",
+ "questions": [
+  {
+   "id": "ea409196a0",
+   "year": 100,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/ea409196a0.webp"
+  },
+  {
+   "id": "b00fa54142",
+   "year": 103,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/b00fa54142.webp"
+  },
+  {
+   "id": "64617ea1d4",
+   "year": 106,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/64617ea1d4.webp"
+  },
+  {
+   "id": "m_34af424a6b5f465b",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q35",
+   "url": "https://img.ptsfu.org/m_34af424a6b5f465b.webp"
+  }
+ ]
+}

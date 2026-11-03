@@ -1,0 +1,129 @@
+2-1 Insertion Sort, Loop Invariant	Basics
+2-3 Divide-and-Conquer Method	Basics
+3-1~3-3 Time Complexity: O, Ω, Θ, o, ω	Basics
+4-1 Maximum-Subarray Problem	Divide and Conquer
+4-2 Strassen	Divide and Conquer
+4-3 Substitution Method	Divide and Conquer
+4-4 Recursion-tree Method	Divide and Conquer
+4-5 Master Theorem	Divide and Conquer
+4-7 Akra-Bazzi Recurrences	Divide and Conquer
+4-8 Monge Arrays	Divide and Conquer
+5-2 Indicator Random Variables, Linearity of Expectation	Randomized Algorithms
+5-3 Randomized Algo: Permute-by-sorting, Fisher-Yates, Rnd-in-place	Randomized Algorithms
+5-4 Birthday Paradox, Balls-and-bins, Streak, Online Hiring Problem	Randomized Algorithms
+5-5 Las Vegas vs. Monte Carlo Algorithms	Randomized Algorithms
+6-1~6-4 Heap	Heap
+6-5 Priority Queues	Heap
+7-1 Quicksort	Quicksort
+7-2 Performance of Quicksort	Quicksort
+7-3 Randomized Pivoting	Quicksort
+7-4 Analysis of Quicksort	Quicksort
+8-1 Lower Bounds for Sorting	Linear Sorting
+8-2 Counting Sort	Linear Sorting
+8-3 Radix Sort	Linear Sorting
+8-4 Bucket Sort	Linear Sorting
+9-1 O(n) for Selecting Min/Max	Nth Element
+9-2 O(n) Randomized Select, nth_element()	Nth Element
+9-3 Median of Medians	Nth Element
+10-1 Array, Stack, Queue, Circular Queue	Basic Data Structures
+10-2 Singly/Doubly/Circular Linked List, Sentinel	Basic Data Structures
+10-3 Rooted Trees	Basic Data Structures
+11-2 Hash Tables, Load Factor	Hash
+11-3 Divsion/Multiplication Method, Universal Hashing, Perfect Hashing	Hash
+11-4 Linear/Quadratic Probing, Double Hashing, Uniform Hashing	Hash
+12-1~12-3 BST	Trees
+13-1~13-4 Red-Black Tree	Trees
+13-5 Treap	Trees
+14-2 區間 DP: Matrix-chain Multiplication	DP
+14-3 最佳子結構、重複子問題, Memoization, Tabulation	DP
+14-4 LCS	DP
+14-5 Optimal BST, Knuth Optimization	DP
+15-1 Activity Selection Problem	Greedy
+15-2 最佳子結構、Greedy-choice Property, Exchange Argument	Greedy
+15-3 Huffman Codes	Greedy
+15-5 Matroids, Unit-Time Task Scheduling with Deadlines and Penalties	Greedy
+16-1 Aggregate Analysis	Amortized Analysis
+16-2 Accounting Method	Amortized Analysis
+16-3 Potential Method	Amortized Analysis
+16-4 Dynamic Tables	Amortized Analysis
+17-1 Dynamic Order Statistics	Augmenting Data Structure
+17-2 How to Augment a Data Structure	Augmenting Data Structure
+18-1 B-tree Definition	B-tree
+18-2 B-tree Operations	B-tree
+18-3 B-tree Deleting a Key	B-tree
+19-1 DSU Operations	DSU
+19-2 Linked-list Representation	DSU
+19-3 DSU Optimizations: Union by Rank, Path Compression	DSU
+19-4 DSU Complexity Analysis: alpha(n)	DSU
+20-1 Adjacency List, Adjacency Matrix	Graph Basics
+20-2 BFS, BFS Tree	Graph Basics
+20-3 DFS, White-Path, Tree/Back/Forward/Crossing Edge, BCC	Graph Basics
+20-4 Topological Sort	Graph Basics
+20-5 SCC, Kosaraju, Tarjan	Graph Basics
+21-1 Cut Property	MST
+21-2 Kruskal, Prim	MST
+22-1 Bellman-Ford	Shortest Paths
+22-2 Single-Source Shortest Path in DAGs	Shortest Paths
+22-3 Dijkstra, Dijkstra with Fibonacci Heap	Shortest Paths
+22-4 差分約束系統	Shortest Paths
+22-5 Proofs: 三角不等式, Convergence, Relaxation, 前驅子圖	Shortest Paths
+23-1 Shortest Paths and Matrix Multiplication	Shortest Paths
+23-2 Floyd Warshall	Shortest Paths
+23-3 Johnson	Shortest Paths
+24-1 Capacity, Residual, Augmenting Path	Flow
+24-2 Edmonds-Karp	Flow
+24-2 Ford-Fulkerson	Flow
+24-2 Max-flow Min-cut Theorem, LP Duality	Flow
+24-3 Maximum Bipartite Matching	Flow
+26-4 Sorting Networks: Bitonic Sorter	Parallel Algorithms
+28-1 LU Decomposition, LUP Decomposition	Matrix
+28-3 對稱正定矩陣, 最小平方法	Matrix
+29-1 Standard Form, Slack Form, Feasible Region, Simplex Method	LP
+29-2 Formulating Problems as LP	LP
+30-1 Representing Polynomials, Horner's Rule, Lagrange, Vandermonde	Convolution
+30-2 DFT, FFT	Convolution
+31-2 GCD, Bézout's Identity	Number Theory
+31-4 Solving Modular Linear Equations	Number Theory
+31-5 CRT	Number Theory
+31-6 快速冪, Fermat's Little Theorem, Euler's Theorem, Primitive Root	Number Theory
+31-7 RSA Cryptosystem	Number Theory
+32-2 Rabin-Karp (Rolling Hash)	String
+32-3 String Matching with DFA	String
+32-4 KMP	String
+32-5 Suffix Array	String
+33-1 k-means Clustering, Lloyd's Algorithm, k-means++	ML
+33-3 Gradient Descent, Stochastic Gradient Descent	ML
+33-4 Neural Networks: MLP Forward Pass, Parameter Count	ML
+33-5 Overfitting, Regularization, Bias-Variance Trade-off	ML
+33-6 Curse of Dimensionality, Dimensionality Reduction	ML
+33-7 Probabilistic Models: Bayesian Networks, Hidden Markov Models, EM Algorithm, Sampling and MCMC	ML
+34-1~34-2 Basics	NP
+34-3 NP-hard, NP-complete, CIRCUIT-SAT	NP
+34-3 Reduction	NP
+34-4 NP-completeness Proofs, 3-SAT	NP
+34-5 Clique, Vertex-Cover, Hamiltonian-Cycle, TSP, Subset-Sum	NP
+35-1 Approximation Ratio, PTAS, FPTAS	Approixmation
+35-1 Vertex Cover: 2-approximation	Approixmation
+35-2 滿足三角不等式的 TSP: 2-approximation, 1.5-approximation	Approixmation
+35-3 Set Cover: H(n)-approximation	Approixmation
+35-4 ILP Relaxed and Rounded to LP	Approixmation
+35-5 Subset Sum: FPTAS	Approixmation
+36-1 Backtracking: State-Space Tree, Turnpike Reconstruction	Backtracking, Branch-and-Bound and Design Techniques
+36-2 Branch-and-Bound, Best-First Search, A*	Backtracking, Branch-and-Bound and Design Techniques
+36-3 Two Pointers, Sliding Window	Backtracking, Branch-and-Bound and Design Techniques
+36-4 Prefix-Reversal (Pancake) Sorting	Backtracking, Branch-and-Bound and Design Techniques
+36-5 Local Search: Hill Climbing, Simulated Annealing, Genetic Algorithms	Backtracking, Branch-and-Bound and Design Techniques
+36-6 Intelligent Agents: Reflex, Goal-Based and Utility-Based Agents	Backtracking, Branch-and-Bound and Design Techniques
+37-1 Line-Segment Intersection, Sweep Line, Point in Polygon	Computational Geometry
+37-2 Closest Pair of Points, Voronoi Diagram	Computational Geometry
+37-3 Convex Hull: Graham Scan, Jarvis March, Farthest Pair	Computational Geometry
+Borůvka, Sollin	MST
+Dinic	Flow
+Suffix Tree	String
+演算法§1-1 Data Types, Literals, Type Conversion, sizeof	程式語言
+演算法§1-2 Operators: Precedence, Associativity, Bitwise and Shift	程式語言
+演算法§1-4 Control Flow: Dangling Else, switch Fall-Through, Loops, break/continue	程式語言
+演算法§1-6 Programming Exercises: Loops, Pattern Printing, Numeric Routines	程式語言
+演算法§2-4 struct, union, enum, Memory Layout, Endianness	程式語言
+演算法§3-4 Recursion Tracing, Activation Records	程式語言
+演算法§8-2 Differentiation, Integration, Multiple Integrals	工程數學

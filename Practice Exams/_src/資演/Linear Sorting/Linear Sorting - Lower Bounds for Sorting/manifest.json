@@ -1,0 +1,65 @@
+{
+ "unit_key": "8-1 Lower Bounds for Sorting",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "Linear Sorting",
+ "topic": "Lower Bounds for Sorting",
+ "questions": [
+  {
+   "id": "ea409196a0",
+   "year": 100,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/ea409196a0.webp"
+  },
+  {
+   "id": "402bb36201",
+   "year": 101,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/402bb36201.webp"
+  },
+  {
+   "id": "69c4fd2cfd",
+   "year": 104,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/69c4fd2cfd.webp"
+  },
+  {
+   "id": "m_fa1c974c531b1400",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q40",
+   "url": "https://img.ptsfu.org/m_fa1c974c531b1400.webp"
+  },
+  {
+   "id": "m_08207efacb992ec0",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q33",
+   "url": "https://img.ptsfu.org/m_08207efacb992ec0.webp"
+  },
+  {
+   "id": "m_9b8d57ae81e375f0",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q24",
+   "url": "https://img.ptsfu.org/m_9b8d57ae81e375f0.webp"
+  },
+  {
+   "id": "m_b860b369203e7074",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q32",
+   "url": "https://img.ptsfu.org/m_b860b369203e7074.webp"
+  }
+ ]
+}

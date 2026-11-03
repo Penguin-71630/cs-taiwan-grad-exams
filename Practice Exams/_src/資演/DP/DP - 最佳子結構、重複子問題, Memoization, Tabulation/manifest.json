@@ -1,0 +1,97 @@
+{
+ "unit_key": "14-3 最佳子結構、重複子問題, Memoization, Tabulation",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "DP",
+ "topic": "最佳子結構、重複子問題, Memoization, Tabulation",
+ "questions": [
+  {
+   "id": "bf64e1ed7c",
+   "year": 103,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/bf64e1ed7c.webp"
+  },
+  {
+   "id": "8d2de13120",
+   "year": 104,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/8d2de13120.webp"
+  },
+  {
+   "id": "82d7ccda5d",
+   "year": 105,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/82d7ccda5d.webp"
+  },
+  {
+   "id": "m_f28e3825a7c63d0d",
+   "year": 107,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "QV",
+   "url": "https://img.ptsfu.org/m_f28e3825a7c63d0d.webp"
+  },
+  {
+   "id": "m_7b6a351dcf0aced6",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q31",
+   "url": "https://img.ptsfu.org/m_7b6a351dcf0aced6.webp"
+  },
+  {
+   "id": "m_61e8e04a6e410959",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q46",
+   "url": "https://img.ptsfu.org/m_61e8e04a6e410959.webp"
+  },
+  {
+   "id": "m_af11eb37e2e74bf7",
+   "year": 103,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_af11eb37e2e74bf7.webp"
+  },
+  {
+   "id": "m_58e30f7a1e24b0d1",
+   "year": 101,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_58e30f7a1e24b0d1.webp"
+  },
+  {
+   "id": "m_b860b369203e7074",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q32",
+   "url": "https://img.ptsfu.org/m_b860b369203e7074.webp"
+  },
+  {
+   "id": "m_b53c29b58f619668",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q39",
+   "url": "https://img.ptsfu.org/m_b53c29b58f619668.webp"
+  },
+  {
+   "id": "m_102f64563d323a30",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q40",
+   "url": "https://img.ptsfu.org/m_102f64563d323a30.webp"
+  }
+ ]
+}

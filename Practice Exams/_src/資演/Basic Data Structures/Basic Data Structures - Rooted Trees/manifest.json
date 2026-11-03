@@ -1,0 +1,25 @@
+{
+ "unit_key": "10-3 Rooted Trees",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "Basic Data Structures",
+ "topic": "Rooted Trees",
+ "questions": [
+  {
+   "id": "m_f872eb1a5848542b",
+   "year": 105,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_f872eb1a5848542b.webp"
+  },
+  {
+   "id": "m_2712347f166b50b0",
+   "year": 104,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_2712347f166b50b0.webp"
+  }
+ ]
+}

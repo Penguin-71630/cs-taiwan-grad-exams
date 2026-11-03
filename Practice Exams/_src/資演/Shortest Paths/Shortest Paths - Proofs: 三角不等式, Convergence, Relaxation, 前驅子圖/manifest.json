@@ -1,0 +1,57 @@
+{
+ "unit_key": "22-5 Proofs: 三角不等式, Convergence, Relaxation, 前驅子圖",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "Shortest Paths",
+ "topic": "Proofs: 三角不等式, Convergence, Relaxation, 前驅子圖",
+ "questions": [
+  {
+   "id": "m_f9eb035e440c0443",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q26",
+   "url": "https://img.ptsfu.org/m_f9eb035e440c0443.webp"
+  },
+  {
+   "id": "m_e1f5c9012a4df674",
+   "year": 103,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_e1f5c9012a4df674.webp"
+  },
+  {
+   "id": "m_a8f25201ef1c934e",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q47",
+   "url": "https://img.ptsfu.org/m_a8f25201ef1c934e.webp"
+  },
+  {
+   "id": "m_d9a503bda34b8755",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q48",
+   "url": "https://img.ptsfu.org/m_d9a503bda34b8755.webp"
+  },
+  {
+   "id": "m_d9fcf24f33a2806b",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q40",
+   "url": "https://img.ptsfu.org/m_d9fcf24f33a2806b.webp"
+  },
+  {
+   "id": "m_9fcef00574955948",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q55",
+   "url": "https://img.ptsfu.org/m_9fcef00574955948.webp"
+  }
+ ]
+}

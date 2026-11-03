@@ -1,0 +1,33 @@
+{
+ "unit_key": "8-2 Counting Sort",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "Linear Sorting",
+ "topic": "Counting Sort",
+ "questions": [
+  {
+   "id": "402bb36201",
+   "year": 101,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/402bb36201.webp"
+  },
+  {
+   "id": "48c581bd45",
+   "year": 104,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/48c581bd45.webp"
+  },
+  {
+   "id": "m_baa80e5d34d739c5",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q35",
+   "url": "https://img.ptsfu.org/m_baa80e5d34d739c5.webp"
+  }
+ ]
+}

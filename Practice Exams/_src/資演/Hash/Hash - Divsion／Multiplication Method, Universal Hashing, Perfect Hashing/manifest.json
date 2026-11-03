@@ -1,0 +1,25 @@
+{
+ "unit_key": "11-3 Divsion/Multiplication Method, Universal Hashing, Perfect Hashing",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "Hash",
+ "topic": "Divsion／Multiplication Method, Universal Hashing, Perfect Hashing",
+ "questions": [
+  {
+   "id": "3703ca2ea0",
+   "year": 105,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/3703ca2ea0.webp"
+  },
+  {
+   "id": "m_7ce447237cfbbe92",
+   "year": 107,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_7ce447237cfbbe92.webp"
+  }
+ ]
+}

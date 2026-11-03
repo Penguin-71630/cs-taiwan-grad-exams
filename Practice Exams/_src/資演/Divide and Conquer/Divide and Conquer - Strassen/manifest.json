@@ -1,0 +1,25 @@
+{
+ "unit_key": "4-2 Strassen",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "Divide and Conquer",
+ "topic": "Strassen",
+ "questions": [
+  {
+   "id": "9aa36235b5",
+   "year": 105,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/9aa36235b5.webp"
+  },
+  {
+   "id": "m_af11eb37e2e74bf7",
+   "year": 103,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_af11eb37e2e74bf7.webp"
+  }
+ ]
+}

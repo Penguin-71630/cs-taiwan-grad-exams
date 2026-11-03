@@ -1,0 +1,73 @@
+{
+ "unit_key": "7-2 Performance of Quicksort",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "Quicksort",
+ "topic": "Performance of Quicksort",
+ "questions": [
+  {
+   "id": "ea409196a0",
+   "year": 100,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/ea409196a0.webp"
+  },
+  {
+   "id": "4ffbd5447a",
+   "year": 100,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/4ffbd5447a.webp"
+  },
+  {
+   "id": "m_64905fb23c613cd6",
+   "year": 102,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_64905fb23c613cd6.webp"
+  },
+  {
+   "id": "m_34e90b1e81a93d14",
+   "year": 104,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_34e90b1e81a93d14.webp"
+  },
+  {
+   "id": "m_2761e516cc36dd1a",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q23",
+   "url": "https://img.ptsfu.org/m_2761e516cc36dd1a.webp"
+  },
+  {
+   "id": "m_dbc97f4ee2b63066",
+   "year": 107,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_dbc97f4ee2b63066.webp"
+  },
+  {
+   "id": "m_9cf1bb5cbbebe824",
+   "year": 107,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_9cf1bb5cbbebe824.webp"
+  },
+  {
+   "id": "m_96dd6f280753a457",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q22",
+   "url": "https://img.ptsfu.org/m_96dd6f280753a457.webp"
+  }
+ ]
+}
