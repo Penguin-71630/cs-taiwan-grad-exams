@@ -1,0 +1,98 @@
+{
+ "group": "數學",
+ "chapter": "System of Linear Equations",
+ "topic": "其他主題",
+ "subject": "線性代數",
+ "unit_key": "2-1 Gauss Elimination, Gauss-Jordan Elimination",
+ "sections": [
+  {
+   "topic": "Gauss Elimination, Gauss-Jordan Elimination",
+   "unit_key": "2-1 Gauss Elimination, Gauss-Jordan Elimination",
+   "ids": [
+    "59ba1c8255",
+    "m_abf1a5f315a68119"
+   ]
+  },
+  {
+   "topic": "Determinant: Cofactor, Laplace 降階",
+   "unit_key": "2-3 Determinant: Cofactor, Laplace 降階",
+   "ids": [
+    "m_87a3c15f7798526a",
+    "m_f1c1a3ddb02c1ae6",
+    "m_b1d564fd25732d4d"
+   ]
+  },
+  {
+   "topic": "Adjoint Matrix",
+   "unit_key": "2-4 Adjoint Matrix",
+   "ids": [
+    "05b76f98ca"
+   ]
+  },
+  {
+   "topic": "Cramer's Rule",
+   "unit_key": "2-4 Cramer's Rule",
+   "ids": [
+    "m_daa45c987183cdd5"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "59ba1c8255",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/59ba1c8255.webp"
+  },
+  {
+   "id": "m_abf1a5f315a68119",
+   "year": 100,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_abf1a5f315a68119.webp"
+  },
+  {
+   "id": "m_87a3c15f7798526a",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_87a3c15f7798526a.webp"
+  },
+  {
+   "id": "m_f1c1a3ddb02c1ae6",
+   "year": 101,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_f1c1a3ddb02c1ae6.webp"
+  },
+  {
+   "id": "m_b1d564fd25732d4d",
+   "year": 107,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_b1d564fd25732d4d.webp"
+  },
+  {
+   "id": "05b76f98ca",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/05b76f98ca.webp"
+  },
+  {
+   "id": "m_daa45c987183cdd5",
+   "year": 101,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_daa45c987183cdd5.webp"
+  }
+ ]
+}
