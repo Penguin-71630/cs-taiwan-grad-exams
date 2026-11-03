@@ -1,0 +1,1 @@
+10 Let a sequence $B_k$ with $B_o = 0, B_1 = \frac{1}{2}$ and $B_{k+2} = \frac{B_{k+1}+B_k}{2}$, $k = 0, 1, 2 \cdots$. Please find the general expression for $B_k$=\_\_\_\_\_\_\_\_ (7%) and $\lim\limits_{k\to\infty} B_k$=\_\_\_\_\_\_\_\_ (3%).
