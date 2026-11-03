@@ -1,0 +1,95 @@
+{
+ "group": "數學",
+ "chapter": "M.I.",
+ "topic": "全章",
+ "subject": "離散數學",
+ "unit_key": "4-1 Principle of Mathematical Induction",
+ "sections": [
+  {
+   "topic": "Principle of Mathematical Induction",
+   "unit_key": "4-1 Principle of Mathematical Induction",
+   "ids": [
+    "m_90d83efa82eaa9f6",
+    "m_84d1d424cfb5d792",
+    "m_369074b9a4b30da8",
+    "39464e78d3",
+    "2d607c729a",
+    "4321369eb8",
+    "10732488a4"
+   ]
+  },
+  {
+   "topic": "Prove by Contrapositive",
+   "unit_key": "4-1 Prove by Contrapositive",
+   "ids": [
+    "6f3348e357"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_90d83efa82eaa9f6",
+   "year": 104,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_90d83efa82eaa9f6.webp"
+  },
+  {
+   "id": "m_84d1d424cfb5d792",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q9(a)",
+   "url": "https://img.ptsfu.org/m_84d1d424cfb5d792.webp"
+  },
+  {
+   "id": "m_369074b9a4b30da8",
+   "year": 107,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_369074b9a4b30da8.webp"
+  },
+  {
+   "id": "39464e78d3",
+   "year": 104,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/39464e78d3.webp"
+  },
+  {
+   "id": "2d607c729a",
+   "year": 104,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/2d607c729a.webp"
+  },
+  {
+   "id": "4321369eb8",
+   "year": 102,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/4321369eb8.webp"
+  },
+  {
+   "id": "10732488a4",
+   "year": 103,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/10732488a4.webp"
+  },
+  {
+   "id": "6f3348e357",
+   "year": 100,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/6f3348e357.webp"
+  }
+ ]
+}
