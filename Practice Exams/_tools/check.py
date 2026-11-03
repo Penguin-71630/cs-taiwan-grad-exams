@@ -65,8 +65,9 @@ def main():
         rows.append((man["group"], man["chapter"], src.name, n, npages, status))
 
     lines = ["# Practice Exams 題本報告", "",
-             "範圍：台大、交大、清大，民國 100–107 年。題目來源為考古題題庫 MCP（`build_practice_set` + `include_manifest`），"
-             "原圖由 `image_url` 下載；轉錄稿逐張看原圖手打，不使用題庫摘要文字。", "",
+             "範圍：計系、資演、數學收錄台大、交大、清大民國 100–107 年題目；英文收錄 111 年台大《英文（A）》。"
+             "計系、資演、數學題目來源為考古題題庫 MCP（`build_practice_set` + `include_manifest`），英文原圖來自 Examshore；"
+             "轉錄稿逐張看原圖手打，不使用題庫摘要文字。", "",
              f"共 {len(rows)} 份 PDF、{sum(r[3] for r in rows)} 題（同一題可能屬於多個單元而重複出現）。", "",
              "## 各主題題數", "", "| 類別 | 大類 | 主題 | 題數 | 頁數 | 檢查 |", "|---|---|---|---:|---:|---|"]
     for g, c, t, n, p, s in rows:

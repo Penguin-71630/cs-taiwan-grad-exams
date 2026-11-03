@@ -27,17 +27,17 @@ except OSError:
     FONT = ImageFont.load_default()
 
 
-def fetch(qid):
+def fetch(qid, url=None):
     orig = CACHE / "orig" / f"{qid}.webp"
     if not orig.exists():
         orig.parent.mkdir(parents=True, exist_ok=True)
-        req = urllib.request.Request(f"https://img.ptsfu.org/{qid}.webp", headers={"User-Agent": UA})
+        req = urllib.request.Request(url or f"https://img.ptsfu.org/{qid}.webp", headers={"User-Agent": UA})
         orig.write_bytes(urllib.request.urlopen(req, timeout=60).read())
     return orig
 
 
-def prepared(qid):
-    im = Image.open(fetch(qid)).convert("RGB")
+def prepared(qid, url=None):
+    im = Image.open(fetch(qid, url)).convert("RGB")
     ang = estimate(im)
     if abs(ang) >= THRESHOLD:
         im = im.rotate(ang, resample=Image.BICUBIC, expand=True, fillcolor=(255, 255, 255))

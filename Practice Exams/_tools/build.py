@@ -160,6 +160,8 @@ def build(src, out_pdf):
     skew_path.write_text(json.dumps(skew, ensure_ascii=False, indent=1) + "\n")
 
     schools = "・".join(sorted({q["school"] for q in qs}, key=lambda s: SCHOOL_ORDER.get(s, 9)))
+    years = sorted({q["year"] for q in qs})
+    year_label = f"民國 {'、'.join(map(str, years))} 年" if group == "英文" else "民國 100–107 年"
     doc = f"""
 #let FONT = {FONTS[group]}
 #set document(title: {tstr(title)})
@@ -209,7 +211,7 @@ def build(src, out_pdf):
 #align(center)[
   #text(size: 18pt, weight: "bold", {tstr(title)}) \\
   #v(0.2em)
-  #text(size: 10pt, fill: luma(80))[{group}｜{man['subject']}｜{schools}｜民國 100–107 年｜共 {len(qs)} 題] \\
+  #text(size: 10pt, fill: luma(80))[{group}｜{man['subject']}｜{schools}｜{year_label}｜共 {len(qs)} 題] \\
   #text(size: 8.5pt, fill: luma(120), {tstr(man['unit_key'])})
 ]
 #v(0.8em)

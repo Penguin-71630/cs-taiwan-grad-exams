@@ -1,7 +1,7 @@
 """Build every topic whose questions are all transcribed and whose PDF is missing or stale,
 verify it against its manifest, and commit each topic separately; then push once.
 
-Usage: python publish.py [--no-push]
+Usage: python publish.py [--no-push] [--all]
 """
 import json, os, subprocess, sys
 from pathlib import Path
@@ -37,6 +37,7 @@ def stale(pdf, inputs):
 
 def main():
     built, failed = [], []
+    force_all = "--all" in sys.argv
     for man_path in sorted(p for p in (ROOT / "_src").glob("*/*/*/manifest.json") if not p.parts[-4].startswith("_")):
         src = man_path.parent
         man = json.loads(man_path.read_text())
@@ -45,7 +46,7 @@ def main():
             continue
         rel = src.relative_to(ROOT / "_src")
         pdf = ROOT / rel.parent / f"{src.name}.pdf"
-        if pdf.exists() and not stale(pdf, [man_path, ROOT / "_tools" / "build.py", *mds]):
+        if pdf.exists() and not force_all and not stale(pdf, [man_path, *mds]):
             continue
         try:
             n = build(src, pdf)

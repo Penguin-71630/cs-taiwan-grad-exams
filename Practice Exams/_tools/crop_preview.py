@@ -1,6 +1,6 @@
 """Write the figure crops a transcription asks for, so they can be checked by eye.
 
-Usage: python3 crop_preview.py OUT_DIR ID [ID ...]
+Usage: python3 crop_preview.py OUT_DIR [--url PAGE_IMAGE_URL] ID [ID ...]
 Reads _src/_q/<id>.md, applies each `<!-- fig x0 y0 x1 y1 -->` to the prepared image (same deskew
 rule as build.py) and writes OUT_DIR/<id>-fig<k>.png.
 """
@@ -14,11 +14,15 @@ QDIR = Path(__file__).resolve().parent.parent / "_src" / "_q"
 FIG_RE = re.compile(r"^<!--\s*fig\s+([\d.]+)\s+([\d.]+)\s+([\d.]+)\s+([\d.]+)\s*-->[ \t]*$", re.M)
 
 out = Path(sys.argv[1]); out.mkdir(parents=True, exist_ok=True)
-for qid in sys.argv[2:]:
+args = sys.argv[2:]
+url = None
+if args and args[0] == "--url":
+    url, args = args[1], args[2:]
+for qid in args:
     boxes = [tuple(map(float, m.groups())) for m in FIG_RE.finditer((QDIR / f"{qid}.md").read_text())]
     if not boxes:
         print(f"{qid}: no figures"); continue
-    im, _ = prepared(qid)
+    im, _ = prepared(qid, url)
     for k, (x0, y0, x1, y1) in enumerate(boxes):
         c = im.crop((round(x0 * im.width), round(y0 * im.height), round(x1 * im.width), round(y1 * im.height)))
         c.save(out / f"{qid}-fig{k}.png")

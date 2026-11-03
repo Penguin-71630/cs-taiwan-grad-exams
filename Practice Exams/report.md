@@ -1,8 +1,8 @@
 # Practice Exams 題本報告
 
-範圍：台大、交大、清大，民國 100–107 年。題目來源為考古題題庫 MCP（`build_practice_set` + `include_manifest`），原圖由 `image_url` 下載；轉錄稿逐張看原圖手打，不使用題庫摘要文字。
+範圍：計系、資演、數學收錄台大、交大、清大民國 100–107 年題目；英文收錄 111 年台大《英文（A）》。計系、資演、數學題目來源為考古題題庫 MCP（`build_practice_set` + `include_manifest`），英文原圖來自 Examshore；轉錄稿逐張看原圖手打，不使用題庫摘要文字。
 
-共 500 份 PDF、2486 題（同一題可能屬於多個單元而重複出現）。
+共 501 份 PDF、2536 題（同一題可能屬於多個單元而重複出現）。
 
 ## 各主題題數
 
@@ -172,6 +172,7 @@
 | 數學 | Vector Space | Vector Space - Subspace | 5 | 2 | OK |
 | 數學 | Vector Space | Vector Space - Subspace Operations: Union, Intersection, Sum Space | 2 | 1 | OK |
 | 數學 | 工程數學 | 工程數學 - Real Numbers, Sequences and Series | 1 | 1 | OK |
+| 英文 | 英文（A） | 英文（A） - 111 台大 | 50 | 17 | OK |
 | 計系 | Arithmetic | Arithmetic - Booth's Algorithm | 3 | 2 | OK |
 | 計系 | Arithmetic | Arithmetic - Carry-Lookahead Adder | 3 | 2 | OK |
 | 計系 | Arithmetic | Arithmetic - FP Does Not Have Associativity | 1 | 3 | OK |
