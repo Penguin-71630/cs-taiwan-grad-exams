@@ -1,0 +1,174 @@
+{
+ "group": "資演",
+ "chapter": "Linear Sorting",
+ "topic": "全章",
+ "subject": "演算法",
+ "unit_key": "8-1 Lower Bounds for Sorting",
+ "sections": [
+  {
+   "topic": "Lower Bounds for Sorting",
+   "unit_key": "8-1 Lower Bounds for Sorting",
+   "ids": [
+    "ea409196a0",
+    "402bb36201",
+    "69c4fd2cfd",
+    "m_fa1c974c531b1400",
+    "m_08207efacb992ec0",
+    "m_9b8d57ae81e375f0",
+    "m_b860b369203e7074"
+   ]
+  },
+  {
+   "topic": "Counting Sort",
+   "unit_key": "8-2 Counting Sort",
+   "ids": [
+    "402bb36201",
+    "48c581bd45",
+    "m_baa80e5d34d739c5"
+   ]
+  },
+  {
+   "topic": "Radix Sort",
+   "unit_key": "8-3 Radix Sort",
+   "ids": [
+    "a44b76ba07",
+    "402bb36201",
+    "48c581bd45",
+    "m_68ef4d42d9a1c10d",
+    "m_0dce6dc1e6a8509f",
+    "m_d7f425062a52954d"
+   ]
+  },
+  {
+   "topic": "Bucket Sort",
+   "unit_key": "8-4 Bucket Sort",
+   "ids": [
+    "402bb36201",
+    "5d21c3c18d",
+    "m_13973593a7e222b5"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "ea409196a0",
+   "year": 100,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/ea409196a0.webp"
+  },
+  {
+   "id": "402bb36201",
+   "year": 101,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/402bb36201.webp"
+  },
+  {
+   "id": "69c4fd2cfd",
+   "year": 104,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/69c4fd2cfd.webp"
+  },
+  {
+   "id": "m_fa1c974c531b1400",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q40",
+   "url": "https://img.ptsfu.org/m_fa1c974c531b1400.webp"
+  },
+  {
+   "id": "m_08207efacb992ec0",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q33",
+   "url": "https://img.ptsfu.org/m_08207efacb992ec0.webp"
+  },
+  {
+   "id": "m_9b8d57ae81e375f0",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q24",
+   "url": "https://img.ptsfu.org/m_9b8d57ae81e375f0.webp"
+  },
+  {
+   "id": "m_b860b369203e7074",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q32",
+   "url": "https://img.ptsfu.org/m_b860b369203e7074.webp"
+  },
+  {
+   "id": "48c581bd45",
+   "year": 104,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/48c581bd45.webp"
+  },
+  {
+   "id": "m_baa80e5d34d739c5",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q35",
+   "url": "https://img.ptsfu.org/m_baa80e5d34d739c5.webp"
+  },
+  {
+   "id": "a44b76ba07",
+   "year": 100,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/a44b76ba07.webp"
+  },
+  {
+   "id": "m_68ef4d42d9a1c10d",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q28",
+   "url": "https://img.ptsfu.org/m_68ef4d42d9a1c10d.webp"
+  },
+  {
+   "id": "m_0dce6dc1e6a8509f",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q29",
+   "url": "https://img.ptsfu.org/m_0dce6dc1e6a8509f.webp"
+  },
+  {
+   "id": "m_d7f425062a52954d",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q30",
+   "url": "https://img.ptsfu.org/m_d7f425062a52954d.webp"
+  },
+  {
+   "id": "5d21c3c18d",
+   "year": 106,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/5d21c3c18d.webp"
+  },
+  {
+   "id": "m_13973593a7e222b5",
+   "year": 107,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_13973593a7e222b5.webp"
+  }
+ ]
+}
