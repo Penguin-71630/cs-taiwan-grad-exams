@@ -1,0 +1,107 @@
+{
+ "group": "資演",
+ "chapter": "Search",
+ "topic": "全章",
+ "subject": "資料結構",
+ "unit_key": "7-1 Search: Linear, Binary, Fibonacci, Interpolation",
+ "sections": [
+  {
+   "topic": "Search: Linear, Binary, Fibonacci, Interpolation",
+   "unit_key": "7-1 Search: Linear, Binary, Fibonacci, Interpolation",
+   "ids": [
+    "m_2a4721c1cf7cca66",
+    "m_b5bb744b642fb244",
+    "m_7504203ed99207a1",
+    "m_204c1c63b36bb635",
+    "m_164ff720e386b626",
+    "m_92e3ccb65130614f",
+    "m_fb9a7506f7daf2d4",
+    "24d3e7d43b",
+    "m_c39dfc55787b5552",
+    "m_3e813a7cdd6fc373"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_2a4721c1cf7cca66",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q38",
+   "url": "https://img.ptsfu.org/m_2a4721c1cf7cca66.webp"
+  },
+  {
+   "id": "m_b5bb744b642fb244",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_b5bb744b642fb244.webp"
+  },
+  {
+   "id": "m_7504203ed99207a1",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_7504203ed99207a1.webp"
+  },
+  {
+   "id": "m_204c1c63b36bb635",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q39",
+   "url": "https://img.ptsfu.org/m_204c1c63b36bb635.webp"
+  },
+  {
+   "id": "m_164ff720e386b626",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q37",
+   "url": "https://img.ptsfu.org/m_164ff720e386b626.webp"
+  },
+  {
+   "id": "m_92e3ccb65130614f",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_92e3ccb65130614f.webp"
+  },
+  {
+   "id": "m_fb9a7506f7daf2d4",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_fb9a7506f7daf2d4.webp"
+  },
+  {
+   "id": "24d3e7d43b",
+   "year": 100,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/24d3e7d43b.webp"
+  },
+  {
+   "id": "m_c39dfc55787b5552",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q42",
+   "url": "https://img.ptsfu.org/m_c39dfc55787b5552.webp"
+  },
+  {
+   "id": "m_3e813a7cdd6fc373",
+   "year": 107,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_3e813a7cdd6fc373.webp"
+  }
+ ]
+}
