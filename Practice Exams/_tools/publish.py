@@ -15,8 +15,7 @@ ROOT = Path(__file__).resolve().parent.parent
 REPO = ROOT.parent
 QDIR = ROOT / "_src" / "_q"
 BRANCH = "claude/cloud-credit-test-dhu8yn"
-TRAILER = ("\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\n"
-           "Claude-Session: https://claude.ai/code/session_01SnDy9jwVswXgqQ8rPG5D2k")
+TRAILER = "\n\nDevin-Session: https://app.devin.ai/sessions/ecc476446030451eabc2bd74bb015d56"
 
 
 def git(*a, check=True):
