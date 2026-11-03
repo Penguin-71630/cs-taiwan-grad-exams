@@ -1,0 +1,81 @@
+{
+ "unit_key": "14-2 區間 DP: Matrix-chain Multiplication",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "DP",
+ "topic": "區間 DP: Matrix-chain Multiplication",
+ "questions": [
+  {
+   "id": "4b0b88b734",
+   "year": 102,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/4b0b88b734.webp"
+  },
+  {
+   "id": "82d7ccda5d",
+   "year": 105,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/82d7ccda5d.webp"
+  },
+  {
+   "id": "m_f28e3825a7c63d0d",
+   "year": 107,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "QV",
+   "url": "https://img.ptsfu.org/m_f28e3825a7c63d0d.webp"
+  },
+  {
+   "id": "m_38d2213f19eb68a0",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q36",
+   "url": "https://img.ptsfu.org/m_38d2213f19eb68a0.webp"
+  },
+  {
+   "id": "m_f5c2a7b97525a093",
+   "year": 102,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q16",
+   "url": "https://img.ptsfu.org/m_f5c2a7b97525a093.webp"
+  },
+  {
+   "id": "m_10c5fed6b1327e2d",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q37",
+   "url": "https://img.ptsfu.org/m_10c5fed6b1327e2d.webp"
+  },
+  {
+   "id": "m_102f64563d323a30",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q40",
+   "url": "https://img.ptsfu.org/m_102f64563d323a30.webp"
+  },
+  {
+   "id": "m_f6d6ca1c70780cff",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q41",
+   "url": "https://img.ptsfu.org/m_f6d6ca1c70780cff.webp"
+  },
+  {
+   "id": "m_f5d02ee0fc995045",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q42",
+   "url": "https://img.ptsfu.org/m_f5d02ee0fc995045.webp"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "unit_key": "15-2 File System Mounting (Mount Point, Mount Table)",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "File System",
+ "topic": "File System Mounting (Mount Point, Mount Table)",
+ "questions": [
+  {
+   "id": "m_8655ea412ada3530",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_8655ea412ada3530.webp"
+  },
+  {
+   "id": "f62d3de58c",
+   "year": 101,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/f62d3de58c.webp"
+  },
+  {
+   "id": "m_9c6f81df37e58ff9",
+   "year": 103,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_9c6f81df37e58ff9.webp"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "unit_key": "SIMT, Warp, Warp Scheduler, Warp Divergence",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "GPU",
+ "topic": "SIMT, Warp, Warp Scheduler, Warp Divergence",
+ "questions": [
+  {
+   "id": "cd21a936c0",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/cd21a936c0.webp"
+  }
+ ]
+}

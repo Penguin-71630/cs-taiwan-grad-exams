@@ -1,0 +1,73 @@
+{
+ "unit_key": "5-4 Combination with Repitition (H symbol)",
+ "subject": "離散數學",
+ "group": "數學",
+ "chapter": "Combinatorics",
+ "topic": "Combination with Repitition (H symbol)",
+ "questions": [
+  {
+   "id": "1e6641e12a",
+   "year": 103,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/1e6641e12a.webp"
+  },
+  {
+   "id": "da87782e0b",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/da87782e0b.webp"
+  },
+  {
+   "id": "7fcbc5f557",
+   "year": 107,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/7fcbc5f557.webp"
+  },
+  {
+   "id": "m_6c115ce56d4a0ac9",
+   "year": 104,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_6c115ce56d4a0ac9.webp"
+  },
+  {
+   "id": "m_f8b0696d62480bdf",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q11(e)",
+   "url": "https://img.ptsfu.org/m_f8b0696d62480bdf.webp"
+  },
+  {
+   "id": "ddfc407a01",
+   "year": 100,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/ddfc407a01.webp"
+  },
+  {
+   "id": "7063abd7ea",
+   "year": 100,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/7063abd7ea.webp"
+  },
+  {
+   "id": "24c11b3074",
+   "year": 107,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/24c11b3074.webp"
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "unit_key": "15-2 最佳子結構、Greedy-choice Property, Exchange Argument",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "Greedy",
+ "topic": "最佳子結構、Greedy-choice Property, Exchange Argument",
+ "questions": [
+  {
+   "id": "01a47e2dc9",
+   "year": 101,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/01a47e2dc9.webp"
+  },
+  {
+   "id": "cc36194f12",
+   "year": 103,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/cc36194f12.webp"
+  },
+  {
+   "id": "m_937bad7cc5336ecd",
+   "year": 102,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_937bad7cc5336ecd.webp"
+  },
+  {
+   "id": "m_f28e3825a7c63d0d",
+   "year": 107,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "QV",
+   "url": "https://img.ptsfu.org/m_f28e3825a7c63d0d.webp"
+  },
+  {
+   "id": "m_04fbb0ca028a7ae3",
+   "year": 102,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q18",
+   "url": "https://img.ptsfu.org/m_04fbb0ca028a7ae3.webp"
+  },
+  {
+   "id": "m_61e8e04a6e410959",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q46",
+   "url": "https://img.ptsfu.org/m_61e8e04a6e410959.webp"
+  },
+  {
+   "id": "m_af11eb37e2e74bf7",
+   "year": 103,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_af11eb37e2e74bf7.webp"
+  },
+  {
+   "id": "m_31ffa2c67d0429fd",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q43",
+   "url": "https://img.ptsfu.org/m_31ffa2c67d0429fd.webp"
+  },
+  {
+   "id": "m_b860b369203e7074",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q32",
+   "url": "https://img.ptsfu.org/m_b860b369203e7074.webp"
+  },
+  {
+   "id": "m_b53c29b58f619668",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q39",
+   "url": "https://img.ptsfu.org/m_b53c29b58f619668.webp"
+  },
+  {
+   "id": "m_cdf6156c972dec90",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q43",
+   "url": "https://img.ptsfu.org/m_cdf6156c972dec90.webp"
+  },
+  {
+   "id": "m_3abd2a8639726c8d",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q44",
+   "url": "https://img.ptsfu.org/m_3abd2a8639726c8d.webp"
+  },
+  {
+   "id": "m_3b50348b2d2a6866",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q45",
+   "url": "https://img.ptsfu.org/m_3b50348b2d2a6866.webp"
+  },
+  {
+   "id": "m_86148f42884eee15",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q51",
+   "url": "https://img.ptsfu.org/m_86148f42884eee15.webp"
+  }
+ ]
+}

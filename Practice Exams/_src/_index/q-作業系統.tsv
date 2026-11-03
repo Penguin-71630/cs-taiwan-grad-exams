@@ -1,0 +1,229 @@
+m_b792a44d8620fed4|101|交大|作業系統|Q6|13-1 File;13-3 Directory;14-5 Free Space: Bitmap, Linked List, Grouping, Counting, Space Maps;12-3 Block/Character Devices, (Non)Blocking, Async I/O, Vectored I/O
+m_8655ea412ada3530|104|交大|計算機系統|Q12|14-4 Allocation Methods: Contiguous, Linked, Indexed;15-2 File System Mounting (Mount Point, Mount Table);15-8 NFS
+144e766d3e|101|台大|計算機系統|Q2|13-3 Directory;14-4 Allocation Methods: Contiguous, Linked, Indexed
+27dbdbd0cd|101|清大|計算機系統|Q2|5-2 Utilization, Throughput, Turnaround, Waiting, Response;5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ
+m_8e934c6f5aae5a63|104|交大|計算機系統|Q3|9-2 Partition, Dynamic Storage-Allocation, Fragmentation;10-6 Thrashing (Solutions: Locality, Working-set, PFF);10-4 Page Replacement (FCFS, Optimal, LRU, LRU-Approx, LFU, MFU)
+m_3e3e351d3728fcc9|105|台大|計算機結構與作業系統|Q6|12-4 I/O Scheduling, Buffering, Caching, Spooling, Device Reservation;12-3 Block/Character Devices, (Non)Blocking, Async I/O, Vectored I/O;13-2 File Access Methods
+m_2c638accd883540b|106|台大|計算機系統|Q9|10-1 Ideas of Virtual Memory;9-1 Address Binding, Logical/Physical Address;9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page;3-1 Process Mem Layout, States, PCB, Threads
+cf1a1924bc|101|清大|計算機系統|Q7|11-8 RAID 0, RAID 1, RAID 4, RAID 5, RAID 6, RAID 10;RAID 0/1/5/6
+m_530cefb855b3fe4e|104|交大|計算機系統|Q21-Q23|5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ;5-2 Utilization, Throughput, Turnaround, Waiting, Response
+m_2938e1e8eb96c539|104|台大|計算機系統|Q9|10-6 Thrashing (Solutions: Locality, Working-set, PFF);10-5 Allocation of Frames;18-6 Coordination between Guest OS and Host OS
+m_c51e494c6fdf8434|104|交大|計算機系統|Q10|TLB, Effective Access Time;Page Table, Page Fault, Dirty Bit, Reference Bit;9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page
+6638321631|100|清大|計算機系統|Q3|5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ;8-6 Safe State, RAG Algorithm, Banker's Algorithm;4-3 User-level/Kernel-level Thread, M-1, 1-1, M-M;5-1 CPU burst, I/O burst, Dispatcher, Dispatch Latency;8-2 Deadlock
+m_435ff648b55718e3|105|交大|計算機系統|Q4|1-4 User Mode / Kernel Mode;12-2 Port, Bus, Controller, Polling vs. Interrupt, DMA;I/O Communication: Polling, Interrupt, DMA;9-1 Address Binding, Logical/Physical Address;3-4 IPC;8-4 Handling Deadlocks
+b8bf6cb0cc|104|清大|計算機系統|Q5|10-4 Page Replacement (FCFS, Optimal, LRU, LRU-Approx, LFU, MFU)
+m_5e04bef23b28650e|100|交大|作業系統|Q8|14-4 Allocation Methods: Contiguous, Linked, Indexed
+m_f8f33a1cc7091a45|105|交大|計算機系統|Q28-Q29|13-4 File Protection;17-5 Access Matrix
+m_40a150886fd0756d|101|台大|計算機系統|II-Q4|Power Wall (P = CV^2 f);Uniprocessor => Multiprocessor;5-5 SMP, Processor Affinity, Load balancing
+m_6feeea1eef5998e4|105|交大|計算機系統|Q15|RAID 0/1/5/6;11-8 RAID 0, RAID 1, RAID 4, RAID 5, RAID 6, RAID 10;Dependability, Reliability, Availability (MTTF, MTBF, MTTR)
+m_f71f3f4512aa7697|105|交大|計算機系統|Q10|17-11 Sandbox;17-2 Principle of Least Privilege;17-4 Domain of Protection
+m_b4d084d15a1aa44a|107|交大|計算機系統|Q28-Q30|6-6 Semaphores;7-1 Producer-Consumer, Readers-Writers, Dining Philosophers
+m_4a96ad33ed1d6775|101|交大|作業系統|Q4|9-2 Partition, Dynamic Storage-Allocation, Fragmentation;9-4 Page Tables: Hierarchical, Hashed, Inverted;10-4 Page Replacement (FCFS, Optimal, LRU, LRU-Approx, LFU, MFU);10-8 Allocating Kernel Memory (Buddy System, Slab Allocation)
+m_4b67cc865df7fa22|105|交大|計算機系統|Q2|1-1 What OS Do;2-3 System Calls;5-1 CPU burst, I/O burst, Dispatcher, Dispatch Latency;4-1 Thread;3-2 Process Scheduling (Intro to Ch5)
+m_14a0d9dfe0d68b2a|104|交大|計算機系統|Q1|3-1 Process Mem Layout, States, PCB, Threads;3-2 Process Scheduling (Intro to Ch5)
+m_f219359f8e16c816|101|交大|作業系統|Q28-Q32|5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ;5-2 Utilization, Throughput, Turnaround, Waiting, Response
+m_6baa0168ad607c37|101|交大|作業系統|Q16|12-4 I/O Scheduling, Buffering, Caching, Spooling, Device Reservation;14-7 Recovery: Consistency Checking, Log-based
+m_6f7fef327f047a75|100|交大|作業系統|Q14|8-6 Safe State, RAG Algorithm, Banker's Algorithm
+da4befe129|104|清大|計算機系統|Q4|9-2 Partition, Dynamic Storage-Allocation, Fragmentation;9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page
+m_a8bbba5769146b92|103|交大|計算機系統|Q4|14-4 Allocation Methods: Contiguous, Linked, Indexed
+1120ca16b2|106|清大|計算機系統|Q7|12-2 Port, Bus, Controller, Polling vs. Interrupt, DMA;I/O Communication: Polling, Interrupt, DMA;12-7 Performance
+m_19e6bf185fe17703|100|清大|計算機系統|Q2|3-3 Process Tree, fork(), wait(), Zombie, Orphan
+4ea5c1a5bd|104|清大|計算機系統|Q2|3-2 Process Scheduling (Intro to Ch5);5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ
+m_11fa8cfdd5a948ab|100|交大|作業系統|Q6|10-9 Prepaging, Page Size Trade-off, TLB Reach;10-2 Demand Paging, Page Fault, Effective Access Time
+m_18bdf55c8e8e72bc|105|台大|計算機結構與作業系統|Q7|4-5 Implicit Threading (Thread Pools, Fork-Join, OpenMP)
+m_23b1774eac5e18eb|100|台大|計算機系統|Q2|8-2 Deadlock;10-6 Thrashing (Solutions: Locality, Working-set, PFF)
+m_8ebe67a91f327637|101|交大|作業系統|Q33-Q35|3-3 Process Tree, fork(), wait(), Zombie, Orphan
+m_a6e1eb3766e8672e|102|交大|計算機系統|Q18|16-4 Encryption, Message Digest, Digital Signature, CA
+m_09fe5f34762f2a66|107|交大|計算機系統|Q11|4-3 User-level/Kernel-level Thread, M-1, 1-1, M-M
+m_3e269d668e0fdd3e|101|交大|作業系統|Q36-Q38|4-4 POSIX Pthreads, Windows Threads, Java Threads;4-1 Thread
+m_4afb45a985bc3906|100|交大|作業系統|Q9|15-8 NFS
+m_9c220e6604903c23|102|交大|計算機系統|Q13|18-5 Native/Hosted Hypervisor, Paravirtualization vs. Containerization;18-4 Trap-and-emulate (Ring -1), Binary Translation, Hardware Assist;2-3 System Calls;3-7 IPC Examples
+9c7b43e338|105|清大|計算機系統|Q10|10-6 Thrashing (Solutions: Locality, Working-set, PFF)
+8e24e9e796|106|清大|計算機系統|Q5|10-4 Page Replacement (FCFS, Optimal, LRU, LRU-Approx, LFU, MFU)
+m_fd96fae3e4c1e62f|106|交大|計算機系統|Q19|17-2 Principle of Least Privilege;16-6 Vulnerability Assessment, Intrusion Detection, Firewall, Antivirus
+2c983cf4ec|107|清大|計算機系統|Q2|5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ;5-2 Utilization, Throughput, Turnaround, Waiting, Response
+m_e72c268f683ab1d2|103|台大|計算機結構與作業系統|Q12|6-1 Race Condition;6-5 Mutex Locks (Spinlock vs. sleep/block);12-2 Port, Bus, Controller, Polling vs. Interrupt, DMA
+e384e8ffd1|100|清大|計算機系統|Q7|14-4 Allocation Methods: Contiguous, Linked, Indexed
+m_f3bd225220a33f4f|104|台大|計算機系統|Q10|12-3 Block/Character Devices, (Non)Blocking, Async I/O, Vectored I/O;2-3 System Calls
+m_ad807e81fb64d670|101|交大|作業系統|Q25-Q27|13-4 File Protection
+m_bfd0a3b87c17af0c|107|交大|計算機系統|Q18|16-4 Encryption, Message Digest, Digital Signature, CA;16-5 Authentication: Password, 2FA, MFA, Biometrics
+m_7feac4bf058322e4|101|交大|作業系統|Q3|6-1 Race Condition;6-2 Critical Section (Mut-EX, Progress, Bounded Waiting)
+m_fe1d7deadae1f3f1|106|交大|計算機系統|Q12|5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ;5-1 CPU burst, I/O burst, Dispatcher, Dispatch Latency
+m_71c8385e0dce547e|105|台大|計算機結構與作業系統|Q9|13-4 File Protection;17-6 Access Matrix Implementation: ACL, Capability List, Lock-key;15-4 File Sharing
+68bd9db4b6|100|清大|計算機系統|Q6|14-6 File System Efficiency and Performance
+m_3b9a01fe90fad18f|104|交大|計算機系統|Q4|9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page;9-4 Page Tables: Hierarchical, Hashed, Inverted;TLB, Effective Access Time
+m_e73138a23af2ee58|102|交大|計算機系統|Q17|16-4 Encryption, Message Digest, Digital Signature, CA
+m_10eceaf951656a4f|101|交大|作業系統|Q7|11-1 HDD, SSD, DRAM;11-2 HDD Scheduling: FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK;14-6 File System Efficiency and Performance
+3ffc488f25|102|清大|計算機系統|Q3|10-4 Page Replacement (FCFS, Optimal, LRU, LRU-Approx, LFU, MFU);10-9 Prepaging, Page Size Trade-off, TLB Reach
+m_8e8dc678b221277d|107|清大|計算機系統|Q3|8-6 Safe State, RAG Algorithm, Banker's Algorithm
+m_041dce3a1967e656|104|交大|計算機系統|Q14|16-6 Vulnerability Assessment, Intrusion Detection, Firewall, Antivirus;16-4 Encryption, Message Digest, Digital Signature, CA
+m_81823c4a57ce6dde|102|台大|計算機系統|Q18|19-5 Issues: Robustness, Location/Migration Transparency, Scalability;19-9 Trade-off
+m_26ae82728e3df8ea|100|交大|作業系統|Q25-Q28|5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ;5-2 Utilization, Throughput, Turnaround, Waiting, Response;5-1 CPU burst, I/O burst, Dispatcher, Dispatch Latency
+m_91226b0f6187a27c|105|清大|計算機系統|Q8|3-1 Process Mem Layout, States, PCB, Threads
+m_32030a2c918a6748|100|交大|作業系統|Q7|15-7 Consistency Semantics when Sharing Files;15-8 NFS;15-4 File Sharing
+m_c6eda44f09b80060|106|台大|計算機系統|Q10|4-6 Threading Issues;2-3 System Calls
+m_096d4dc7956a4a75|103|交大|計算機系統|Q1|5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ;5-2 Utilization, Throughput, Turnaround, Waiting, Response;5-5 SMP, Processor Affinity, Load balancing
+5917302f96|104|清大|計算機系統|Q8|12-7 Performance;12-2 Port, Bus, Controller, Polling vs. Interrupt, DMA;I/O Communication: Polling, Interrupt, DMA;12-4 I/O Scheduling, Buffering, Caching, Spooling, Device Reservation
+m_5f60a9997e20d488|107|台大|計算機系統|Q11|5-7 OS Examples
+m_63ea0e6ff61edfac|104|台大|計算機系統|Q6|I/O Communication: Polling, Interrupt, DMA;12-2 Port, Bus, Controller, Polling vs. Interrupt, DMA
+m_269a7594003eea9e|104|交大|計算機系統|Q24-Q28|9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page;9-1 Address Binding, Logical/Physical Address;10-4 Page Replacement (FCFS, Optimal, LRU, LRU-Approx, LFU, MFU)
+m_84557777d2c1129b|106|台大|計算機系統|Q12|6-4 Atomic Operations (Hardware);6-3 Peterson's Solution;6-5 Mutex Locks (Spinlock vs. sleep/block);7-2 Synchronizations in Kernel;TAS, TTAS, Spinlock, CAS, ABA Problem, Consensus Number
+m_2f3be7f9b7bc3583|101|台大|計算機系統|Q4|11-2 HDD Scheduling: FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK;5-6 Soft/Hard Real-Time CPU Scheduling
+m_b8849c54d4d2b9cd|106|交大|計算機系統|Q17|14-6 File System Efficiency and Performance;14-7 Recovery: Consistency Checking, Log-based
+m_019f85f4dd10f575|102|交大|計算機系統|Q16|10-6 Thrashing (Solutions: Locality, Working-set, PFF);10-4 Page Replacement (FCFS, Optimal, LRU, LRU-Approx, LFU, MFU);10-3 Copy-on-Write when fork()/exec();13-5 Memory-Mapped Files;10-9 Prepaging, Page Size Trade-off, TLB Reach
+m_48f78e397fa45595|105|交大|計算機系統|Q8|11-8 RAID 0, RAID 1, RAID 4, RAID 5, RAID 6, RAID 10;RAID 0/1/5/6
+m_c0902eb97eb52fdb|104|清大|計算機系統|Q7|RAID 0/1/5/6;11-8 RAID 0, RAID 1, RAID 4, RAID 5, RAID 6, RAID 10
+4f360782d1|105|台大|計算機結構與作業系統|Q2|Cache Coherence: Snooping (MESI), Directory-Based (MOESI);Compulsory Miss, Capacity Miss, Conflict Miss, Coherence Miss;2-6 ABI (Application Binary Interface);Compile and Start a Program;18-7 Examples
+m_d7c4cf012de08413|106|台大|計算機系統|Q11|3-4 IPC;3-5 IPC (Shared-Memory Systems, Similar to OpenMP);3-6 IPC (Message-Passing Systems, Similar to MPI);4-1 Thread
+d5931fedef|103|清大|計算機系統|Q4|8-2 Deadlock;8-5 Deadlocks Prevention
+30f907a5a9|103|清大|計算機系統|Q6|10-6 Thrashing (Solutions: Locality, Working-set, PFF)
+e9fe4a8835|107|清大|計算機系統|Q1|5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ;5-2 Utilization, Throughput, Turnaround, Waiting, Response;5-1 CPU burst, I/O burst, Dispatcher, Dispatch Latency
+m_6e80562071de93c7|102|交大|計算機系統|Q6|16-4 Encryption, Message Digest, Digital Signature, CA
+b48221f1e8|107|清大|計算機系統|Q4|Page Table, Page Fault, Dirty Bit, Reference Bit;9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page;9-4 Page Tables: Hierarchical, Hashed, Inverted;TLB, Effective Access Time
+m_7512acee0be5ffdc|104|交大|計算機系統|Q5|16-4 Encryption, Message Digest, Digital Signature, CA
+f03bcb93dc|101|台大|計算機系統|Q3|19-1 Advantages of Distributed Systems;19-5 Issues: Robustness, Location/Migration Transparency, Scalability
+m_103b2e66f3fa79d8|101|交大|作業系統|Q21-Q24|9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page;9-4 Page Tables: Hierarchical, Hashed, Inverted
+m_649e1f53b38d5e8e|106|交大|計算機系統|Q29-Q31|2-3 System Calls;14-2 File System Operations
+ba1715c05b|102|清大|計算機系統|Q6|6-6 Semaphores;8-2 Deadlock;8-3 Coffman Conditions, RAG (Resource-Allocation Graph)
+m_eadfefefa5ccc679|103|交大|計算機系統|Q2|7-1 Producer-Consumer, Readers-Writers, Dining Philosophers;6-6 Semaphores
+m_2757d21e21d18040|101|交大|作業系統|Q19|5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ;5-7 OS Examples
+m_9b22997a569fb065|100|交大|作業系統|Q20|16-4 Encryption, Message Digest, Digital Signature, CA;16-5 Authentication: Password, 2FA, MFA, Biometrics
+m_35d5371a97fa8772|103|台大|計算機結構與作業系統|Q13|19-8 Remote File Access;12-4 I/O Scheduling, Buffering, Caching, Spooling, Device Reservation;19-9 Trade-off
+m_1bb88cec452100d1|103|交大|計算機系統|Q17-Q18|10-1 Ideas of Virtual Memory;10-6 Thrashing (Solutions: Locality, Working-set, PFF)
+m_01f64867c36e73c4|107|台大|計算機系統|Q14|6-6 Semaphores
+m_021e7143032c889c|106|交大|計算機系統|Q13|2-3 System Calls
+m_0427b88bf30ca917|106|交大|計算機系統|Q15|10-6 Thrashing (Solutions: Locality, Working-set, PFF)
+2fbad23328|104|清大|計算機系統|Q12|9-1 Address Binding, Logical/Physical Address;Page Table, Page Fault, Dirty Bit, Reference Bit;9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page
+m_67859e80ac09ab3c|102|交大|計算機系統|Q22|Page Table, Page Fault, Dirty Bit, Reference Bit;TLB, Effective Access Time;Set-Associative, Fully-Associative;9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page
+m_a477b4d1caeacd74|102|交大|計算機系統|Q4|11-5 SSD Preprocess: Low-level Formatting, Boot Block, Bad Block;15-3 Partitions and Mounting;11-7 SATA, NVMe, SCSI, NAS, Storage-area Network;11-2 HDD Scheduling: FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK
+m_59ecc34135ef1078|104|交大|計算機系統|Q34-Q38|TLB, Effective Access Time;Page Table, Page Fault, Dirty Bit, Reference Bit;Set-Associative, Fully-Associative;Cache Replacement Policy;9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page;10-2 Demand Paging, Page Fault, Effective Access Time
+m_2f64b549f823778d|106|交大|計算機系統|Q14|6-4 Atomic Operations (Hardware);6-5 Mutex Locks (Spinlock vs. sleep/block);TAS, TTAS, Spinlock, CAS, ABA Problem, Consensus Number
+m_b131786973e8b881|106|交大|計算機系統|Q9|VM;Page Table, Page Fault, Dirty Bit, Reference Bit;TLB, Effective Access Time;9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page
+m_075f4f8be606d00f|106|交大|計算機系統|Q8|AMAT;14-6 File System Efficiency and Performance
+m_e0132ffad4cc99c0|101|交大|作業系統|Q20|4-1 Thread;3-1 Process Mem Layout, States, PCB, Threads
+m_8f69a760c0292c6f|105|台大|計算機結構與作業系統|Q5|15-7 Consistency Semantics when Sharing Files;15-6 Remote File Systems, Distributed File Systems
+m_f749658b5b161cd4|104|交大|計算機系統|Q11|1-4 User Mode / Kernel Mode;1-2 Interrupts, Storage, I/O Structures;2-3 System Calls;4-3 User-level/Kernel-level Thread, M-1, 1-1, M-M
+m_d80b42f259568b8a|104|台大|計算機系統|Q8|6-6 Semaphores;6-2 Critical Section (Mut-EX, Progress, Bounded Waiting)
+m_67db8e9dd09223bc|100|交大|作業系統|Q33-Q36|17-5 Access Matrix
+m_b4c64cafbbfcb6ea|100|交大|作業系統|Q15|10-4 Page Replacement (FCFS, Optimal, LRU, LRU-Approx, LFU, MFU)
+f0c8052a2f|106|清大|計算機系統|Q4|8-2 Deadlock;8-4 Handling Deadlocks
+m_5b5b12a06eb7cd39|101|交大|作業系統|Q13|10-2 Demand Paging, Page Fault, Effective Access Time;10-4 Page Replacement (FCFS, Optimal, LRU, LRU-Approx, LFU, MFU);10-9 Prepaging, Page Size Trade-off, TLB Reach
+m_8960f022ed231ff5|100|交大|作業系統|Q19|16-2 Trojan, Backdoor, Logic/Time Bomb, Stack/Buffer Overflow, Virus;16-6 Vulnerability Assessment, Intrusion Detection, Firewall, Antivirus
+m_8f9310d047a8c63c|101|交大|作業系統|Q18|16-6 Vulnerability Assessment, Intrusion Detection, Firewall, Antivirus;16-1 Introduction to Security;18-3 Benefits and Features
+f2a30a5a24|107|清大|計算機系統|Q6|14-4 Allocation Methods: Contiguous, Linked, Indexed
+m_24336d41b40457e2|100|交大|作業系統|Q29-Q32|8-6 Safe State, RAG Algorithm, Banker's Algorithm
+m_5b161524e230df15|100|交大|作業系統|Q18|12-3 Block/Character Devices, (Non)Blocking, Async I/O, Vectored I/O;12-4 I/O Scheduling, Buffering, Caching, Spooling, Device Reservation;12-5 Handling I/O Requests
+m_0b5bfcc5a2b0ea08|102|台大|計算機系統|Q15|3-3 Process Tree, fork(), wait(), Zombie, Orphan;10-3 Copy-on-Write when fork()/exec();5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ;5-2 Utilization, Throughput, Turnaround, Waiting, Response;4-1 Thread;5-1 CPU burst, I/O burst, Dispatcher, Dispatch Latency
+m_bd12b2e043fa73df|106|交大|計算機系統|Q26-Q28|7-1 Producer-Consumer, Readers-Writers, Dining Philosophers;6-6 Semaphores
+fba5763d8f|106|清大|計算機系統|Q3|3-1 Process Mem Layout, States, PCB, Threads;3-2 Process Scheduling (Intro to Ch5)
+6fada7c9c8|105|清大|計算機系統|Q7|5-2 Utilization, Throughput, Turnaround, Waiting, Response;5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ
+3d7dbc8465|103|清大|計算機系統|Q2|5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ;5-2 Utilization, Throughput, Turnaround, Waiting, Response
+9af8c6d44f|107|清大|計算機系統|Q11|HDD, SSD;11-1 HDD, SSD, DRAM
+f62d3de58c|101|清大|計算機系統|Q6|15-2 File System Mounting (Mount Point, Mount Table)
+f720ba99d5|100|清大|計算機系統|Q4|6-1 Race Condition
+0e9338a0cb|102|清大|計算機系統|Q1|11-2 HDD Scheduling: FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK
+m_21481817498b4eaa|107|交大|計算機系統|Q16|9-4 Page Tables: Hierarchical, Hashed, Inverted;9-2 Partition, Dynamic Storage-Allocation, Fragmentation;9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page
+m_7ffee8acbeef60d6|100|交大|作業系統|Q10|14-2 File System Operations;13-4 File Protection
+m_f4ed6381a665a0ad|103|交大|計算機系統|Q9|10-2 Demand Paging, Page Fault, Effective Access Time;10-1 Ideas of Virtual Memory;10-6 Thrashing (Solutions: Locality, Working-set, PFF)
+m_6e254757e8e3f114|104|交大|計算機系統|Q6|13-4 File Protection
+m_970f22d9cbff27db|102|交大|計算機系統|Q15|9-1 Address Binding, Logical/Physical Address;9-2 Partition, Dynamic Storage-Allocation, Fragmentation;9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page;9-4 Page Tables: Hierarchical, Hashed, Inverted
+m_6d59a71c1f852a4a|107|交大|計算機系統|Q17|16-3 Worms, Port Scanning, DoS, DDoS;16-2 Trojan, Backdoor, Logic/Time Bomb, Stack/Buffer Overflow, Virus;16-4 Encryption, Message Digest, Digital Signature, CA
+8e468c30d7|105|清大|計算機系統|Q9|9-4 Page Tables: Hierarchical, Hashed, Inverted;9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page
+m_1111381abb582969|107|交大|計算機系統|Q15|8-4 Handling Deadlocks;8-6 Safe State, RAG Algorithm, Banker's Algorithm
+m_948575fe619a147f|102|交大|計算機系統|Q1|3-3 Process Tree, fork(), wait(), Zombie, Orphan
+83d0b91751|104|清大|計算機系統|Q1|4-1 Thread;3-1 Process Mem Layout, States, PCB, Threads
+m_5a69167de7fc0769|106|交大|計算機系統|Q18|14-2 File System Operations;14-3 Directory Implementation
+m_5871057100f3a39b|100|交大|作業系統|Q4|10-6 Thrashing (Solutions: Locality, Working-set, PFF);10-5 Allocation of Frames
+m_e489c3b9f1946814|107|台大|計算機系統|Q13|11-2 HDD Scheduling: FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK
+m_a57fa1101ff63453|100|交大|作業系統|Q12|3-3 Process Tree, fork(), wait(), Zombie, Orphan
+e8b76fe092|101|清大|計算機系統|Q4|10-6 Thrashing (Solutions: Locality, Working-set, PFF);10-4 Page Replacement (FCFS, Optimal, LRU, LRU-Approx, LFU, MFU)
+m_0d637a4976f2cc59|105|交大|計算機系統|Q6|11-7 SATA, NVMe, SCSI, NAS, Storage-area Network;15-8 NFS
+e291080e1c|106|清大|計算機系統|Q14|L1 Cache, L2 Cache, L3 Cache, Inclusion vs. Exclusion Policy;SRAM, DRAM, NAND / NOR Flash;11-3 SSD Policies: I/O Queue, Fairness, Wear Leveling
+de67dab11b|102|清大|計算機系統|Q8|12-2 Port, Bus, Controller, Polling vs. Interrupt, DMA;1-2 Interrupts, Storage, I/O Structures;I/O Communication: Polling, Interrupt, DMA
+m_5b6e97ba64f4fa2b|100|交大|作業系統|Q1|5-5 SMP, Processor Affinity, Load balancing;5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ;4-2 Parallelism vs. Concurrency;3-6 IPC (Message-Passing Systems, Similar to MPI)
+m_eb0a8b1630cfa60f|101|交大|作業系統|Q2|6-5 Mutex Locks (Spinlock vs. sleep/block);6-6 Semaphores;6-8 Deadlock, Priority Inversion
+m_e0fa583bb3b81255|107|交大|計算機系統|Q31-Q33|16-4 Encryption, Message Digest, Digital Signature, CA
+m_60b26b6e7b2d4cf1|100|台大|計算機系統|Q5|19-4 Network OS, Distributed OS
+m_5fa9abc93868ea73|101|交大|作業系統|Q5|10-6 Thrashing (Solutions: Locality, Working-set, PFF)
+m_063eac76edc753d1|100|交大|作業系統|Q5|9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page
+m_f71f5d6329223cb5|106|交大|計算機系統|Q10|RAID 0/1/5/6;11-8 RAID 0, RAID 1, RAID 4, RAID 5, RAID 6, RAID 10
+m_f11bfc20e738df21|107|交大|計算機系統|Q12|3-1 Process Mem Layout, States, PCB, Threads;5-1 CPU burst, I/O burst, Dispatcher, Dispatch Latency
+d10e62e4ec|103|清大|計算機系統|Q13|Write-Through vs. Write-Back, Write-Allocate vs. No-Write-Allocate;12-2 Port, Bus, Controller, Polling vs. Interrupt, DMA;I/O Communication: Polling, Interrupt, DMA
+m_92ce375c58065cc1|100|交大|作業系統|Q21-Q24|5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ;5-2 Utilization, Throughput, Turnaround, Waiting, Response
+m_4fd0409ffa6dfbef|102|交大|計算機系統|Q7|16-2 Trojan, Backdoor, Logic/Time Bomb, Stack/Buffer Overflow, Virus
+m_e0599527a05a5c1f|102|交大|計算機系統|Q5|14-4 Allocation Methods: Contiguous, Linked, Indexed
+m_1b38c82331619f58|103|台大|計算機結構與作業系統|Q10|12-3 Block/Character Devices, (Non)Blocking, Async I/O, Vectored I/O;4-6 Threading Issues;1-4 User Mode / Kernel Mode
+m_89f65e6448b75627|104|交大|計算機系統|Q2|3-4 IPC;3-5 IPC (Shared-Memory Systems, Similar to OpenMP)
+m_964b8fafe3e02c3f|107|交大|計算機系統|Q13|2-7 Mechanism v.s. Policy
+m_3d220c7392502850|101|交大|作業系統|Q8|14-7 Recovery: Consistency Checking, Log-based;14-6 File System Efficiency and Performance
+6180b5116e|101|清大|計算機系統|Q5|8-6 Safe State, RAG Algorithm, Banker's Algorithm
+m_3464c2ceefafe40c|100|台大|計算機系統|Q1|Hardware Multithreading: Fine-Grained, Coarse-Grained, SMT;1-3 Multiprocessor, UMA, NUMA
+6e4ba02d5f|101|清大|計算機系統|Q1|3-3 Process Tree, fork(), wait(), Zombie, Orphan
+m_acccfe9f6e4cc535|101|交大|作業系統|Q17|16-2 Trojan, Backdoor, Logic/Time Bomb, Stack/Buffer Overflow, Virus;16-3 Worms, Port Scanning, DoS, DDoS;16-4 Encryption, Message Digest, Digital Signature, CA;16-6 Vulnerability Assessment, Intrusion Detection, Firewall, Antivirus
+m_7c6594724d3be170|100|台大|計算機系統|Q4|5-5 SMP, Processor Affinity, Load balancing;5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ;5-6 Soft/Hard Real-Time CPU Scheduling
+3ea5711739|104|清大|計算機系統|Q3|6-2 Critical Section (Mut-EX, Progress, Bounded Waiting);6-6 Semaphores;8-2 Deadlock
+387c8681dc|106|清大|計算機系統|Q2|作業系統§2-1 ACID, Transaction Atomicity, Log-Based Recovery
+m_0bdd63bdf19b94f2|102|台大|計算機系統|Q4|18-4 Trap-and-emulate (Ring -1), Binary Translation, Hardware Assist;18-1 Virtualization vs. Emulation, VM, Hypervisor
+m_e6a185050d40f7b9|101|交大|作業系統|Q15|11-8 RAID 0, RAID 1, RAID 4, RAID 5, RAID 6, RAID 10
+m_0a16f07846aa2b2a|100|交大|作業系統|Q3|8-6 Safe State, RAG Algorithm, Banker's Algorithm;8-3 Coffman Conditions, RAG (Resource-Allocation Graph)
+d1d6e35841|106|清大|計算機系統|Q1|2-8 Monolithic, Layered, Microkernel, Modules, Hybrid
+m_89e6b61ede5ee520|104|台大|計算機系統|Q7|5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ;5-2 Utilization, Throughput, Turnaround, Waiting, Response;5-5 SMP, Processor Affinity, Load balancing
+m_4958419c1cececb5|103|交大|計算機系統|Q19-Q22|11-2 HDD Scheduling: FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK
+74bf64581e|102|清大|計算機系統|Q5|5-2 Utilization, Throughput, Turnaround, Waiting, Response;5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ;5-1 CPU burst, I/O burst, Dispatcher, Dispatch Latency
+m_cf4ccef0339527f6|101|交大|作業系統|Q10|16-5 Authentication: Password, 2FA, MFA, Biometrics
+c8a0b207cf|101|清大|計算機系統|Q3|9-4 Page Tables: Hierarchical, Hashed, Inverted;9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page;TLB, Effective Access Time;9-6 Segmentation, Segment Table
+m_b92fcb2e14632544|107|台大|計算機系統|Q12|1-2 Interrupts, Storage, I/O Structures;12-2 Port, Bus, Controller, Polling vs. Interrupt, DMA;12-5 Handling I/O Requests
+m_a8e4c1f82eb71298|106|交大|計算機系統|Q20|16-2 Trojan, Backdoor, Logic/Time Bomb, Stack/Buffer Overflow, Virus
+m_36c07f076cda1a9b|106|台大|計算機系統|Q13|12-8 Linux Device Model: devfs, sysfs, Device Tree
+m_4ab5322ac5bc1735|100|交大|作業系統|Q13|4-3 User-level/Kernel-level Thread, M-1, 1-1, M-M;4-1 Thread;5-4 Thread Scheduling (PCS, SCS);5-7 OS Examples
+m_f3f5c5c2c8b14ecb|101|交大|作業系統|Q9|16-4 Encryption, Message Digest, Digital Signature, CA
+e1099ed588|103|清大|計算機系統|Q7|14-4 Allocation Methods: Contiguous, Linked, Indexed
+m_c71cae02b270a014|102|交大|計算機系統|Q14|6-7 Monitors;6-6 Semaphores
+m_c8dd662a0b09cb16|101|交大|作業系統|Q14|10-4 Page Replacement (FCFS, Optimal, LRU, LRU-Approx, LFU, MFU);9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page;9-1 Address Binding, Logical/Physical Address
+m_b246d447a4ab7483|100|交大|作業系統|Q37-Q40|13-4 File Protection;17-6 Access Matrix Implementation: ACL, Capability List, Lock-key
+m_1dfb7694af59c17b|106|台大|計算機系統|Q14|19-1 Advantages of Distributed Systems;19-5 Issues: Robustness, Location/Migration Transparency, Scalability
+378d21c6e8|105|清大|計算機系統|Q11|14-4 Allocation Methods: Contiguous, Linked, Indexed
+m_336aa4c4c3bc402d|105|交大|計算機系統|Q3|5-1 CPU burst, I/O burst, Dispatcher, Dispatch Latency;3-2 Process Scheduling (Intro to Ch5);3-3 Process Tree, fork(), wait(), Zombie, Orphan;3-8 Client-Server, Sockets, RPC;1-2 Interrupts, Storage, I/O Structures
+m_1a15ba89a9216f24|100|交大|作業系統|Q17|11-5 SSD Preprocess: Low-level Formatting, Boot Block, Bad Block;15-3 Partitions and Mounting;11-2 HDD Scheduling: FCFS, SSTF, SCAN, C-SCAN, LOOK, C-LOOK
+m_0bc1ef92b42c1f18|100|交大|作業系統|Q11|6-5 Mutex Locks (Spinlock vs. sleep/block);6-2 Critical Section (Mut-EX, Progress, Bounded Waiting);6-8 Deadlock, Priority Inversion;6-1 Race Condition
+ed52ed3c30|102|清大|計算機系統|Q2|RAID 0/1/5/6;11-8 RAID 0, RAID 1, RAID 4, RAID 5, RAID 6, RAID 10
+m_89b51edd00d63d3e|103|台大|計算機結構與作業系統|Q11|3-3 Process Tree, fork(), wait(), Zombie, Orphan;10-3 Copy-on-Write when fork()/exec();4-3 User-level/Kernel-level Thread, M-1, 1-1, M-M
+m_a7e27ea1a6cbd571|105|交大|計算機系統|Q5|4-1 Thread;3-2 Process Scheduling (Intro to Ch5);3-3 Process Tree, fork(), wait(), Zombie, Orphan;12-3 Block/Character Devices, (Non)Blocking, Async I/O, Vectored I/O;3-1 Process Mem Layout, States, PCB, Threads
+m_a6312861c55c000e|101|交大|作業系統|Q1|6-4 Atomic Operations (Hardware);6-5 Mutex Locks (Spinlock vs. sleep/block);6-6 Semaphores;6-2 Critical Section (Mut-EX, Progress, Bounded Waiting)
+a7c37ef1cb|103|清大|計算機系統|Q8|12-2 Port, Bus, Controller, Polling vs. Interrupt, DMA;I/O Communication: Polling, Interrupt, DMA;12-7 Performance
+55220d747b|102|清大|計算機系統|Q4|10-2 Demand Paging, Page Fault, Effective Access Time;10-9 Prepaging, Page Size Trade-off, TLB Reach
+m_7db5676b5e380a7f|103|交大|計算機系統|Q3|10-4 Page Replacement (FCFS, Optimal, LRU, LRU-Approx, LFU, MFU);10-1 Ideas of Virtual Memory;10-8 Allocating Kernel Memory (Buddy System, Slab Allocation);9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page;TLB, Effective Access Time
+a9d18f0669|103|清大|計算機系統|Q1|3-1 Process Mem Layout, States, PCB, Threads
+m_abef756230f5aafc|100|台大|計算機系統|Q3|6-1 Race Condition;12-3 Block/Character Devices, (Non)Blocking, Async I/O, Vectored I/O
+m_f49249ee25121df7|104|交大|計算機系統|Q13|11-1 HDD, SSD, DRAM;HDD, SSD;1-2 Interrupts, Storage, I/O Structures
+7b381869b7|103|清大|計算機系統|Q3|6-6 Semaphores;6-1 Race Condition
+92cc0bbc54|101|台大|計算機系統|Q1|6-6 Semaphores;6-8 Deadlock, Priority Inversion;8-2 Deadlock;8-3 Coffman Conditions, RAG (Resource-Allocation Graph);8-5 Deadlocks Prevention
+m_6e9f1d6b7a161a02|107|交大|計算機系統|Q14|5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ
+m_3a3072800c1cf648|105|交大|計算機系統|Q25-Q27|8-6 Safe State, RAG Algorithm, Banker's Algorithm
+m_46f93ef00a718ce9|100|交大|作業系統|Q2|6-7 Monitors;6-6 Semaphores
+eba2b08693|100|清大|計算機系統|Q5|10-6 Thrashing (Solutions: Locality, Working-set, PFF);10-4 Page Replacement (FCFS, Optimal, LRU, LRU-Approx, LFU, MFU);10-2 Demand Paging, Page Fault, Effective Access Time
+deca368cdb|105|清大|計算機系統|Q12|11-1 HDD, SSD, DRAM;HDD, SSD
+m_46f03ff469c79167|106|交大|計算機系統|Q11|3-1 Process Mem Layout, States, PCB, Threads;1-2 Interrupts, Storage, I/O Structures
+m_9c6f81df37e58ff9|103|交大|計算機系統|Q10|15-2 File System Mounting (Mount Point, Mount Table);11-8 RAID 0, RAID 1, RAID 4, RAID 5, RAID 6, RAID 10;12-2 Port, Bus, Controller, Polling vs. Interrupt, DMA;14-4 Allocation Methods: Contiguous, Linked, Indexed
+m_6c9f61696d56137f|104|清大|計算機系統|Q6|14-4 Allocation Methods: Contiguous, Linked, Indexed
+m_aeafb4c531c1fd46|102|交大|計算機系統|Q3|2-8 Monolithic, Layered, Microkernel, Modules, Hybrid;18-5 Native/Hosted Hypervisor, Paravirtualization vs. Containerization;18-3 Benefits and Features
+m_14f1517f250fc954|100|交大|作業系統|Q16|10-2 Demand Paging, Page Fault, Effective Access Time;10-9 Prepaging, Page Size Trade-off, TLB Reach
+m_e1a974a1707edeeb|105|台大|計算機結構與作業系統|Q8|6-6 Semaphores;5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ
+a84e2575ad|103|清大|計算機系統|Q5|9-4 Page Tables: Hierarchical, Hashed, Inverted
+m_37d19c4fa013bac2|105|交大|計算機系統|Q1|4-1 Thread;2-9 Booting;1-2 Interrupts, Storage, I/O Structures;3-1 Process Mem Layout, States, PCB, Threads
+m_b5879aba46f4c901|102|台大|計算機系統|Q16|10-6 Thrashing (Solutions: Locality, Working-set, PFF);9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page;4-1 Thread
+m_36d0c2bbbf27dbae|101|交大|作業系統|Q11|8-2 Deadlock;8-3 Coffman Conditions, RAG (Resource-Allocation Graph);8-4 Handling Deadlocks;8-6 Safe State, RAG Algorithm, Banker's Algorithm
+m_4deab3555caba894|101|交大|作業系統|Q12|8-6 Safe State, RAG Algorithm, Banker's Algorithm
+m_c705e4ba3406e49d|107|交大|計算機系統|Q20|10-4 Page Replacement (FCFS, Optimal, LRU, LRU-Approx, LFU, MFU);11-8 RAID 0, RAID 1, RAID 4, RAID 5, RAID 6, RAID 10;RAID 0/1/5/6;2-3 System Calls;10-6 Thrashing (Solutions: Locality, Working-set, PFF)
+m_ba22c283fbd6eaf2|103|台大|計算機結構與作業系統|Q1|Introduction, 8 Great Ideas;3-8 Client-Server, Sockets, RPC
+eb2f5c31dd|106|清大|計算機系統|Q6|10-6 Thrashing (Solutions: Locality, Working-set, PFF)
+m_5e5603a175fcd47e|105|交大|計算機系統|Q7|14-4 Allocation Methods: Contiguous, Linked, Indexed
+1fa8254fd8|107|清大|計算機系統|Q5|12-2 Port, Bus, Controller, Polling vs. Interrupt, DMA;I/O Communication: Polling, Interrupt, DMA
+m_961b7228b0faf301|107|台大|計算機系統|Q10|TLB, Effective Access Time;9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page;9-1 Address Binding, Logical/Physical Address;Page Table, Page Fault, Dirty Bit, Reference Bit;9-4 Page Tables: Hierarchical, Hashed, Inverted;1-4 User Mode / Kernel Mode;2-3 System Calls
+m_134067af5eabefb7|107|交大|計算機系統|Q19|16-2 Trojan, Backdoor, Logic/Time Bomb, Stack/Buffer Overflow, Virus
+m_4004db8bb8af7984|107|交大|計算機系統|Q21-Q23|9-3 Paging, PTBR vs. TLB, Valid Bit, Shared Page;VM;Set-Associative, Fully-Associative;AMAT;L1 Cache, L2 Cache, L3 Cache, Inclusion vs. Exclusion Policy
+011e62cf0f|101|台大|計算機系統|II-Q1|ILP, Dynamic Scheduling (Tomasulo, ROB, Speculation), OoO Issue;UMA vs. NUMA, Shared Memory;1-3 Multiprocessor, UMA, NUMA;Intro to GPU;1-10 Computing Environments;Message Passing, MPP, Clusters, WSC;18-1 Virtualization vs. Emulation, VM, Hypervisor
+m_a9d558cdcf9a7a5a|105|交大|計算機系統|Q9|14-4 Allocation Methods: Contiguous, Linked, Indexed
+m_6247b104beb1b9a7|102|交大|計算機系統|Q2|3-3 Process Tree, fork(), wait(), Zombie, Orphan;4-1 Thread;4-4 POSIX Pthreads, Windows Threads, Java Threads;6-1 Race Condition
+m_4f6c45814427df6f|103|交大|計算機系統|Q14-Q16|5-3 FCFS, SJF, Priority, Round-Robin, Multilevel Queue, MFQ;5-2 Utilization, Throughput, Turnaround, Waiting, Response;6-6 Semaphores;6-8 Deadlock, Priority Inversion
+m_6bdccfcaa91af08b|103|交大|計算機系統|Q13|Dependability, Reliability, Availability (MTTF, MTBF, MTTR);RAID 0/1/5/6;11-8 RAID 0, RAID 1, RAID 4, RAID 5, RAID 6, RAID 10

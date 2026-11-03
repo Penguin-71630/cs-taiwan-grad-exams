@@ -1,0 +1,81 @@
+{
+ "unit_key": "6-2 Graph Traversal: DFS, BFS",
+ "subject": "資料結構",
+ "group": "資演",
+ "chapter": "Graph",
+ "topic": "Graph Traversal: DFS, BFS",
+ "questions": [
+  {
+   "id": "m_eef5a807b35b5cdc",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q25",
+   "url": "https://img.ptsfu.org/m_eef5a807b35b5cdc.webp"
+  },
+  {
+   "id": "m_2db9b37849290222",
+   "year": 103,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_2db9b37849290222.webp"
+  },
+  {
+   "id": "m_c65c5e5ae764d107",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q19",
+   "url": "https://img.ptsfu.org/m_c65c5e5ae764d107.webp"
+  },
+  {
+   "id": "m_5a6ab202eaccfd0b",
+   "year": 102,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_5a6ab202eaccfd0b.webp"
+  },
+  {
+   "id": "m_9550009bf9f129ca",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_9550009bf9f129ca.webp"
+  },
+  {
+   "id": "fbba38df5a",
+   "year": 101,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/fbba38df5a.webp"
+  },
+  {
+   "id": "m_c4b29a59077b1849",
+   "year": 107,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "QVI",
+   "url": "https://img.ptsfu.org/m_c4b29a59077b1849.webp"
+  },
+  {
+   "id": "m_e9549c7b0b25260b",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_e9549c7b0b25260b.webp"
+  },
+  {
+   "id": "m_a825db7a50bd13d2",
+   "year": 104,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_a825db7a50bd13d2.webp"
+  }
+ ]
+}

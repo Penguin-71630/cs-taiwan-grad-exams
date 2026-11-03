@@ -1,0 +1,49 @@
+{
+ "unit_key": "Cache Optimizations (3): Critical Word First, Prefetch",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Cache",
+ "topic": "Cache Optimizations (3): Critical Word First, Prefetch",
+ "questions": [
+  {
+   "id": "c965edd458",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/c965edd458.webp"
+  },
+  {
+   "id": "m_d5f3c6ae448ee229",
+   "year": 104,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_d5f3c6ae448ee229.webp"
+  },
+  {
+   "id": "55d2bf6cba",
+   "year": 102,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/55d2bf6cba.webp"
+  },
+  {
+   "id": "m_268ad3df7ee6bb1b",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_268ad3df7ee6bb1b.webp"
+  },
+  {
+   "id": "79f5aac4dc",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/79f5aac4dc.webp"
+  }
+ ]
+}

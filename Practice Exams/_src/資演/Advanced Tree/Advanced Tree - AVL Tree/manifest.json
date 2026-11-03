@@ -1,0 +1,89 @@
+{
+ "unit_key": "9-6 AVL Tree",
+ "subject": "資料結構",
+ "group": "資演",
+ "chapter": "Advanced Tree",
+ "topic": "AVL Tree",
+ "questions": [
+  {
+   "id": "m_267be1de82c064dc",
+   "year": 107,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q16",
+   "url": "https://img.ptsfu.org/m_267be1de82c064dc.webp"
+  },
+  {
+   "id": "3703ca2ea0",
+   "year": 105,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/3703ca2ea0.webp"
+  },
+  {
+   "id": "m_508597a921e3e285",
+   "year": 107,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/m_508597a921e3e285.webp"
+  },
+  {
+   "id": "f6fc49f7a5",
+   "year": 105,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/f6fc49f7a5.webp"
+  },
+  {
+   "id": "m_0c9f5bb6bf8f3362",
+   "year": 106,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_0c9f5bb6bf8f3362.webp"
+  },
+  {
+   "id": "m_a6f7c23cc820659b",
+   "year": 103,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_a6f7c23cc820659b.webp"
+  },
+  {
+   "id": "m_c27a9f5a16cc1d8f",
+   "year": 102,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_c27a9f5a16cc1d8f.webp"
+  },
+  {
+   "id": "c0c248176d",
+   "year": 106,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/c0c248176d.webp"
+  },
+  {
+   "id": "m_fa85ecad736e49ba",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_fa85ecad736e49ba.webp"
+  },
+  {
+   "id": "m_4b799b80ae730952",
+   "year": 102,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_4b799b80ae730952.webp"
+  }
+ ]
+}

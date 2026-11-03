@@ -1,0 +1,33 @@
+{
+ "unit_key": "8-2 Orthogonal Operator, Orthogonal Matrix",
+ "subject": "線性代數",
+ "group": "數學",
+ "chapter": "Inner Product Operator",
+ "topic": "Orthogonal Operator, Orthogonal Matrix",
+ "questions": [
+  {
+   "id": "0f9bfc6b94",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/0f9bfc6b94.webp"
+  },
+  {
+   "id": "m_816db793ff11023a",
+   "year": 105,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_816db793ff11023a.webp"
+  },
+  {
+   "id": "m_0131db6bb269c7ec",
+   "year": 106,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_0131db6bb269c7ec.webp"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "unit_key": "7-1 Orthogonal, Orthogonal Set, Orthonormal Set",
+ "subject": "線性代數",
+ "group": "數學",
+ "chapter": "Inner Product Space",
+ "topic": "Orthogonal, Orthogonal Set, Orthonormal Set",
+ "questions": [
+  {
+   "id": "aff1037deb",
+   "year": 104,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/aff1037deb.webp"
+  },
+  {
+   "id": "d09bfcbc88",
+   "year": 106,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/d09bfcbc88.webp"
+  },
+  {
+   "id": "m_57d966568d3767c3",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_57d966568d3767c3.webp"
+  }
+ ]
+}

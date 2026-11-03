@@ -1,0 +1,33 @@
+{
+ "unit_key": "8-4 Bucket Sort",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "Linear Sorting",
+ "topic": "Bucket Sort",
+ "questions": [
+  {
+   "id": "402bb36201",
+   "year": 101,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/402bb36201.webp"
+  },
+  {
+   "id": "5d21c3c18d",
+   "year": 106,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/5d21c3c18d.webp"
+  },
+  {
+   "id": "m_13973593a7e222b5",
+   "year": 107,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_13973593a7e222b5.webp"
+  }
+ ]
+}

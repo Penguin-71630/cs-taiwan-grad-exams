@@ -1,0 +1,25 @@
+{
+ "unit_key": "18-4 Trap-and-emulate (Ring -1), Binary Translation, Hardware Assist",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Virtualization",
+ "topic": "Trap-and-emulate (Ring -1), Binary Translation, Hardware Assist",
+ "questions": [
+  {
+   "id": "m_9c220e6604903c23",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_9c220e6604903c23.webp"
+  },
+  {
+   "id": "m_0bdd63bdf19b94f2",
+   "year": 102,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_0bdd63bdf19b94f2.webp"
+  }
+ ]
+}

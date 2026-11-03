@@ -1,0 +1,31 @@
+每一題組全對才計分(5 分)，答錯倒扣 1 分。每一子題均為單選題。
+
+4\. Suppose that each node of a binary tree is represented by the following structure.
+
+```
+struct node
+{
+  int value;
+  struct node * left, * right;};
+```
+
+The leftmost node of a binary tree is defined as the result of `leftmost(root)` where `root` is a pointer to the root node of the binary tree.
+
+```
+int leftmost(struct node * n)
+{
+  if (n->left==NULL)
+    return n->value;
+  else
+    return leftmost(n->left);}
+```
+
+(11) After inserting the following integers into an empty max heap, what is the leftmost node of the resultant max heap?
+
+40 20 15 60 80 75 10 5 50 45
+
+(A) 15\
+(B) 5\
+(C) 80\
+(D) 20\
+(E) None of the above

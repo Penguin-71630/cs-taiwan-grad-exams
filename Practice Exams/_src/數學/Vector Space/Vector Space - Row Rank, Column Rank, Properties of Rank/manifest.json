@@ -1,0 +1,105 @@
+{
+ "unit_key": "3-4 Row Rank, Column Rank, Properties of Rank",
+ "subject": "線性代數",
+ "group": "數學",
+ "chapter": "Vector Space",
+ "topic": "Row Rank, Column Rank, Properties of Rank",
+ "questions": [
+  {
+   "id": "6f3343c82f",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/6f3343c82f.webp"
+  },
+  {
+   "id": "5c377025a5",
+   "year": 103,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/5c377025a5.webp"
+  },
+  {
+   "id": "e9f3888cf3",
+   "year": 104,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/e9f3888cf3.webp"
+  },
+  {
+   "id": "m_2bdd8e27cf2bd112",
+   "year": 101,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_2bdd8e27cf2bd112.webp"
+  },
+  {
+   "id": "dm03_ebf412d5e230986c",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/dm03_ebf412d5e230986c.webp"
+  },
+  {
+   "id": "m_752412f465acfd27",
+   "year": 101,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_752412f465acfd27.webp"
+  },
+  {
+   "id": "m_816db793ff11023a",
+   "year": 105,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_816db793ff11023a.webp"
+  },
+  {
+   "id": "m_d1fba798b2ed721c",
+   "year": 104,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_d1fba798b2ed721c.webp"
+  },
+  {
+   "id": "m_512a99a3f1f298f9",
+   "year": 101,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_512a99a3f1f298f9.webp"
+  },
+  {
+   "id": "m_0ea2a57cb05a5319",
+   "year": 107,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/m_0ea2a57cb05a5319.webp"
+  },
+  {
+   "id": "dm03_36f64a7ba264151c",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/dm03_36f64a7ba264151c.webp"
+  },
+  {
+   "id": "m_f8f8281090c90bf3",
+   "year": 106,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_f8f8281090c90bf3.webp"
+  }
+ ]
+}

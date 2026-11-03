@@ -1,0 +1,49 @@
+{
+ "unit_key": "14-6 File System Efficiency and Performance",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "File System",
+ "topic": "File System Efficiency and Performance",
+ "questions": [
+  {
+   "id": "68bd9db4b6",
+   "year": 100,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/68bd9db4b6.webp"
+  },
+  {
+   "id": "m_10eceaf951656a4f",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_10eceaf951656a4f.webp"
+  },
+  {
+   "id": "m_b8849c54d4d2b9cd",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q17",
+   "url": "https://img.ptsfu.org/m_b8849c54d4d2b9cd.webp"
+  },
+  {
+   "id": "m_075f4f8be606d00f",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_075f4f8be606d00f.webp"
+  },
+  {
+   "id": "m_3d220c7392502850",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_3d220c7392502850.webp"
+  }
+ ]
+}

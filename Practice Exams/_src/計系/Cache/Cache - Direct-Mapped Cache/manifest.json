@@ -1,0 +1,97 @@
+{
+ "unit_key": "Direct-Mapped Cache",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Cache",
+ "topic": "Direct-Mapped Cache",
+ "questions": [
+  {
+   "id": "m_fdb32e7bd5d8475a",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q23-Q24",
+   "url": "https://img.ptsfu.org/m_fdb32e7bd5d8475a.webp"
+  },
+  {
+   "id": "m_50bcab1db328339e",
+   "year": 103,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_50bcab1db328339e.webp"
+  },
+  {
+   "id": "m_0d8968aab42d1b5a",
+   "year": 101,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "II-Q7",
+   "url": "https://img.ptsfu.org/m_0d8968aab42d1b5a.webp"
+  },
+  {
+   "id": "m_7d293288b6a409a9",
+   "year": 103,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q23-Q25",
+   "url": "https://img.ptsfu.org/m_7d293288b6a409a9.webp"
+  },
+  {
+   "id": "m_c2638d8feb130849",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q20",
+   "url": "https://img.ptsfu.org/m_c2638d8feb130849.webp"
+  },
+  {
+   "id": "55d2bf6cba",
+   "year": 102,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/55d2bf6cba.webp"
+  },
+  {
+   "id": "m_f1c8fef0e02f432f",
+   "year": 100,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_f1c8fef0e02f432f.webp"
+  },
+  {
+   "id": "m_5336c2c3bbfd2598",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q21",
+   "url": "https://img.ptsfu.org/m_5336c2c3bbfd2598.webp"
+  },
+  {
+   "id": "m_84607639c0e31ec6",
+   "year": 100,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "II-Q2",
+   "url": "https://img.ptsfu.org/m_84607639c0e31ec6.webp"
+  },
+  {
+   "id": "961d11d272",
+   "year": 102,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/961d11d272.webp"
+  },
+  {
+   "id": "da230524eb",
+   "year": 107,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/da230524eb.webp"
+  }
+ ]
+}

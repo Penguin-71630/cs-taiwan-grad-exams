@@ -1,0 +1,73 @@
+{
+ "unit_key": "8-2 Deadlock",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Synchronization",
+ "topic": "Deadlock",
+ "questions": [
+  {
+   "id": "6638321631",
+   "year": 100,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/6638321631.webp"
+  },
+  {
+   "id": "m_23b1774eac5e18eb",
+   "year": 100,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_23b1774eac5e18eb.webp"
+  },
+  {
+   "id": "d5931fedef",
+   "year": 103,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/d5931fedef.webp"
+  },
+  {
+   "id": "ba1715c05b",
+   "year": 102,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/ba1715c05b.webp"
+  },
+  {
+   "id": "f0c8052a2f",
+   "year": 106,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/f0c8052a2f.webp"
+  },
+  {
+   "id": "3ea5711739",
+   "year": 104,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/3ea5711739.webp"
+  },
+  {
+   "id": "92cc0bbc54",
+   "year": 101,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/92cc0bbc54.webp"
+  },
+  {
+   "id": "m_36d0c2bbbf27dbae",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_36d0c2bbbf27dbae.webp"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "unit_key": "Cache Replacement Policy",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Cache",
+ "topic": "Cache Replacement Policy",
+ "questions": [
+  {
+   "id": "c965edd458",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/c965edd458.webp"
+  },
+  {
+   "id": "m_0d8968aab42d1b5a",
+   "year": 101,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "II-Q7",
+   "url": "https://img.ptsfu.org/m_0d8968aab42d1b5a.webp"
+  },
+  {
+   "id": "31ec680c51",
+   "year": 105,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/31ec680c51.webp"
+  },
+  {
+   "id": "m_59ecc34135ef1078",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q34-Q38",
+   "url": "https://img.ptsfu.org/m_59ecc34135ef1078.webp"
+  },
+  {
+   "id": "m_4b26da770b7acb05",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_4b26da770b7acb05.webp"
+  },
+  {
+   "id": "m_84607639c0e31ec6",
+   "year": 100,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "II-Q2",
+   "url": "https://img.ptsfu.org/m_84607639c0e31ec6.webp"
+  },
+  {
+   "id": "e0bee07087",
+   "year": 100,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/e0bee07087.webp"
+  },
+  {
+   "id": "961d11d272",
+   "year": 102,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/961d11d272.webp"
+  },
+  {
+   "id": "da230524eb",
+   "year": 107,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/da230524eb.webp"
+  }
+ ]
+}

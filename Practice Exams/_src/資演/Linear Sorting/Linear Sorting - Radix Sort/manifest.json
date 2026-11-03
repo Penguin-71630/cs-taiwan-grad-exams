@@ -1,0 +1,57 @@
+{
+ "unit_key": "8-3 Radix Sort",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "Linear Sorting",
+ "topic": "Radix Sort",
+ "questions": [
+  {
+   "id": "a44b76ba07",
+   "year": 100,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/a44b76ba07.webp"
+  },
+  {
+   "id": "402bb36201",
+   "year": 101,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/402bb36201.webp"
+  },
+  {
+   "id": "48c581bd45",
+   "year": 104,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/48c581bd45.webp"
+  },
+  {
+   "id": "m_68ef4d42d9a1c10d",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q28",
+   "url": "https://img.ptsfu.org/m_68ef4d42d9a1c10d.webp"
+  },
+  {
+   "id": "m_0dce6dc1e6a8509f",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q29",
+   "url": "https://img.ptsfu.org/m_0dce6dc1e6a8509f.webp"
+  },
+  {
+   "id": "m_d7f425062a52954d",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q30",
+   "url": "https://img.ptsfu.org/m_d7f425062a52954d.webp"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "unit_key": "3-8 Client-Server, Sockets, RPC",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Process",
+ "topic": "Client-Server, Sockets, RPC",
+ "questions": [
+  {
+   "id": "m_336aa4c4c3bc402d",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_336aa4c4c3bc402d.webp"
+  },
+  {
+   "id": "m_ba22c283fbd6eaf2",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_ba22c283fbd6eaf2.webp"
+  }
+ ]
+}

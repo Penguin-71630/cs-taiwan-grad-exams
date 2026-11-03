@@ -1,0 +1,153 @@
+{
+ "unit_key": "8-4 Linear/Quadratic Probing, Rehashing, Chain,",
+ "subject": "資料結構",
+ "group": "資演",
+ "chapter": "Hash",
+ "topic": "Linear／Quadratic Probing, Rehashing, Chain",
+ "questions": [
+  {
+   "id": "a31b5156f4",
+   "year": 106,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/a31b5156f4.webp"
+  },
+  {
+   "id": "m_938190fbb3f0898e",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q33",
+   "url": "https://img.ptsfu.org/m_938190fbb3f0898e.webp"
+  },
+  {
+   "id": "m_04080046e50a12e8",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q16",
+   "url": "https://img.ptsfu.org/m_04080046e50a12e8.webp"
+  },
+  {
+   "id": "m_58e30f7a1e24b0d1",
+   "year": 101,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_58e30f7a1e24b0d1.webp"
+  },
+  {
+   "id": "m_9e75944e82bffb0e",
+   "year": 102,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_9e75944e82bffb0e.webp"
+  },
+  {
+   "id": "3703ca2ea0",
+   "year": 105,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/3703ca2ea0.webp"
+  },
+  {
+   "id": "m_ffebd115110ba91d",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q17",
+   "url": "https://img.ptsfu.org/m_ffebd115110ba91d.webp"
+  },
+  {
+   "id": "m_434489868415d9b3",
+   "year": 107,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_434489868415d9b3.webp"
+  },
+  {
+   "id": "m_8fbb697737cf0a67",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q24",
+   "url": "https://img.ptsfu.org/m_8fbb697737cf0a67.webp"
+  },
+  {
+   "id": "m_19042324ab178937",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q22",
+   "url": "https://img.ptsfu.org/m_19042324ab178937.webp"
+  },
+  {
+   "id": "m_7d38b39a4f136a07",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q19",
+   "url": "https://img.ptsfu.org/m_7d38b39a4f136a07.webp"
+  },
+  {
+   "id": "m_c7a72ca1fdf49831",
+   "year": 106,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_c7a72ca1fdf49831.webp"
+  },
+  {
+   "id": "m_54a09ec19f645e9a",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q32",
+   "url": "https://img.ptsfu.org/m_54a09ec19f645e9a.webp"
+  },
+  {
+   "id": "9c8f03111c",
+   "year": 100,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/9c8f03111c.webp"
+  },
+  {
+   "id": "m_fb5b1b1ae4868049",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q31",
+   "url": "https://img.ptsfu.org/m_fb5b1b1ae4868049.webp"
+  },
+  {
+   "id": "m_f8a78a7aab23e731",
+   "year": 103,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_f8a78a7aab23e731.webp"
+  },
+  {
+   "id": "m_3b60bb957f31bd01",
+   "year": 107,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_3b60bb957f31bd01.webp"
+  },
+  {
+   "id": "m_9cdde3387ebdccf3",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q23",
+   "url": "https://img.ptsfu.org/m_9cdde3387ebdccf3.webp"
+  }
+ ]
+}

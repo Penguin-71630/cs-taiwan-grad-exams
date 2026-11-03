@@ -1,0 +1,81 @@
+{
+ "unit_key": "34-4 NP-completeness Proofs, 3-SAT",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "NP",
+ "topic": "NP-completeness Proofs, 3-SAT",
+ "questions": [
+  {
+   "id": "f8e2ce817b",
+   "year": 102,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/f8e2ce817b.webp"
+  },
+  {
+   "id": "d1dc77a8c6",
+   "year": 103,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/d1dc77a8c6.webp"
+  },
+  {
+   "id": "e701a6b1b6",
+   "year": 103,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/e701a6b1b6.webp"
+  },
+  {
+   "id": "57fe4cd173",
+   "year": 105,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/57fe4cd173.webp"
+  },
+  {
+   "id": "e2ad4baf20",
+   "year": 106,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/e2ad4baf20.webp"
+  },
+  {
+   "id": "m_f0b7fa58664e5427",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q58",
+   "url": "https://img.ptsfu.org/m_f0b7fa58664e5427.webp"
+  },
+  {
+   "id": "m_65774bdf3f94003b",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q60",
+   "url": "https://img.ptsfu.org/m_65774bdf3f94003b.webp"
+  },
+  {
+   "id": "m_3096fc2bf7033cf6",
+   "year": 106,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_3096fc2bf7033cf6.webp"
+  },
+  {
+   "id": "m_70d4944003ddae3e",
+   "year": 103,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_70d4944003ddae3e.webp"
+  }
+ ]
+}

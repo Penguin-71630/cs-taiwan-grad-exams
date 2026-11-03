@@ -1,0 +1,25 @@
+{
+ "unit_key": "5-8 Normal Tree to Binary Tree",
+ "subject": "資料結構",
+ "group": "資演",
+ "chapter": "Tree (1)",
+ "topic": "Normal Tree to Binary Tree",
+ "questions": [
+  {
+   "id": "m_f872eb1a5848542b",
+   "year": 105,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_f872eb1a5848542b.webp"
+  },
+  {
+   "id": "m_2712347f166b50b0",
+   "year": 104,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_2712347f166b50b0.webp"
+  }
+ ]
+}

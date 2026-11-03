@@ -1,0 +1,73 @@
+{
+ "unit_key": "7-1 Characteristic Polynomial (Note: 跟線代的特徵多項式等價)",
+ "subject": "離散數學",
+ "group": "數學",
+ "chapter": "Recurrence",
+ "topic": "Characteristic Polynomial (Note: 跟線代的特徵多項式等價)",
+ "questions": [
+  {
+   "id": "d48b3d084e",
+   "year": 100,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/d48b3d084e.webp"
+  },
+  {
+   "id": "5199870a21",
+   "year": 103,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/5199870a21.webp"
+  },
+  {
+   "id": "33c1bdac6f",
+   "year": 107,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/33c1bdac6f.webp"
+  },
+  {
+   "id": "dm03_4c6ddfc5f320f84a",
+   "year": 106,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/dm03_4c6ddfc5f320f84a.webp"
+  },
+  {
+   "id": "dm03_76c993dc30c81639",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q16",
+   "url": "https://img.ptsfu.org/dm03_76c993dc30c81639.webp"
+  },
+  {
+   "id": "m_36f7712c097bfe3b",
+   "year": 106,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_36f7712c097bfe3b.webp"
+  },
+  {
+   "id": "m_3a986c20de958c23",
+   "year": 105,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_3a986c20de958c23.webp"
+  },
+  {
+   "id": "m_bd819835e3bb7102",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12(a)",
+   "url": "https://img.ptsfu.org/m_bd819835e3bb7102.webp"
+  }
+ ]
+}

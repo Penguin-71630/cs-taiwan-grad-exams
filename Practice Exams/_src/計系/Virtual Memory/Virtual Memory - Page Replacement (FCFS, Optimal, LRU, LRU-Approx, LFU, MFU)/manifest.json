@@ -1,0 +1,121 @@
+{
+ "unit_key": "10-4 Page Replacement (FCFS, Optimal, LRU, LRU-Approx, LFU, MFU)",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Virtual Memory",
+ "topic": "Page Replacement (FCFS, Optimal, LRU, LRU-Approx, LFU, MFU)",
+ "questions": [
+  {
+   "id": "m_8e934c6f5aae5a63",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_8e934c6f5aae5a63.webp"
+  },
+  {
+   "id": "b8bf6cb0cc",
+   "year": 104,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/b8bf6cb0cc.webp"
+  },
+  {
+   "id": "m_4a96ad33ed1d6775",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_4a96ad33ed1d6775.webp"
+  },
+  {
+   "id": "8e24e9e796",
+   "year": 106,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/8e24e9e796.webp"
+  },
+  {
+   "id": "3ffc488f25",
+   "year": 102,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/3ffc488f25.webp"
+  },
+  {
+   "id": "m_269a7594003eea9e",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q24-Q28",
+   "url": "https://img.ptsfu.org/m_269a7594003eea9e.webp"
+  },
+  {
+   "id": "m_019f85f4dd10f575",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q16",
+   "url": "https://img.ptsfu.org/m_019f85f4dd10f575.webp"
+  },
+  {
+   "id": "m_b4c64cafbbfcb6ea",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/m_b4c64cafbbfcb6ea.webp"
+  },
+  {
+   "id": "m_5b5b12a06eb7cd39",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_5b5b12a06eb7cd39.webp"
+  },
+  {
+   "id": "e8b76fe092",
+   "year": 101,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/e8b76fe092.webp"
+  },
+  {
+   "id": "m_c8dd662a0b09cb16",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/m_c8dd662a0b09cb16.webp"
+  },
+  {
+   "id": "m_7db5676b5e380a7f",
+   "year": 103,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_7db5676b5e380a7f.webp"
+  },
+  {
+   "id": "eba2b08693",
+   "year": 100,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/eba2b08693.webp"
+  },
+  {
+   "id": "m_c705e4ba3406e49d",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q20",
+   "url": "https://img.ptsfu.org/m_c705e4ba3406e49d.webp"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "unit_key": "Temporal / Spatial Locality",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Cache",
+ "topic": "Temporal ／ Spatial Locality",
+ "questions": [
+  {
+   "id": "m_50bcab1db328339e",
+   "year": 103,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_50bcab1db328339e.webp"
+  },
+  {
+   "id": "ea386ac755",
+   "year": 107,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/ea386ac755.webp"
+  },
+  {
+   "id": "df92c12005",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/df92c12005.webp"
+  },
+  {
+   "id": "eefe10162b",
+   "year": 105,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/eefe10162b.webp"
+  },
+  {
+   "id": "m_c2638d8feb130849",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q20",
+   "url": "https://img.ptsfu.org/m_c2638d8feb130849.webp"
+  },
+  {
+   "id": "m_4293c2b9889d80ae",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_4293c2b9889d80ae.webp"
+  },
+  {
+   "id": "m_2dbd19c9bad91235",
+   "year": 101,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_2dbd19c9bad91235.webp"
+  },
+  {
+   "id": "m_5336c2c3bbfd2598",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q21",
+   "url": "https://img.ptsfu.org/m_5336c2c3bbfd2598.webp"
+  },
+  {
+   "id": "79f5aac4dc",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/79f5aac4dc.webp"
+  },
+  {
+   "id": "m_890f203ba64e62da",
+   "year": 100,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_890f203ba64e62da.webp"
+  }
+ ]
+}

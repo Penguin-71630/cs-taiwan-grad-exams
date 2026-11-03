@@ -1,0 +1,49 @@
+{
+ "unit_key": "2-3 Divide-and-Conquer Method",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "Basics",
+ "topic": "Divide-and-Conquer Method",
+ "questions": [
+  {
+   "id": "m_af23364e4da22376",
+   "year": 103,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_af23364e4da22376.webp"
+  },
+  {
+   "id": "m_164ff720e386b626",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q37",
+   "url": "https://img.ptsfu.org/m_164ff720e386b626.webp"
+  },
+  {
+   "id": "m_af11eb37e2e74bf7",
+   "year": 103,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_af11eb37e2e74bf7.webp"
+  },
+  {
+   "id": "m_e7c7bd5af999bff6",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q34",
+   "url": "https://img.ptsfu.org/m_e7c7bd5af999bff6.webp"
+  },
+  {
+   "id": "m_4c8ac517717cf0fa",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q35",
+   "url": "https://img.ptsfu.org/m_4c8ac517717cf0fa.webp"
+  }
+ ]
+}

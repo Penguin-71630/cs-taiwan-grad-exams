@@ -1,0 +1,33 @@
+{
+ "unit_key": "14-5 Optimal BST, Knuth Optimization",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "DP",
+ "topic": "Optimal BST, Knuth Optimization",
+ "questions": [
+  {
+   "id": "m_a9fc7672ce075610",
+   "year": 100,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_a9fc7672ce075610.webp"
+  },
+  {
+   "id": "m_af11eb37e2e74bf7",
+   "year": 103,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_af11eb37e2e74bf7.webp"
+  },
+  {
+   "id": "m_0d0c85ef19fd702e",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q40",
+   "url": "https://img.ptsfu.org/m_0d0c85ef19fd702e.webp"
+  }
+ ]
+}

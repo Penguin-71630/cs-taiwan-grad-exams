@@ -1,0 +1,65 @@
+{
+ "unit_key": "5-3 Definition of Diagonalizable",
+ "subject": "線性代數",
+ "group": "數學",
+ "chapter": "Diagonalization",
+ "topic": "Definition of Diagonalizable",
+ "questions": [
+  {
+   "id": "b2a5d990a2",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/b2a5d990a2.webp"
+  },
+  {
+   "id": "96a3cdc384",
+   "year": 107,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/96a3cdc384.webp"
+  },
+  {
+   "id": "dm03_ee70ee8b6a7ce7c1",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/dm03_ee70ee8b6a7ce7c1.webp"
+  },
+  {
+   "id": "m_816db793ff11023a",
+   "year": 105,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_816db793ff11023a.webp"
+  },
+  {
+   "id": "m_daa45c987183cdd5",
+   "year": 101,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_daa45c987183cdd5.webp"
+  },
+  {
+   "id": "m_0131db6bb269c7ec",
+   "year": 106,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_0131db6bb269c7ec.webp"
+  },
+  {
+   "id": "m_e1c962c382eaab32",
+   "year": 102,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_e1c962c382eaab32.webp"
+  }
+ ]
+}

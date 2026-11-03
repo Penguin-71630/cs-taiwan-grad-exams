@@ -1,0 +1,49 @@
+{
+ "unit_key": "5-13 Number of Binary Trees using N vertices",
+ "subject": "資料結構",
+ "group": "資演",
+ "chapter": "Tree (1)",
+ "topic": "Number of Binary Trees using N vertices",
+ "questions": [
+  {
+   "id": "92a244f22d",
+   "year": 100,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/92a244f22d.webp"
+  },
+  {
+   "id": "d0b4b89fc9",
+   "year": 101,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/d0b4b89fc9.webp"
+  },
+  {
+   "id": "f6fc49f7a5",
+   "year": 105,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/f6fc49f7a5.webp"
+  },
+  {
+   "id": "cf13855684",
+   "year": 102,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/cf13855684.webp"
+  },
+  {
+   "id": "864f10bacd",
+   "year": 103,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/864f10bacd.webp"
+  }
+ ]
+}

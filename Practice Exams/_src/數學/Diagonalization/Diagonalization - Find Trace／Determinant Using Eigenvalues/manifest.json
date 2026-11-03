@@ -1,0 +1,25 @@
+{
+ "unit_key": "5-2 Find Trace/Determinant Using Eigenvalues",
+ "subject": "線性代數",
+ "group": "數學",
+ "chapter": "Diagonalization",
+ "topic": "Find Trace／Determinant Using Eigenvalues",
+ "questions": [
+  {
+   "id": "m_0131db6bb269c7ec",
+   "year": 106,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_0131db6bb269c7ec.webp"
+  },
+  {
+   "id": "m_dbadf79871c8e76b",
+   "year": 104,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_dbadf79871c8e76b.webp"
+  }
+ ]
+}

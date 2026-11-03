@@ -1,0 +1,25 @@
+{
+ "unit_key": "1-2 Row/Column Operations",
+ "subject": "線性代數",
+ "group": "數學",
+ "chapter": "Matrix",
+ "topic": "Row／Column Operations",
+ "questions": [
+  {
+   "id": "m_00e7a96f657fdab4",
+   "year": 107,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_00e7a96f657fdab4.webp"
+  },
+  {
+   "id": "dm03_37782d33234a9e8c",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/dm03_37782d33234a9e8c.webp"
+  }
+ ]
+}

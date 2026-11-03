@@ -1,0 +1,25 @@
+{
+ "unit_key": "SIMD, Vector Processors (GPU's Predecessor)",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "GPU",
+ "topic": "SIMD, Vector Processors (GPU's Predecessor)",
+ "questions": [
+  {
+   "id": "m_268ad3df7ee6bb1b",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_268ad3df7ee6bb1b.webp"
+  },
+  {
+   "id": "cd21a936c0",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/cd21a936c0.webp"
+  }
+ ]
+}

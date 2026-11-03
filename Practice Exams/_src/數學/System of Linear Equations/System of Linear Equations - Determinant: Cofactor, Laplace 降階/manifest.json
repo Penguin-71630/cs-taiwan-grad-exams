@@ -1,0 +1,33 @@
+{
+ "unit_key": "2-3 Determinant: Cofactor, Laplace 降階",
+ "subject": "線性代數",
+ "group": "數學",
+ "chapter": "System of Linear Equations",
+ "topic": "Determinant: Cofactor, Laplace 降階",
+ "questions": [
+  {
+   "id": "m_87a3c15f7798526a",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_87a3c15f7798526a.webp"
+  },
+  {
+   "id": "m_f1c1a3ddb02c1ae6",
+   "year": 101,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_f1c1a3ddb02c1ae6.webp"
+  },
+  {
+   "id": "m_b1d564fd25732d4d",
+   "year": 107,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_b1d564fd25732d4d.webp"
+  }
+ ]
+}

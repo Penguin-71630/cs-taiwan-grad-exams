@@ -1,0 +1,25 @@
+{
+ "unit_key": "資料結構§1-2 Indexing, File Organization, Query Performance",
+ "subject": "資料結構",
+ "group": "資演",
+ "chapter": "資料庫：Relational Databases, Storage and Indexing",
+ "topic": "Indexing, File Organization, Query Performance",
+ "questions": [
+  {
+   "id": "42d8af50b3",
+   "year": 103,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/42d8af50b3.webp"
+  },
+  {
+   "id": "4109c4df50",
+   "year": 103,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/4109c4df50.webp"
+  }
+ ]
+}

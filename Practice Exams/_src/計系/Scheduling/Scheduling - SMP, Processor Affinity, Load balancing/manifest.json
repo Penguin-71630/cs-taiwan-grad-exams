@@ -1,0 +1,49 @@
+{
+ "unit_key": "5-5 SMP, Processor Affinity, Load balancing",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Scheduling",
+ "topic": "SMP, Processor Affinity, Load balancing",
+ "questions": [
+  {
+   "id": "m_40a150886fd0756d",
+   "year": 101,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "II-Q4",
+   "url": "https://img.ptsfu.org/m_40a150886fd0756d.webp"
+  },
+  {
+   "id": "m_096d4dc7956a4a75",
+   "year": 103,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_096d4dc7956a4a75.webp"
+  },
+  {
+   "id": "m_5b6e97ba64f4fa2b",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_5b6e97ba64f4fa2b.webp"
+  },
+  {
+   "id": "m_7c6594724d3be170",
+   "year": 100,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_7c6594724d3be170.webp"
+  },
+  {
+   "id": "m_89e6b61ede5ee520",
+   "year": 104,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_89e6b61ede5ee520.webp"
+  }
+ ]
+}

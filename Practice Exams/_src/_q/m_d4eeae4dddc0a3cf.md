@@ -1,0 +1,1 @@
+3\. **(3 points)** Let $\mathbf{v}_1=(2,6)^{\mathrm{T}}$, $\mathbf{v}_2=(1,4)^{\mathrm{T}}$, and $\mathbf{S}=\begin{bmatrix} 4 & 1 \\ 2 & 1 \end{bmatrix}$. Find vectors $\mathbf{u}_1$ and $\mathbf{u}_2$ so that $\mathbf{S}$ will be the transition matrix from the ordered basis $\{\mathbf{u}_1, \mathbf{u}_2\}$ to the ordered basis $\{\mathbf{v}_1, \mathbf{v}_2\}$.

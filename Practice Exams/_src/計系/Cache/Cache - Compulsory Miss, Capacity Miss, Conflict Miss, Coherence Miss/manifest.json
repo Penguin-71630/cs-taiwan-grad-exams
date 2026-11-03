@@ -1,0 +1,97 @@
+{
+ "unit_key": "Compulsory Miss, Capacity Miss, Conflict Miss, Coherence Miss",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Cache",
+ "topic": "Compulsory Miss, Capacity Miss, Conflict Miss, Coherence Miss",
+ "questions": [
+  {
+   "id": "4f360782d1",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/4f360782d1.webp"
+  },
+  {
+   "id": "m_e4a29f4decf72fc5",
+   "year": 102,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/m_e4a29f4decf72fc5.webp"
+  },
+  {
+   "id": "m_d67c64cce33521fe",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_d67c64cce33521fe.webp"
+  },
+  {
+   "id": "eefe10162b",
+   "year": 105,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/eefe10162b.webp"
+  },
+  {
+   "id": "m_3b72fb3b52efdc0c",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_3b72fb3b52efdc0c.webp"
+  },
+  {
+   "id": "m_c2638d8feb130849",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q20",
+   "url": "https://img.ptsfu.org/m_c2638d8feb130849.webp"
+  },
+  {
+   "id": "m_2dbd19c9bad91235",
+   "year": 101,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_2dbd19c9bad91235.webp"
+  },
+  {
+   "id": "55d2bf6cba",
+   "year": 102,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/55d2bf6cba.webp"
+  },
+  {
+   "id": "m_5336c2c3bbfd2598",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q21",
+   "url": "https://img.ptsfu.org/m_5336c2c3bbfd2598.webp"
+  },
+  {
+   "id": "m_5dc422bf68432ab4",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/m_5dc422bf68432ab4.webp"
+  },
+  {
+   "id": "m_890f203ba64e62da",
+   "year": 100,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_890f203ba64e62da.webp"
+  }
+ ]
+}

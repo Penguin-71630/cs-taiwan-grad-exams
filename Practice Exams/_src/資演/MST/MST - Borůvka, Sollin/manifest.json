@@ -1,0 +1,33 @@
+{
+ "unit_key": "Borůvka, Sollin",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "MST",
+ "topic": "Borůvka, Sollin",
+ "questions": [
+  {
+   "id": "m_9ae8296472b66e92",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q52",
+   "url": "https://img.ptsfu.org/m_9ae8296472b66e92.webp"
+  },
+  {
+   "id": "m_3ac432af33b2082e",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q50",
+   "url": "https://img.ptsfu.org/m_3ac432af33b2082e.webp"
+  },
+  {
+   "id": "m_410775674566eb95",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q51",
+   "url": "https://img.ptsfu.org/m_410775674566eb95.webp"
+  }
+ ]
+}

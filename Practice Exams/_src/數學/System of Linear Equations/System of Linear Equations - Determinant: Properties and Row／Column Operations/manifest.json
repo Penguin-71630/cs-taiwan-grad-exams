@@ -1,0 +1,113 @@
+{
+ "unit_key": "2-3 Determinant: Properties and Row/Column Operations",
+ "subject": "線性代數",
+ "group": "數學",
+ "chapter": "System of Linear Equations",
+ "topic": "Determinant: Properties and Row／Column Operations",
+ "questions": [
+  {
+   "id": "05b76f98ca",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/05b76f98ca.webp"
+  },
+  {
+   "id": "0f9bfc6b94",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/0f9bfc6b94.webp"
+  },
+  {
+   "id": "0d0a77695e",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/0d0a77695e.webp"
+  },
+  {
+   "id": "m_00e7a96f657fdab4",
+   "year": 107,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_00e7a96f657fdab4.webp"
+  },
+  {
+   "id": "m_37229310d441cefe",
+   "year": 101,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_37229310d441cefe.webp"
+  },
+  {
+   "id": "m_e0eda60cebb57fab",
+   "year": 107,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_e0eda60cebb57fab.webp"
+  },
+  {
+   "id": "dm03_7fa0d3a18c738035",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/dm03_7fa0d3a18c738035.webp"
+  },
+  {
+   "id": "m_346e3f54fc29b639",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_346e3f54fc29b639.webp"
+  },
+  {
+   "id": "m_1139b2b3f9b0ad12",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_1139b2b3f9b0ad12.webp"
+  },
+  {
+   "id": "m_0cec511d19da3f63",
+   "year": 101,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_0cec511d19da3f63.webp"
+  },
+  {
+   "id": "m_f306f43b64f0023c",
+   "year": 100,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_f306f43b64f0023c.webp"
+  },
+  {
+   "id": "m_00c77d25b900ee4a",
+   "year": 100,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_00c77d25b900ee4a.webp"
+  },
+  {
+   "id": "m_35f1eba030fb5fe2",
+   "year": 102,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_35f1eba030fb5fe2.webp"
+  }
+ ]
+}

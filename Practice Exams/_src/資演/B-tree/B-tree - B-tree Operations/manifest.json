@@ -1,0 +1,33 @@
+{
+ "unit_key": "18-2 B-tree Operations",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "B-tree",
+ "topic": "B-tree Operations",
+ "questions": [
+  {
+   "id": "m_697e01165aa61604",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q21",
+   "url": "https://img.ptsfu.org/m_697e01165aa61604.webp"
+  },
+  {
+   "id": "m_add4466c27a35d7a",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_add4466c27a35d7a.webp"
+  },
+  {
+   "id": "m_dc8c71bc4a704a54",
+   "year": 106,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_dc8c71bc4a704a54.webp"
+  }
+ ]
+}

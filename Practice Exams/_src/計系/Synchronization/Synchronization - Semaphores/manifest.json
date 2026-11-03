@@ -1,0 +1,129 @@
+{
+ "unit_key": "6-6 Semaphores",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Synchronization",
+ "topic": "Semaphores",
+ "questions": [
+  {
+   "id": "m_b4d084d15a1aa44a",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q28-Q30",
+   "url": "https://img.ptsfu.org/m_b4d084d15a1aa44a.webp"
+  },
+  {
+   "id": "ba1715c05b",
+   "year": 102,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/ba1715c05b.webp"
+  },
+  {
+   "id": "m_eadfefefa5ccc679",
+   "year": 103,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_eadfefefa5ccc679.webp"
+  },
+  {
+   "id": "m_01f64867c36e73c4",
+   "year": 107,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/m_01f64867c36e73c4.webp"
+  },
+  {
+   "id": "m_d80b42f259568b8a",
+   "year": 104,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_d80b42f259568b8a.webp"
+  },
+  {
+   "id": "m_bd12b2e043fa73df",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q26-Q28",
+   "url": "https://img.ptsfu.org/m_bd12b2e043fa73df.webp"
+  },
+  {
+   "id": "m_eb0a8b1630cfa60f",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_eb0a8b1630cfa60f.webp"
+  },
+  {
+   "id": "3ea5711739",
+   "year": 104,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/3ea5711739.webp"
+  },
+  {
+   "id": "m_c71cae02b270a014",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/m_c71cae02b270a014.webp"
+  },
+  {
+   "id": "m_a6312861c55c000e",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_a6312861c55c000e.webp"
+  },
+  {
+   "id": "7b381869b7",
+   "year": 103,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/7b381869b7.webp"
+  },
+  {
+   "id": "92cc0bbc54",
+   "year": 101,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/92cc0bbc54.webp"
+  },
+  {
+   "id": "m_46f93ef00a718ce9",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_46f93ef00a718ce9.webp"
+  },
+  {
+   "id": "m_e1a974a1707edeeb",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_e1a974a1707edeeb.webp"
+  },
+  {
+   "id": "m_4f6c45814427df6f",
+   "year": 103,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q14-Q16",
+   "url": "https://img.ptsfu.org/m_4f6c45814427df6f.webp"
+  }
+ ]
+}

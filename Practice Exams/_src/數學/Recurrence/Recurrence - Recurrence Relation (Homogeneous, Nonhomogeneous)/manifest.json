@@ -1,0 +1,201 @@
+{
+ "unit_key": "7-1 Recurrence Relation (Homogeneous, Nonhomogeneous)",
+ "subject": "離散數學",
+ "group": "數學",
+ "chapter": "Recurrence",
+ "topic": "Recurrence Relation (Homogeneous, Nonhomogeneous)",
+ "questions": [
+  {
+   "id": "d48b3d084e",
+   "year": 100,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/d48b3d084e.webp"
+  },
+  {
+   "id": "4f71f00bec",
+   "year": 101,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/4f71f00bec.webp"
+  },
+  {
+   "id": "5199870a21",
+   "year": 103,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/5199870a21.webp"
+  },
+  {
+   "id": "351863faeb",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/351863faeb.webp"
+  },
+  {
+   "id": "33c1bdac6f",
+   "year": 107,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/33c1bdac6f.webp"
+  },
+  {
+   "id": "dm03_4c6ddfc5f320f84a",
+   "year": 106,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/dm03_4c6ddfc5f320f84a.webp"
+  },
+  {
+   "id": "dm03_76c993dc30c81639",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q16",
+   "url": "https://img.ptsfu.org/dm03_76c993dc30c81639.webp"
+  },
+  {
+   "id": "m_6c33cea11f7e3c66",
+   "year": 105,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_6c33cea11f7e3c66.webp"
+  },
+  {
+   "id": "m_6c115ce56d4a0ac9",
+   "year": 104,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_6c115ce56d4a0ac9.webp"
+  },
+  {
+   "id": "m_87a3c15f7798526a",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_87a3c15f7798526a.webp"
+  },
+  {
+   "id": "m_b1f2e0cab00c09fb",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_b1f2e0cab00c09fb.webp"
+  },
+  {
+   "id": "m_36f7712c097bfe3b",
+   "year": 106,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_36f7712c097bfe3b.webp"
+  },
+  {
+   "id": "m_b81a786d2dedee4e",
+   "year": 107,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_b81a786d2dedee4e.webp"
+  },
+  {
+   "id": "m_3a986c20de958c23",
+   "year": 105,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_3a986c20de958c23.webp"
+  },
+  {
+   "id": "m_c82df737b0fb7ff7",
+   "year": 102,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_c82df737b0fb7ff7.webp"
+  },
+  {
+   "id": "m_d4bd96b2166b9b19",
+   "year": 102,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_d4bd96b2166b9b19.webp"
+  },
+  {
+   "id": "m_7de4e920aab5e5cd",
+   "year": 104,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_7de4e920aab5e5cd.webp"
+  },
+  {
+   "id": "m_48400dea37fc3003",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q11(b)",
+   "url": "https://img.ptsfu.org/m_48400dea37fc3003.webp"
+  },
+  {
+   "id": "39464e78d3",
+   "year": 104,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/39464e78d3.webp"
+  },
+  {
+   "id": "cc42f4ef57",
+   "year": 106,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/cc42f4ef57.webp"
+  },
+  {
+   "id": "4de3b57f90",
+   "year": 100,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/4de3b57f90.webp"
+  },
+  {
+   "id": "59f2b607b5",
+   "year": 103,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/59f2b607b5.webp"
+  },
+  {
+   "id": "dadaa3af54",
+   "year": 101,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/dadaa3af54.webp"
+  },
+  {
+   "id": "10732488a4",
+   "year": 103,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/10732488a4.webp"
+  }
+ ]
+}

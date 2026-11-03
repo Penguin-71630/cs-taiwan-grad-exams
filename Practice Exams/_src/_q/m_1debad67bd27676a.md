@@ -1,0 +1,17 @@
+注意：每大題的小題必需全對該大題才給分。每大題5分。請使用答案卡作答
+
+6\. A job priority queue is implemented using a Min-Heap in which a lower key value means a higher priority. The jobs are entered and stored in the Min-Heap as shown in the following array **Q.**
+
+| index | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| keyvalue | -- | 6 | 8 | 10 | 12 | 24 | 15 | 13 | 20 | 18 | 26 |  |  |  |  |  |  |
+
+(16) Next job is extracted from the job queue for execution. What is the value of Q[4] in the remaining job queue?
+
+(17) After step (16) is executed, next job is extracted from the job queue for execution. What is the value of Q[5] in the remaining job queue?
+
+(A)13\
+(B) 15\
+(C) 18\
+(D) 24\
+(E) None of the above

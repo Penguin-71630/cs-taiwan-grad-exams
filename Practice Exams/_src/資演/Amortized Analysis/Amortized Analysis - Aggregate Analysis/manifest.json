@@ -1,0 +1,25 @@
+{
+ "unit_key": "16-1 Aggregate Analysis",
+ "subject": "演算法",
+ "group": "資演",
+ "chapter": "Amortized Analysis",
+ "topic": "Aggregate Analysis",
+ "questions": [
+  {
+   "id": "m_a537272bcae375c0",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q30",
+   "url": "https://img.ptsfu.org/m_a537272bcae375c0.webp"
+  },
+  {
+   "id": "m_ec68b8478508a4e7",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q28",
+   "url": "https://img.ptsfu.org/m_ec68b8478508a4e7.webp"
+  }
+ ]
+}

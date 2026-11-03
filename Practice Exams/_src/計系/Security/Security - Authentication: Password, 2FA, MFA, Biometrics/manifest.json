@@ -1,0 +1,33 @@
+{
+ "unit_key": "16-5 Authentication: Password, 2FA, MFA, Biometrics",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Security",
+ "topic": "Authentication: Password, 2FA, MFA, Biometrics",
+ "questions": [
+  {
+   "id": "m_bfd0a3b87c17af0c",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q18",
+   "url": "https://img.ptsfu.org/m_bfd0a3b87c17af0c.webp"
+  },
+  {
+   "id": "m_9b22997a569fb065",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q20",
+   "url": "https://img.ptsfu.org/m_9b22997a569fb065.webp"
+  },
+  {
+   "id": "m_cf4ccef0339527f6",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_cf4ccef0339527f6.webp"
+  }
+ ]
+}

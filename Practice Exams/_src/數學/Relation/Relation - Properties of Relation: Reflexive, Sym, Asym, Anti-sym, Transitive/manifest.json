@@ -1,0 +1,97 @@
+{
+ "unit_key": "11-1 Properties of Relation: Reflexive, Sym, Asym, Anti-sym, Transitive",
+ "subject": "離散數學",
+ "group": "數學",
+ "chapter": "Relation",
+ "topic": "Properties of Relation: Reflexive, Sym, Asym, Anti-sym, Transitive",
+ "questions": [
+  {
+   "id": "480a01b752",
+   "year": 100,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/480a01b752.webp"
+  },
+  {
+   "id": "7c98cb7a76",
+   "year": 106,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/7c98cb7a76.webp"
+  },
+  {
+   "id": "db12858616",
+   "year": 107,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/db12858616.webp"
+  },
+  {
+   "id": "m_79fa42a714668790",
+   "year": 101,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_79fa42a714668790.webp"
+  },
+  {
+   "id": "m_6c115ce56d4a0ac9",
+   "year": 104,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_6c115ce56d4a0ac9.webp"
+  },
+  {
+   "id": "m_31414a1e6104616e",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_31414a1e6104616e.webp"
+  },
+  {
+   "id": "m_048307496ee1be80",
+   "year": 102,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_048307496ee1be80.webp"
+  },
+  {
+   "id": "2dd77b4684",
+   "year": 104,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/2dd77b4684.webp"
+  },
+  {
+   "id": "446839c901",
+   "year": 105,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/446839c901.webp"
+  },
+  {
+   "id": "m_fe8ed09661e06e49",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/m_fe8ed09661e06e49.webp"
+  },
+  {
+   "id": "45acb5f535",
+   "year": 107,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/45acb5f535.webp"
+  }
+ ]
+}

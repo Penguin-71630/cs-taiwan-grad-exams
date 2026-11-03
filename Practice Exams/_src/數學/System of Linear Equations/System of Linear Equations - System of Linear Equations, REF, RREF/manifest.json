@@ -1,0 +1,89 @@
+{
+ "unit_key": "2-1 System of Linear Equations, REF, RREF",
+ "subject": "線性代數",
+ "group": "數學",
+ "chapter": "System of Linear Equations",
+ "topic": "System of Linear Equations, REF, RREF",
+ "questions": [
+  {
+   "id": "59ba1c8255",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/59ba1c8255.webp"
+  },
+  {
+   "id": "20eeb59fc8",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/20eeb59fc8.webp"
+  },
+  {
+   "id": "0c5a63a60b",
+   "year": 101,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/0c5a63a60b.webp"
+  },
+  {
+   "id": "588ef97162",
+   "year": 103,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/588ef97162.webp"
+  },
+  {
+   "id": "m_f0adac25ca23ac35",
+   "year": 101,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_f0adac25ca23ac35.webp"
+  },
+  {
+   "id": "m_8d43d01ae64bd3e5",
+   "year": 107,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_8d43d01ae64bd3e5.webp"
+  },
+  {
+   "id": "dm03_8cc8307ab7399853",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/dm03_8cc8307ab7399853.webp"
+  },
+  {
+   "id": "m_d1fba798b2ed721c",
+   "year": 104,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_d1fba798b2ed721c.webp"
+  },
+  {
+   "id": "m_2aa67a03ce324b30",
+   "year": 101,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_2aa67a03ce324b30.webp"
+  },
+  {
+   "id": "m_abf1a5f315a68119",
+   "year": 100,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_abf1a5f315a68119.webp"
+  }
+ ]
+}

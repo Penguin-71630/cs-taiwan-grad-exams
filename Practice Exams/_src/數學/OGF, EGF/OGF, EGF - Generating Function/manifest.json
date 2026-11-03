@@ -1,0 +1,65 @@
+{
+ "unit_key": "6-1 Generating Function",
+ "subject": "離散數學",
+ "group": "數學",
+ "chapter": "OGF, EGF",
+ "topic": "Generating Function",
+ "questions": [
+  {
+   "id": "f92019a577",
+   "year": 103,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/f92019a577.webp"
+  },
+  {
+   "id": "7bb93c6e58",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/7bb93c6e58.webp"
+  },
+  {
+   "id": "738604bf70",
+   "year": 107,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/738604bf70.webp"
+  },
+  {
+   "id": "dm03_59a303cbd73b5b15",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/dm03_59a303cbd73b5b15.webp"
+  },
+  {
+   "id": "cc42f4ef57",
+   "year": 106,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/cc42f4ef57.webp"
+  },
+  {
+   "id": "7063abd7ea",
+   "year": 100,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/7063abd7ea.webp"
+  },
+  {
+   "id": "446839c901",
+   "year": 105,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/446839c901.webp"
+  }
+ ]
+}

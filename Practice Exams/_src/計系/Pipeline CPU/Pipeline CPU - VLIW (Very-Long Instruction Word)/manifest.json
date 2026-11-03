@@ -1,0 +1,65 @@
+{
+ "unit_key": "VLIW (Very-Long Instruction Word)",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Pipeline CPU",
+ "topic": "VLIW (Very-Long Instruction Word)",
+ "questions": [
+  {
+   "id": "m_80c7727f2cfc9bb1",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_80c7727f2cfc9bb1.webp"
+  },
+  {
+   "id": "m_b015d39be7908b09",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_b015d39be7908b09.webp"
+  },
+  {
+   "id": "53cbf1d988",
+   "year": 107,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/53cbf1d988.webp"
+  },
+  {
+   "id": "m_48eae64731c2226f",
+   "year": 100,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_48eae64731c2226f.webp"
+  },
+  {
+   "id": "m_e3317268590b9cc6",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_e3317268590b9cc6.webp"
+  },
+  {
+   "id": "m_1dd5db95edd2c8f6",
+   "year": 106,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_1dd5db95edd2c8f6.webp"
+  },
+  {
+   "id": "cd21a936c0",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/cd21a936c0.webp"
+  }
+ ]
+}

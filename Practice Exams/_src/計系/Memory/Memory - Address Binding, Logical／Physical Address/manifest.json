@@ -1,0 +1,65 @@
+{
+ "unit_key": "9-1 Address Binding, Logical/Physical Address",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Memory",
+ "topic": "Address Binding, Logical／Physical Address",
+ "questions": [
+  {
+   "id": "m_2c638accd883540b",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_2c638accd883540b.webp"
+  },
+  {
+   "id": "m_435ff648b55718e3",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_435ff648b55718e3.webp"
+  },
+  {
+   "id": "m_269a7594003eea9e",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q24-Q28",
+   "url": "https://img.ptsfu.org/m_269a7594003eea9e.webp"
+  },
+  {
+   "id": "2fbad23328",
+   "year": 104,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/2fbad23328.webp"
+  },
+  {
+   "id": "m_970f22d9cbff27db",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/m_970f22d9cbff27db.webp"
+  },
+  {
+   "id": "m_c8dd662a0b09cb16",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/m_c8dd662a0b09cb16.webp"
+  },
+  {
+   "id": "m_961b7228b0faf301",
+   "year": 107,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_961b7228b0faf301.webp"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "unit_key": "7-2 Gram-Schmidt",
+ "subject": "線性代數",
+ "group": "數學",
+ "chapter": "Inner Product Space",
+ "topic": "Gram-Schmidt",
+ "questions": [
+  {
+   "id": "aff1037deb",
+   "year": 104,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/aff1037deb.webp"
+  },
+  {
+   "id": "d09bfcbc88",
+   "year": 106,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/d09bfcbc88.webp"
+  },
+  {
+   "id": "09f7a349b8",
+   "year": 107,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/09f7a349b8.webp"
+  },
+  {
+   "id": "dm03_519807ce99a61a9d",
+   "year": 107,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/dm03_519807ce99a61a9d.webp"
+  },
+  {
+   "id": "m_71e98f02a7980236",
+   "year": 104,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_71e98f02a7980236.webp"
+  },
+  {
+   "id": "m_b368e0bb96b1cea9",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_b368e0bb96b1cea9.webp"
+  }
+ ]
+}

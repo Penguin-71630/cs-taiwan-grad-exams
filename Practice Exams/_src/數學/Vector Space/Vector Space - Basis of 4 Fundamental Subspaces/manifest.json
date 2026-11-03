@@ -1,0 +1,41 @@
+{
+ "unit_key": "3-3 Basis of 4 Fundamental Subspaces",
+ "subject": "線性代數",
+ "group": "數學",
+ "chapter": "Vector Space",
+ "topic": "Basis of 4 Fundamental Subspaces",
+ "questions": [
+  {
+   "id": "m_2aa67a03ce324b30",
+   "year": 101,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_2aa67a03ce324b30.webp"
+  },
+  {
+   "id": "m_b368e0bb96b1cea9",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_b368e0bb96b1cea9.webp"
+  },
+  {
+   "id": "m_8af62953c892a241",
+   "year": 105,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_8af62953c892a241.webp"
+  },
+  {
+   "id": "dm03_6e0ea1bbb4b59ae0",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/dm03_6e0ea1bbb4b59ae0.webp"
+  }
+ ]
+}

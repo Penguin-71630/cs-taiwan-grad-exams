@@ -1,0 +1,41 @@
+{
+ "unit_key": "11-3 Partial Ordering Set (POS), Hasse Diagram, Comparable",
+ "subject": "離散數學",
+ "group": "數學",
+ "chapter": "Relation",
+ "topic": "Partial Ordering Set (POS), Hasse Diagram, Comparable",
+ "questions": [
+  {
+   "id": "m_31414a1e6104616e",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_31414a1e6104616e.webp"
+  },
+  {
+   "id": "m_b2a0e80c4bfe3af9",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12(b)",
+   "url": "https://img.ptsfu.org/m_b2a0e80c4bfe3af9.webp"
+  },
+  {
+   "id": "e06008a50b",
+   "year": 100,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/e06008a50b.webp"
+  },
+  {
+   "id": "45acb5f535",
+   "year": 107,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/45acb5f535.webp"
+  }
+ ]
+}

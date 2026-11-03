@@ -1,0 +1,49 @@
+{
+ "unit_key": "6-2 Critical Section (Mut-EX, Progress, Bounded Waiting)",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Synchronization",
+ "topic": "Critical Section (Mut-EX, Progress, Bounded Waiting)",
+ "questions": [
+  {
+   "id": "m_7feac4bf058322e4",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_7feac4bf058322e4.webp"
+  },
+  {
+   "id": "m_d80b42f259568b8a",
+   "year": 104,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_d80b42f259568b8a.webp"
+  },
+  {
+   "id": "3ea5711739",
+   "year": 104,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/3ea5711739.webp"
+  },
+  {
+   "id": "m_0bc1ef92b42c1f18",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_0bc1ef92b42c1f18.webp"
+  },
+  {
+   "id": "m_a6312861c55c000e",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_a6312861c55c000e.webp"
+  }
+ ]
+}

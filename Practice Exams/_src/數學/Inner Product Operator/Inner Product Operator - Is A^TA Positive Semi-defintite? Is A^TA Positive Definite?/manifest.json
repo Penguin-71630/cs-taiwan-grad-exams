@@ -1,0 +1,33 @@
+{
+ "unit_key": "8-3 Is A^TA Positive Semi-defintite? Is A^TA Positive Definite?",
+ "subject": "線性代數",
+ "group": "數學",
+ "chapter": "Inner Product Operator",
+ "topic": "Is A^TA Positive Semi-defintite? Is A^TA Positive Definite?",
+ "questions": [
+  {
+   "id": "m_57d966568d3767c3",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_57d966568d3767c3.webp"
+  },
+  {
+   "id": "m_816db793ff11023a",
+   "year": 105,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_816db793ff11023a.webp"
+  },
+  {
+   "id": "dm03_9a905b34746d1ef8",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/dm03_9a905b34746d1ef8.webp"
+  }
+ ]
+}

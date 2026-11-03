@@ -1,0 +1,105 @@
+{
+ "unit_key": "TLB, Effective Access Time",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Virtual Memory",
+ "topic": "TLB, Effective Access Time",
+ "questions": [
+  {
+   "id": "m_c51e494c6fdf8434",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_c51e494c6fdf8434.webp"
+  },
+  {
+   "id": "m_3b9a01fe90fad18f",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_3b9a01fe90fad18f.webp"
+  },
+  {
+   "id": "m_428296470643c427",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_428296470643c427.webp"
+  },
+  {
+   "id": "b48221f1e8",
+   "year": 107,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/b48221f1e8.webp"
+  },
+  {
+   "id": "m_67859e80ac09ab3c",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q22",
+   "url": "https://img.ptsfu.org/m_67859e80ac09ab3c.webp"
+  },
+  {
+   "id": "m_e4a29f4decf72fc5",
+   "year": 102,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/m_e4a29f4decf72fc5.webp"
+  },
+  {
+   "id": "m_59ecc34135ef1078",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q34-Q38",
+   "url": "https://img.ptsfu.org/m_59ecc34135ef1078.webp"
+  },
+  {
+   "id": "m_b131786973e8b881",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_b131786973e8b881.webp"
+  },
+  {
+   "id": "m_f1c8fef0e02f432f",
+   "year": 100,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_f1c8fef0e02f432f.webp"
+  },
+  {
+   "id": "c8a0b207cf",
+   "year": 101,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/c8a0b207cf.webp"
+  },
+  {
+   "id": "m_7db5676b5e380a7f",
+   "year": 103,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_7db5676b5e380a7f.webp"
+  },
+  {
+   "id": "m_961b7228b0faf301",
+   "year": 107,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_961b7228b0faf301.webp"
+  }
+ ]
+}

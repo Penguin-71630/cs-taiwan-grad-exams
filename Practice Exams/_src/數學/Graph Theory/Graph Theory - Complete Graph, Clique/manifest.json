@@ -1,0 +1,25 @@
+{
+ "unit_key": "8-3 Complete Graph, Clique",
+ "subject": "離散數學",
+ "group": "數學",
+ "chapter": "Graph Theory",
+ "topic": "Complete Graph, Clique",
+ "questions": [
+  {
+   "id": "m_79fa42a714668790",
+   "year": 101,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_79fa42a714668790.webp"
+  },
+  {
+   "id": "m_0fa42328207b96a1",
+   "year": 102,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_0fa42328207b96a1.webp"
+  }
+ ]
+}

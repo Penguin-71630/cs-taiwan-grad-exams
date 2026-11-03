@@ -1,0 +1,33 @@
+{
+ "unit_key": "3-4 IPC",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Process",
+ "topic": "IPC",
+ "questions": [
+  {
+   "id": "m_435ff648b55718e3",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_435ff648b55718e3.webp"
+  },
+  {
+   "id": "m_d7c4cf012de08413",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_d7c4cf012de08413.webp"
+  },
+  {
+   "id": "m_89f65e6448b75627",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_89f65e6448b75627.webp"
+  }
+ ]
+}

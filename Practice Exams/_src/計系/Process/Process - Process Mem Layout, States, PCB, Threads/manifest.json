@@ -1,0 +1,97 @@
+{
+ "unit_key": "3-1 Process Mem Layout, States, PCB, Threads",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Process",
+ "topic": "Process Mem Layout, States, PCB, Threads",
+ "questions": [
+  {
+   "id": "m_2c638accd883540b",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_2c638accd883540b.webp"
+  },
+  {
+   "id": "m_14a0d9dfe0d68b2a",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_14a0d9dfe0d68b2a.webp"
+  },
+  {
+   "id": "m_91226b0f6187a27c",
+   "year": 105,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_91226b0f6187a27c.webp"
+  },
+  {
+   "id": "m_e0132ffad4cc99c0",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q20",
+   "url": "https://img.ptsfu.org/m_e0132ffad4cc99c0.webp"
+  },
+  {
+   "id": "fba5763d8f",
+   "year": 106,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/fba5763d8f.webp"
+  },
+  {
+   "id": "83d0b91751",
+   "year": 104,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/83d0b91751.webp"
+  },
+  {
+   "id": "m_f11bfc20e738df21",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_f11bfc20e738df21.webp"
+  },
+  {
+   "id": "m_a7e27ea1a6cbd571",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_a7e27ea1a6cbd571.webp"
+  },
+  {
+   "id": "a9d18f0669",
+   "year": 103,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/a9d18f0669.webp"
+  },
+  {
+   "id": "m_46f03ff469c79167",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_46f03ff469c79167.webp"
+  },
+  {
+   "id": "m_37d19c4fa013bac2",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_37d19c4fa013bac2.webp"
+  }
+ ]
+}

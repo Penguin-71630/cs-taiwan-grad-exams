@@ -1,0 +1,41 @@
+{
+ "unit_key": "Cache Coherence: Snooping (MESI), Directory-Based (MOESI)",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Cache",
+ "topic": "Cache Coherence: Snooping (MESI), Directory-Based (MOESI)",
+ "questions": [
+  {
+   "id": "4f360782d1",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/4f360782d1.webp"
+  },
+  {
+   "id": "m_d67c64cce33521fe",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_d67c64cce33521fe.webp"
+  },
+  {
+   "id": "m_f1c8fef0e02f432f",
+   "year": 100,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_f1c8fef0e02f432f.webp"
+  },
+  {
+   "id": "m_cd774270964414f4",
+   "year": 104,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_cd774270964414f4.webp"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "unit_key": "13-4 File Protection",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "File System",
+ "topic": "File Protection",
+ "questions": [
+  {
+   "id": "m_f8f33a1cc7091a45",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q28-Q29",
+   "url": "https://img.ptsfu.org/m_f8f33a1cc7091a45.webp"
+  },
+  {
+   "id": "m_ad807e81fb64d670",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q25-Q27",
+   "url": "https://img.ptsfu.org/m_ad807e81fb64d670.webp"
+  },
+  {
+   "id": "m_71c8385e0dce547e",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_71c8385e0dce547e.webp"
+  },
+  {
+   "id": "m_7ffee8acbeef60d6",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_7ffee8acbeef60d6.webp"
+  },
+  {
+   "id": "m_6e254757e8e3f114",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_6e254757e8e3f114.webp"
+  },
+  {
+   "id": "m_b246d447a4ab7483",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q37-Q40",
+   "url": "https://img.ptsfu.org/m_b246d447a4ab7483.webp"
+  }
+ ]
+}

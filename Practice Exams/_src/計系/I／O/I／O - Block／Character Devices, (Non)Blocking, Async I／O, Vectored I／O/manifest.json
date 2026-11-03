@@ -1,0 +1,65 @@
+{
+ "unit_key": "12-3 Block/Character Devices, (Non)Blocking, Async I/O, Vectored I/O",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "I／O",
+ "topic": "Block／Character Devices, (Non)Blocking, Async I／O, Vectored I／O",
+ "questions": [
+  {
+   "id": "m_b792a44d8620fed4",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_b792a44d8620fed4.webp"
+  },
+  {
+   "id": "m_3e3e351d3728fcc9",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_3e3e351d3728fcc9.webp"
+  },
+  {
+   "id": "m_f3bd225220a33f4f",
+   "year": 104,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_f3bd225220a33f4f.webp"
+  },
+  {
+   "id": "m_5b161524e230df15",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q18",
+   "url": "https://img.ptsfu.org/m_5b161524e230df15.webp"
+  },
+  {
+   "id": "m_1b38c82331619f58",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_1b38c82331619f58.webp"
+  },
+  {
+   "id": "m_a7e27ea1a6cbd571",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_a7e27ea1a6cbd571.webp"
+  },
+  {
+   "id": "m_abef756230f5aafc",
+   "year": 100,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_abef756230f5aafc.webp"
+  }
+ ]
+}

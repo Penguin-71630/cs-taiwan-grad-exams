@@ -1,0 +1,49 @@
+{
+ "unit_key": "4-3 User-level/Kernel-level Thread, M-1, 1-1, M-M",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Thread and Concurrency",
+ "topic": "User-level／Kernel-level Thread, M-1, 1-1, M-M",
+ "questions": [
+  {
+   "id": "6638321631",
+   "year": 100,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/6638321631.webp"
+  },
+  {
+   "id": "m_09fe5f34762f2a66",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_09fe5f34762f2a66.webp"
+  },
+  {
+   "id": "m_f749658b5b161cd4",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_f749658b5b161cd4.webp"
+  },
+  {
+   "id": "m_4ab5322ac5bc1735",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_4ab5322ac5bc1735.webp"
+  },
+  {
+   "id": "m_89b51edd00d63d3e",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_89b51edd00d63d3e.webp"
+  }
+ ]
+}

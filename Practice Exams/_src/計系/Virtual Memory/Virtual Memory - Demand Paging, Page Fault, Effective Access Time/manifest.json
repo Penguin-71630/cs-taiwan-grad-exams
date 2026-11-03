@@ -1,0 +1,65 @@
+{
+ "unit_key": "10-2 Demand Paging, Page Fault, Effective Access Time",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Virtual Memory",
+ "topic": "Demand Paging, Page Fault, Effective Access Time",
+ "questions": [
+  {
+   "id": "m_11fa8cfdd5a948ab",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_11fa8cfdd5a948ab.webp"
+  },
+  {
+   "id": "m_59ecc34135ef1078",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q34-Q38",
+   "url": "https://img.ptsfu.org/m_59ecc34135ef1078.webp"
+  },
+  {
+   "id": "m_5b5b12a06eb7cd39",
+   "year": 101,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_5b5b12a06eb7cd39.webp"
+  },
+  {
+   "id": "m_f4ed6381a665a0ad",
+   "year": 103,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_f4ed6381a665a0ad.webp"
+  },
+  {
+   "id": "55220d747b",
+   "year": 102,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/55220d747b.webp"
+  },
+  {
+   "id": "eba2b08693",
+   "year": 100,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/eba2b08693.webp"
+  },
+  {
+   "id": "m_14f1517f250fc954",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q16",
+   "url": "https://img.ptsfu.org/m_14f1517f250fc954.webp"
+  }
+ ]
+}

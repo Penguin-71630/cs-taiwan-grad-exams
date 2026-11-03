@@ -1,0 +1,105 @@
+{
+ "unit_key": "Pipelined Datapath, Control",
+ "subject": "計算機組織",
+ "group": "計系",
+ "chapter": "Pipeline CPU",
+ "topic": "Pipelined Datapath, Control",
+ "questions": [
+  {
+   "id": "m_c2df8b8a70db8d22",
+   "year": 101,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_c2df8b8a70db8d22.webp"
+  },
+  {
+   "id": "m_62fedaf6141d7039",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q29-Q33",
+   "url": "https://img.ptsfu.org/m_62fedaf6141d7039.webp"
+  },
+  {
+   "id": "m_7d3a367056066a45",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q16",
+   "url": "https://img.ptsfu.org/m_7d3a367056066a45.webp"
+  },
+  {
+   "id": "m_a11f2ed5fb52a88a",
+   "year": 102,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_a11f2ed5fb52a88a.webp"
+  },
+  {
+   "id": "m_3cc2919b23fa9182",
+   "year": 103,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_3cc2919b23fa9182.webp"
+  },
+  {
+   "id": "m_3ab4ce9d30b6db5f",
+   "year": 104,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q14",
+   "url": "https://img.ptsfu.org/m_3ab4ce9d30b6db5f.webp"
+  },
+  {
+   "id": "m_9b0e80759bd4d160",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q24-Q27",
+   "url": "https://img.ptsfu.org/m_9b0e80759bd4d160.webp"
+  },
+  {
+   "id": "m_fce786d5c3bca17b",
+   "year": 101,
+   "school": "交大",
+   "paper": "計算機組織",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_fce786d5c3bca17b.webp"
+  },
+  {
+   "id": "m_04f032be930f2eb6",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q24",
+   "url": "https://img.ptsfu.org/m_04f032be930f2eb6.webp"
+  },
+  {
+   "id": "m_be8c3a5544915750",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q19",
+   "url": "https://img.ptsfu.org/m_be8c3a5544915750.webp"
+  },
+  {
+   "id": "m_bf1a11c69b44dabc",
+   "year": 101,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_bf1a11c69b44dabc.webp"
+  },
+  {
+   "id": "m_8bc8b01edaefbb9b",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q17",
+   "url": "https://img.ptsfu.org/m_8bc8b01edaefbb9b.webp"
+  }
+ ]
+}

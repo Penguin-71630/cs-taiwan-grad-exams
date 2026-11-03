@@ -1,0 +1,25 @@
+{
+ "unit_key": "1-3 Multiprocessor, UMA, NUMA",
+ "subject": "作業系統",
+ "group": "計系",
+ "chapter": "Introduction",
+ "topic": "Multiprocessor, UMA, NUMA",
+ "questions": [
+  {
+   "id": "m_3464c2ceefafe40c",
+   "year": 100,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_3464c2ceefafe40c.webp"
+  },
+  {
+   "id": "011e62cf0f",
+   "year": 101,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "II-Q1",
+   "url": "https://img.ptsfu.org/011e62cf0f.webp"
+  }
+ ]
+}

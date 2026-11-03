@@ -1,0 +1,25 @@
+{
+ "unit_key": "10-2 Definition of Spanning Tree",
+ "subject": "離散數學",
+ "group": "數學",
+ "chapter": "Graph Theory",
+ "topic": "Definition of Spanning Tree",
+ "questions": [
+  {
+   "id": "m_bd819835e3bb7102",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12(a)",
+   "url": "https://img.ptsfu.org/m_bd819835e3bb7102.webp"
+  },
+  {
+   "id": "16292567bc",
+   "year": 100,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/16292567bc.webp"
+  }
+ ]
+}

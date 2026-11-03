@@ -1,0 +1,105 @@
+(MIPS) Branch Delay Slot	Pipeline CPU
+5-stage: IF/ID/EX/MEM/WB, Pipeline Register	Pipeline CPU
+Branch Prediction, 1-bit / 2-bit Branch History Table, Accuracy	Pipeline CPU
+Control Hazards	Pipeline CPU
+Data Hazards, Forwarding, Stalling, Load-Use Data Hazard	Pipeline CPU
+DGEMM: Loop Unrolling, Register Renaming	Pipeline CPU
+Exceptions	Pipeline CPU
+ILP, Dynamic Scheduling (Tomasulo, ROB, Speculation), OoO Issue	Pipeline CPU
+Pipelined Datapath, Control	Pipeline CPU
+Tournament Predictor, Correlating Predictor, Gshare	Pipeline CPU
+VLIW (Very-Long Instruction Word)	Pipeline CPU
+(RISC-V) lr/sc, (MIPS) ll/sc	MIPS / RISC-V
+(RV) R/I/S/B/U/J Types, (MIPS) R/I/J Types	MIPS / RISC-V
+2's Complement, Sign Extension	MIPS / RISC-V
+add, sub, lw, sw, 32 General Purpose Registers	MIPS / RISC-V
+and, or, xor, sll, srl, sra	MIPS / RISC-V
+beq, bne, blt, PC-relative Offset	MIPS / RISC-V
+Compile and Start a Program	MIPS / RISC-V
+Instruction Set Principles: ISA Classes, RISC vs. CISC, Word Size	MIPS / RISC-V
+Procedure Call	MIPS / RISC-V
+TAS, TTAS, Spinlock, CAS, ABA Problem, Consensus Number	MIPS / RISC-V
+Wide Immediates, Addressing (PC-relative vs. Pseudodirect)	MIPS / RISC-V
+ALU Propogation	Single-Cycle CPU
+Clock Methodology, Edge-Triggered	Single-Cycle CPU
+D-FF Timing, Critical Path, Max Freq, Hold Violation, Buffer Insertion	Single-Cycle CPU
+Datapath	Single-Cycle CPU
+Main Control, ALU Control	Single-Cycle CPU
+AMAT	Cache
+Cache Blocking / Loop Tiling	Cache
+Cache Coherence: Snooping (MESI), Directory-Based (MOESI)	Cache
+Cache Optimizations (1): Non-Blocking, Multi-Banking	Cache
+Cache Optimizations (2): Way Prediction, Pipelined Access	Cache
+Cache Optimizations (3): Critical Word First, Prefetch	Cache
+Cache Optimizations (4): Compiler Optimization, Victim Cache	Cache
+Cache Replacement Policy	Cache
+Compulsory Miss, Capacity Miss, Conflict Miss, Coherence Miss	Cache
+Direct-Mapped Cache	Cache
+L1 Cache, L2 Cache, L3 Cache, Inclusion vs. Exclusion Policy	Cache
+Memory Wall, Processing-in-Memory, Near-Data Processing	Cache
+Set-Associative, Fully-Associative	Cache
+SRAM, DRAM, NAND / NOR Flash	Cache
+Temporal / Spatial Locality	Cache
+Write-Through vs. Write-Back, Write-Allocate vs. No-Write-Allocate	Cache
+Amdahl's Law	Performance
+Benchmark / SPEC	Performance
+CPU Time (IC x CPI x Tc)	Performance
+Energy Efficiency: Energy vs. Power, Battery Life, Performance per Watt	Performance
+Introduction, 8 Great Ideas	Performance
+MIPS-as-metric fallacy	Performance
+Power Wall (P = CV^2 f)	Performance
+Uniprocessor => Multiprocessor	Performance
+Bisection Bandwidth / Diameter / Routing	Interconnection
+Cluster Networking: InfiniBand, Ethernet, Fat-Tree, Switch Hierarchy	Interconnection
+DGEMM	Interconnection
+Network Topologies: Mesh, Torus, Hypercube	Interconnection
+Roofline Model: Compute-Bound vs. Memory-Bound	Interconnection
+Booth's Algorithm	Arithmetic
+Carry-Lookahead Adder	Arithmetic
+Carry-Save Adder	Arithmetic
+Carry-Select Adder	Arithmetic
+FP Does Not Have Associativity	Arithmetic
+IEEE 754	Arithmetic
+Overflow Detection	Arithmetic
+Restoring vs. Non-Restoring Division	Arithmetic
+Ripple-Carry Adder	Arithmetic
+Shift-Add Multiplication	Arithmetic
+SIMD	Arithmetic
+Wallace Tree	Arithmetic
+Common Framework For Memory Hierarchy	Virtual Memory
+Page Table, Page Fault, Dirty Bit, Reference Bit	Virtual Memory
+Protection Mechanism	Virtual Memory
+TLB, Effective Access Time	Virtual Memory
+VIPT	Virtual Memory
+VM	Virtual Memory
+CUDA	GPU
+DNN Accelerators, Google TPU	GPU
+GPU System Architectures	GPU
+Intro to GPU	GPU
+Mapping Applications to GPUs	GPU
+Mem Hierarchy: Registers, Scratch Pad, L1/L2, HBM, Coalesced Access	GPU
+MLPerf, AI Inference Benchmarks	GPU
+NVIDIA GH200, Grace Hopper Superchip	GPU
+SIMD, Vector Processors (GPU's Predecessor)	GPU
+SIMT, Warp, Warp Scheduler, Warp Divergence	GPU
+Dependability, Reliability, Availability (MTTF, MTBF, MTTR)	ECC
+ECC: Parity Bit, Hamming SEC / SECDED	ECC
+Memory Dependability	ECC
+RAID 0/1/5/6	ECC
+Flynn Taxonomy (SISD, SIMD, MIMD, SPMD)	Multiprocessors and Parallelism
+Hardware Multithreading: Fine-Grained, Coarse-Grained, SMT	Multiprocessors and Parallelism
+Memory Consistency Models (SC, TSO, Relaxed)	Multiprocessors and Parallelism
+Message Passing, MPP, Clusters, WSC	Multiprocessors and Parallelism
+UMA vs. NUMA, Shared Memory	Multiprocessors and Parallelism
+HDD, SSD	Storage and I/O
+I/O Communication: Polling, Interrupt, DMA	Storage and I/O
+I/O System Performance and Design	Storage and I/O
+Synchronous Bus, Asynchronous Bus, Arbitration, Bandwidth	Storage and I/O
+IC Fabrication, Wafer, Die Yield, Cost	IC
+Quantum Computing: Qubits, Superposition, Entanglement, Quantum Gates	Multiprocessors and Parallelism
+計算機組織§1-1 Number Systems, Base Conversion, Bits Required	數位邏輯
+計算機組織§1-2 Signed Numbers: Sign-Magnitude, Complements, Binary Arithmetic	數位邏輯
+計算機組織§2-1 Logic Gates, Truth Tables, NAND/NOR Implementation	數位邏輯
+計算機組織§2-2 Decoder, Multiplexer, Priority Encoder, Shifter	數位邏輯
+計算機組織§2-3 ROM Implementation, Memory Address Decoding, Chip Select	數位邏輯
+計算機組織§2-4 struct, union, enum, Memory Layout, Endianness	程式語言

@@ -1,0 +1,81 @@
+{
+ "unit_key": "1-1 Inverse of a Matrix and properties",
+ "subject": "線性代數",
+ "group": "數學",
+ "chapter": "Matrix",
+ "topic": "Inverse of a Matrix and properties",
+ "questions": [
+  {
+   "id": "20eeb59fc8",
+   "year": 100,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/20eeb59fc8.webp"
+  },
+  {
+   "id": "e1e2bfead9",
+   "year": 103,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/e1e2bfead9.webp"
+  },
+  {
+   "id": "ce65df6255",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/ce65df6255.webp"
+  },
+  {
+   "id": "828d21a9c0",
+   "year": 106,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/828d21a9c0.webp"
+  },
+  {
+   "id": "96a3cdc384",
+   "year": 107,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/96a3cdc384.webp"
+  },
+  {
+   "id": "m_4180193084104933",
+   "year": 105,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_4180193084104933.webp"
+  },
+  {
+   "id": "m_57d966568d3767c3",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_57d966568d3767c3.webp"
+  },
+  {
+   "id": "m_63bb80bd3ed4af92",
+   "year": 107,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_63bb80bd3ed4af92.webp"
+  },
+  {
+   "id": "dm03_5f3becb681701aeb",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/dm03_5f3becb681701aeb.webp"
+  }
+ ]
+}

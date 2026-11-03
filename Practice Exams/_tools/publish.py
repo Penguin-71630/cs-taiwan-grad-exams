@@ -1,0 +1,81 @@
+"""Build every topic whose questions are all transcribed and whose PDF is missing or stale,
+verify it against its manifest, and commit each topic separately; then push once.
+
+Usage: python publish.py [--no-push] [--all]
+"""
+import json, os, subprocess, sys
+from pathlib import Path
+
+sys.path.insert(0, os.path.dirname(__file__))
+from build import build  # noqa: E402
+from check import pdf_text, question_headers  # noqa: E402
+
+ROOT = Path(__file__).resolve().parent.parent
+REPO = ROOT.parent
+QDIR = ROOT / "_src" / "_q"
+BRANCH = "claude/cloud-credit-test-dhu8yn"
+TRAILER = "\n\nDevin-Session: https://app.devin.ai/sessions/ecc476446030451eabc2bd74bb015d56"
+
+
+def git(*a, check=True):
+    return subprocess.run(["git", "-C", str(REPO), *a], capture_output=True, text=True, check=check)
+
+
+def last_commit(p):
+    out = git("log", "-1", "--format=%ct", "--", str(p), check=False).stdout.strip()
+    return int(out) if out else None
+
+
+def stale(pdf, inputs):
+    """Git-based, so a fresh clone (where every file has the same mtime) rebuilds nothing.
+    Stale when an input has uncommitted changes or was committed after the PDF."""
+    if git("status", "--porcelain", "--", str(pdf), *map(str, inputs), check=False).stdout.strip():
+        return True
+    built = last_commit(pdf)
+    return built is None or any((last_commit(i) or 0) > built for i in inputs)
+
+
+def main():
+    built, failed = [], []
+    force_all = "--all" in sys.argv
+    for man_path in sorted(p for p in (ROOT / "_src").glob("*/*/*/manifest.json") if not p.parts[-4].startswith("_")):
+        src = man_path.parent
+        man = json.loads(man_path.read_text())
+        mds = [QDIR / f"{q['id']}.md" for q in man["questions"]]
+        if not all(m.exists() for m in mds):
+            continue
+        rel = src.relative_to(ROOT / "_src")
+        pdf = ROOT / rel.parent / f"{src.name}.pdf"
+        if pdf.exists() and not force_all and not stale(pdf, [man_path, *mds]):
+            continue
+        try:
+            n = build(src, pdf)
+            txt = pdf_text(pdf)
+            heads = question_headers(txt, man["questions"])
+            flat = txt.replace("\n", "")
+            if heads != set(range(1, n + 1)) or any(q["id"] not in flat for q in man["questions"]):
+                raise RuntimeError(f"check failed: headers {sorted(heads)} for {n} questions")
+        except Exception as e:  # keep going; report at the end
+            failed.append(f"{rel}: {e}")
+            continue
+        git("add", str(pdf), str(src), *[str(m) for m in mds], str(QDIR / "deskew.json"))
+        if git("diff", "--cached", "--quiet", check=False).returncode != 0:
+            git("commit", "-q", "-m", f"Practice Exams: {man['group']}/{man['chapter']} - {man['topic']} ({n} 題)" + TRAILER)
+            built.append(f"{rel} ({n})")
+    print(f"committed {len(built)} topic(s)")
+    for b in built:
+        print("  +", b)
+    for f in failed:
+        print("  FAILED", f)
+    if built and "--no-push" not in sys.argv:
+        for i in range(4):
+            r = git("push", "-u", "origin", BRANCH, check=False)
+            if r.returncode == 0:
+                print("pushed")
+                break
+            print("push failed:", r.stderr.strip()[-300:])
+            import time; time.sleep(2 ** (i + 1))
+
+
+if __name__ == "__main__":
+    main()
