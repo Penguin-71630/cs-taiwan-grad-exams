@@ -1,0 +1,131 @@
+{
+ "group": "數學",
+ "chapter": "Recurrence",
+ "topic": "其他主題",
+ "subject": "離散數學",
+ "unit_key": "7-1 Solve Recurrence Using Generating Functions",
+ "sections": [
+  {
+   "topic": "Solve Recurrence Using Generating Functions",
+   "unit_key": "7-1 Solve Recurrence Using Generating Functions",
+   "ids": [
+    "dm03_59a303cbd73b5b15",
+    "cc42f4ef57",
+    "446839c901"
+   ]
+  },
+  {
+   "topic": "Solve Recurrence: 轉換法(1) 分解征服法",
+   "unit_key": "7-2 Solve Recurrence: 轉換法(1) 分解征服法",
+   "ids": [
+    "dm03_6453a2968479bb17"
+   ]
+  },
+  {
+   "topic": "與矩陣有關的題目",
+   "unit_key": "7-3 與矩陣有關的題目",
+   "ids": [
+    "m_87a3c15f7798526a"
+   ]
+  },
+  {
+   "topic": "Catalan Number",
+   "unit_key": "7-4 Catalan Number",
+   "ids": [
+    "dm03_5e7fbb17220b43d3",
+    "m_79fa42a714668790"
+   ]
+  },
+  {
+   "topic": "Fibonacci Series",
+   "unit_key": "7-4 Fibonacci Series",
+   "ids": [
+    "m_36f7712c097bfe3b",
+    "m_c859e9ad5dfc7e2b",
+    "10732488a4"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "dm03_59a303cbd73b5b15",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/dm03_59a303cbd73b5b15.webp"
+  },
+  {
+   "id": "cc42f4ef57",
+   "year": 106,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/cc42f4ef57.webp"
+  },
+  {
+   "id": "446839c901",
+   "year": 105,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/446839c901.webp"
+  },
+  {
+   "id": "dm03_6453a2968479bb17",
+   "year": 106,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/dm03_6453a2968479bb17.webp"
+  },
+  {
+   "id": "m_87a3c15f7798526a",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_87a3c15f7798526a.webp"
+  },
+  {
+   "id": "dm03_5e7fbb17220b43d3",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q17",
+   "url": "https://img.ptsfu.org/dm03_5e7fbb17220b43d3.webp"
+  },
+  {
+   "id": "m_79fa42a714668790",
+   "year": 101,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_79fa42a714668790.webp"
+  },
+  {
+   "id": "m_36f7712c097bfe3b",
+   "year": 106,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/m_36f7712c097bfe3b.webp"
+  },
+  {
+   "id": "m_c859e9ad5dfc7e2b",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q49",
+   "url": "https://img.ptsfu.org/m_c859e9ad5dfc7e2b.webp"
+  },
+  {
+   "id": "10732488a4",
+   "year": 103,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/10732488a4.webp"
+  }
+ ]
+}
