@@ -1,0 +1,160 @@
+{
+ "group": "計系",
+ "chapter": "Introduction",
+ "topic": "全章",
+ "subject": "作業系統",
+ "unit_key": "1-1 What OS Do",
+ "sections": [
+  {
+   "topic": "What OS Do",
+   "unit_key": "1-1 What OS Do",
+   "ids": [
+    "m_4b67cc865df7fa22"
+   ]
+  },
+  {
+   "topic": "Interrupts, Storage, I／O Structures",
+   "unit_key": "1-2 Interrupts, Storage, I/O Structures",
+   "ids": [
+    "m_f749658b5b161cd4",
+    "de67dab11b",
+    "m_b92fcb2e14632544",
+    "m_336aa4c4c3bc402d",
+    "m_f49249ee25121df7",
+    "m_46f03ff469c79167",
+    "m_37d19c4fa013bac2"
+   ]
+  },
+  {
+   "topic": "Multiprocessor, UMA, NUMA",
+   "unit_key": "1-3 Multiprocessor, UMA, NUMA",
+   "ids": [
+    "m_3464c2ceefafe40c",
+    "011e62cf0f"
+   ]
+  },
+  {
+   "topic": "User Mode ／ Kernel Mode",
+   "unit_key": "1-4 User Mode / Kernel Mode",
+   "ids": [
+    "m_435ff648b55718e3",
+    "m_f749658b5b161cd4",
+    "m_1b38c82331619f58",
+    "m_961b7228b0faf301"
+   ]
+  },
+  {
+   "topic": "Computing Environments",
+   "unit_key": "1-10 Computing Environments",
+   "ids": [
+    "011e62cf0f"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_4b67cc865df7fa22",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_4b67cc865df7fa22.webp"
+  },
+  {
+   "id": "m_f749658b5b161cd4",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_f749658b5b161cd4.webp"
+  },
+  {
+   "id": "de67dab11b",
+   "year": 102,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q8",
+   "url": "https://img.ptsfu.org/de67dab11b.webp"
+  },
+  {
+   "id": "m_b92fcb2e14632544",
+   "year": 107,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_b92fcb2e14632544.webp"
+  },
+  {
+   "id": "m_336aa4c4c3bc402d",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_336aa4c4c3bc402d.webp"
+  },
+  {
+   "id": "m_f49249ee25121df7",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_f49249ee25121df7.webp"
+  },
+  {
+   "id": "m_46f03ff469c79167",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_46f03ff469c79167.webp"
+  },
+  {
+   "id": "m_37d19c4fa013bac2",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_37d19c4fa013bac2.webp"
+  },
+  {
+   "id": "m_3464c2ceefafe40c",
+   "year": 100,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_3464c2ceefafe40c.webp"
+  },
+  {
+   "id": "011e62cf0f",
+   "year": 101,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "II-Q1",
+   "url": "https://img.ptsfu.org/011e62cf0f.webp"
+  },
+  {
+   "id": "m_435ff648b55718e3",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_435ff648b55718e3.webp"
+  },
+  {
+   "id": "m_1b38c82331619f58",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_1b38c82331619f58.webp"
+  },
+  {
+   "id": "m_961b7228b0faf301",
+   "year": 107,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_961b7228b0faf301.webp"
+  }
+ ]
+}
