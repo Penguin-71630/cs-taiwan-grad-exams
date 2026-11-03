@@ -1,0 +1,12 @@
+注意：每大題的小題必需全對該大題才給分。每大題5分。請使用答案卡作答
+
+14\. Consider the following three problems. Assume that the only operations allowed on the data are
+
+- comparing the values of two floating-point numbers and identifying the larger value;
+- comparing the distance between two array entries (the absolute value of the difference between the two array entries) with the distance between two other array entries;
+- swapping two entries in the array.
+
+Further assume that each allowed operation has unit cost. What are the worst-case optimal asymptotic running times for algorithms that solve these problems?
+
+(41) Farthest Neighbors: Given an unsorted array of *n* floating-point numbers as input, return two of the numbers that are farthest in value from each other.\
+(A) $O(n \log n)$　(B) $O(\log n)$　(C) $O(n^2)$　(D) $O(n^3)$　(E) $O(n)$
