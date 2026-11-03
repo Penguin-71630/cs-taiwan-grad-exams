@@ -40,7 +40,7 @@ Practice Exams/
 
 ### 環境需求
 
-`pandoc`（3.1）、`pdftotext`／`pdfinfo`（poppler）、Python 套件 `typst==0.13.2`、`pillow`、`numpy`；
+`pandoc`（3.1.3；3.1.13 會把 cases 裡的逗號轉壞）、`pdftotext`／`pdfinfo`（poppler）、Python 套件 `typst==0.13.2`、`pillow`、`numpy`；
 字型放在 `/root/fonts`（或環境變數 `TIKU_FONTS`）：Times New Roman（corefonts 的 times32.exe 用 cabextract 解出）、
 Noto Serif TC。New Computer Modern 是 typst 內建的。
 網路要能連 `img.ptsfu.org`（原圖，下載時要設 User-Agent）、`tiku.ptsfu.org`，push PDF 要能連 `lfs.github.com`（PDF 用 Git LFS）。
