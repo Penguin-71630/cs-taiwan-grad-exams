@@ -1,0 +1,167 @@
+{
+ "group": "計系",
+ "chapter": "OS Structures",
+ "topic": "全章",
+ "subject": "作業系統",
+ "unit_key": "2-3 System Calls",
+ "sections": [
+  {
+   "topic": "System Calls",
+   "unit_key": "2-3 System Calls",
+   "ids": [
+    "m_4b67cc865df7fa22",
+    "m_9c220e6604903c23",
+    "m_f3bd225220a33f4f",
+    "m_c6eda44f09b80060",
+    "m_649e1f53b38d5e8e",
+    "m_021e7143032c889c",
+    "m_f749658b5b161cd4",
+    "m_c705e4ba3406e49d",
+    "m_961b7228b0faf301"
+   ]
+  },
+  {
+   "topic": "ABI (Application Binary Interface)",
+   "unit_key": "2-6 ABI (Application Binary Interface)",
+   "ids": [
+    "4f360782d1"
+   ]
+  },
+  {
+   "topic": "Mechanism v.s. Policy",
+   "unit_key": "2-7 Mechanism v.s. Policy",
+   "ids": [
+    "m_964b8fafe3e02c3f"
+   ]
+  },
+  {
+   "topic": "Monolithic, Layered, Microkernel, Modules, Hybrid",
+   "unit_key": "2-8 Monolithic, Layered, Microkernel, Modules, Hybrid",
+   "ids": [
+    "d1d6e35841",
+    "m_aeafb4c531c1fd46"
+   ]
+  },
+  {
+   "topic": "Booting",
+   "unit_key": "2-9 Booting",
+   "ids": [
+    "m_37d19c4fa013bac2"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_4b67cc865df7fa22",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_4b67cc865df7fa22.webp"
+  },
+  {
+   "id": "m_9c220e6604903c23",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_9c220e6604903c23.webp"
+  },
+  {
+   "id": "m_f3bd225220a33f4f",
+   "year": 104,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_f3bd225220a33f4f.webp"
+  },
+  {
+   "id": "m_c6eda44f09b80060",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_c6eda44f09b80060.webp"
+  },
+  {
+   "id": "m_649e1f53b38d5e8e",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q29-Q31",
+   "url": "https://img.ptsfu.org/m_649e1f53b38d5e8e.webp"
+  },
+  {
+   "id": "m_021e7143032c889c",
+   "year": 106,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_021e7143032c889c.webp"
+  },
+  {
+   "id": "m_f749658b5b161cd4",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_f749658b5b161cd4.webp"
+  },
+  {
+   "id": "m_c705e4ba3406e49d",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q20",
+   "url": "https://img.ptsfu.org/m_c705e4ba3406e49d.webp"
+  },
+  {
+   "id": "m_961b7228b0faf301",
+   "year": 107,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_961b7228b0faf301.webp"
+  },
+  {
+   "id": "4f360782d1",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/4f360782d1.webp"
+  },
+  {
+   "id": "m_964b8fafe3e02c3f",
+   "year": 107,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_964b8fafe3e02c3f.webp"
+  },
+  {
+   "id": "d1d6e35841",
+   "year": 106,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/d1d6e35841.webp"
+  },
+  {
+   "id": "m_aeafb4c531c1fd46",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_aeafb4c531c1fd46.webp"
+  },
+  {
+   "id": "m_37d19c4fa013bac2",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_37d19c4fa013bac2.webp"
+  }
+ ]
+}
