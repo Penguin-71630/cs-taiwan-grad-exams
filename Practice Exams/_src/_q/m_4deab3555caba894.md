@@ -1,6 +1,6 @@
 二、複選題，共十題，每題全對得 4 分，答錯一個選項得 2 分，答錯兩個以上選項、或未答得 0 分。
 
-12\. Consider a system with five processes P0~P4 and three resource type A, B, C. Suppose at time T0, the resource allocation state is:
+12\. Consider a system with five processes P0\~P4 and three resource type A, B, C. Suppose at time T0, the resource allocation state is:
 
 | | Allocation (A B C) | MAX (A B C) | Need (A B C) | Available (A B C) |
 |:---:|:---:|:---:|:---:|:---:|
