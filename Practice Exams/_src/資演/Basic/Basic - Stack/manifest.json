@@ -1,0 +1,97 @@
+{
+ "unit_key": "3-1 Stack",
+ "subject": "資料結構",
+ "group": "資演",
+ "chapter": "Basic",
+ "topic": "Stack",
+ "questions": [
+  {
+   "id": "m_f4112a66ac5dac1e",
+   "year": 102,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_f4112a66ac5dac1e.webp"
+  },
+  {
+   "id": "m_f28e3825a7c63d0d",
+   "year": 107,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "QV",
+   "url": "https://img.ptsfu.org/m_f28e3825a7c63d0d.webp"
+  },
+  {
+   "id": "m_70af92703995a9f8",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_70af92703995a9f8.webp"
+  },
+  {
+   "id": "m_6ea4fba88f9ab7d8",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_6ea4fba88f9ab7d8.webp"
+  },
+  {
+   "id": "m_c01cae8e74279a73",
+   "year": 104,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_c01cae8e74279a73.webp"
+  },
+  {
+   "id": "m_a537272bcae375c0",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q30",
+   "url": "https://img.ptsfu.org/m_a537272bcae375c0.webp"
+  },
+  {
+   "id": "m_9550009bf9f129ca",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_9550009bf9f129ca.webp"
+  },
+  {
+   "id": "bae27ae502",
+   "year": 100,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/bae27ae502.webp"
+  },
+  {
+   "id": "m_fc4c1cc00a9bccc3",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_fc4c1cc00a9bccc3.webp"
+  },
+  {
+   "id": "m_e9549c7b0b25260b",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_e9549c7b0b25260b.webp"
+  },
+  {
+   "id": "m_b8b2dd11815f534b",
+   "year": 107,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_b8b2dd11815f534b.webp"
+  }
+ ]
+}

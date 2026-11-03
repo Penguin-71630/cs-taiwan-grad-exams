@@ -1,0 +1,41 @@
+{
+ "unit_key": "9-12 Leftist Tree",
+ "subject": "資料結構",
+ "group": "資演",
+ "chapter": "Advanced Tree",
+ "topic": "Leftist Tree",
+ "questions": [
+  {
+   "id": "m_f4d83883b2e76a39",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q20",
+   "url": "https://img.ptsfu.org/m_f4d83883b2e76a39.webp"
+  },
+  {
+   "id": "m_36c51cd84fc0d187",
+   "year": 103,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_36c51cd84fc0d187.webp"
+  },
+  {
+   "id": "m_536cb2270e631b24",
+   "year": 107,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_536cb2270e631b24.webp"
+  },
+  {
+   "id": "m_b2ad6d498a2460a9",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q21",
+   "url": "https://img.ptsfu.org/m_b2ad6d498a2460a9.webp"
+  }
+ ]
+}

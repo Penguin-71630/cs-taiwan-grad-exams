@@ -148,3 +148,112 @@ m_410775674566eb95|100|交大|資料結構與演算法|Q51|6-4 Spanning Tree, MS
 m_4e4ebb7bbb4cdc7d|105|交大|資料結構與演算法|Q26|5-11 Representing Sets Using Trees;19-1 DSU Operations;19-3 DSU Optimizations: Union by Rank, Path Compression
 m_2aae92a258794bce|103|交大|資料結構與演算法|Q5|1-6 Time Complexity 題型;3-1~3-3 Time Complexity: O, Ω, Θ, o, ω
 m_fb38df4d026451eb|105|交大|資料結構與演算法|Q50|21-2 Kruskal, Prim;19-1 DSU Operations;6-4 Spanning Tree, MST;5-11 Representing Sets Using Trees
+m_536cb2270e631b24|107|清大|基礎計算機科學|Q7|6-1~6-4 Heap;9-1 Min-Max Heap;9-2 Double-Ended Heap;9-12 Leftist Tree;9-8~9-9 2-3-4 Tree;18-3 B-tree Deleting a Key;9-10 RB Tree;13-1~13-4 Red-Black Tree
+m_b23bf948cfa82fdc|101|台大|資料結構與演算法|Q3|1-6 Time Complexity 題型;3-1~3-3 Time Complexity: O, Ω, Θ, o, ω
+m_6ade8426271810cc|101|交大|資料結構與演算法|Q47|6-4 Spanning Tree, MST;6-5 Shortest Path, Transitive Closure;21-2 Kruskal, Prim;22-3 Dijkstra, Dijkstra with Fibonacci Heap
+m_dbc97f4ee2b63066|107|台大|資料結構與演算法|Q1|7-3 Sort: Quick, Merge, Heap;7-2 Performance of Quicksort
+m_cd64c0c8192d0410|101|交大|資料結構與演算法|Q26|12-1~12-3 BST;5-5 Traversal: Preorder, Inorder, Postorder;5-12 Binary Tree Uniqueness (using Preorder, Inorder, Postorder trails)
+m_128ffe2c68dbf0fe|105|交大|資料結構與演算法|Q9|4-1~4-2 Linked List;10-2 Singly/Doubly/Circular Linked List, Sentinel
+m_55a196749a785392|105|交大|資料結構與演算法|Q3|5-12 Binary Tree Uniqueness (using Preorder, Inorder, Postorder trails);5-5 Traversal: Preorder, Inorder, Postorder
+m_73f6f1f3de2c40e0|107|交大|資料結構與演算法|Q3|9-10 RB Tree;13-1~13-4 Red-Black Tree
+m_907fd389dc152f21|105|交大|資料結構與演算法|Q15|9-10 RB Tree;13-1~13-4 Red-Black Tree
+m_ccc7b180d34f7ee0|104|交大|資料結構與演算法|Q10|4-5 Doubly Linked List;10-2 Singly/Doubly/Circular Linked List, Sentinel
+m_ac1b389d2ee68b76|100|交大|資料結構與演算法|Q27|7-2 Sort: Insertion, Selection, Bubble
+fbba38df5a|101|台大|資料結構與演算法|Q6|6-2 Graph Traversal: DFS, BFS;20-3 DFS, White-Path, Tree/Back/Forward/Crossing Edge, BCC;20-2 BFS, BFS Tree;6-4 Spanning Tree, MST;21-2 Kruskal, Prim;6-5 Shortest Path, Transitive Closure;22-3 Dijkstra, Dijkstra with Fibonacci Heap
+m_65d19093be280c71|100|交大|資料結構與演算法|Q22|6-5 Shortest Path, Transitive Closure;22-3 Dijkstra, Dijkstra with Fibonacci Heap
+m_d6c8b579b3398a01|104|交大|資料結構與演算法|Q1|6-5 Shortest Path, Transitive Closure
+m_34af424a6b5f465b|105|交大|資料結構與演算法|Q35|4-3 Substitution Method;4-4 Recursion-tree Method;1-9 Guess Method
+m_7d38b39a4f136a07|104|交大|資料結構與演算法|Q19|8-2~8-3 Hashing;8-4 Linear/Quadratic Probing, Rehashing, Chain,;11-4 Linear/Quadratic Probing, Double Hashing, Uniform Hashing
+bae27ae502|100|清大|基礎計算機科學|Q3|3-1 Stack;10-1 Array, Stack, Queue, Circular Queue
+24d3e7d43b|100|清大|基礎計算機科學|Q6|7-1 Search: Linear, Binary, Fibonacci, Interpolation
+m_6f2c218e76e01ecc|106|交大|資料結構與演算法|Q11|9-4 Minimal Weighted External Path Length;15-3 Huffman Codes
+m_399326740c6dae36|104|交大|資料結構與演算法|Q18|9-4 Minimal Weighted External Path Length;15-3 Huffman Codes
+m_276fad0be7873138|106|交大|資料結構與演算法|Q15|6-4 Spanning Tree, MST;21-2 Kruskal, Prim
+m_c4b29a59077b1849|107|台大|資料結構與演算法|QVI|21-2 Kruskal, Prim;6-4 Spanning Tree, MST;22-3 Dijkstra, Dijkstra with Fibonacci Heap;6-5 Shortest Path, Transitive Closure;20-2 BFS, BFS Tree;6-2 Graph Traversal: DFS, BFS
+m_c7a72ca1fdf49831|106|交大|資料結構與演算法|Q6|8-4 Linear/Quadratic Probing, Rehashing, Chain,;11-4 Linear/Quadratic Probing, Double Hashing, Uniform Hashing;11-2 Hash Tables, Load Factor
+m_57f4d5ed3d2b9757|101|交大|資料結構與演算法|Q4|3-3 Prefix, Infix, Postfix
+a6f09a0def|101|台大|資料結構與演算法|Q5|資料結構§5-4 Sampling Theorem, Aliasing, FFT Approximation Errors
+m_54a09ec19f645e9a|105|交大|資料結構與演算法|Q32|11-4 Linear/Quadratic Probing, Double Hashing, Uniform Hashing;8-4 Linear/Quadratic Probing, Rehashing, Chain,
+m_2bc8c8ac3058c5a7|105|交大|資料結構與演算法|Q49|6-4 Spanning Tree, MST;21-2 Kruskal, Prim
+267b25e879|101|清大|基礎計算機科學|Q1|10-1 Array, Stack, Queue, Circular Queue;2-2 Array
+m_256ad22df78addfb|101|交大|資料結構與演算法|Q32|7-3 Sort: Quick, Merge, Heap;7-1 Quicksort
+m_fc626a7b4c85a663|102|清大|基礎計算機科學|Q3|3-3 Prefix, Infix, Postfix;5-5 Traversal: Preorder, Inorder, Postorder;5-4 Representations of Binary Tree: Array vs. Linked List;6-1~6-4 Heap;6-5 Priority Queues;12-1~12-3 BST
+m_c27a9f5a16cc1d8f|102|交大|資料結構與演算法|Q7|13-1~13-4 Red-Black Tree;12-1~12-3 BST;9-6 AVL Tree;5-5 Traversal: Preorder, Inorder, Postorder
+m_c45d2ca3b0a0540e|102|交大|資料結構與演算法|Q2|5-7 Thread Binary Tree
+m_b01f33c6f3650df6|105|交大|資料結構與演算法|Q45|15-3 Huffman Codes;9-4 Minimal Weighted External Path Length
+m_aadf92ac7a9394cc|101|交大|資料結構與演算法|Q5|3-3 Prefix, Infix, Postfix
+m_9a1edbd387829da2|104|交大|資料結構與演算法|Q14|B+ Tree;B+ Tree
+m_c39dfc55787b5552|101|交大|資料結構與演算法|Q42|7-1 Search: Linear, Binary, Fibonacci, Interpolation
+m_b114ec004fa808df|101|交大|資料結構與演算法|Q27|12-1~12-3 BST;5-5 Traversal: Preorder, Inorder, Postorder;5-12 Binary Tree Uniqueness (using Preorder, Inorder, Postorder trails)
+m_fc4c1cc00a9bccc3|101|交大|資料結構與演算法|Q6|3-3 Prefix, Infix, Postfix;3-1 Stack;10-1 Array, Stack, Queue, Circular Queue
+m_e8bbdff9febdd685|103|台大|資料結構與演算法|Q2|9-12 Binomial Heap;9-12 Binomial Queue
+m_6c21c601fbd1877c|105|交大|資料結構與演算法|Q7|4-1~4-2 Linked List;10-2 Singly/Doubly/Circular Linked List, Sentinel
+m_1f4813b627e2f78a|101|交大|資料結構與演算法|Q36|4-5 Master Theorem;1-7 Master Method
+m_4d6a7ed3e48a05fd|106|台大|資料結構與演算法|Q4|22-2 Single-Source Shortest Path in DAGs;20-4 Topological Sort;6-5 Shortest Path, Transitive Closure;6-6 Topological Sort
+9c8f03111c|100|台大|資料結構與演算法|Q2|8-4 Linear/Quadratic Probing, Rehashing, Chain,;11-2 Hash Tables, Load Factor;11-4 Linear/Quadratic Probing, Double Hashing, Uniform Hashing;13-1~13-4 Red-Black Tree
+m_c506a170a5d93d0b|100|交大|資料結構與演算法|Q35|6-4 Spanning Tree, MST;21-2 Kruskal, Prim
+m_fb5b1b1ae4868049|105|交大|資料結構與演算法|Q31|11-4 Linear/Quadratic Probing, Double Hashing, Uniform Hashing;8-4 Linear/Quadratic Probing, Rehashing, Chain,
+m_f5bf2dd25f68e7b4|100|交大|資料結構與演算法|Q25|22-1 Bellman-Ford;6-5 Shortest Path, Transitive Closure
+m_46d37a69656d35d9|100|交大|資料結構與演算法|Q7|5-5 Traversal: Preorder, Inorder, Postorder;5-12 Binary Tree Uniqueness (using Preorder, Inorder, Postorder trails)
+c0c248176d|106|清大|基礎計算機科學|Q2|9-6 AVL Tree
+7408e8cc07|102|清大|基礎計算機科學|Q5|6-5 Shortest Path, Transitive Closure;3-1~3-3 Time Complexity: O, Ω, Θ, o, ω;1-6 Time Complexity 題型;1-7 Master Method;4-5 Master Theorem;23-2 Floyd Warshall;24-1 Capacity, Residual, Augmenting Path
+m_2afbe03fa26d4ccc|104|交大|資料結構與演算法|Q38|3-1~3-3 Time Complexity: O, Ω, Θ, o, ω;1-6 Time Complexity 題型;7-3 Sort: Quick, Merge, Heap
+m_0d0ef3c426dae2de|104|交大|資料結構與演算法|Q7|5-12 Binary Tree Uniqueness (using Preorder, Inorder, Postorder trails);5-5 Traversal: Preorder, Inorder, Postorder
+m_697e01165aa61604|101|交大|資料結構與演算法|Q21|9-11 B Tree;18-1 B-tree Definition;18-2 B-tree Operations
+25803b4495|104|清大|基礎計算機科學|Q14|15-3 Huffman Codes;9-4 Minimal Weighted External Path Length
+m_fa85ecad736e49ba|104|交大|資料結構與演算法|Q11|9-6 AVL Tree
+m_9bb7b8c070891107|101|交大|資料結構與演算法|Q20|9-11 B Tree;18-1 B-tree Definition
+m_e709c171afe04d28|101|交大|資料結構與演算法|Q12|6-1~6-4 Heap;1-6 Time Complexity 題型
+m_2e40bdb6fe2b6297|105|交大|資料結構與演算法|Q27|3-1~3-3 Time Complexity: O, Ω, Θ, o, ω;1-6 Time Complexity 題型
+m_496ef5eaed998e3b|106|交大|資料結構與演算法|Q9|9-12 Fibonacci Heap
+m_e9549c7b0b25260b|100|交大|資料結構與演算法|Q5|3-1 Stack;6-2 Graph Traversal: DFS, BFS
+229d642bc9|102|台大|資料結構與演算法|Q1|1-6 Time Complexity 題型;3-1~3-3 Time Complexity: O, Ω, Θ, o, ω;4-4 Recursion-tree Method;1-8 對數數學公式
+m_c224dcbfd3ed7923|100|交大|資料結構與演算法|Q39|22-1 Bellman-Ford;6-5 Shortest Path, Transitive Closure
+m_ffccc3d4c5654ee3|104|交大|資料結構與演算法|Q34|15-3 Huffman Codes;9-4 Minimal Weighted External Path Length
+m_060ddeab6dd886c2|104|交大|資料結構與演算法|Q6|5-7 Thread Binary Tree
+m_55a22f83a2532762|102|交大|資料結構與演算法|Q4|5-7 Thread Binary Tree;5-5 Traversal: Preorder, Inorder, Postorder
+m_3e813a7cdd6fc373|107|交大|資料結構與演算法|Q4|7-1 Search: Linear, Binary, Fibonacci, Interpolation;1-6 Time Complexity 題型;3-1~3-3 Time Complexity: O, Ω, Θ, o, ω
+m_1cbe458cddfd1592|104|交大|資料結構與演算法|Q21|3-1~3-3 Time Complexity: O, Ω, Θ, o, ω;1-6 Time Complexity 題型
+m_aaa3992101947740|104|交大|資料結構與演算法|Q25|4-5 Master Theorem;1-7 Master Method
+556601e5e2|102|台大|資料結構與演算法|Q2|13-1~13-4 Red-Black Tree;9-10 RB Tree
+m_dde11cbf76ccc31d|102|交大|資料結構與演算法|Q14|23-3 Johnson;23-2 Floyd Warshall;6-5 Shortest Path, Transitive Closure
+m_f85067193a7031ab|105|交大|資料結構與演算法|Q29|9-12 Fibonacci Heap
+m_5c6f331b8f8a731b|104|交大|資料結構與演算法|Q12|9-10 RB Tree;13-1~13-4 Red-Black Tree
+4109c4df50|103|清大|基礎計算機科學|Q6|4-3 Linked Stack, Linked Queue;4-5 Doubly Linked List;4-1~4-2 Linked List;5-2 Binary Tree;6-1~6-4 Heap;8-2~8-3 Hashing;9-11 B Tree;資料結構§1-2 Indexing, File Organization, Query Performance
+m_05924891cf47e114|100|交大|資料結構與演算法|Q1|6-1~6-4 Heap;1-6 Time Complexity 題型
+m_c80194bf7fa17ce7|100|交大|資料結構與演算法|Q13|3-3 Prefix, Infix, Postfix
+m_4aa9bb2025c3c11f|100|交大|資料結構與演算法|Q24|22-1 Bellman-Ford;6-5 Shortest Path, Transitive Closure
+m_76ce5421e334ed59|104|交大|資料結構與演算法|Q27|3-1~3-3 Time Complexity: O, Ω, Θ, o, ω;1-6 Time Complexity 題型;1-8 對數數學公式
+64617ea1d4|106|台大|資料結構與演算法|Q1|1-6 Time Complexity 題型;4-5 Master Theorem;4-4 Recursion-tree Method;4-3 Substitution Method;1-7 Master Method
+m_f8a78a7aab23e731|103|交大|資料結構與演算法|Q7|8-4 Linear/Quadratic Probing, Rehashing, Chain,;11-4 Linear/Quadratic Probing, Double Hashing, Uniform Hashing
+m_3b60bb957f31bd01|107|台大|資料結構與演算法|Q11|11-2 Hash Tables, Load Factor;8-4 Linear/Quadratic Probing, Rehashing, Chain,
+m_2712347f166b50b0|104|台大|資料結構與演算法|Q2|5-2 Binary Tree;5-3 Skewed Binary Tree, Full Binary Tree, Complete Binary Tree;5-4 Representations of Binary Tree: Array vs. Linked List;5-8 Normal Tree to Binary Tree;5-5 Traversal: Preorder, Inorder, Postorder;5-12 Binary Tree Uniqueness (using Preorder, Inorder, Postorder trails);10-3 Rooted Trees
+m_96dd6f280753a457|105|交大|資料結構與演算法|Q22|7-3 Sort: Quick, Merge, Heap;7-1 Quicksort;7-2 Performance of Quicksort;7-3 Randomized Pivoting
+m_190f27c1153deba2|101|交大|資料結構與演算法|Q53|6-5 Shortest Path, Transitive Closure;22-3 Dijkstra, Dijkstra with Fibonacci Heap
+m_20a3976d34181b1a|105|交大|資料結構與演算法|Q16|2-2 Array;10-1 Array, Stack, Queue, Circular Queue
+m_2c56dd6e773368a0|104|交大|資料結構與演算法|Q15|6-5 Shortest Path, Transitive Closure;22-1 Bellman-Ford
+m_fb407f3d423a6090|104|交大|資料結構與演算法|Q24|6-1 Graph Representations;20-1 Adjacency List, Adjacency Matrix
+m_8a521d0799c0405b|101|交大|資料結構與演算法|Q38|4-5 Master Theorem;1-7 Master Method
+m_b8b2dd11815f534b|107|台大|資料結構與演算法|Q5|3-1 Stack;10-1 Array, Stack, Queue, Circular Queue
+m_e9ce9203dce2f6b1|101|交大|資料結構與演算法|Q31|7-2 Sort: Insertion, Selection, Bubble
+m_2feaf21273deee0e|101|交大|資料結構與演算法|Q13|4-1~4-2 Linked List;10-2 Singly/Doubly/Circular Linked List, Sentinel;1-6 Time Complexity 題型
+m_a825db7a50bd13d2|104|清大|基礎計算機科學|Q8|6-2 Graph Traversal: DFS, BFS;20-3 DFS, White-Path, Tree/Back/Forward/Crossing Edge, BCC
+m_e1f5c9012a4df674|103|交大|資料結構與演算法|Q11|23-3 Johnson;22-1 Bellman-Ford;21-1 Cut Property;6-4 Spanning Tree, MST;6-5 Shortest Path, Transitive Closure;22-5 Proofs: 三角不等式, Convergence, Relaxation, 前驅子圖;24-2 Max-flow Min-cut Theorem, LP Duality
+m_672b2695693a8ef6|106|交大|資料結構與演算法|Q10|7-3 Sort: Quick, Merge, Heap;7-4 Analysis of Quicksort
+m_1367abc6ef8f1b1e|102|交大|資料結構與演算法|Q12|21-2 Kruskal, Prim;6-4 Spanning Tree, MST;19-4 DSU Complexity Analysis: alpha(n)
+m_89c9a62223c5e0bf|104|交大|資料結構與演算法|Q4|3-2 Queue;10-1 Array, Stack, Queue, Circular Queue
+m_4b799b80ae730952|102|交大|資料結構與演算法|Q6|8-2~8-3 Hashing;11-2 Hash Tables, Load Factor;9-6 AVL Tree;6-5 Priority Queues
+ea409196a0|100|台大|資料結構與演算法|Q3|7-3 Sort: Quick, Merge, Heap;4-3 Substitution Method;8-1 Lower Bounds for Sorting;7-2 Performance of Quicksort;1-9 Guess Method
+m_e4088cfa4773bb83|101|交大|資料結構與演算法|Q57|23-2 Floyd Warshall;22-1 Bellman-Ford;6-5 Shortest Path, Transitive Closure;34-3 Reduction;34-3 NP-hard, NP-complete, CIRCUIT-SAT;34-5 Clique, Vertex-Cover, Hamiltonian-Cycle, TSP, Subset-Sum
+864f10bacd|103|清大|基礎計算機科學|Q10|5-13 Number of Binary Trees using N vertices
+m_60488fe5ca3c466f|105|交大|資料結構與演算法|Q51|6-4 Spanning Tree, MST;21-2 Kruskal, Prim
+m_2912c3b9dd403597|105|交大|資料結構與演算法|Q13|9-10 RB Tree;13-1~13-4 Red-Black Tree
+m_d0a6ab1e6dc1e92f|100|交大|資料結構與演算法|Q33|6-4 Spanning Tree, MST;21-2 Kruskal, Prim
+m_64905fb23c613cd6|102|交大|資料結構與演算法|Q9|7-3 Sort: Quick, Merge, Heap;7-1 Quicksort;7-2 Performance of Quicksort
+m_6778b6aa4cb66d9a|101|交大|資料結構與演算法|Q48|6-4 Spanning Tree, MST;6-5 Shortest Path, Transitive Closure;21-2 Kruskal, Prim
+m_b2ad6d498a2460a9|105|交大|資料結構與演算法|Q21|9-12 Leftist Tree
+m_9cdde3387ebdccf3|101|交大|資料結構與演算法|Q23|8-4 Linear/Quadratic Probing, Rehashing, Chain,;8-2~8-3 Hashing;11-4 Linear/Quadratic Probing, Double Hashing, Uniform Hashing
+m_c0a7a3f1aec74a5a|105|交大|資料結構與演算法|Q46|22-2 Single-Source Shortest Path in DAGs;22-1 Bellman-Ford;23-2 Floyd Warshall;22-3 Dijkstra, Dijkstra with Fibonacci Heap;6-5 Shortest Path, Transitive Closure
+m_b5a2213e6b231f3a|100|交大|資料結構與演算法|Q34|6-4 Spanning Tree, MST;21-2 Kruskal, Prim
+m_61e8e04a6e410959|101|交大|資料結構與演算法|Q46|15-2 最佳子結構、Greedy-choice Property, Exchange Argument;14-3 最佳子結構、重複子問題, Memoization, Tabulation;23-2 Floyd Warshall;6-5 Shortest Path, Transitive Closure;6-4 Spanning Tree, MST;21-2 Kruskal, Prim
+85fd039f25|100|清大|基礎計算機科學|Q7|10-1 Array, Stack, Queue, Circular Queue;3-2 Queue;4-5 Doubly Linked List;10-2 Singly/Doubly/Circular Linked List, Sentinel

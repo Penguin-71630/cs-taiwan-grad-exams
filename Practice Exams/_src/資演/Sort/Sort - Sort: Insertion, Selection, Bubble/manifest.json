@@ -1,0 +1,73 @@
+{
+ "unit_key": "7-2 Sort: Insertion, Selection, Bubble",
+ "subject": "資料結構",
+ "group": "資演",
+ "chapter": "Sort",
+ "topic": "Sort: Insertion, Selection, Bubble",
+ "questions": [
+  {
+   "id": "m_ea67164fab5befb2",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q23",
+   "url": "https://img.ptsfu.org/m_ea67164fab5befb2.webp"
+  },
+  {
+   "id": "m_78a9fc750ab7138f",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q28",
+   "url": "https://img.ptsfu.org/m_78a9fc750ab7138f.webp"
+  },
+  {
+   "id": "9aa36235b5",
+   "year": 105,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/9aa36235b5.webp"
+  },
+  {
+   "id": "m_2761e516cc36dd1a",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q23",
+   "url": "https://img.ptsfu.org/m_2761e516cc36dd1a.webp"
+  },
+  {
+   "id": "7d57994334",
+   "year": 103,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/7d57994334.webp"
+  },
+  {
+   "id": "m_c286c7ea1d29b1b9",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q29",
+   "url": "https://img.ptsfu.org/m_c286c7ea1d29b1b9.webp"
+  },
+  {
+   "id": "m_ac1b389d2ee68b76",
+   "year": 100,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q27",
+   "url": "https://img.ptsfu.org/m_ac1b389d2ee68b76.webp"
+  },
+  {
+   "id": "m_e9ce9203dce2f6b1",
+   "year": 101,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q31",
+   "url": "https://img.ptsfu.org/m_e9ce9203dce2f6b1.webp"
+  }
+ ]
+}
