@@ -16,16 +16,29 @@ REPO = ROOT.parent
 QDIR = ROOT / "_src" / "_q"
 BRANCH = "claude/cloud-credit-test-dhu8yn"
 TRAILER = ("\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>\n"
-           "Claude-Session: https://claude.ai/code/session_01SnDy9j9kHdRMiHxdZ7c83s")
+           "Claude-Session: https://claude.ai/code/session_01SnDy9jwVswXgqQ8rPG5D2k")
 
 
 def git(*a, check=True):
     return subprocess.run(["git", "-C", str(REPO), *a], capture_output=True, text=True, check=check)
 
 
+def last_commit(p):
+    out = git("log", "-1", "--format=%ct", "--", str(p), check=False).stdout.strip()
+    return int(out) if out else None
+
+
+def stale(pdf, inputs):
+    """Git-based, so a fresh clone (where every file has the same mtime) rebuilds nothing.
+    Stale when an input has uncommitted changes or was committed after the PDF."""
+    if git("status", "--porcelain", "--", str(pdf), *map(str, inputs), check=False).stdout.strip():
+        return True
+    built = last_commit(pdf)
+    return built is None or any((last_commit(i) or 0) > built for i in inputs)
+
+
 def main():
     built, failed = [], []
-    tools_mtime = (ROOT / "_tools" / "build.py").stat().st_mtime
     for man_path in sorted(p for p in (ROOT / "_src").glob("*/*/*/manifest.json") if not p.parts[-4].startswith("_")):
         src = man_path.parent
         man = json.loads(man_path.read_text())
@@ -34,8 +47,7 @@ def main():
             continue
         rel = src.relative_to(ROOT / "_src")
         pdf = ROOT / rel.parent / f"{src.name}.pdf"
-        newest = max([man_path.stat().st_mtime, tools_mtime] + [m.stat().st_mtime for m in mds])
-        if pdf.exists() and pdf.stat().st_mtime >= newest:
+        if pdf.exists() and not stale(pdf, [man_path, ROOT / "_tools" / "build.py", *mds]):
             continue
         try:
             n = build(src, pdf)
