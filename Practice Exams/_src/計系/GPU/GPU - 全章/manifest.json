@@ -1,0 +1,153 @@
+{
+ "group": "計系",
+ "chapter": "GPU",
+ "topic": "全章",
+ "subject": "計算機組織",
+ "unit_key": "DNN Accelerators, Google TPU",
+ "sections": [
+  {
+   "topic": "DNN Accelerators, Google TPU",
+   "unit_key": "DNN Accelerators, Google TPU",
+   "ids": [
+    "1497ccc6f2",
+    "m_4ad6808ea1d03e97"
+   ]
+  },
+  {
+   "topic": "GPU System Architectures",
+   "unit_key": "GPU System Architectures",
+   "ids": [
+    "m_ee22df88ef4c380d",
+    "m_8d056f899b0f5258",
+    "e199432f21",
+    "m_1d0c7004007a2987"
+   ]
+  },
+  {
+   "topic": "Intro to GPU",
+   "unit_key": "Intro to GPU",
+   "ids": [
+    "m_ee22df88ef4c380d",
+    "m_01f88d5323ea6db9",
+    "m_8d056f899b0f5258",
+    "m_f20f4aba26f94796",
+    "m_4ad6808ea1d03e97",
+    "011e62cf0f"
+   ]
+  },
+  {
+   "topic": "Mapping Applications to GPUs",
+   "unit_key": "Mapping Applications to GPUs",
+   "ids": [
+    "m_01f88d5323ea6db9",
+    "m_f20f4aba26f94796",
+    "m_4ad6808ea1d03e97"
+   ]
+  },
+  {
+   "topic": "SIMD, Vector Processors (GPU's Predecessor)",
+   "unit_key": "SIMD, Vector Processors (GPU's Predecessor)",
+   "ids": [
+    "m_268ad3df7ee6bb1b",
+    "cd21a936c0"
+   ]
+  },
+  {
+   "topic": "SIMT, Warp, Warp Scheduler, Warp Divergence",
+   "unit_key": "SIMT, Warp, Warp Scheduler, Warp Divergence",
+   "ids": [
+    "cd21a936c0"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "1497ccc6f2",
+   "year": 107,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/1497ccc6f2.webp"
+  },
+  {
+   "id": "m_4ad6808ea1d03e97",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_4ad6808ea1d03e97.webp"
+  },
+  {
+   "id": "m_ee22df88ef4c380d",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_ee22df88ef4c380d.webp"
+  },
+  {
+   "id": "m_8d056f899b0f5258",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_8d056f899b0f5258.webp"
+  },
+  {
+   "id": "e199432f21",
+   "year": 103,
+   "school": "清大",
+   "paper": "計算機系統",
+   "qnum": "Q15",
+   "url": "https://img.ptsfu.org/e199432f21.webp"
+  },
+  {
+   "id": "m_1d0c7004007a2987",
+   "year": 107,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_1d0c7004007a2987.webp"
+  },
+  {
+   "id": "m_01f88d5323ea6db9",
+   "year": 107,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_01f88d5323ea6db9.webp"
+  },
+  {
+   "id": "m_f20f4aba26f94796",
+   "year": 105,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_f20f4aba26f94796.webp"
+  },
+  {
+   "id": "011e62cf0f",
+   "year": 101,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "II-Q1",
+   "url": "https://img.ptsfu.org/011e62cf0f.webp"
+  },
+  {
+   "id": "m_268ad3df7ee6bb1b",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_268ad3df7ee6bb1b.webp"
+  },
+  {
+   "id": "cd21a936c0",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/cd21a936c0.webp"
+  }
+ ]
+}
