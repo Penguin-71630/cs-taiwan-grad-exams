@@ -1,0 +1,125 @@
+{
+ "group": "數學",
+ "chapter": "Matrix",
+ "topic": "其他主題",
+ "subject": "線性代數",
+ "unit_key": "1-1 Matrix, Associative, Distributive, No Commutative",
+ "sections": [
+  {
+   "topic": "Matrix, Associative, Distributive, No Commutative",
+   "unit_key": "1-1 Matrix, Associative, Distributive, No Commutative",
+   "ids": [
+    "m_ea4be84c937f9b01",
+    "m_52f8c5ecd45151d1",
+    "m_846f20ccf1fda675",
+    "m_d95217c33620062a"
+   ]
+  },
+  {
+   "topic": "Transpose, Conjugate Transpose and their properties",
+   "unit_key": "1-1 Transpose, Conjugate Transpose and their properties",
+   "ids": [
+    "m_abd537e59546f7ca"
+   ]
+  },
+  {
+   "topic": "方陣多項式",
+   "unit_key": "1-1 方陣多項式",
+   "ids": [
+    "e1e2bfead9",
+    "dm03_ca6fde6b86b2bee4",
+    "m_1841e4b34949a0eb"
+   ]
+  },
+  {
+   "topic": "Row／Column Operations",
+   "unit_key": "1-2 Row/Column Operations",
+   "ids": [
+    "m_00e7a96f657fdab4",
+    "dm03_37782d33234a9e8c"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_ea4be84c937f9b01",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_ea4be84c937f9b01.webp"
+  },
+  {
+   "id": "m_52f8c5ecd45151d1",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_52f8c5ecd45151d1.webp"
+  },
+  {
+   "id": "m_846f20ccf1fda675",
+   "year": 101,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_846f20ccf1fda675.webp"
+  },
+  {
+   "id": "m_d95217c33620062a",
+   "year": 100,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_d95217c33620062a.webp"
+  },
+  {
+   "id": "m_abd537e59546f7ca",
+   "year": 106,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/m_abd537e59546f7ca.webp"
+  },
+  {
+   "id": "e1e2bfead9",
+   "year": 103,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/e1e2bfead9.webp"
+  },
+  {
+   "id": "dm03_ca6fde6b86b2bee4",
+   "year": 105,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q7",
+   "url": "https://img.ptsfu.org/dm03_ca6fde6b86b2bee4.webp"
+  },
+  {
+   "id": "m_1841e4b34949a0eb",
+   "year": 107,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q6",
+   "url": "https://img.ptsfu.org/m_1841e4b34949a0eb.webp"
+  },
+  {
+   "id": "m_00e7a96f657fdab4",
+   "year": 107,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/m_00e7a96f657fdab4.webp"
+  },
+  {
+   "id": "dm03_37782d33234a9e8c",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/dm03_37782d33234a9e8c.webp"
+  }
+ ]
+}
