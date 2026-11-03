@@ -1,0 +1,175 @@
+{
+ "group": "數學",
+ "chapter": "Number Theory",
+ "topic": "全章",
+ "subject": "離散數學",
+ "unit_key": "4-2 CRT",
+ "sections": [
+  {
+   "topic": "CRT",
+   "unit_key": "4-2 CRT",
+   "ids": [
+    "m_516adbc2bc905687",
+    "m_6c33cea11f7e3c66",
+    "dm03_d0c80a8a79581c02"
+   ]
+  },
+  {
+   "topic": "Congruence, 模逆元",
+   "unit_key": "4-2 Congruence, 模逆元",
+   "ids": [
+    "m_516adbc2bc905687",
+    "m_f7d162837f9339f4",
+    "m_6c33cea11f7e3c66",
+    "dm03_d0c80a8a79581c02",
+    "10732488a4"
+   ]
+  },
+  {
+   "topic": "Divisibility, GCD, LCM",
+   "unit_key": "4-2 Divisibility, GCD, LCM",
+   "ids": [
+    "dm03_c41f1f30f4cfb390",
+    "m_c84749bbf16c1892",
+    "m_f7d162837f9339f4",
+    "2d607c729a",
+    "ceaefa546f"
+   ]
+  },
+  {
+   "topic": "Euler Theorem, Fermat's Little Theorem",
+   "unit_key": "4-2 Euler Theorem, Fermat's Little Theorem",
+   "ids": [
+    "m_516adbc2bc905687",
+    "m_6c33cea11f7e3c66"
+   ]
+  },
+  {
+   "topic": "RSA Encryption",
+   "unit_key": "4-2 RSA Encryption",
+   "ids": [
+    "m_2c895b9c3605d925"
+   ]
+  },
+  {
+   "topic": "Number of Primes ≈ n／ln n, Prime Gap",
+   "unit_key": "4-3 Number of Primes ≈ n/ln n, Prime Gap",
+   "ids": [
+    "dm03_167a8c658f92bb7b"
+   ]
+  },
+  {
+   "topic": "Prime Factorization, Perfect Powers",
+   "unit_key": "4-3 Prime Factorization, Perfect Powers",
+   "ids": [
+    "m_6ca7d59f0c329aa1"
+   ]
+  },
+  {
+   "topic": "Prime, Eratosthenes Seive",
+   "unit_key": "4-3 Prime, Eratosthenes Seive",
+   "ids": [
+    "m_6ca7d59f0c329aa1",
+    "dm03_d0c80a8a79581c02"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_516adbc2bc905687",
+   "year": 104,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_516adbc2bc905687.webp"
+  },
+  {
+   "id": "m_6c33cea11f7e3c66",
+   "year": 105,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q10",
+   "url": "https://img.ptsfu.org/m_6c33cea11f7e3c66.webp"
+  },
+  {
+   "id": "dm03_d0c80a8a79581c02",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/dm03_d0c80a8a79581c02.webp"
+  },
+  {
+   "id": "m_f7d162837f9339f4",
+   "year": 107,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_f7d162837f9339f4.webp"
+  },
+  {
+   "id": "10732488a4",
+   "year": 103,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/10732488a4.webp"
+  },
+  {
+   "id": "dm03_c41f1f30f4cfb390",
+   "year": 102,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q12",
+   "url": "https://img.ptsfu.org/dm03_c41f1f30f4cfb390.webp"
+  },
+  {
+   "id": "m_c84749bbf16c1892",
+   "year": 106,
+   "school": "台大",
+   "paper": "數學",
+   "qnum": "Q9",
+   "url": "https://img.ptsfu.org/m_c84749bbf16c1892.webp"
+  },
+  {
+   "id": "2d607c729a",
+   "year": 104,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/2d607c729a.webp"
+  },
+  {
+   "id": "ceaefa546f",
+   "year": 103,
+   "school": "清大",
+   "paper": "基礎計算機科學",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/ceaefa546f.webp"
+  },
+  {
+   "id": "m_2c895b9c3605d925",
+   "year": 101,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_2c895b9c3605d925.webp"
+  },
+  {
+   "id": "dm03_167a8c658f92bb7b",
+   "year": 106,
+   "school": "交大",
+   "paper": "數學",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/dm03_167a8c658f92bb7b.webp"
+  },
+  {
+   "id": "m_6ca7d59f0c329aa1",
+   "year": 103,
+   "school": "交大",
+   "paper": "離散數學與線性代數",
+   "qnum": "Q9(d)",
+   "url": "https://img.ptsfu.org/m_6ca7d59f0c329aa1.webp"
+  }
+ ]
+}
