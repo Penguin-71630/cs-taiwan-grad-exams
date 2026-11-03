@@ -1,0 +1,107 @@
+{
+ "group": "計系",
+ "chapter": "Process",
+ "topic": "其他主題",
+ "subject": "作業系統",
+ "unit_key": "3-4 IPC",
+ "sections": [
+  {
+   "topic": "IPC",
+   "unit_key": "3-4 IPC",
+   "ids": [
+    "m_435ff648b55718e3",
+    "m_d7c4cf012de08413",
+    "m_89f65e6448b75627"
+   ]
+  },
+  {
+   "topic": "IPC (Shared-Memory Systems, Similar to OpenMP)",
+   "unit_key": "3-5 IPC (Shared-Memory Systems, Similar to OpenMP)",
+   "ids": [
+    "m_d7c4cf012de08413",
+    "m_89f65e6448b75627"
+   ]
+  },
+  {
+   "topic": "IPC (Message-Passing Systems, Similar to MPI)",
+   "unit_key": "3-6 IPC (Message-Passing Systems, Similar to MPI)",
+   "ids": [
+    "m_d7c4cf012de08413",
+    "m_5b6e97ba64f4fa2b"
+   ]
+  },
+  {
+   "topic": "IPC Examples",
+   "unit_key": "3-7 IPC Examples",
+   "ids": [
+    "m_9c220e6604903c23"
+   ]
+  },
+  {
+   "topic": "Client-Server, Sockets, RPC",
+   "unit_key": "3-8 Client-Server, Sockets, RPC",
+   "ids": [
+    "m_336aa4c4c3bc402d",
+    "m_ba22c283fbd6eaf2"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "m_435ff648b55718e3",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_435ff648b55718e3.webp"
+  },
+  {
+   "id": "m_d7c4cf012de08413",
+   "year": 106,
+   "school": "台大",
+   "paper": "計算機系統",
+   "qnum": "Q11",
+   "url": "https://img.ptsfu.org/m_d7c4cf012de08413.webp"
+  },
+  {
+   "id": "m_89f65e6448b75627",
+   "year": 104,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q2",
+   "url": "https://img.ptsfu.org/m_89f65e6448b75627.webp"
+  },
+  {
+   "id": "m_5b6e97ba64f4fa2b",
+   "year": 100,
+   "school": "交大",
+   "paper": "作業系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_5b6e97ba64f4fa2b.webp"
+  },
+  {
+   "id": "m_9c220e6604903c23",
+   "year": 102,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q13",
+   "url": "https://img.ptsfu.org/m_9c220e6604903c23.webp"
+  },
+  {
+   "id": "m_336aa4c4c3bc402d",
+   "year": 105,
+   "school": "交大",
+   "paper": "計算機系統",
+   "qnum": "Q3",
+   "url": "https://img.ptsfu.org/m_336aa4c4c3bc402d.webp"
+  },
+  {
+   "id": "m_ba22c283fbd6eaf2",
+   "year": 103,
+   "school": "台大",
+   "paper": "計算機結構與作業系統",
+   "qnum": "Q1",
+   "url": "https://img.ptsfu.org/m_ba22c283fbd6eaf2.webp"
+  }
+ ]
+}
