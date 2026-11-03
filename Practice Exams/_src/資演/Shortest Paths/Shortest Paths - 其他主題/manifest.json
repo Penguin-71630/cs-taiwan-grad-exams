@@ -1,0 +1,83 @@
+{
+ "group": "資演",
+ "chapter": "Shortest Paths",
+ "topic": "其他主題",
+ "subject": "演算法",
+ "unit_key": "22-2 Single-Source Shortest Path in DAGs",
+ "sections": [
+  {
+   "topic": "Single-Source Shortest Path in DAGs",
+   "unit_key": "22-2 Single-Source Shortest Path in DAGs",
+   "ids": [
+    "bf64e1ed7c",
+    "m_6b4ea339a09ec92c",
+    "m_4d6a7ed3e48a05fd",
+    "m_c0a7a3f1aec74a5a"
+   ]
+  },
+  {
+   "topic": "差分約束系統",
+   "unit_key": "22-4 差分約束系統",
+   "ids": [
+    "m_7af6e5895ea8b369"
+   ]
+  },
+  {
+   "topic": "Shortest Paths and Matrix Multiplication",
+   "unit_key": "23-1 Shortest Paths and Matrix Multiplication",
+   "ids": [
+    "m_8a376c7ad04cea29"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "bf64e1ed7c",
+   "year": 103,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/bf64e1ed7c.webp"
+  },
+  {
+   "id": "m_6b4ea339a09ec92c",
+   "year": 104,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q17",
+   "url": "https://img.ptsfu.org/m_6b4ea339a09ec92c.webp"
+  },
+  {
+   "id": "m_4d6a7ed3e48a05fd",
+   "year": 106,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q4",
+   "url": "https://img.ptsfu.org/m_4d6a7ed3e48a05fd.webp"
+  },
+  {
+   "id": "m_c0a7a3f1aec74a5a",
+   "year": 105,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q46",
+   "url": "https://img.ptsfu.org/m_c0a7a3f1aec74a5a.webp"
+  },
+  {
+   "id": "m_7af6e5895ea8b369",
+   "year": 102,
+   "school": "交大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q17",
+   "url": "https://img.ptsfu.org/m_7af6e5895ea8b369.webp"
+  },
+  {
+   "id": "m_8a376c7ad04cea29",
+   "year": 105,
+   "school": "台大",
+   "paper": "資料結構與演算法",
+   "qnum": "Q5",
+   "url": "https://img.ptsfu.org/m_8a376c7ad04cea29.webp"
+  }
+ ]
+}
