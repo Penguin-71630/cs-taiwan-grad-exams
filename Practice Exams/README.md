@@ -32,7 +32,7 @@ Practice Exams/
 | 類別 | 科目 | 狀態 |
 |---|---|---|
 | 計系 | 作業系統、計算機組織 | 索引完成；986 個「主題×題目」中已轉錄 885 個（還差 101），完成的主題都已出 PDF |
-| 資演 | 資料結構、演算法 | 只做了試跑的 Master Method。`units-資料結構.tsv` 已完成（105 個單元）；題目索引只抓了前 2 頁共 100 題，存成 `q-資料結構.tsv.partial`（副檔名不是 .tsv，所以 plan.py 不會讀它）。演算法索引還沒建 |
+| 資演 | 資料結構、演算法 | 只做了試跑的 Master Method。`units-資料結構.tsv` 已完成（105 個單元）；題目索引只抓了前 3 頁共 150 題，存成 `q-資料結構.tsv.partial`（副檔名不是 .tsv，所以 plan.py 不會讀它）。演算法索引還沒建 |
 | 數學 | 離散數學、線性代數 | 只做了試跑的 Cayley-Hamilton；索引還沒建 |
 | 英文 | 其他（只有台大） | 還沒開始 |
 
@@ -53,7 +53,7 @@ Noto Serif TC。New Computer Modern 是 typst 內建的。
 2. `build_practice_set(subject, schools=[台大,交大,清大], years 100–107, count=50, include_manifest=true)`，
    每次把已拿到的 id 放進 `exclude_ids` 重抓，直到回傳數不足 50 為止。
    寫成 `_src/_index/q-<科目>.tsv`，每行 `id|年|校|卷名|題號|單元;單元;…`（單元用 unit_key 去掉「科目§」的部分）。
-   - 接續 `q-資料結構.tsv.partial`：把檔案裡的 100 個 id 放進 `exclude_ids` 繼續抓（不加 include_manifest 也有 year、school、paper_subject、question_number、unit_keys；每頁 50 題約 25k tokens），抓到回傳少於 50 題為止，再改名成 `q-資料結構.tsv`。
+   - 接續 `q-資料結構.tsv.partial`：把檔案裡的 150 個 id 放進 `exclude_ids` 繼續抓（不加 include_manifest 也有 year、school、paper_subject、question_number、unit_keys；每頁 50 題約 25k tokens），抓到回傳少於 50 題為止，再改名成 `q-資料結構.tsv`。
    - unit_keys 會混入其他科目（如演算法）的單元，照存即可；plan.py 只認 units 檔裡有的單元。
 3. `python3 _tools/plan.py write` 產生各主題的 manifest.json（科目→類別的對照在 plan.py 的 `GROUP`）。
 

@@ -98,3 +98,53 @@ m_434489868415d9b3|107|台大|資料結構與演算法|Q12|11-4 Linear/Quadratic
 m_4fb83693509f4bfd|104|交大|資料結構與演算法|Q37|7-1 Quicksort;7-3 Sort: Quick, Merge, Heap
 m_562303a390f634c8|106|交大|資料結構與演算法|Q16|6-5 Shortest Path, Transitive Closure;22-3 Dijkstra, Dijkstra with Fibonacci Heap
 m_8fbb697737cf0a67|101|交大|資料結構與演算法|Q24|8-4 Linear/Quadratic Probing, Rehashing, Chain,;8-2~8-3 Hashing;11-2 Hash Tables, Load Factor
+35fbefc6e8|106|清大|基礎計算機科學|Q1|5-3 Skewed Binary Tree, Full Binary Tree, Complete Binary Tree;5-4 Representations of Binary Tree: Array vs. Linked List;6-1~6-4 Heap;6-5 Priority Queues
+m_0d0c85ef19fd702e|104|交大|資料結構與演算法|Q40|14-5 Optimal BST, Knuth Optimization;9-5 Optimal BST
+m_19042324ab178937|101|交大|資料結構與演算法|Q22|8-4 Linear/Quadratic Probing, Rehashing, Chain,;8-2~8-3 Hashing;11-4 Linear/Quadratic Probing, Double Hashing, Uniform Hashing
+4ffbd5447a|100|清大|基礎計算機科學|Q2|7-3 Sort: Quick, Merge, Heap;7-2 Performance of Quicksort
+m_cfa949413c5cd500|104|交大|資料結構與演算法|Q28|21-1 Cut Property;6-4 Spanning Tree, MST
+m_4e21e97fc7bd3df4|102|交大|資料結構與演算法|Q13|22-3 Dijkstra, Dijkstra with Fibonacci Heap;22-1 Bellman-Ford;6-5 Shortest Path, Transitive Closure
+m_c65c5e5ae764d107|100|交大|資料結構與演算法|Q19|6-2 Graph Traversal: DFS, BFS;20-3 DFS, White-Path, Tree/Back/Forward/Crossing Edge, BCC
+f6fc49f7a5|105|台大|資料結構與演算法|Q4|9-6 AVL Tree;13-1~13-4 Red-Black Tree;9-10 RB Tree;12-1~12-3 BST;5-13 Number of Binary Trees using N vertices
+m_0c9f5bb6bf8f3362|106|交大|資料結構與演算法|Q7|9-6 AVL Tree;9-10 RB Tree;13-1~13-4 Red-Black Tree
+m_a6f7c23cc820659b|103|交大|資料結構與演算法|Q3|9-6 AVL Tree
+m_00af7882d4ee9b5d|106|交大|資料結構與演算法|Q2|3-3 Prefix, Infix, Postfix
+m_cc10b7a740e637af|101|交大|資料結構與演算法|Q19|9-11 B Tree;18-1 B-tree Definition
+m_db8e83199bca1894|101|交大|資料結構與演算法|Q1|5-5 Traversal: Preorder, Inorder, Postorder
+m_c8f12432c7f9f6a0|105|交大|資料結構與演算法|Q14|9-10 RB Tree;13-1~13-4 Red-Black Tree
+m_f271a92553699434|100|交大|資料結構與演算法|Q41|22-1 Bellman-Ford;6-5 Shortest Path, Transitive Closure
+bf64e1ed7c|103|台大|資料結構與演算法|Q4|6-5 Shortest Path, Transitive Closure;22-2 Single-Source Shortest Path in DAGs;14-3 最佳子結構、重複子問題, Memoization, Tabulation;20-4 Topological Sort;6-6 Topological Sort
+m_67f1ea47471ea6a4|105|交大|資料結構與演算法|Q36|4-5 Master Theorem;1-7 Master Method
+518dceacb1|103|清大|基礎計算機科學|Q8|8-2~8-3 Hashing;11-2 Hash Tables, Load Factor
+m_e3bcab3d5d4de762|107|清大|基礎計算機科學|Q6|6-1 Graph Representations
+m_70af92703995a9f8|100|交大|資料結構與演算法|Q4|3-1 Stack;1-6 Time Complexity 題型
+5d21c3c18d|106|清大|基礎計算機科學|Q6|7-3 Sort: Quick, Merge, Heap;8-4 Bucket Sort
+m_5a6ab202eaccfd0b|102|交大|資料結構與演算法|Q10|6-2 Graph Traversal: DFS, BFS;6-3 Check if Graph is Connected;6-1 Graph Representations;20-3 DFS, White-Path, Tree/Back/Forward/Crossing Edge, BCC;20-1 Adjacency List, Adjacency Matrix
+m_287ad093f42452a5|107|交大|資料結構與演算法|Q1|6-4 Spanning Tree, MST;21-2 Kruskal, Prim
+m_dc8c71bc4a704a54|106|交大|資料結構與演算法|Q8|9-11 B Tree;18-1 B-tree Definition;18-2 B-tree Operations
+m_a9fc7672ce075610|100|台大|資料結構與演算法|Q4|9-5 Optimal BST;14-5 Optimal BST, Knuth Optimization
+m_0ec4e8217d2041da|101|交大|資料結構與演算法|Q15|4-1~4-2 Linked List;10-2 Singly/Doubly/Circular Linked List, Sentinel;1-6 Time Complexity 題型
+363acb5ead|104|清大|基礎計算機科學|Q7|2-5 Upper Triangular Matrix, Lower Triangular Matrix
+m_2b061480b0eee0c0|106|交大|資料結構與演算法|Q5|5-12 Binary Tree Uniqueness (using Preorder, Inorder, Postorder trails);5-5 Traversal: Preorder, Inorder, Postorder
+cf13855684|102|清大|基礎計算機科學|Q4|13-1~13-4 Red-Black Tree;9-10 RB Tree;8-2~8-3 Hashing;11-2 Hash Tables, Load Factor;5-13 Number of Binary Trees using N vertices;12-1~12-3 BST;20-3 DFS, White-Path, Tree/Back/Forward/Crossing Edge, BCC
+m_7b6a351dcf0aced6|104|交大|資料結構與演算法|Q31|14-3 最佳子結構、重複子問題, Memoization, Tabulation;23-2 Floyd Warshall;6-5 Shortest Path, Transitive Closure
+9f21ac5b4d|102|台大|資料結構與演算法|Q5|19-3 DSU Optimizations: Union by Rank, Path Compression;19-1 DSU Operations;5-11 Representing Sets Using Trees
+m_d1b7c4dca85cff54|101|交大|資料結構與演算法|Q2|5-6 Binary Tree: Copy, Check Identical, Sorting;5-5 Traversal: Preorder, Inorder, Postorder
+m_6ea4fba88f9ab7d8|105|交大|資料結構與演算法|Q4|3-3 Prefix, Infix, Postfix;3-1 Stack
+m_35e7c9c278c5858e|105|交大|資料結構與演算法|Q2|5-12 Binary Tree Uniqueness (using Preorder, Inorder, Postorder trails);5-5 Traversal: Preorder, Inorder, Postorder
+m_34e90b1e81a93d14|104|台大|資料結構與演算法|Q4|7-3 Sort: Quick, Merge, Heap;7-1 Quicksort;7-2 Performance of Quicksort
+m_3ac432af33b2082e|100|交大|資料結構與演算法|Q50|6-4 Spanning Tree, MST;Borůvka, Sollin
+m_9ae8296472b66e92|100|交大|資料結構與演算法|Q52|6-4 Spanning Tree, MST;Borůvka, Sollin
+m_e3c656b3e76bbe2d|100|交大|資料結構與演算法|Q37|23-2 Floyd Warshall;6-5 Shortest Path, Transitive Closure
+m_01aec4995108c2b9|101|交大|資料結構與演算法|Q56|34-3 Reduction;34-3 NP-hard, NP-complete, CIRCUIT-SAT;34-5 Clique, Vertex-Cover, Hamiltonian-Cycle, TSP, Subset-Sum;21-2 Kruskal, Prim;6-4 Spanning Tree, MST
+m_c01cae8e74279a73|104|台大|資料結構與演算法|Q3|3-1 Stack;3-3 Prefix, Infix, Postfix
+m_6b4ea339a09ec92c|104|交大|資料結構與演算法|Q17|6-6 Topological Sort;22-2 Single-Source Shortest Path in DAGs
+42d8af50b3|103|清大|基礎計算機科學|Q5|4-3 Linked Stack, Linked Queue;4-5 Doubly Linked List;4-1~4-2 Linked List;5-2 Binary Tree;6-1~6-4 Heap;8-2~8-3 Hashing;9-11 B Tree;資料結構§1-2 Indexing, File Organization, Query Performance
+m_a537272bcae375c0|105|交大|資料結構與演算法|Q30|3-1 Stack;3-2 Queue;10-1 Array, Stack, Queue, Circular Queue;16-1 Aggregate Analysis
+m_6b751e0439cc12a4|104|交大|資料結構與演算法|Q20|6-4 Spanning Tree, MST;21-2 Kruskal, Prim
+m_8a376c7ad04cea29|105|台大|資料結構與演算法|Q5|22-1 Bellman-Ford;23-1 Shortest Paths and Matrix Multiplication;6-5 Shortest Path, Transitive Closure;21-2 Kruskal, Prim;6-4 Spanning Tree, MST
+m_9550009bf9f129ca|100|交大|資料結構與演算法|Q6|3-1 Stack;6-2 Graph Traversal: DFS, BFS
+m_410775674566eb95|100|交大|資料結構與演算法|Q51|6-4 Spanning Tree, MST;Borůvka, Sollin
+m_4e4ebb7bbb4cdc7d|105|交大|資料結構與演算法|Q26|5-11 Representing Sets Using Trees;19-1 DSU Operations;19-3 DSU Optimizations: Union by Rank, Path Compression
+m_2aae92a258794bce|103|交大|資料結構與演算法|Q5|1-6 Time Complexity 題型;3-1~3-3 Time Complexity: O, Ω, Θ, o, ω
+m_fb38df4d026451eb|105|交大|資料結構與演算法|Q50|21-2 Kruskal, Prim;19-1 DSU Operations;6-4 Spanning Tree, MST;5-11 Representing Sets Using Trees
