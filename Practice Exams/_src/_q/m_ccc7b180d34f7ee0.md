@@ -1,5 +1,3 @@
-全部單選，答案只有一個。每題答對給 2.5 分，答錯倒扣 1 分。
-
 10\. For a doubly-linked list class, each of its nodes has two links `left` and `right` to its two neighboring nodes. Assume that we want to implement a member function `ShiftRight`, which takes an input `x`, a pointer to a node, and swaps that node with the node to its right. Let us further assume that neither `x` nor the node to its right is the first or the last node of the list. There are six pointers to be set, and the statements, labeled `s1` to `s6`, are listed in the box below. Which of the following ordering of these statements will produce the correct behavior?
 
 ```

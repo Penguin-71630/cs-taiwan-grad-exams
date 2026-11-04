@@ -1,5 +1,3 @@
-注意：每大題有三小題，每小題必須全對該大題才給分，每大題五分。
-
 6\. This question is about Array:
 
 (18) C string is implemented using array. Given two string *pat* and *text*, string matching is to determine whether there is a matching of *pat* in *text*. Let the length of *pat* and *text* be respectively $m$ and $n$. Which of the following statement(s) is(are) true?

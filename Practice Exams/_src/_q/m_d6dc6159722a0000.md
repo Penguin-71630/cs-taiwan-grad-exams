@@ -1,7 +1,5 @@
 I\. Architecture [50 %]
 
-關於【計算機結構】的第一部分為是非題或選擇題，[請利用答案紙上的**第一頁**，按照**題號順序**，標明題號，用**一行回答一題**。提供您的最終答案即可，請勿寫上計算過程]{.underline}。
-
 第一部分：回答這部分的問題之前，請先閱讀以下這摘錄自科技網站上的文章片段：
 
 **Intel pitches ARM alternative to data centers---including Facebook's**\

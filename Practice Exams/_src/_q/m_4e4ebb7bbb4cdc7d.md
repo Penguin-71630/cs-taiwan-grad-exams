@@ -1,5 +1,3 @@
-注意：每大題有三小題，每小題必須全對該大題才給分，每大題五分。　請使用答案卡作答
-
 9\. Consider an undirected graph $G$=($V$,$E$), an edge is a relation over the vertices; the relation is reflexive, symmetric, and transitive. Computing the connected components in the $G$ is the same as to compute the equivalence classes of the vertices, $V$. Let the number of vertices be $n$ and the number of edges be $m$.
 
 (26) Union/Find implements set operations by using forest. A set is a rooted tree where the root presents the set. Recall that there are $n$ vertices and $m$ edges. About computing the equivalence classes, which of the statement(s) is (are) true.

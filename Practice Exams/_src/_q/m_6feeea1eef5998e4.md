@@ -1,5 +1,3 @@
-複選題：該題全部答對得 4 分，只錯一個答案可得 2 分，錯兩個或兩個以上答案不給分，整題未作答不給分
-
 15\. Which of the following statements are *correct*?
 
 (a). RAID (redundant array of inexpensive/independent disks) not only enhances the reliability/availability of data storage, but also boosts the performance of data access.\

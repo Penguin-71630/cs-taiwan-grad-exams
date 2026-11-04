@@ -1,5 +1,3 @@
-注意：每大題有三小題，每小題必須全對該大題才給分，每大題五分。　請使用答案卡作答
-
 14\. Calculate the minimum number of multiplications necessary to find the matrix product ABCDE. The dimensions of each of the matrices are listed below:
 
 | Matrix | Dimensions |

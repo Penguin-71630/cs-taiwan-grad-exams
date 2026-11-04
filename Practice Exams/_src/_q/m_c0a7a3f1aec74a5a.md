@@ -1,5 +1,3 @@
-注意：每大題有三小題，每小題必須全對該大題才給分，每大題五分。　請使用答案卡作答
-
 16\. This question is about the shortest path problem.
 
 (46) Which of the following statements is wrong?\

@@ -1,5 +1,3 @@
-注意：每大題的小題必需全對該大題才給分。每大題5分。請使用答案卡作答
-
 1\. Suppose that we use *struct node* to represent binary trees, and use function *unknown* to process a binary tree.
 
 ```

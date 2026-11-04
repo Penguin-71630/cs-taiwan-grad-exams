@@ -1,7 +1,3 @@
-2\. 如有運算需要，**請詳細列出完整過程**，否則不予計分。
-
-**Section I** (40%, 10 Problems) Multiple choices— Choose all **right statements**. Each problem has four points. The score of each problem is (# of correct choices – # of wrong choices). The minimum score of each problem is 0 point.
-
 1\. Consider a computer running a program with CPU times shown in the following table:
 
 | FP instructions | INT instructions | L/S instructions | Branch instructions |

@@ -1,5 +1,3 @@
-No partial credits will be given for question 6 \~ question 10. You either answer all the sub-questions correctly and get full credits or get 0 credits for the whole question.
-
 7\. (5%)　Figure 4 shows the two tree rotation operations commonly used for balancing binary search trees.
 
 <!-- fig 0.22 0.195 0.77 0.395 -->

@@ -1,5 +1,3 @@
-複選題，每題五分。該題答對一個選項得 1 分，答錯一個選項倒扣 1 分，該題分數扣完為止，整題未作答不給分。
-
 6\. Consider $\mathbf{A} = \begin{bmatrix} 1 & 3 & 2 & 12 & 4 \\ -3 & -9 & 6 & 24 & 7 \\ 2 & 6 & 3 & 19 & 1 \end{bmatrix}$, $\mathbf{B} = \begin{bmatrix} 4 & 2 & 12 & 3 & 1 \\ 7 & 6 & 24 & -9 & -3 \\ 1 & 3 & 19 & 6 & 2 \end{bmatrix}$. Each is obtained from the other by rearranging columns. Which statement is correct?
 
 (A) $\mathrm{Ker}(\mathbf{A}) = \mathrm{Ker}(\mathbf{B})$.\

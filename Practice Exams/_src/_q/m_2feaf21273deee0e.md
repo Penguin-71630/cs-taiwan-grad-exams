@@ -1,5 +1,3 @@
-注意：每大題的小題必需全對該大題才給分。每大題5分。請使用答案卡作答
-
 5\. An *NCTU linked list* with order *m* is a variation of the linked list satisfying the following constraints:
 
 - Each node is able to store at most *m* integers.

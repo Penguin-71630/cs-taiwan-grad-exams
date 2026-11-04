@@ -1,5 +1,3 @@
-一、單一選擇題，共八題，每一題答對給 5 分，未答得 0 分，答錯倒扣 2 分。
-
 2\. The following code fragments describe a solution of the bounded-buffer problem. The three variables S1, S2, and S3 are all semaphores. Suppose that the buffer initially has 10 empty slots. What are the correct initial values of the semaphores?
 
 ```c

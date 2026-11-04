@@ -1,5 +1,3 @@
-複選題，共 13 題，每題全對得 4 分，只答錯一個選項得 2 分，答錯兩個以上選項、或未答得 0 分。
-
 15\. Which of the following statements are *correct*?
 
 (a) Absolute code can be generated if we know where the process will reside in memory at compile time.\

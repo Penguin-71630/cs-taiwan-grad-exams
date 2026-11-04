@@ -32,7 +32,8 @@ possible. Fix the coordinates and re-run until every crop is right.
 - Transcribe exactly what is printed: the same wording, numbering, point values, and language (Chinese stays
   Chinese, English stays English). Keep typos as printed. For an obvious misprint, add a line `> 註：…` after the question.
 - Do not transcribe repeated page headers/footers such as 「【不可使用計算機】」, page numbers, or exam-paper titles.
-  DO keep answering rules that belong to the question or its section (單選／複選／倒扣、「請詳細列出完整過程」), placed at the start.
+- Do not transcribe exam-wide answering, scoring, or general exam instructions (such as answer-sheet directions, question-type/scoring rules, or general calculation/rounding notes). Keep the question's own point marker and actual problem content.
+- Transcribe shared stems as printed in each question. The build deduplicates matching leading paragraphs within the same exam and adds a reference to the first printed question; repeated options or content in the middle of a question are not deduplicated.
 - If you cannot read something with certainty, write `[?]` in its place (e.g. `x[?]3`, or `[?]` for a whole
   word). Never guess. `[?]` is printed in red so the reader knows to check the original.
 - Start with the question number as printed, escaped so it is not a Markdown list: `13\. [2%] Let …`, `6\. (18 points) …`.

@@ -1,7 +1,3 @@
-2\. 如有運算需要，**請詳細列出完整過程**，否則不予計分。
-
-**Section I** (40%, 10 Problems) Multiple choices— Choose all **right statements**. Each problem has four points. The score of each problem is (# of correct choices – # of wrong choices). The minimum score of each problem is 0 point.
-
 **Problem 6 to 10**: For the rest of the problems in **Section I**, considering the code sequence, the single-cycle CPU, and the pipelined CPU figures below. For the pipelined CPU, **assume that forwarding and stalling mechanisms have been designed**.
 
 ```

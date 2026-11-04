@@ -1,5 +1,3 @@
-注意：每大題的小題必需全對該大題才給分。每大題5分。請使用答案卡作答
-
 14\. Consider the following three problems. Assume that the only operations allowed on the data are
 
 - comparing the values of two floating-point numbers and identifying the larger value;

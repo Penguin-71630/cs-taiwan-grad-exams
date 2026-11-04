@@ -1,5 +1,3 @@
-Question # 10-14: This part consists of true-or-false questions. In each case, please answer true if the statement is always true and false otherwise.
-
 11\. **(5 points)** A *nxn* matrix $\mathbf{A}$ is said to be nonsingular, if
 
 (1) $\mathbf{A}$ is non-invertible.\

@@ -1,5 +1,3 @@
-注意：每大題有三小題，每小題必須全對該大題才給分，每大題五分。
-
 8\. This question is about Sorting:
 
 (23) Implementation of a sorting algorithm, we can always make it "stable" by using some tricks. We assume that the records are stored in an array. If we want to sort the array into non-decreasing order, which of the statement(s) is(are) true?\

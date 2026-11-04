@@ -1,5 +1,3 @@
-複選題：該題全部答對得 4 分，只錯一個答案可得 2 分，錯兩個或兩個以上答案不給分，整題未作答不給分
-
 ARM recently built up a new CPU design center at Hsinchu in Taiwan, the first CPU design center in Asia. You are the principal engineer in a team in charge of developing a brand new CPU, called NCTU (Next-generation Compute Terabit Unit). The following what-if questions refer to some assumptions. The latencies for logic blocks in the figure are listed, while the latency of other blocks is almost negligible:
 
 | Main control | I-mem | Adder | Registers | ALU | Sign-extend | D-mem |

@@ -1,5 +1,3 @@
-二、複選題，共十題，每題全對得 4 分，答錯一個選項得 2 分，答錯兩個以上選項、或未答得 0 分。
-
 11\. Which of the following statements are *correct*?
 
 (a) Deadlock condition refers to the situation where several processes are currently blocked waiting for some resources to be released by some of them.\

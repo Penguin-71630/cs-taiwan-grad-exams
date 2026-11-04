@@ -1,5 +1,3 @@
-單一選擇題，共 12 題，每一題答對給 4 分，未答得 0 分，答錯倒扣 1.5 分。
-
 3\. Which of the following statements is *incorrect*?
 
 (a) The Mac OS X kernel is based on the Mach microkernel.\
