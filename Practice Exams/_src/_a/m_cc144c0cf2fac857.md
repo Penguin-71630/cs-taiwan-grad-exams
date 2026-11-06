@@ -1,3 +1,3 @@
 <!-- src: official -->
 (D)
-> 註：[?] 非 Hamilton 時 tour 長 ≥ n+1+ne > n(1+e/2)，故 B=n(1+e/2) 亦可行，(D) 似非錯；官方意指 B 應取 n
+> 註：Problem I requires integer $B$. For arbitrary positive $e$, $n(1+e/2)$ need not be an integer, so (D) is not generally a legal choice. If real thresholds were allowed, the gap argument would make it valid: a non-Hamiltonian tour has length at least $n+1+ne>n(1+e/2)$. The integer threshold $B=n$ avoids this issue.
