@@ -28,6 +28,10 @@ Practice Exams/
 
 程式碼不加底色，方便列印。
 
+## Obsidian 匯出
+
+`python3 _tools/obsidian.py --out ~/obsidian-out` 匯出計系、資演、數學題庫（不含英文）與裁切圖。
+
 字型：中文一律 Noto Serif TC，程式碼用 DejaVu Sans Mono，數學式用 New Computer Modern Math。
 「Computer Modern」用的是 New Computer Modern，也就是 LaTeX 預設字型 Computer Modern 的 OpenType 版本。
 
