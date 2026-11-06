@@ -64,6 +64,7 @@ def build_answers(title, topics, out):
   footer: context align(center, text(size: 7pt, counter(page).display("1"))))
 #set text(font: {FONTS[group]}, size: 9pt, lang: "zh", region: "tw", top-edge: "ascender", bottom-edge: "descender")
 #set par(justify: false, leading: 0.45em, spacing: 0pt)
+#let ident = sym.equiv
 #show math.equation: set text(font: ("New Computer Modern Math", "Noto Serif TC"))
 #show math.mat: it => math.display(it)
 #show math.cases: it => math.display(it)
