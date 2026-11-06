@@ -43,6 +43,28 @@ def qkey(q):
     return (q["year"], SCHOOL_ORDER.get(q["school"], 9), q["paper"], int(m.group()) if m else 0, q["qnum"])
 
 
+def numbering(manifest):
+    """Return (number, question, section index or None), skipping section repeats."""
+    qs = sorted(manifest["questions"], key=qkey)
+    if "sections" not in manifest:
+        return [(n, q, None) for n, q in enumerate(qs, 1)]
+    by_id = {q["id"]: q for q in qs}
+    printed = set()
+    result = []
+    for index, section in enumerate(manifest["sections"]):
+        section_seen = set()
+        section_qs = []
+        for qid in section["ids"]:
+            if qid in printed or qid in section_seen or qid not in by_id:
+                continue
+            section_seen.add(qid)
+            section_qs.append(by_id[qid])
+        for q in sorted(section_qs, key=qkey):
+            result.append((len(printed) + 1, q, index))
+            printed.add(q["id"])
+    return result
+
+
 def fetch(q):
     orig = CACHE / "orig" / f"{q['id']}.webp"
     if not orig.exists():
@@ -224,10 +246,10 @@ def build(src, out_pdf):
 ]
 """
 
+    numbered = numbering(man)
     if "sections" in man:
-        by_id = {q["id"]: q for q in qs}
         printed = {}
-        for section in man["sections"]:
+        for index, section in enumerate(man["sections"]):
             refs = sorted({printed[qid] for qid in section["ids"] if qid in printed})
             heading = f'#text(size: 12pt, weight: "bold", {tstr(section["topic"])})'
             if refs:
@@ -239,19 +261,13 @@ def build(src, out_pdf):
 #v(0.35em)
 ]
 """)
-            section_qs = []
-            section_seen = set()
-            for qid in section["ids"]:
-                if qid in printed or qid in section_seen or qid not in by_id:
+            for n, q, owner in numbered:
+                if owner != index:
                     continue
-                section_seen.add(qid)
-                section_qs.append(by_id[qid])
-            for q in sorted(section_qs, key=qkey):
-                n = len(printed) + 1
                 body.append(render_question(n, q))
                 printed[q["id"]] = n
     else:
-        for i, q in enumerate(qs, 1):
+        for i, q, _ in numbered:
             body.append(render_question(i, q))
     skew_path.write_text(json.dumps(skew, ensure_ascii=False, indent=1) + "\n")
 
