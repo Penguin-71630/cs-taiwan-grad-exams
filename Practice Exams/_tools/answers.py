@@ -57,12 +57,12 @@ def build_answers(title, topics, out):
             if absent:
                 missing.append(q["id"])
             label = f"第 {n} 題（{q['year']} {q['school']}《{q['paper']}》{q['qnum']}）{mark}"
-            body.append(f'#block(width: 100%, above: 0pt, below: 0pt)[#text(weight: "bold", {tstr(label)}) {answer}\n]')
+            body.append(f'#block(width: 100%, above: 0pt, below: 2pt)[#text(weight: "bold", {tstr(label)}) {answer}\n]')
             count += 1
     doc = f'''#set document(title: {tstr(title + " 解答")})
 #set page(paper: "a4", margin: (x: 1.2cm, y: 1.2cm),
   footer: context align(center, text(size: 7pt, counter(page).display("1"))))
-#set text(font: {FONTS[group]}, size: 9pt, lang: "zh", region: "tw", top-edge: "ascender", bottom-edge: "descender")
+#set text(font: {FONTS[group]}, size: 9pt, lang: "zh", region: "tw", top-edge: "bounds", bottom-edge: "bounds")
 #set par(justify: false, leading: 0.45em, spacing: 0pt)
 #let ident = sym.equiv
 #show math.equation: set text(font: ("New Computer Modern Math", "Noto Serif TC"))
