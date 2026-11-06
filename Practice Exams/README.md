@@ -31,6 +31,8 @@ Practice Exams/
 字型：中文一律 Noto Serif TC，程式碼用 DejaVu Sans Mono，數學式用 New Computer Modern Math。
 「Computer Modern」用的是 New Computer Modern，也就是 LaTeX 預設字型 Computer Modern 的 OpenType 版本。
 
+> 下一階段（解答本）的計畫和交接見 [`ANSWERS.md`](ANSWERS.md)。
+
 ## 交接：目前進度與接手步驟（2026-11-03）
 
 | 類別 | 科目 | 狀態 |
