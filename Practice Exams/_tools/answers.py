@@ -44,6 +44,9 @@ def build_answers(title, topics, out):
     count = 0
     previous_part = None
     for topic in topics:
+        if body:
+            body.append('#pagebreak(weak: true)')
+        body.append('#columns(2, gutter: 0.7cm)[')
         rel = Path(topic["pdf"]).relative_to(PE.name)
         manifest = json.loads((PE / "_src" / rel.with_suffix("") / "manifest.json").read_text())
         part = topic.get("part")
@@ -59,6 +62,7 @@ def build_answers(title, topics, out):
             label = f"第 {n} 題（{q['year']} {q['school']}《{q['paper']}》{q['qnum']}）{mark}"
             body.append(f'#block(width: 100%, above: 0pt, below: 2pt)[#text(weight: "bold", {tstr(label)}) {answer}\n]')
             count += 1
+        body.append(']')
     doc = f'''#set document(title: {tstr(title + " 解答")})
 #set page(paper: "a4", margin: (x: 1.2cm, y: 1.2cm),
   footer: context align(center, text(size: 7pt, counter(page).display("1"))))
@@ -74,9 +78,7 @@ def build_answers(title, topics, out):
 #let horizontalrule = line(length: 100%, stroke: 0.5pt + luma(170))
 #text(size: 12pt, weight: "bold", {tstr(title + " 解答")})
 #v(0.3em)
-#columns(2, gutter: 0.7cm)[
 {chr(10).join(body)}
-]
 '''
     source = out / f"{title} 解答.typ"
     source.write_text(doc, encoding="utf-8")
